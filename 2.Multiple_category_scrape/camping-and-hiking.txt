@@ -1,0 +1,30 @@
+{"Name": "Freeform Zero Gravity Lounger", "Price": "$54.83"}
+{"Name": "The Deuce #3 Heavy Duty Backcountry Trowel", "Price": "$15.93"}
+{"Name": "AlphaLight 2-Piece Cutlery Set - Spork & Knife", "Price": "$10.73"}
+{"Name": "Wide-Mouth Vacuum Water Bottle with Flex Straw Cap - 32 fl. oz.", "Price": " $30.93"}
+{"Name": "Weekender Tent 4", "Price": "$43.73"}
+{"Name": "Ignite 2-Burner Camp Stove", "Price": "$74.93"}
+{"Name": "Radiant 170 Rechargeable Headlamp", "Price": "$16.73"}
+{"Name": "SPRK Camp Stove", "Price": "$29.93"}
+{"Name": "Original Puffy Recycled Blanket", "Price": "$65.83 - $131.83"}
+{"Name": "Grilliput Portable Grill", "Price": "$20.73"}
+{"Name": "1-Person Airbed", "Price": "$34.73"}
+{"Name": "Delta InsulMug", "Price": "$12.73"}
+{"Name": "inReach Mini 2", "Price": "$349.99"}
+{"Name": "Onsight 375 Headlamp", "Price": "$32.73"}
+{"Name": "Skyward 6 Tent", "Price": "$223.83"}
+{"Name": "Basic 511 Knife", "Price": "$8.73"}
+{"Name": "Mini Spork - Package of 3", "Price": "$4.73"}
+{"Name": "Hurricane Match Kit", "Price": "$4.73"}
+{"Name": "Hand Warmers - 1 Pair", "Price": "$0.93"}
+{"Name": "Patchdazzle Gear Repair Kit", "Price": " $4.83"}
+{"Name": "Copper Spur HV UL3 Tent", "Price": "$405.93"}
+{"Name": "inReach Messenger", "Price": "$249.99"}
+{"Name": "Tiger Wall UL 2 Solution-Dyed Tent", "Price": "$314.93"}
+{"Name": "Screen House Shelter", "Price": "$208.93"}
+{"Name": "Paragon 58 Pack - Men's", "Price": "$179.93"}
+{"Name": "Tiger Wall UL 3 Solution-Dyed Tent", "Price": "$349.93"}
+{"Name": "Flip 6 Speaker", "Price": "$99.99"}
+{"Name": "Copper Spur HV UL3 Footprint", "Price": "$62.93"}
+{"Name": "Space Camp 6-Person Tent", "Price": "$259.83"}
+{"Name": "Ignite Plus 2-Burner Camp Stove", "Price": "$95.93"}

@@ -1,0 +1,30 @@
+{"Name": "Trail Code GTX Hiking Boots - Women's", "Price": "$91.83"}
+{"Name": "Alverstone 2 Hiking Shoes - Men's", "Price": "$74.73"}
+{"Name": "Targhee III Waterproof Hiking Shoes - Men's", "Price": "$114.73"}
+{"Name": "Cloudflyer 4 Road-Running Shoes - Men's", "Price": "$126.93"}
+{"Name": "Katabatic Low Waterproof Hiking Shoes - Men's", "Price": "$118.73 - $119.73"}
+{"Name": "Kaha 2 GTX Hiking Boots - Women's", "Price": "$119.83"}
+{"Name": "Metcon 9 Cross-Training Shoes - Women's", "Price": "$111.93"}
+{"Name": "Moab 3 Waterproof Hiking Shoes - Men's", "Price": "$104.93"}
+{"Name": "Speedgoat 5 Trail-Running Shoes - Men's", "Price": " $124.93"}
+{"Name": "Socks that Save Cats", "Price": "$10.93"}
+{"Name": "Targhee III Open-Toe Sandals - Men's", "Price": "$93.69"}
+{"Name": "Moab 3 Mid Waterproof Hiking Boots - Men's", "Price": "$111.93"}
+{"Name": "St. Elias FG GTX Hiking Boots - Men's", "Price": "$99.73"}
+{"Name": "Moab 3 Waterproof Hiking Shoes - Men's", "Price": "$83.73"}
+{"Name": "Speedgoat 5 Trail-Running Shoes - Women's", "Price": " $92.83"}
+{"Name": "Waterproof Pacific Insulated Puffer 2 Boots - Women's", "Price": "$44.83"}
+{"Name": "Outroad 2 Trail-Running Shoes - Women's", "Price": "$89.73"}
+{"Name": "UltraRange NEO VR3 Shoes - Men's", "Price": "$86.93"}
+{"Name": "Outroad 2 Trail-Running Shoes - Men's", "Price": "$77.73"}
+{"Name": "Kicker Leather Chelsea Boots - Women's", "Price": "$64.73"}
+{"Name": "Snowfall P 2 Winter Boots - Kids'", "Price": " $36.83"}
+{"Name": "Streamside Sandals - Men's", "Price": "$64.73"}
+{"Name": "Maverick Shoes - Men's", "Price": "$43.93"}
+{"Name": "Sypes Mid Leather Waterproof Hiking Boots - Men's", "Price": "$102.73 - $123.73"}
+{"Name": "Trail 2650 GTX Mid Hiking Boots - Women's", "Price": "$139.93"}
+{"Name": "Newport H2 Sandals - Men's", "Price": "$93.69"}
+{"Name": "Vioz GTX Hiking Boots - Men's", "Price": "$174.83"}
+{"Name": "Moab 3 Mid Waterproof Hiking Boots - Women's", "Price": "$111.93"}
+{"Name": "Newport H2 Sandals - Women's", "Price": " $93.69"}
+{"Name": "Rose Sandals - Women's", "Price": "$86.19"}
