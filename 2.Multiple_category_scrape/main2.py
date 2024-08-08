@@ -14,7 +14,7 @@ def extract_text(html, sel):
 
 def extract_attribute(html, sel, attr):
     try:
-        return html.css_first(sel).attributes.get(attr)
+        return f"https://www.rei.com{html.css_first(sel).attributes.get(attr)}"
     except AttributeError:
         return None
 
