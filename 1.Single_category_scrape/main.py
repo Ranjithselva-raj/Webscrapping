@@ -15,12 +15,18 @@ def extract_text(html, sel):
         return html.css_first(sel).text()
     except AttributeError:
         return None 
-
+def extract_attribute(html, sel, attr):
+    try:
+        return f"https://www.rei.com{html.css_first(sel).attributes.get(attr)}"
+    except AttributeError:
+        return None
+    
 products = html.css("li.VcGDfKKy_dvNbxUqm29K")
 
 for product in products:
     item={
         "Name": extract_text(product,".Xpx0MUGhB7jSm5UvK2EY"),
-        "Price": extract_text(product,"span[data-ui=sale-price]")
+        "Price": extract_text(product,"span[data-ui=sale-price]"),
+        "Image": extract_attribute(product,"img", "src")
     }
     print(item)
