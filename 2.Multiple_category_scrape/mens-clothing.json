@@ -58,6 +58,7 @@
 {"Name": "Lightstride 7\" Shorts - Men's", "Price": "$44.93", "Image": "https://www.rei.com/media/24ca81ab-6fbb-444f-a621-7b6f8162270b.jpg"}
 {"Name": "PRO Trail Fuseknit T-Shirt - Men's", "Price": "$29.83", "Image": "https://www.rei.com/media/34a87d9c-6916-4b65-993f-2d8d8ce8a7a9.jpg"}
 {"Name": "Landroamer Jacket - Men's", "Price": "$83.93", "Image": "https://www.rei.com/media/2db9aaa7-29ad-4718-914d-f7bc1b225135.jpg"}
+{"Name": "Landroamer Jacket - Men's", "Price": "$83.93", "Image": "https://www.rei.com/media/2db9aaa7-29ad-4718-914d-f7bc1b225135.jpg"}
 {"Name": "Summer Light UPF Shirt - Men's", "Price": "$31.83", "Image": "https://www.rei.com/media/80ea9838-bbbc-4a14-955f-70f70b6dec0f.jpg"}
 {"Name": "National Parks USA Grizzly T-Shirt", "Price": "$27.93", "Image": "https://www.rei.com/media/ffe5dcc6-f862-48cd-bcfd-14443028c955.jpg"}
 {"Name": "Lost Sol Printed Shirt - Men's", "Price": "$59.93", "Image": "https://www.rei.com/media/da3e1803-db3e-40bb-8eaf-74bbae1cce0d.jpg"}
@@ -87,7 +88,6 @@
 {"Name": "Bug Bucket Hat", "Price": "$25.93", "Image": "https://www.rei.com/media/73c4212f-ec11-47cb-bbae-5bd4f0dace06.jpg"}
 {"Name": "S/F Wool CaliSwe Cycling T-Shirt - Men's", "Price": "$62.93", "Image": "https://www.rei.com/media/96d55f20-d2fe-4a35-93d5-e81a55c129cf.jpg"}
 {"Name": "Nature in Mind Pocket T-Shirt", "Price": "$29.93", "Image": "https://www.rei.com/media/fe55d644-82c5-4eb7-9900-0858d696a9ed.jpg"}
-{"Name": "Lyng Waterproof All-Weather Gloves with Fusion Control", "Price": "$69.93", "Image": "https://www.rei.com/media/c6694e1c-9c6a-4861-8688-d9cfc8f481cc.jpg"}
 {"Name": "Pack In Pullover Hoodie - Men's", "Price": "$138.93", "Image": "https://www.rei.com/media/b9541e83-a0dd-4779-b206-aa5d01f612c4.jpg"}
 {"Name": "Reversible 4.5\" Swim Shorts", "Price": "$39.93", "Image": "https://www.rei.com/media/86659627-06f1-4a51-bd5e-2e6375d108f2.jpg"}
 {"Name": "NSB T-Shirt - Men's", "Price": "$34.83", "Image": "https://www.rei.com/media/4c30481f-51c3-4763-926b-346885256fb3.jpg"}
@@ -147,6 +147,7 @@
 {"Name": "S/F Scarf", "Price": "$23.93", "Image": "https://www.rei.com/media/059250ca-578c-4574-808d-450490228a90.jpg"}
 {"Name": "Stall Jacket - Men's", "Price": "$111.93", "Image": "https://www.rei.com/media/df1cf9a2-405e-4fc6-b221-31c632abb34b.jpg"}
 {"Name": "Cirque River Graphic Crew T-Shirt - Men's", "Price": "$34.93", "Image": "https://www.rei.com/media/fc1dd062-4e6d-47c7-a338-0f5c27547587.jpg"}
+{"Name": "National Parks For All T-Shirt", "Price": "$25.93", "Image": "https://www.rei.com/media/34f83b21-6f6f-44d2-8c21-f273a3de2c6e.jpg"}
 {"Name": "National Parks For All T-Shirt", "Price": "$25.93", "Image": "https://www.rei.com/media/34f83b21-6f6f-44d2-8c21-f273a3de2c6e.jpg"}
 {"Name": "Socks That Protect Turtles", "Price": "$10.93", "Image": "https://www.rei.com/media/24587847-2ac1-454e-91b2-98f4d2c6228e.jpg"}
 {"Name": "Socks that Plant Trees", "Price": "$10.93", "Image": "https://www.rei.com/media/ee9a99e1-7602-4f82-bf09-4990270ce99b.jpg"}
@@ -297,7 +298,6 @@
 {"Name": "Ski+ Medium OTC Socks - Men's", "Price": "$15.73", "Image": "https://www.rei.com/media/1b0866a4-c097-4e2c-9eee-4dcca6d210f6.jpg"}
 {"Name": "GORE-TEX Lightray Snow Pants - Men's", "Price": "$140.73", "Image": "https://www.rei.com/media/fcbcbc75-69bd-4d5f-8d53-8c0ab3eca599.jpg"}
 {"Name": "Jackson Ridge Pants - Men's", "Price": "$74.73", "Image": "https://www.rei.com/media/41f4b6d1-943a-4f6f-aaa3-024f87951d5c.jpg"}
-{"Name": "Moab Sun Hat", "Price": "$13.73", "Image": "https://www.rei.com/media/aecea97d-b003-4d7d-9d9a-d029348db73d.jpg"}
 {"Name": "Powder Gauntlet Gloves", "Price": "$75.93", "Image": "https://www.rei.com/media/957dd682-d766-4569-a806-73c088a8be3f.jpg"}
 {"Name": "HiCamp Fleece Pullover - Men's", "Price": "$79.73", "Image": "https://www.rei.com/media/2060b38b-a9af-47cd-8fe2-2524d780ecf5.jpg"}
 {"Name": "R1 Daily Jacket - Men's", "Price": "$103.93", "Image": "https://www.rei.com/media/5badda1f-18c5-4a2d-9b36-d3548fd5216a.jpg"}
@@ -440,7 +440,7 @@
 {"Name": "HiCamp Sherpa Fleece Gloves", "Price": "$18.73", "Image": "https://www.rei.com/media/f88eb489-73f9-47b0-9ea3-d3433ad95f7f.jpg"}
 {"Name": "Ultimate Running Conquer The Elements AeroWarm Tights - Men's", "Price": "$54.73", "Image": "https://www.rei.com/media/e257b5d2-04ed-448c-877e-46ef7d3d3c78.jpg"}
 {"Name": "Ferrosi Hybrid Gaiters", "Price": "$25.93", "Image": "https://www.rei.com/media/fc40bf6b-f6ef-4dee-886a-62bb9e00ddd2.jpg"}
-{"Name": "Sahara Pattern Long-Sleeve Shirt - Men's", "Price": "$49.93", "Image": "https://www.rei.com/media/f1f2b159-e190-476b-b955-6bb8397c5bd5.jpg"}
+{"Name": "Sahara Pattern Long-Sleeve Shirt - Men's", "Price": "$49.93", "Image": "https://www.rei.com/media/f8fb64da-6761-47ed-9c49-0f6ed9d6f73a.jpg"}
 {"Name": "Watchtower Half-Zip Shirt - Men's", "Price": "$63.73", "Image": "https://www.rei.com/media/2a2b26aa-8e3a-4347-929c-150aac371e08.jpg"}
 {"Name": "Ares Down Jacket - Men's", "Price": "$95.73", "Image": "https://www.rei.com/media/65f78a92-e1de-475b-b3de-0efb5f024659.jpg"}
 {"Name": "Object Insulated Jacket - Men's", "Price": "$133.83 - $166.83", "Image": "https://www.rei.com/media/a9e2b0b4-8489-484a-8dcb-dc6224582306.jpg"}
@@ -452,7 +452,6 @@
 {"Name": "Boundary Ridge GORE-TEX Jacket - Men's", "Price": "$211.73", "Image": "https://www.rei.com/media/bf896da0-0d7f-45ce-86a8-b01693de6369.jpg"}
 {"Name": "Ibex II Jacket - Men's", "Price": "$125.93", "Image": "https://www.rei.com/media/afd628b9-c7a0-4678-9cbd-9e56befaf7f4.jpg"}
 {"Name": "Class V Pathfinder Belted Shorts - Men's", "Price": "$44.93", "Image": "https://www.rei.com/media/c97aed71-37a7-4e74-b555-4504003684d8.jpg"}
-{"Name": "DryFlx Hat", "Price": "$12.83", "Image": "https://www.rei.com/media/8df2f855-fba2-4cb3-89fa-9ed5ce1c6d83.jpg"}
 {"Name": "Lined 9\" Board Shorts", "Price": "$54.93", "Image": "https://www.rei.com/media/4fc8ff9b-8f90-4c46-98c7-6cbae8d53910.jpg"}
 {"Name": "Fairfax Novelty Lightweight Flannel Shirt - Men's", "Price": "$49.73", "Image": "https://www.rei.com/media/8e66f991-e967-40a2-9e3e-cd809e575f96.jpg"}
 {"Name": "Multi Trails Shorts 8\" - Men's", "Price": " $54.93", "Image": "https://www.rei.com/media/4cfa4b99-6b65-4038-b938-ed04cbebca26.jpg"}
@@ -591,7 +590,6 @@
 {"Name": "Core Shorts - Men's", "Price": "$46.73", "Image": "https://www.rei.com/media/8fc1b1ff-dcc7-437b-92f5-b19378cf1987.jpg"}
 {"Name": "Boundary Ridge GORE-TEX Bib Snow Pants - Men's", "Price": "$177.73", "Image": "https://www.rei.com/media/9611de35-e7f7-4826-94d6-93168ebebf60.jpg"}
 {"Name": "MegaFleece Snap Up Pullover - Men's", "Price": "$68.83", "Image": "https://www.rei.com/media/ba55df6e-c3b3-4f5b-a565-6949f543b9fc.jpg"}
-{"Name": "Vardag Anorak - Men's", "Price": " $139.99", "Image": "https://www.rei.com/media/3a1279d2-a827-4aac-a908-2482c99f04a9.jpg"}
 {"Name": "Teca Calido Hooded Insulated Jacket - Men's", "Price": "$74.83 - $104.93", "Image": "https://www.rei.com/media/b31a1f15-ec3f-4702-b70f-bc206f465a0a.jpg"}
 {"Name": "Sabre Bib Pants - Men's", "Price": "$559.93", "Image": "https://www.rei.com/media/43d506db-b1dc-4589-9c97-6730d9875bdc.jpg"}
 {"Name": "Refuge Pro Bib Pants - Men's", "Price": "$184.73", "Image": "https://www.rei.com/media/a8968021-c0ce-401d-aab0-bb4db4a72c6c.jpg"}
@@ -619,11 +617,11 @@
 {"Name": "Smokin Axle Insulated Jacket - Men's", "Price": "$90.73", "Image": "https://www.rei.com/media/d1592707-31f1-410b-a367-ea24fdd87fc5.jpg"}
 {"Name": "Powderbound Insulated Snow Pants - Men's", "Price": "$58.83 - $73.83", "Image": "https://www.rei.com/media/a3c1207c-b26e-4f1e-b9f7-a93019534dc1.jpg"}
 {"Name": "Lillehammer Tights - Men's", "Price": "$83.93", "Image": "https://www.rei.com/media/4a61f7dd-82fe-4f2b-ab62-1189e9bd4d11.jpg"}
-{"Name": "GORE-TEX Pillowline Insulated Jacket - Men's", "Price": "$199.83 - $279.93", "Image": "https://www.rei.com/media/8d653edc-4307-4d68-81e8-a31937dd130c.jpg"}
+{"Name": "GORE-TEX Pillowline Insulated Jacket - Men's", "Price": "$199.83 - $279.93", "Image": "https://www.rei.com/media/a48f7811-f5ff-4256-9f20-939d9bb31c1e.jpg"}
 {"Name": "Distance Graphic Long-Sleeve T-Shirt - Men's", "Price": "$26.73", "Image": "https://www.rei.com/media/d1977b5a-9e74-4172-b5fc-dd8de720d5a2.jpg"}
 {"Name": "Carbide Jacket - Men's", "Price": "$163.83 - $229.93", "Image": "https://www.rei.com/media/b3ac9bd1-2ef9-475a-9b33-d53ecb39d5db.jpg"}
 {"Name": "Freedom Bib Snow Pants - Men's", "Price": "$99.83 - $124.83", "Image": "https://www.rei.com/media/674c46d6-f5e1-43a5-b206-80b45adf4f58.jpg"}
-{"Name": "Active Intensity Zip Base Layer Top - Men's", "Price": "$36.73", "Image": "https://www.rei.com/media/8401eb11-e23b-4122-9120-edf47f26e60d.jpg"}
+{"Name": "Active Intensity Zip Base Layer Top - Men's", "Price": "$36.73", "Image": "https://www.rei.com/media/bff56307-928c-4f63-9ea8-da7dccce8922.jpg"}
 {"Name": "VentureLayer Fleece Quarter-Zip Pullover - Men's", "Price": "$63.73", "Image": "https://www.rei.com/media/e4bc0d6b-fe25-4428-ac78-8574288c078f.jpg"}
 {"Name": "Rocklock Pants - Men's", "Price": "$73.73", "Image": "https://www.rei.com/media/4064db35-d428-4d1b-8f8d-27a405aef525.jpg"}
 {"Name": "Campshire Fleece Hoodie - Men's", "Price": "$59.83", "Image": "https://www.rei.com/media/c2653fcd-8777-4916-843b-02b872f53751.jpg"}
@@ -632,7 +630,6 @@
 {"Name": "Salto Insulated Flannel Jacket - Men's", "Price": "$94.83", "Image": "https://www.rei.com/media/92c6f376-981b-4951-98bd-209762380b85.jpg"}
 {"Name": "XeroDry GTX Pants - Men's", "Price": "$46.83 - $78.83", "Image": "https://www.rei.com/media/5260b4ef-4bfe-420d-8185-1c5eb1a549f5.jpg"}
 {"Name": "Mountain T-Shirt - Men's", "Price": "$24.93", "Image": "https://www.rei.com/media/9f6524e9-57ec-46f8-bad7-90a74f44badd.jpg"}
-{"Name": "Omni 6\" Shorts - Men's", "Price": "$41.83", "Image": "https://www.rei.com/media/6587ee78-6b44-48e9-b6e7-c114c134b400.jpg"}
 {"Name": "Maribo Long-Sleeve Surf T-Shirt - Men's", "Price": "$34.93", "Image": "https://www.rei.com/media/93053d2a-df8d-4174-a03f-5f7b7598b956.jpg"}
 {"Name": "Switchback GTX Gloves 2.0 - Men's", "Price": "$44.83", "Image": "https://www.rei.com/media/2d092227-77b4-4fd9-85a1-bd63e830f56c.jpg"}
 {"Name": "Sureshot Heated Soft-Shell Gloves - Men's", "Price": "$128.83", "Image": "https://www.rei.com/media/21690290-f1e2-4497-b3ef-7184be014981.jpg"}
@@ -665,7 +662,7 @@
 {"Name": "Run It Brand Love T-Shirt - Men's", "Price": "$19.73", "Image": "https://www.rei.com/media/a42a0e18-9609-4287-b34a-056b998ce4b5.jpg"}
 {"Name": "Ceptor Bib Pants - Men's", "Price": "$163.83", "Image": "https://www.rei.com/media/d433368c-5e3f-4fbd-8ce4-086938856a0e.jpg"}
 {"Name": "Insulated Powder Town Jacket - Men's", "Price": "$198.83 - $198.93", "Image": "https://www.rei.com/media/1eb1b707-41a4-42b0-b556-5e2690325eba.jpg"}
-{"Name": "Ultimate Knit T-Shirt - Men's", "Price": "$29.73", "Image": "https://www.rei.com/media/20187ec3-798d-42fd-b020-fd0feda17b3d.jpg"}
+{"Name": "Ultimate Knit T-Shirt - Men's", "Price": "$29.73", "Image": "https://www.rei.com/media/8c07cd2c-96a7-426d-88af-c76b7708bde6.jpg"}
 {"Name": "Hike Light Cushion Ankle Socks - Men's", "Price": "$16.73", "Image": "https://www.rei.com/media/bf457872-0d46-44ec-9a5f-25d6ed65652a.jpg"}
 {"Name": "Tech Trail Polo Shirt - Men's", "Price": "$32.93", "Image": "https://www.rei.com/media/a08857cc-a100-428e-b526-a2b4bb59fcc6.jpg"}
 {"Name": "Snowcrew Snow Pants - Men's", "Price": "$82.73", "Image": "https://www.rei.com/media/3e6a962f-55f5-44d5-9fa6-258711b520cb.jpg"}
@@ -702,7 +699,7 @@
 {"Name": "Kangtega Crew Sweater - Men's", "Price": "$35.73", "Image": "https://www.rei.com/media/257f887b-a66f-4aa6-8bbf-f221e4cf07bd.jpg"}
 {"Name": "Mountain Stretch Jogger Pants - Men's", "Price": "$52.73", "Image": "https://www.rei.com/media/dd8466e5-aab3-4298-b2fb-388632c22bec.jpg"}
 {"Name": "Proton Pants - Men's", "Price": "$99.73", "Image": "https://www.rei.com/media/841c217f-4a75-4fcf-8176-03707a5981be.jpg"}
-{"Name": "Shifter Long-Sleeve Sweatshirt - Men's", "Price": "$57.73", "Image": "https://www.rei.com/media/81fb3e44-fe88-46d6-a1ff-a3e04ec007ca.jpg"}
+{"Name": "Shifter Long-Sleeve Sweatshirt - Men's", "Price": "$57.73", "Image": "https://www.rei.com/media/85a81e48-fcf9-406c-bf91-e5c0c83fc79a.jpg"}
 {"Name": "Eco-Zy Hooded Popover - Men's", "Price": "$21.73", "Image": "https://www.rei.com/media/2995c308-583d-4966-9be2-d655b79613b8.jpg"}
 {"Name": "Gate Racer Soft-Shell Jacket - Men's", "Price": "$98.73", "Image": "https://www.rei.com/media/f4fc1a33-bc3c-4d9c-8bc0-b16c65dc3eb1.jpg"}
 {"Name": "Baggies Lights Shorts - Men's 6.5\" Inseam", "Price": "$24.73", "Image": "https://www.rei.com/media/f1c9eab1-7f91-4757-8fbf-012cfe34dff2.jpg"}
@@ -747,9 +744,9 @@
 {"Name": "Sueded Spacedye Half-Zip Colorblock Mock-Neck Shirt - Men's", "Price": "$34.73", "Image": "https://www.rei.com/media/f9fc32fd-4988-4806-b42c-cd524a86ff30.jpg"}
 {"Name": "High Sierra Pro Pants - Men's", "Price": "$209.93", "Image": "https://www.rei.com/media/4d930fef-a7f2-446a-9fdf-713a5bfff46e.jpg"}
 {"Name": "Foraker Shell Pants - Men's", "Price": "$143.73", "Image": "https://www.rei.com/media/24351da6-0918-4cda-b53b-9a44d92b5ce0.jpg"}
-{"Name": "High Stride Pocket 5\" Shorts - Men's", "Price": "$33.83", "Image": "https://www.rei.com/media/dffef07f-54be-431d-b4fc-34e5e7d3634e.jpg"}
+{"Name": "High Stride Pocket 5\" Shorts - Men's", "Price": "$19.83 - $33.83", "Image": "https://www.rei.com/media/5af11cc7-26d5-4018-bd1a-b0dbc08f9e4c.jpg"}
 {"Name": "Burdell Down Jacket - Men's", "Price": "$129.73", "Image": "https://www.rei.com/media/7516a6bc-1730-4e35-b236-e52c2cc00da8.jpg"}
-{"Name": "Snowcat Trek Long-Sleeve Graphic T-Shirt - Men's", "Price": "$25.73", "Image": "https://www.rei.com/media/3b18765f-0e23-4a75-88af-8ad227c701ab.jpg"}
+{"Name": "Snowcat Trek Long-Sleeve Graphic T-Shirt - Men's", "Price": "$25.73", "Image": "https://www.rei.com/media/a52650e3-60e8-46d3-99ef-32a2655c9def.jpg"}
 {"Name": "Trail Sender Pants - Men's", "Price": "$49.73", "Image": "https://www.rei.com/media/ec4e6742-cade-4d45-876f-221a9b079c61.jpg"}
 {"Name": "Peak Bagger Jacket - Men's", "Price": "$224.83", "Image": "https://www.rei.com/media/ce708ff7-49b2-4a13-816c-b4692617740c.jpg"}
 {"Name": "Innoclava with LavaWool Balaclava", "Price": "$13.73", "Image": "https://www.rei.com/media/9841f6ee-c160-4f45-bf38-b56e2db548d2.jpg"}
@@ -793,7 +790,7 @@
 {"Name": "Active Fleece Insulated Gloves", "Price": "$38.73", "Image": "https://www.rei.com/media/5c848df0-0584-46d9-9985-5d90193d7c62.jpg"}
 {"Name": "Cape Board Shorts - Men's", "Price": "$34.83", "Image": "https://www.rei.com/media/5f6509c6-b3d4-4582-a692-ccfd9b3a0553.jpg"}
 {"Name": "Everyday Popcorn Cable Full Cushion Crew Socks", "Price": "$19.73", "Image": "https://www.rei.com/media/cbf10c7b-cc8d-4a20-b566-e41166d5e118.jpg"}
-{"Name": "First Chair GTX ePE Bib Pants - Men's", "Price": "$133.83", "Image": "https://www.rei.com/media/89cd3935-6d8f-4eaf-87d3-3d8e8a59d41b.jpg"}
+{"Name": "First Chair GTX ePE Bib Pants - Men's", "Price": "$133.83", "Image": "https://www.rei.com/media/b253561d-1d27-4cdb-8ec8-b8744e20f702.jpg"}
 {"Name": "ThinkFast Mesh Shortsleeve T-Shirt - Men's", "Price": "$28.83", "Image": "https://www.rei.com/media/94a146ae-e12a-420d-9af9-5130cd5c6f29.jpg"}
 {"Name": "Timont Printed Tech T-Shirt - Men's", "Price": "$36.93", "Image": "https://www.rei.com/media/0f65b31d-6def-4e3b-90bb-3f5f22b61a91.jpg"}
 {"Name": "Denali Fleece Pants - Men's", "Price": "$59.83", "Image": "https://www.rei.com/media/28849aac-8c3e-421f-bcf6-fe551b852194.jpg"}
@@ -946,19 +943,14 @@
 {"Name": "Creators Grit Pants - Men's", "Price": "$66.73", "Image": "https://www.rei.com/media/f7c68739-e25f-4f9e-9b25-99dc04fd4c18.jpg"}
 {"Name": "Creators Eco Pullover Hoodie - Men's", "Price": "$66.73", "Image": "https://www.rei.com/media/7711ce77-4009-4f3b-8f9b-239e50fbe459.jpg"}
 {"Name": "Creators Eco Long-Sleeve Pocket T-Shirt - Men's", "Price": "$36.73", "Image": "https://www.rei.com/media/02c1195d-3112-4235-bd18-01ae549dbbe9.jpg"}
-{"Name": "Seattle Rain Hat", "Price": "$38.73", "Image": "https://www.rei.com/media/ca4155a3-70d1-4f64-8967-a82026b7efc1.jpg"}
 {"Name": "Ferrosi Jacket - Men's", "Price": "$74.73", "Image": "https://www.rei.com/media/71f15528-0f9c-42d1-9b19-fc859c6e1ef3.jpg"}
 {"Name": "Zendo Joggers - Men's", "Price": "$66.73", "Image": "https://www.rei.com/media/b29b89be-ffe2-4a78-bcf6-1de59ea0d2a4.jpg"}
 {"Name": "150 Anatomica First Snow Boxers - Men's", "Price": "$33.73", "Image": "https://www.rei.com/media/9d943790-46ba-4e6c-9892-31b02c4d7eba.jpg"}
 {"Name": "Merino 125 Cool-Lite Sphere II T-Shirt - Men's", "Price": "$59.73", "Image": "https://www.rei.com/media/cbd02ed8-8f52-4da9-a1dc-b0f9fdd81e60.jpg"}
 {"Name": "Apex Chute", "Price": "$26.73", "Image": "https://www.rei.com/media/537198d4-e1d6-4b62-a8cf-fc17ced481ae.jpg"}
 {"Name": "Pack Merino Fleece Cap", "Price": "$31.73", "Image": "https://www.rei.com/media/ed2c6a83-4190-4064-84de-8e1beb25c83b.jpg"}
-{"Name": "Merino Move Beanie", "Price": "$20.73", "Image": "https://www.rei.com/media/7ab9c935-609e-44f4-b3c0-7b73f13ddfe7.jpg"}
 {"Name": "MilkSilk 3\" Trunk Briefs - 3 Pairs", "Price": "$24.73", "Image": "https://www.rei.com/media/7c302741-48b7-4893-8afd-6698b28436d2.jpg"}
-{"Name": "Merino Print Boxer Briefs - Men's", "Price": "$26.73", "Image": "https://www.rei.com/media/6765377e-1d3c-4dd8-8bf6-854a4ea33077.jpg"}
 {"Name": "Everyday Exploration Merino Long-Sleeve Pocket T-Shirt - Men's", "Price": "$59.73", "Image": "https://www.rei.com/media/9a0eb1cf-9f50-4e51-a659-fea836bf01c1.jpg"}
-{"Name": "Intraknit 6\" Boxer Briefs - Men's", "Price": "$36.73", "Image": "https://www.rei.com/media/bd7d8c70-eb28-4d61-bc58-6992e9f098b2.jpg"}
-{"Name": "Active Ultralite Tech T-Shirt - Men's", "Price": "$48.73", "Image": "https://www.rei.com/media/7d0fc8f6-9536-4eae-a9fc-3df7d308842c.jpg"}
 {"Name": "No-Show Run Socks - 3 Pairs", "Price": "$23.93", "Image": "https://www.rei.com/media/4e7ee915-64ba-4bf5-b2ed-481cdeeb36ff.jpg"}
 {"Name": "Sierra LT Shorts - Men's", "Price": "$52.73", "Image": "https://www.rei.com/media/8d2149da-749a-4682-8c4e-8ac34f09b225.jpg"}
 {"Name": "Alpine Light Pants - Men's", "Price": "$82.73", "Image": "https://www.rei.com/media/a577de1d-bd02-4b82-8985-9cebaa62976e.jpg"}
@@ -975,7 +967,6 @@
 {"Name": "PreCip Eco Jacket - Men's Big Sizes", "Price": "$89.73", "Image": "https://www.rei.com/media/25396fda-4cb1-4111-8dae-613fa805d727.jpg"}
 {"Name": "Minimalist GORE-TEX Jacket - Men's Extended Sizes", "Price": "$187.73", "Image": "https://www.rei.com/media/d02ed45d-6a54-4f35-9797-f535aed6d979.jpg"}
 {"Name": "Streaker Run T-Shirt - Men's", "Price": "$26.73", "Image": "https://www.rei.com/media/276151f2-8277-41b8-bb6e-43862ed70244.jpg"}
-{"Name": "Launch 5\" Shorts - Men's", "Price": "$26.73", "Image": "https://www.rei.com/media/d8aac491-a5a1-4ab8-a5dd-a6904a82221a.jpg"}
 {"Name": "Explore Lightweight Cycling Jacket - Men's", "Price": "$123.73", "Image": "https://www.rei.com/media/aa790f80-00ee-402f-a27e-be08728fda53.jpg"}
 {"Name": "Double Peak Slim Pants - Men's", "Price": "$66.73", "Image": "https://www.rei.com/media/ad264aa7-ffde-448d-92ce-50e4c824c5e5.jpg"}
 {"Name": "Outrack Full-Zip Mid Layer Jacket - Men's", "Price": "$52.73", "Image": "https://www.rei.com/media/b6b5b6a2-90ed-4cf3-8bce-05aeb70115cf.jpg"}
@@ -997,13 +988,14 @@
 {"Name": "Lumberman Merino Beanie - Men's", "Price": "$29.73", "Image": "https://www.rei.com/media/88289778-f809-4195-8530-ea4a46f0e6a4.jpg"}
 {"Name": "Bronco GORE-TEX Gloves - Men's", "Price": "$59.73", "Image": "https://www.rei.com/media/ffa483e2-6aeb-4285-a7d0-ed9252ff6f75.jpg"}
 {"Name": "Elevation T-Shirt - Men's", "Price": "$23.73", "Image": "https://www.rei.com/media/fc6f067c-cd2f-485a-abff-96890bf5277e.jpg"}
+{"Name": "Summit Series Casaval Hybrid Insulated Jacket - Men's", "Price": "$179.73", "Image": "https://www.rei.com/media/331835ff-85db-41a6-8b28-896ffe5ad34c.jpg"}
+{"Name": "Irish Visor Hat", "Price": "$29.73", "Image": "https://www.rei.com/media/dc569053-f9a6-46cc-9b5d-560875fd8e93.jpg"}
 {"Name": "Solid Sets Eco Windbreaker - Men's", "Price": "$56.73", "Image": "https://www.rei.com/media/2e2ae71b-0a77-493f-84d5-c99c13945bf1.jpg"}
 {"Name": "Solid Sets Eco Po Hoodie - Men's", "Price": "$49.73", "Image": "https://www.rei.com/media/5947e76d-ca52-4969-93c7-982853252b86.jpg"}
 {"Name": "Low Tide Chino Eco Pants - Men's", "Price": "$49.73", "Image": "https://www.rei.com/media/6ddb5802-b9bd-4833-9d4a-d915291c2a4d.jpg"}
 {"Name": "Volt Beanie - Men's", "Price": "$36.73", "Image": "https://www.rei.com/media/6885e5f7-1b73-42e6-9cb0-460ae702fe2e.jpg"}
 {"Name": "J Tree Pants - Men's", "Price": "$66.73", "Image": "https://www.rei.com/media/1852a8e7-5803-4c80-99ac-a243b7aab482.jpg"}
 {"Name": "Verv Beanie - Men's", "Price": "$26.73", "Image": "https://www.rei.com/media/298c8520-96e3-4a17-96cc-9ff9ed80c26b.jpg"}
-{"Name": "185 Rock'n'wool Boxers - Men's", "Price": "$52.73", "Image": "https://www.rei.com/media/c1b44066-b3d0-497e-9cb2-3bc01726a2bb.jpg"}
 {"Name": "AirMesh Hoodie - Men's", "Price": "$62.73", "Image": "https://www.rei.com/media/a7f1b934-a26d-417e-a383-55f92b7ecdd4.jpg"}
 {"Name": "Firefall/2 Insulated Jacket - Men's", "Price": "$143.83", "Image": "https://www.rei.com/media/d92ec4ee-abf7-4879-af7c-59264417c02a.jpg"}
 {"Name": "185 Rock'n'wool Short Base Layer Pants - Men's", "Price": "$74.73", "Image": "https://www.rei.com/media/bd6224b8-53f3-4b36-ac71-92d127c8cc36.jpg"}
@@ -1012,7 +1004,7 @@
 {"Name": "Grand Teton Graphic Hoodie - Men's", "Price": "$45.73", "Image": "https://www.rei.com/media/f26d2a4b-aa51-4bfc-bffe-64dbd4d746ac.jpg"}
 {"Name": "Active Ultralite Vest - Men's", "Price": "$74.73", "Image": "https://www.rei.com/media/e24a94b4-705f-4ff4-b54f-1a9ddcaeee40.jpg"}
 {"Name": "Floral Meadow Graphic T-Shirt", "Price": "$44.73", "Image": "https://www.rei.com/media/2616834d-f769-4d90-a64c-03355baf4f68.jpg"}
-{"Name": "Short-Sleeve Button Down Shirt - Men's", "Price": "$63.73", "Image": "https://www.rei.com/media/341cdbd0-7151-441c-bfa5-fc0ede60be0d.jpg"}
+{"Name": "Short-Sleeve Button Down Shirt - Men's", "Price": "$63.73", "Image": "https://www.rei.com/media/e7e98b17-1693-44dc-929b-aacfa2c0db13.jpg"}
 {"Name": "Merino Sport Long-Sleeve Quarter-Zip Top - Men's", "Price": "$65.73", "Image": "https://www.rei.com/media/59d8f5bd-5bd8-408a-9444-71d4a8d45b19.jpg"}
 {"Name": "Merino Plant-Based Dye T-Shirt - Men's", "Price": "$59.73", "Image": "https://www.rei.com/media/8ffbdcca-81a6-4ea6-85f2-4bda86628958.jpg"}
 {"Name": "Intraknit Merino Fleece Full-Zip Jacket - Men's", "Price": "$138.73", "Image": "https://www.rei.com/media/2d3af7e6-3c75-4e06-bf32-a878baa328ea.jpg"}
@@ -1046,7 +1038,6 @@
 {"Name": "Tres 3-in-1 Parka - Men's", "Price": "$453.73", "Image": "https://www.rei.com/media/47df6086-8e2a-46e7-9a86-ce908c71bd8c.jpg"}
 {"Name": "BugsAway Sandfly Hat", "Price": "$26.73", "Image": "https://www.rei.com/media/ec7e6977-c9bf-4b5a-9123-3c4f1d3b72b3.jpg"}
 {"Name": "Cold Snap Beanie", "Price": "$28.73", "Image": "https://www.rei.com/media/3b43a336-24f7-4459-ab59-73397fee5bbb.jpg"}
-{"Name": "Wavefarer Bucket Hat", "Price": "$32.73", "Image": "https://www.rei.com/media/e079e3bc-7599-4ba9-b4ff-d29332db71b5.jpg"}
 {"Name": "Boulder Full Cushion Crew Socks - 2 Pairs", "Price": "$22.73", "Image": "https://www.rei.com/media/79a819ca-eb13-4640-9169-4223a94174d4.jpg"}
 {"Name": "'92 Crinkle Reversible Nuptse Down Jacket - Men's", "Price": "$189.83", "Image": "https://www.rei.com/media/de175c02-9ad5-4319-97eb-f58ce17b3606.jpg"}
 {"Name": "Denali X Jacket - Men's", "Price": "$175.93", "Image": "https://www.rei.com/media/666c6b22-5a51-44ae-b261-05d98d837c55.jpg"}
@@ -1079,14 +1070,10 @@
 {"Name": "Shadow Insulated Pants - Men's", "Price": "$124.73", "Image": "https://www.rei.com/media/f9429352-a44b-49f8-a566-545df233dacb.jpg"}
 {"Name": "Lined Chore Jacket - Men's", "Price": "$126.73", "Image": "https://www.rei.com/media/caeaca16-14ef-4eb2-af5a-40a3fa68b26a.jpg"}
 {"Name": "Shastin Cargo Pants - Men's", "Price": "$82.73", "Image": "https://www.rei.com/media/cb46b6ea-0c31-4232-b65d-bab98255e8cd.jpg"}
-{"Name": "Ferrosi Convertible Pants - Men's", "Price": "$76.73", "Image": "https://www.rei.com/media/13f6aa9d-c94b-4c49-a755-445301cf405f.jpg"}
-{"Name": "S/F Rain Poncho", "Price": "$258.93", "Image": "https://www.rei.com/media/0a5ce6c9-c05f-4add-83e3-696abb3fe8e6.jpg"}
-{"Name": "Merino 150 Tech Lite III Sunset Camp T-Shirt - Men's", "Price": "$58.93", "Image": "https://www.rei.com/media/ee2d5095-cb0c-45b3-a8cf-7469b7d0d720.jpg"}
 {"Name": "Switchbacks Graphic T-Shirt", "Price": "$23.93", "Image": "https://www.rei.com/media/0d5ce3cd-664e-4463-b31c-39dd22ef2eb7.jpg"}
 {"Name": "Kulshan Storm Jacket - Men's", "Price": "$288.73", "Image": "https://www.rei.com/media/a464f422-0db4-48a8-9e7b-1848fec86743.jpg"}
-{"Name": "Kickback Lightweight Base Layer Bottoms - Men's", "Price": "$29.73", "Image": "https://www.rei.com/media/95cbec5a-d954-413b-bb0e-1b0c7128ec04.jpg"}
 {"Name": "HC Hybrid Wind Jacket - Men's", "Price": "$157.49", "Image": "https://www.rei.com/media/5a9a104e-4a8c-49cd-92ee-593b4be47c4f.jpg"}
-{"Name": "Advocate Trucker Cap", "Price": "$23.73", "Image": "https://www.rei.com/media/15411d11-645c-4f49-8135-d83c587154b5.jpg"}
+{"Name": "Advocate Trucker Cap", "Price": "$23.73", "Image": "https://www.rei.com/media/892bebee-4c15-4f3d-b244-09033891e821.jpg"}
 {"Name": "Terrex Xperior Mid Shorts - Men's", "Price": "$54.93", "Image": "https://www.rei.com/media/3b38e20d-8965-46ad-bb12-636e15eb1b11.jpg"}
 {"Name": "Charger Gloves - Men's", "Price": "$34.73", "Image": "https://www.rei.com/media/a80696dd-f127-4846-b8ec-5031ae487383.jpg"}
 {"Name": "Titan GORE-TEX Mittens - Men's", "Price": "$54.73", "Image": "https://www.rei.com/media/88453adc-5c0e-4fea-a1d1-ca0c996c9e21.jpg"}
@@ -1111,7 +1098,7 @@
 {"Name": "Howler Bando Headband", "Price": "$21.73", "Image": "https://www.rei.com/media/3653f82c-9797-4633-b1af-375e154bd20a.jpg"}
 {"Name": "Alpine Leather PrimaLoft Gloves", "Price": "$103.73", "Image": "https://www.rei.com/media/75563d3e-82c8-4184-8af6-e225532cb01c.jpg"}
 {"Name": "Fall Line 5-Finger Gloves", "Price": "$131.73", "Image": "https://www.rei.com/media/af3ae76f-8c53-437d-ab17-0b937d8a956f.jpg"}
-{"Name": "BugsAway Tarka Long-Sleeve Shirt - Men's", "Price": "$48.73", "Image": "https://www.rei.com/media/d31ce2a1-b5ac-45b7-8459-e2bf10e707e8.jpg"}
+{"Name": "BugsAway Tarka Long-Sleeve Shirt - Men's", "Price": "$48.73", "Image": "https://www.rei.com/media/3ba5aa15-50e0-4578-b12c-bac7cbf0325a.jpg"}
 {"Name": "Ultimate Plus Gloves", "Price": "$67.73", "Image": "https://www.rei.com/media/52b2c49f-c91a-4126-a817-c0d74972f171.jpg"}
 {"Name": "Explorair Tech Gloves", "Price": "$51.73", "Image": "https://www.rei.com/media/38c8dc7a-447b-463a-a747-926bd572cda3.jpg"}
 {"Name": "Daybreak Pullover - Men's", "Price": "$129.73", "Image": "https://www.rei.com/media/f0e94727-d1da-4f31-9074-eb6cc89ee99d.jpg"}
@@ -1181,12 +1168,11 @@
 {"Name": "Venga Rock Pants - Men's", "Price": "$75.73", "Image": "https://www.rei.com/media/19323a1f-8522-4164-819f-24752f4c30c5.jpg"}
 {"Name": "R1 Daily Zip-Neck Top - Men's", "Price": "$73.73", "Image": "https://www.rei.com/media/aecda8e3-84b1-47fd-97ad-62be57b8ce46.jpg"}
 {"Name": "Hydropeak Volley Shorts - Men's 16\" Outseam", "Price": "$36.73", "Image": "https://www.rei.com/media/6ee82d87-536f-41af-8afc-913487db5c3f.jpg"}
-{"Name": "Run Within 7\" Linerless Shorts - Men's", "Price": "$32.73", "Image": "https://www.rei.com/media/48834562-4625-4012-b153-060b41d2c27c.jpg"}
 {"Name": "All Altitude Jacket - Men's", "Price": "$59.73", "Image": "https://www.rei.com/media/5944beb0-01f0-49b1-9dfd-c8b4455ac130.jpg"}
 {"Name": "Down Sweater - Men's", "Price": "$110.73", "Image": "https://www.rei.com/media/d5f67663-4cff-444d-9e3f-0f99f9b6f8bf.jpg"}
 {"Name": "Micro Puff Insulated Jacket - Men's", "Price": "$195.73", "Image": "https://www.rei.com/media/3e621cfd-6626-436d-8343-7afb06ad1ed9.jpg"}
 {"Name": "Better Sweater Beanie", "Price": "$29.73", "Image": "https://www.rei.com/media/72329899-a3e6-4c95-ab9e-9ddf368b467b.jpg"}
-{"Name": "Downdrift Down Jacket - Men's", "Price": "$163.73", "Image": "https://www.rei.com/media/536bf387-8f6a-4e8b-a16b-5f7e0cf9a0cb.jpg"}
+{"Name": "Downdrift Down Jacket - Men's", "Price": "$163.73", "Image": "https://www.rei.com/media/a392bbbc-a4a3-4abc-8b4d-9235f8538865.jpg"}
 {"Name": "Roaring Fork Down Jacket - Men's", "Price": "$129.83", "Image": "https://www.rei.com/media/95b26617-a8fc-4532-8863-7ff2b9c2ab6a.jpg"}
 {"Name": "SoftShield Liner Down Jacket", "Price": "$63.83", "Image": "https://www.rei.com/media/76d59652-78e4-40db-89d1-0c4a72d18e12.jpg"}
 {"Name": "RecTrek Wide-Leg Pants - Men's", "Price": "$48.83", "Image": "https://www.rei.com/media/8911471b-61a9-43ea-b31d-81045eda3abe.jpg"}
@@ -1211,20 +1197,18 @@
 {"Name": "Shadow Insulated Mittens", "Price": "$26.83", "Image": "https://www.rei.com/media/4eb129b5-3564-439c-8360-90b955ede50e.jpg"}
 {"Name": "Sargeant Snow UL Socks - Men's", "Price": "$14.83", "Image": "https://www.rei.com/media/bac7602d-ca44-4374-abb9-1bfe62da35e4.jpg"}
 {"Name": "Snowqualmie Insulated Jacket - Men's", "Price": "$99.83", "Image": "https://www.rei.com/media/0e69c9b4-86aa-4cef-bbe4-91a97955733e.jpg"}
+{"Name": "Kaffee Racer Jacket - Men's", "Price": "$144.93", "Image": "https://www.rei.com/media/a80a0998-8b6a-4178-889a-c7b4776a93df.jpg"}
 {"Name": "Dojo Pants - Men's", "Price": "$131.83", "Image": "https://www.rei.com/media/fde3334b-9055-4fad-a064-89458de2e4da.jpg"}
 {"Name": "Mountain Fleece Crewneck", "Price": "$53.83", "Image": "https://www.rei.com/media/05ac5291-43cc-47c8-981a-366d3539ec0c.jpg"}
 {"Name": "Subalpine Fleece Vest - Men's", "Price": "$73.83", "Image": "https://www.rei.com/media/8362e1fa-8775-4a7d-b51f-bab36c246a0f.jpg"}
 {"Name": "Subalpine Fleece Jacket - Men's", "Price": "$139.93", "Image": "https://www.rei.com/media/76bff99a-ccdc-422e-96b5-26b1f1a9259d.jpg"}
 {"Name": "Global Midlayer Crew Shirt - Men's", "Price": "$53.83", "Image": "https://www.rei.com/media/e1d0e851-e005-4b33-a7fd-eae546ddf312.jpg"}
 {"Name": "Waterproof Hoodie - Men's", "Price": "$89.83", "Image": "https://www.rei.com/media/1571274b-d4ff-4a0e-8ff6-98e1118a49a0.jpg"}
-{"Name": "National Parks Wander Bear T-Shirt", "Price": "$18.83", "Image": "https://www.rei.com/media/e782995a-b64e-46ea-abf8-b28d2ae0aa7e.jpg"}
-{"Name": "National Park Fungi Long-Sleeve Shirt", "Price": "$23.83", "Image": "https://www.rei.com/media/3572b32c-c442-4766-a31c-460b2dbc46fa.jpg"}
 {"Name": "Heritage Cord Pants", "Price": "$54.83", "Image": "https://www.rei.com/media/c2f76f89-f074-4c34-a6fa-3ade0640672d.jpg"}
 {"Name": "Tekno Logo Hoodie - Men's", "Price": "$51.83", "Image": "https://www.rei.com/media/d61d53be-75d8-4184-9ee8-606b31862fab.jpg"}
 {"Name": "Sabre Gloves", "Price": "$132.93", "Image": "https://www.rei.com/media/770bf5f1-aed4-41ac-b895-207bb66e6fb8.jpg"}
 {"Name": "Terrex Xperior Pants - Men's", "Price": " $54.83", "Image": "https://www.rei.com/media/be142e72-b9e2-43b9-8194-8c528bbacb0b.jpg"}
 {"Name": "Chockstone Pants - Men's", "Price": "$69.73", "Image": "https://www.rei.com/media/a469f292-a21e-4cf2-a35c-d13d0da9a41e.jpg"}
-{"Name": "Basin Trek Convertible Pants - Men's", "Price": "$70.73", "Image": "https://www.rei.com/media/6c87acd1-aff8-4842-9947-171bf810792d.jpg"}
 {"Name": "Ceptor Jacket - Men's", "Price": "$214.83", "Image": "https://www.rei.com/media/996f9a4e-2ae0-43dc-8bf0-81d375eb986f.jpg"}
 {"Name": "Build Up Jacket - Men's", "Price": "$79.83", "Image": "https://www.rei.com/media/cec80538-ec47-434b-a0a3-6f5b43ed68ae.jpg"}
 {"Name": "Sabre Jacket - Men's", "Price": "$599.93", "Image": "https://www.rei.com/media/65586988-dc8e-4dc2-a5af-3db2db89b38c.jpg"}
@@ -1248,11 +1232,10 @@
 {"Name": "SnowDrifter Bib Pants - Men's", "Price": "$198.83", "Image": "https://www.rei.com/media/efabaa35-6ad7-4e93-be77-5fdfa5659321.jpg"}
 {"Name": "Storm Shift Jacket - Men's", "Price": "$248.83", "Image": "https://www.rei.com/media/a452d164-f66f-44d9-b25a-66344f653858.jpg"}
 {"Name": "SnowDrifter Jacket - Men's", "Price": "$223.83", "Image": "https://www.rei.com/media/2e67de33-3dda-46ba-a8d9-ff11095a4126.jpg"}
-{"Name": "Ovik Twill Shirt - Men's", "Price": "$59.83", "Image": "https://www.rei.com/media/085cca9c-f832-44db-b043-5bd844f190c7.jpg"}
 {"Name": "Vintage Ripstop Pants - Men's", "Price": "$53.83", "Image": "https://www.rei.com/media/82fb7db4-3e6e-4255-b604-6b2c8ebaa336.jpg"}
 {"Name": "Konfluence Fleece Jacket - Men's", "Price": "$88.83", "Image": "https://www.rei.com/media/6470e35c-14a2-444d-8e68-e747a23f753f.jpg"}
 {"Name": "Summit Series FUTUREFLEECE LT Half-Zip Pullover - Men's", "Price": "$69.93 - $97.93", "Image": "https://www.rei.com/media/3ec422d0-368b-4388-bbd5-d35928ab8619.jpg"}
-{"Name": "Summit Series Chamlang FUTURELIGHT Jacket - Men's", "Price": "$224.83 - $315.93", "Image": "https://www.rei.com/media/2a74fc4e-c9a5-4ea7-ab9d-e1e3b722ef0e.jpg"}
+{"Name": "Summit Series Chamlang FUTURELIGHT Jacket - Men's", "Price": "$314.93 - $315.93", "Image": "https://www.rei.com/media/2a74fc4e-c9a5-4ea7-ab9d-e1e3b722ef0e.jpg"}
 {"Name": "Summit Series FUTUREFLEECE Pants - Men's", "Price": "$64.83", "Image": "https://www.rei.com/media/58bff517-86df-4eac-b4b3-5e210777adac.jpg"}
 {"Name": "Summit Series Breithorn Down Hoodie - Men's", "Price": "$189.83", "Image": "https://www.rei.com/media/002636cf-028e-436d-adfb-912357f34de3.jpg"}
 {"Name": "Mark VII Insulated Snowsuit - Men's", "Price": "$363.83", "Image": "https://www.rei.com/media/fdbea51d-ce15-4999-95d1-ba0f9416e900.jpg"}
@@ -1275,6 +1258,7 @@
 {"Name": "Westover Pants - Men's", "Price": "$56.73", "Image": "https://www.rei.com/media/05576b5e-0703-46e9-ba79-c6d0a274f87d.jpg"}
 {"Name": "Terrex Liteflex Hiking Pants - Men's", "Price": "$41.83", "Image": "https://www.rei.com/media/fa7fb0e6-9982-402d-96ef-4b2b2870440d.jpg"}
 {"Name": "Threshold Jacket - Men's", "Price": "$107.83", "Image": "https://www.rei.com/media/82ac161c-a973-49e7-9503-ee554535dd53.jpg"}
+{"Name": "Sleeveless Capilene Cool Daily Shirt - Men's", "Price": "$26.93", "Image": "https://www.rei.com/media/0c3c2c95-9133-43d9-9d98-dcd05262baaa.jpg"}
 {"Name": "Alpine Start Hoodie - Men's", "Price": "$128.93", "Image": "https://www.rei.com/media/8f4a6e92-7f10-4cd9-9387-13bd4f8f531e.jpg"}
 {"Name": "Course Run Shorts - Men's", "Price": "$45.83", "Image": "https://www.rei.com/media/9be8981a-e5cb-417a-9c66-4f8e595faef5.jpg"}
 {"Name": "Outdoor Everyday 7\" Shorts - Men's", "Price": "$43.83", "Image": "https://www.rei.com/media/aea1a9a1-9fc1-4630-b433-fd72f735553d.jpg"}
@@ -1291,12 +1275,10 @@
 {"Name": "Dri-FIT Phenom Elite Knit Pants - Men's", "Price": "$46.83", "Image": "https://www.rei.com/media/aa2e5e0b-aa58-46e7-a461-0169285e0379.jpg"}
 {"Name": "RadiantX Gloves", "Price": "$85.73", "Image": "https://www.rei.com/media/d6e71cdb-c40e-425b-af0d-e1c63cc75547.jpg"}
 {"Name": "Viewfinder Long-Sleeve Crew Base Layer Top - Men's", "Price": "$32.73", "Image": "https://www.rei.com/media/e3d146ca-9ce9-4780-a8a7-1bc269477fc5.jpg"}
-{"Name": "200 Oasis Long-Sleeve Crewe Move to Natural Base Layer Top - Men's", "Price": "$78.73", "Image": "https://www.rei.com/media/f832a4c4-55e2-4964-bdd7-c37a57092a3e.jpg"}
 {"Name": "Waterproof Extreme Cold Weather Insulated Gloves", "Price": "$64.83", "Image": "https://www.rei.com/media/9fee5148-ef9b-4d97-ad47-b2280c94076c.jpg"}
 {"Name": "Forged Denim Pants - Men's", "Price": " $90.93", "Image": "https://www.rei.com/media/956ba070-e8f6-4e31-9545-f5897244f685.jpg"}
 {"Name": "Summit Pro 120 Crew Base Layer Top - Men's", "Price": "$69.93", "Image": "https://www.rei.com/media/91787a0d-1979-4f54-9a87-40ed02f28071.jpg"}
 {"Name": "Foraker Shell Jacket - Night Ops - Men's", "Price": "$174.73", "Image": "https://www.rei.com/media/d5869d94-c0c4-4fbf-a217-b6d1d7e9d5cd.jpg"}
-{"Name": "Better Sweater Henley Pullover - Men's", "Price": "$68.73", "Image": "https://www.rei.com/media/8f617a8f-e1c2-4ecf-8ca4-fcb0c26f7321.jpg"}
 {"Name": "Team Phoenix GORE-TEX Gloves - Men's", "Price": "$63.73", "Image": "https://www.rei.com/media/2f724c90-1967-4e1c-b275-29a45b0c80a8.jpg"}
 {"Name": "Essential Midweight Balaclava Kit", "Price": "$20.73", "Image": "https://www.rei.com/media/a69ef378-0ab5-4f52-a1e9-5dab0bbd45d3.jpg"}
 {"Name": "Isthmus Anorak - Men's", "Price": "$109.73", "Image": "https://www.rei.com/media/2eedc550-dc16-42db-955f-0c47b6335a78.jpg"}
@@ -1332,7 +1314,6 @@
 {"Name": "Coldfront Down Mittens", "Price": "$36.83", "Image": "https://www.rei.com/media/bb2e80d5-b15c-46f5-b56c-05168164fca4.jpg"}
 {"Name": "Sureshot Soft-Shell Gloves - Men's", "Price": "$24.83", "Image": "https://www.rei.com/media/05f547ef-95c7-49af-868e-d7557469568c.jpg"}
 {"Name": "Canyonlands Jogger Pants - Men's", "Price": "$33.83 - $41.83", "Image": "https://www.rei.com/media/efe10c7d-e834-45c3-b07d-bf4caef80e6a.jpg"}
-{"Name": "Multi Synthetic Insulated Vest - Men's", "Price": "$38.83", "Image": "https://www.rei.com/media/7d3ad283-3c25-4d9e-a396-8a633ce0331d.jpg"}
 {"Name": "Baron GORE-TEX Trigger Mittens - Men's", "Price": "$77.93", "Image": "https://www.rei.com/media/60469510-aeec-46c3-a4ac-917648cb4485.jpg"}
 {"Name": "GORE-TEX 3-in-1 Mittens - Men's", "Price": "$58.93", "Image": "https://www.rei.com/media/a9f81eb8-6f12-4ae7-bb95-34421d6dd3e0.jpg"}
 {"Name": "Transcendr Pants - Men's", "Price": "$63.83", "Image": "https://www.rei.com/media/9691e857-341f-4693-b539-11fa3d22eab2.jpg"}
@@ -1347,12 +1328,10 @@
 {"Name": "PreCip Eco Jacket - Men's", "Price": "$74.73", "Image": "https://www.rei.com/media/88b6e429-fc70-4fb8-be48-6620e16aa0cb.jpg"}
 {"Name": "Hype Down Jacket - Men's", "Price": "$206.73", "Image": "https://www.rei.com/media/628bea1e-aabc-4890-bcf7-c24b450644dc.jpg"}
 {"Name": "Active Pursuits Tech Knit Full-Zip Hoodie - Men's", "Price": "$39.83", "Image": "https://www.rei.com/media/ef93975e-0dec-491d-9960-f8593500d520.jpg"}
-{"Name": "Trailsmith Overalls - Men's", "Price": "$44.83", "Image": "https://www.rei.com/media/2b797fb0-1b84-4965-9a64-7fbe6b268d52.jpg"}
-{"Name": "PRO Hypervent Running Split Shorts - Men's", "Price": "$20.73", "Image": "https://www.rei.com/media/5111fc90-4cb6-4858-bad3-e56dec16cfce.jpg"}
 {"Name": "Adv Hydro Cycling Pants - Men's", "Price": "$73.73", "Image": "https://www.rei.com/media/12605211-171b-4dd1-a0e9-40d5cb652417.jpg"}
 {"Name": "Frontier Hooded Jacket - Men's", "Price": "$129.73", "Image": "https://www.rei.com/media/8d0586f9-2746-42bf-a39c-bb009204b356.jpg"}
 {"Name": "Rigg Gloves", "Price": "$29.73", "Image": "https://www.rei.com/media/ae1a9c1c-4642-4307-a8b4-45c5df3d7d85.jpg"}
-{"Name": "Ferrosi Pants - Men's", "Price": " $69.93", "Image": "https://www.rei.com/media/e9afa6d0-65c2-4c58-9af6-35e82bc5d94a.jpg"}
+{"Name": "Ferrosi Pants - Men's", "Price": " $69.93", "Image": "https://www.rei.com/media/9b43ef9a-625d-41b7-85bb-5a8057f8f744.jpg"}
 {"Name": "Helium Wind Cap", "Price": "$25.73", "Image": "https://www.rei.com/media/d38d0f78-269d-434f-a085-cada45896a57.jpg"}
 {"Name": "Smokin' Axle Insulated Vest - Men's", "Price": "$101.73", "Image": "https://www.rei.com/media/1725d9b9-3416-47cc-ace9-babed3af78c9.jpg"}
 {"Name": "Abisko Trekking Tights Pro - Men's", "Price": "$74.83", "Image": "https://www.rei.com/media/7a851025-5f59-434a-a68f-d9360f7671e0.jpg"}
@@ -1364,7 +1343,6 @@
 {"Name": "Canyonlands Full-Zip Jacket - Men's", "Price": "$62.93", "Image": "https://www.rei.com/media/f8da5003-b532-416b-a1e8-22dfc10c582c.jpg"}
 {"Name": "Stretch Ozonic Jacket - Men's", "Price": "$114.83 - $137.83", "Image": "https://www.rei.com/media/6be64b3a-e490-4e0b-9114-3a7d0c427be6.jpg"}
 {"Name": "Paseo Travel Pocket T-Shirt - Men's", "Price": "$26.83", "Image": "https://www.rei.com/media/105daa0b-7ac3-483d-9cb3-682d6e5a78fd.jpg"}
-{"Name": "Merino Sport Hoodie - Men's", "Price": "$49.83", "Image": "https://www.rei.com/media/a45ef877-81de-4cb9-93ab-e3187e2797d2.jpg"}
 {"Name": "Sphere II Long-Sleeve Crewe T-Shirt - Men's", "Price": "$41.83", "Image": "https://www.rei.com/media/bb4bae1b-e89f-4ac0-a668-9c196f4b46d9.jpg"}
 {"Name": "Stretch Voyagr Jacket - Men's", "Price": "$88.83", "Image": "https://www.rei.com/media/d139c835-d61d-4c5e-9ad8-919740192891.jpg"}
 {"Name": "Microchill 2.0 Fleece Jacket - Men's", "Price": "$63.73", "Image": "https://www.rei.com/media/182ffd47-c82d-4f39-aa1a-afe91cc7ecef.jpg"}
@@ -1406,16 +1384,14 @@
 {"Name": "Stormhenge Down Hybrid Parka - Men's", "Price": "$148.83", "Image": "https://www.rei.com/media/09967137-e98a-4175-bf5a-a44068192fc4.jpg"}
 {"Name": "Stormhenge Down Hybrid Jacket - Men's", "Price": "$110.83", "Image": "https://www.rei.com/media/a55d358d-79ef-45ea-86b5-7fbe387f5ec1.jpg"}
 {"Name": "Fuego Down Jacket - Men's", "Price": "$134.83", "Image": "https://www.rei.com/media/eb0480da-4f48-4920-a98f-c21fae854002.jpg"}
-{"Name": "Ulterior Slim Pants - Men's", "Price": "$33.73 - $39.73", "Image": "https://www.rei.com/media/c901e98b-e8d7-441d-8c21-e8a898935dee.jpg"}
-{"Name": "Sustainer Cord Pants - Men's", "Price": "$58.73", "Image": "https://www.rei.com/media/53c2ace1-8539-49d0-b8da-8d8c107036ce.jpg"}
+{"Name": "Ulterior Slim Pants - Men's", "Price": "$39.73", "Image": "https://www.rei.com/media/c901e98b-e8d7-441d-8c21-e8a898935dee.jpg"}
 {"Name": "Trailsmith Jogger Pants - Men's", "Price": "$39.83", "Image": "https://www.rei.com/media/56018872-440e-4a69-9d50-c3ee2ec34e18.jpg"}
 {"Name": "Downdrift Jacket - Men's", "Price": " $163.83", "Image": "https://www.rei.com/media/e8b5273f-c9b0-40e8-995b-08774f2cca76.jpg"}
 {"Name": "Swiftland Running Pants - Men's", "Price": "$26.93", "Image": "https://www.rei.com/media/6448e3ad-19eb-4a43-af43-92cc049cde0b.jpg"}
 {"Name": "Powderbound Insulated Bib Snow Pants - Men's Short Sizes", "Price": "$98.83", "Image": "https://www.rei.com/media/256f0c85-6000-4dd2-a318-d93d234b3277.jpg"}
-{"Name": "Soloist Gloves", "Price": "$90.93", "Image": "https://www.rei.com/media/ef8326a9-5edd-439c-b44b-c0debfc28600.jpg"}
+{"Name": "Soloist Gloves", "Price": "$90.93", "Image": "https://www.rei.com/media/ce08f2c2-8994-4963-98b0-0817a186bcee.jpg"}
 {"Name": "Soloist Finger Gloves", "Price": " $90.93", "Image": "https://www.rei.com/media/e099d470-1d45-4ef1-b6d3-ea61c0b03642.jpg"}
 {"Name": "Glissade Mittens", "Price": "$55.93", "Image": "https://www.rei.com/media/9c96cc2d-a322-4016-9088-e5ddf2f6f44c.jpg"}
-{"Name": "Glissade Gloves", "Price": "$55.93", "Image": "https://www.rei.com/media/38e41d4a-da17-436b-9a5e-17b999c1014a.jpg"}
 {"Name": "Terminator Gloves", "Price": "$69.93", "Image": "https://www.rei.com/media/24ee3644-6065-4760-a227-f500f310f5cb.jpg"}
 {"Name": "Ferrosi Shorts - Men's 10\" Inseam", "Price": "$63.73", "Image": "https://www.rei.com/media/9499efef-1544-4cfc-a50d-2ca3533f89d3.jpg"}
 {"Name": "O.G. Swim Fins", "Price": "$24.83", "Image": "https://www.rei.com/media/53c695ab-8031-4619-8cf4-b4ea82f21b81.jpg"}
@@ -1436,7 +1412,6 @@
 {"Name": "Guide Insulated Mittens", "Price": "$24.83", "Image": "https://www.rei.com/media/760583df-20e2-4fcb-8f9e-c812365a6b36.jpg"}
 {"Name": "Bugaboo IV Snow Pants - Men's Short Sizes", "Price": "$59.83", "Image": "https://www.rei.com/media/53c561ea-8bb3-4afb-982b-fa2e1b741407.jpg"}
 {"Name": "Titan GORE-TEX Mittens - Men's", "Price": "$55.93", "Image": "https://www.rei.com/media/604ddb29-9143-4853-99fd-8cec1ac9fb24.jpg"}
-{"Name": "Dirt Pants - Men's", "Price": "$53.83", "Image": "https://www.rei.com/media/5ca0a432-1a87-443c-8344-2bf4e8f32ae6.jpg"}
 {"Name": "Lifa Merino Midweight Half-Zip Base Layer Top - Men's", "Price": "$54.83", "Image": "https://www.rei.com/media/39cda10c-3d42-4c72-90aa-fef971514aa2.jpg"}
 {"Name": "Law Fleece-Lined Hoodie - Men's", "Price": "$134.93", "Image": "https://www.rei.com/media/7673f4bc-e198-48ba-bd03-e53259a6fc10.jpg"}
 {"Name": "Carbide Sensor Mittens", "Price": " $59.83", "Image": "https://www.rei.com/media/a9e3c521-9e81-4c5f-bd23-92edc14b0274.jpg"}
@@ -1451,7 +1426,6 @@
 {"Name": "High Exposure GORE-TEX Split Mittens", "Price": "$104.73", "Image": "https://www.rei.com/media/e4bea8c9-7901-4276-8725-abe54013166b.jpg"}
 {"Name": "Ibex Mountain Pants - Men's", "Price": "$74.83", "Image": "https://www.rei.com/media/fd31df50-4f62-4a33-b242-5482d4a841a4.jpg"}
 {"Name": "Nano Puff Hoodie - Men's", "Price": "$143.73", "Image": "https://www.rei.com/media/a8862495-754f-4b53-88c5-4dc55c66b11e.jpg"}
-{"Name": "Sahara Long-Sleeve T-Shirt - Men's", "Price": "$24.93", "Image": "https://www.rei.com/media/38cb0ee1-a1da-4ba0-9107-85dcd0a235ca.jpg"}
 {"Name": "Sombriolet Sun Hat", "Price": "$28.73", "Image": "https://www.rei.com/media/67b3e01c-cd5d-47b8-9468-0b388f98f1f3.jpg"}
 {"Name": "Mogul II Insulated Gloves - Men's", "Price": "$26.73", "Image": "https://www.rei.com/media/17c65f35-4cdc-4ff8-bd4d-1f43ad2ec5aa.jpg"}
 {"Name": "Cirque Insulated Bib Pants - Men's", "Price": "$49.73", "Image": "https://www.rei.com/media/a1257ce7-a56d-47b6-ab6e-de666f039b0f.jpg"}
@@ -1459,20 +1433,17 @@
 {"Name": "ThermoNet Balaclava", "Price": "$21.73", "Image": "https://www.rei.com/media/286ba05c-0a69-4223-a738-2eac7ceb0c46.jpg"}
 {"Name": "Absolute Mittens", "Price": "$188.93", "Image": "https://www.rei.com/media/691309b3-3c42-49fa-99b1-b6dcb716f17b.jpg"}
 {"Name": "Mont Blanc Gloves", "Price": "$16.93", "Image": "https://www.rei.com/media/9c22785b-aa39-4478-be4a-f7fcce26ee1d.jpg"}
-{"Name": "AK GORE-TEX Cyclic Jacket - Men's", "Price": "$321.93", "Image": "https://www.rei.com/media/db8f880c-c66b-4730-9824-0d89dc60d357.jpg"}
+{"Name": "AK GORE-TEX Cyclic Jacket - Men's", "Price": "$321.93", "Image": "https://www.rei.com/media/73ba2b1e-d1ef-4b62-b84f-d6ab61abee4c.jpg"}
 {"Name": "AquaBloc Down Gauntlet II Gloves - Men's", "Price": "$52.73", "Image": "https://www.rei.com/media/1ff8f989-51ba-46a1-ac32-b78cf54fad2b.jpg"}
 {"Name": "Whirlibird IV Interchange 3-in-1 Jacket - Men's", "Price": "$114.83", "Image": "https://www.rei.com/media/aa12fc8a-152c-4f72-95a7-055c3f181b37.jpg"}
 {"Name": "Fission SV Mittens", "Price": "$125.93", "Image": "https://www.rei.com/media/fb3b3aa6-c423-44b7-bd23-2375e22c906c.jpg"}
 {"Name": "Fission SV Gloves", "Price": " $139.93", "Image": "https://www.rei.com/media/70babb40-3e0b-4aff-8913-b8ab8b851829.jpg"}
 {"Name": "Vidda Pro Ventilated Trousers - Men's", "Price": "$89.93", "Image": "https://www.rei.com/media/a2f9909d-6baa-4a3c-a926-20140253428c.jpg"}
 {"Name": "Active Warm Originals Base Layer Top - Men's", "Price": "$34.83", "Image": "https://www.rei.com/media/f7d89289-a094-464d-b15e-ec3bfd19180b.jpg"}
-{"Name": "Tundra Aerogel Balaclava", "Price": "$28.83", "Image": "https://www.rei.com/media/37126d6a-b2fd-487b-9acb-d96c31b97a3b.jpg"}
 {"Name": "Vigor Heavyweight Sensor Gloves - Men's", "Price": "$21.83", "Image": "https://www.rei.com/media/ca77d9a8-b681-414e-9d6f-1c3abceda16c.jpg"}
 {"Name": "Notion Pants - Men's", "Price": "$46.83", "Image": "https://www.rei.com/media/779b4ce4-b96e-4b45-bb0f-bd48e4a7f9d5.jpg"}
 {"Name": "Sport Hat", "Price": "$31.73", "Image": "https://www.rei.com/media/c03231ff-5089-4eda-8357-25617785f703.jpg"}
 {"Name": "Keb Trousers - Men's", "Price": " $119.93", "Image": "https://www.rei.com/media/c00f24c4-f9a6-4ac5-8d70-e2bb85d06806.jpg"}
-{"Name": "Law Pants - Men's", "Price": "$64.93", "Image": "https://www.rei.com/media/fa043530-60dd-4d8d-8c46-840677b4753f.jpg"}
-{"Name": "Spyfire Down Hoodie - Men's", "Price": "$143.83", "Image": "https://www.rei.com/media/5c49b4fb-35ab-4f91-b721-aee7a75bd4cd.jpg"}
 {"Name": "Army Leather Extreme Mittens", "Price": "$139.93", "Image": "https://www.rei.com/media/dd2d1724-d734-4dc7-9224-5e02bc4127bb.jpg"}
 {"Name": "XeroDry GTX Pants - Men's", "Price": "$43.83", "Image": "https://www.rei.com/media/4612859e-16c0-4563-8b13-453c9a8fe278.jpg"}
 {"Name": "Guide Insulated Gloves", "Price": "$24.83", "Image": "https://www.rei.com/media/62f47f89-6705-4e50-be96-ec8fc5a9ef99.jpg"}
@@ -1494,7 +1465,7 @@
 {"Name": "Juniper Springs 5\" Shorts - Men's", "Price": "$36.73", "Image": "https://www.rei.com/media/690e1845-814d-4b14-801e-1bacfc1d62bc.jpg"}
 {"Name": "Bike Zero Cushion Crew Socks", "Price": "$16.73", "Image": "https://www.rei.com/media/7798503c-df13-4ebe-9aa7-2420fdd3f72c.jpg"}
 {"Name": "Orion Snow Pants - Men's", "Price": "$109.73", "Image": "https://www.rei.com/media/773819b3-4e68-4c2a-830a-bdd1bcfa9dfb.jpg"}
-{"Name": "Lightweight All-Wear Hemp Shorts - Men's 8\" Inseam", "Price": "$43.73", "Image": "https://www.rei.com/media/e8bafc72-ebcc-4b50-8cda-b3dbc3025bc2.jpg"}
+{"Name": "Lightweight All-Wear Hemp Shorts - Men's 8\" Inseam", "Price": "$43.73", "Image": "https://www.rei.com/media/3921624a-1a50-491d-87cb-2d8416b6cb42.jpg"}
 {"Name": "Threshold Pants - Men's", "Price": "$111.73", "Image": "https://www.rei.com/media/a96b0324-30e4-4eb6-bf46-e7352e61b904.jpg"}
 {"Name": "Sogn Bib Cargo Snow Pants - Men's", "Price": "$185.73", "Image": "https://www.rei.com/media/a6b4e991-9cab-41f7-b61b-8ba89d3751b4.jpg"}
 {"Name": "Coldfront Down Hoodie - Men's", "Price": "$165.73", "Image": "https://www.rei.com/media/78b2f2d9-ac37-407a-8c1a-57d03571bce1.jpg"}
@@ -1601,7 +1572,7 @@
 {"Name": "The Only Polo Shirt - Men's", "Price": "$49.73", "Image": "https://www.rei.com/media/b51423b2-38f8-4248-a210-a33ee70ef953.jpg"}
 {"Name": "ReadyDry 4\" Boxer Briefs - Men's", "Price": "$19.73", "Image": "https://www.rei.com/media/ed828b59-9fa6-4573-82b5-9d1bd46f769d.jpg"}
 {"Name": "Fuego Hooded Down Jacket - Men's", "Price": " $146.83", "Image": "https://www.rei.com/media/62f01eb3-248a-4591-9559-7f5e80d9ea0d.jpg"}
-{"Name": "Transcendr Hoodie - Men's", "Price": "$111.73", "Image": "https://www.rei.com/media/767b947c-ffef-475d-8821-ebe580371b52.jpg"}
+{"Name": "Transcendr Hoodie - Men's", "Price": "$111.73", "Image": "https://www.rei.com/media/2625358f-8a73-427f-b1be-c4d175d0f979.jpg"}
 {"Name": "Juniper 3.0 Insulated Jacket - Men's", "Price": "$299.73", "Image": "https://www.rei.com/media/cf9452d5-aea9-4822-bee2-92eca4e35399.jpg"}
 {"Name": "Merino Wool 3/4 Crew Socks", "Price": "$17.73", "Image": "https://www.rei.com/media/d13000b6-fe8c-45d0-8d75-dfa48ff01909.jpg"}
 {"Name": "Pure Pants - Men's", "Price": "$56.73", "Image": "https://www.rei.com/media/f0accead-a024-4981-8c66-0fd6292a615d.jpg"}
@@ -1787,7 +1758,7 @@
 {"Name": "Everyday Spruce Street Crew Socks", "Price": "$15.73", "Image": "https://www.rei.com/media/8a875eee-3b6c-4dc7-b43e-85bc43510d4c.jpg"}
 {"Name": "BugsAway Everyday Knit Long-Sleeve Shirt - Men's", "Price": "$56.73", "Image": "https://www.rei.com/media/a8716b43-bcff-4172-adec-48977389712c.jpg"}
 {"Name": "First Light Hybrid Insulated Hoodie - Men's", "Price": "$184.73", "Image": "https://www.rei.com/media/571889c9-50ad-4d1b-bdd1-321cdc0fb4a6.jpg"}
-{"Name": "Swiftland Grid Running Tank Top - Men's", "Price": " $23.93", "Image": "https://www.rei.com/media/3888ef2f-efff-4b5b-ae8a-f4ac9c1ffd26.jpg"}
+{"Name": "Swiftland Grid Running Tank Top - Men's", "Price": " $16.83", "Image": "https://www.rei.com/media/3888ef2f-efff-4b5b-ae8a-f4ac9c1ffd26.jpg"}
 {"Name": "Fun Hog Beanie", "Price": "$26.73", "Image": "https://www.rei.com/media/0130d471-0ee8-4fb3-bbe5-5469e3578afb.jpg"}
 {"Name": "Own The Run Shorts - Men's", "Price": "$26.73", "Image": "https://www.rei.com/media/493e4410-f636-4807-b04f-bdf202c0bc5e.jpg"}
 {"Name": "Runbold Light Pants - Men's", "Price": "$66.73", "Image": "https://www.rei.com/media/1eceba5b-3139-4ed8-b486-7522d90f39f6.jpg"}
@@ -1896,7 +1867,7 @@
 {"Name": "Alt HB Insulated Hoodie - Men's", "Price": "$109.73", "Image": "https://www.rei.com/media/d42667b6-ee43-4798-9b8f-574ccdf66f8e.jpg"}
 {"Name": "Baron GORE-TEX Mittens - Men's", "Price": "$79.73", "Image": "https://www.rei.com/media/101109ab-4a78-426e-93cd-8f93f1ea19cc.jpg"}
 {"Name": "Intraknit Merino Fleece Full-Zip Hoodie - Men's", "Price": "$159.73", "Image": "https://www.rei.com/media/eb1425d0-2520-4875-b7df-e868629ad660.jpg"}
-{"Name": "Trailsmith Fleece Jacket - Men's", "Price": " $44.83", "Image": "https://www.rei.com/media/07663207-6c5b-49ea-a2a4-39b42cada70a.jpg"}
+{"Name": "Trailsmith Fleece Jacket - Men's", "Price": " $44.83", "Image": "https://www.rei.com/media/dc05d94f-717f-41f7-84f6-1878cbb7f4c3.jpg"}
 {"Name": "Glennaker Lake Jacket - Men's", "Price": "$37.73 - $50.73", "Image": "https://www.rei.com/media/c81069dd-739a-4f64-b388-b4c54133859d.jpg"}
 {"Name": "Canyon Camp Shorts - Men's", "Price": "$59.73", "Image": "https://www.rei.com/media/42477b99-d2f9-4e86-910b-42b6cb8b6a5e.jpg"}
 {"Name": "Smartloft Jacket - Men's", "Price": "$156.73", "Image": "https://www.rei.com/media/033ad82b-825d-4101-b3c7-43a07567a372.jpg"}
@@ -2317,7 +2288,7 @@
 {"Name": "Sun Guide Hat - Men's", "Price": "$32.73", "Image": "https://www.rei.com/media/0e33a724-789f-4a33-8dec-77af77a54033.jpg"}
 {"Name": "Meridian Thermal Cap", "Price": "$31.73", "Image": "https://www.rei.com/media/42bdaed8-3fc5-4d3d-ace3-34a8457a79fd.jpg"}
 {"Name": "Norval Merino Knitted Beanie", "Price": "$31.73", "Image": "https://www.rei.com/media/d7a5e026-2f1e-4df6-b4ac-33811df2169b.jpg"}
-{"Name": "LIFALOFT Hooded Insulator Jacket - Men's", "Price": "$159.73 - $172.73", "Image": "https://www.rei.com/media/3b9e2e87-5912-4c20-87e2-b5153a19883e.jpg"}
+{"Name": "LIFALOFT Hooded Insulator Jacket - Men's", "Price": "$172.73", "Image": "https://www.rei.com/media/3b9e2e87-5912-4c20-87e2-b5153a19883e.jpg"}
 {"Name": "Ventura Hat - Men's", "Price": "$29.73", "Image": "https://www.rei.com/media/8bc7ad56-fca5-4cd3-8f3f-7f8dd50afec7.jpg"}
 {"Name": "Andy Merino Beanie", "Price": "$29.73", "Image": "https://www.rei.com/media/214701df-5612-404d-8fb0-bee30bfbec5e.jpg"}
 {"Name": "Yukon Cap", "Price": "$29.73", "Image": "https://www.rei.com/media/3bd579e4-1b22-4943-a224-788f8946ab97.jpg"}
@@ -2459,7 +2430,6 @@
 {"Name": "Sense Aero 3\" Shorts - Men's", "Price": " $34.83", "Image": "https://www.rei.com/media/e524e302-3326-4a96-a288-063a6a5a0f69.jpg"}
 {"Name": "Cirque II Pants - Men's", "Price": " $110.93", "Image": "https://www.rei.com/media/3a4d4653-000e-48af-9464-d0db38ad2cc7.jpg"}
 {"Name": "Back Step Shirt - Men's", "Price": "$38.83 - $54.99", "Image": "https://www.rei.com/media/0ff07a7e-1251-46a7-a4c2-158dae4b44f8.jpg"}
-{"Name": "Rover Merino Hoodie - Men's", "Price": " $63.83", "Image": "https://www.rei.com/media/5c7ef850-26a7-4f00-987b-be1e91ca6769.jpg"}
 {"Name": "Xenair Alpine Light Insulated Jacket - Men's", "Price": " $111.83", "Image": "https://www.rei.com/media/0205ec49-5d32-415a-8c52-b67aa8ab6fbe.jpg"}
 {"Name": "Line Logo Ridge Pocket Responsibili-Tee T-Shirt - Men's", "Price": " $30.93", "Image": "https://www.rei.com/media/07e60a1c-70e0-4be2-b1c6-89a5398f7c29.jpg"}
 {"Name": "Hikebound Jacket - Men's", "Price": " $55.93", "Image": "https://www.rei.com/media/2ad23691-3f3e-4bc7-8fc1-213ff810d36f.jpg"}
@@ -2472,7 +2442,7 @@
 {"Name": "Alpha 4.0 Insulated Jacket - Men's", "Price": " $331.93", "Image": "https://www.rei.com/media/9f8334a5-c29b-49e6-96f9-35fe51460437.jpg"}
 {"Name": "Ridge Infinity Bib Shell Pants - Men's", "Price": " $299.83", "Image": "https://www.rei.com/media/9a21423e-0af3-4d36-a29a-0b0f4165448a.jpg"}
 {"Name": "Expedition Down Lite Jacket - Men's", "Price": " $274.83", "Image": "https://www.rei.com/media/b141afbc-56c6-46c8-959b-8a63138fc024.jpg"}
-{"Name": "Borealis Jacket - Men's", "Price": " $59.83", "Image": "https://www.rei.com/media/48647e71-1021-467f-9e86-820378c5aad4.jpg"}
+{"Name": "Borealis Jacket - Men's", "Price": " $83.93", "Image": "https://www.rei.com/media/48647e71-1021-467f-9e86-820378c5aad4.jpg"}
 {"Name": "R1 TechFace Hoodie - Men's", "Price": " $152.93", "Image": "https://www.rei.com/media/262ffe70-e64d-4b89-b404-c14f749b296f.jpg"}
 {"Name": "Utilitas Zip-Off Hiking Pants - Men's", "Price": " $94.93", "Image": "https://www.rei.com/media/495d6b44-e7b4-4949-b4e4-a4fc2aa5b921.jpg"}
 {"Name": "Triolet Jacket - Men's", "Price": " $313.93", "Image": "https://www.rei.com/media/eda691d2-b4b5-446f-b5f9-ea0514d33ce3.jpg"}
@@ -2486,11 +2456,11 @@
 {"Name": "PFG Tamiami II Long-Sleeve Shirt - Men's", "Price": " $37.93", "Image": "https://www.rei.com/media/bdf7bf8d-d7b9-4d0a-9cb5-5f98e1dd15dd.jpg"}
 {"Name": "Capilene Cool Trail Long-Sleeve Shirt - Men's", "Price": " $37.93", "Image": "https://www.rei.com/media/8624f06b-1167-4e9b-9c41-90b1dbe6255c.jpg"}
 {"Name": "Better Sweater Vest - Men's", "Price": " $82.93", "Image": "https://www.rei.com/media/13b01f9b-b3f7-4556-a4c8-3386223f88d8.jpg"}
-{"Name": "Do Good Crew Sweatshirt - Men's", "Price": " $31.83", "Image": "https://www.rei.com/media/2767b65b-aa44-4fef-ad65-1c785c5ee775.jpg"}
+{"Name": "Do Good Crew Sweatshirt - Men's", "Price": " $31.83", "Image": "https://www.rei.com/media/b332512f-97e5-4d2d-875f-dc95ac2b54ef.jpg"}
 {"Name": "Active Pursuits T-Shirt - Men's", "Price": " $14.83", "Image": "https://www.rei.com/media/25e3e80b-495c-48f1-92f0-ac9654b2e60b.jpg"}
 {"Name": "Performance-T Shirt - Men's", "Price": " $55.93", "Image": "https://www.rei.com/media/e6b470ac-6460-4578-a04e-b4f8cc5a265b.jpg"}
 {"Name": "Capilene Cool Lightweight Shirt - Men's", "Price": " $33.93", "Image": "https://www.rei.com/media/fec1c5b6-51a9-4769-b210-603e9fed2d6e.jpg"}
-{"Name": "Nano Puff Insulated Vest - Men's", "Price": " $88.83", "Image": "https://www.rei.com/media/015c2831-2bee-4bb2-85a3-33efc38ba086.jpg"}
+{"Name": "Nano Puff Insulated Vest - Men's", "Price": " $93.83", "Image": "https://www.rei.com/media/015c2831-2bee-4bb2-85a3-33efc38ba086.jpg"}
 {"Name": "Dirtbag Shorts - Men's", "Price": " $62.93", "Image": "https://www.rei.com/media/f781e09f-84ab-4cc7-ba44-64eb13961e7e.jpg"}
 {"Name": "Merino 185 Long-Sleeve Base Layer Top - Men's", "Price": " $39.83", "Image": "https://www.rei.com/media/2ba37283-c909-4790-98f5-81426043530b.jpg"}
 {"Name": "Performance Polo Shirt - Men's", "Price": " $28.83", "Image": "https://www.rei.com/media/7d66df6c-436b-46b7-a298-ea638c6ce836.jpg"}
@@ -2511,7 +2481,7 @@
 {"Name": "Quandary Pants - Men's", "Price": " $68.93", "Image": "https://www.rei.com/media/1f2dd9db-b7a1-4c82-bd7f-969be677f715.jpg"}
 {"Name": "Sombra Sun Hoodie - Men's", "Price": " $54.93", "Image": "https://www.rei.com/media/73dadc39-722d-47e8-8a82-d6aa1a6e6375.jpg"}
 {"Name": "Capilene Cool Daily Shirt - Men's", "Price": " $30.93", "Image": "https://www.rei.com/media/9bbbdeff-99d8-4450-a644-9ba49800d2be.jpg"}
-{"Name": "Midweight Long-Sleeve Base Layer Top - Men's", "Price": " $26.83", "Image": "https://www.rei.com/media/86e77b1b-ae02-451d-9315-1411239d1da2.jpg"}
+{"Name": "Midweight Long-Sleeve Base Layer Top - Men's", "Price": " $37.93", "Image": "https://www.rei.com/media/86e77b1b-ae02-451d-9315-1411239d1da2.jpg"}
 {"Name": "Expedition Down Jacket - Men's", "Price": " $374.83", "Image": "https://www.rei.com/media/cb5bc7df-37ed-48f1-84ad-e2df919c2b1c.jpg"}
 {"Name": "Cerium Down Hoodie - Men's", "Price": " $239.83", "Image": "https://www.rei.com/media/bac8a70a-8f4c-48e6-971a-fff2277e7ce7.jpg"}
 {"Name": "Classic All-Season Merino Long-Sleeve Base Layer Top - Men's", "Price": " $62.93", "Image": "https://www.rei.com/media/292099e2-5188-43ba-b5ae-dc11f0b47c40.jpg"}
@@ -2563,7 +2533,7 @@
 {"Name": "Capilene Midweight Crew Base Layer Top - Men's", "Price": " $54.93", "Image": "https://www.rei.com/media/c1a3bcf2-ad7b-4193-af31-2f276336f3b6.jpg"}
 {"Name": "AFO Middle Shorts - Men's 5\" Inseam", "Price": " $34.83", "Image": "https://www.rei.com/media/8d647c79-5bb7-4270-81d0-a2d6b5a44df9.jpg"}
 {"Name": "Dune Sky Long-Sleeve Crew Shirt - Men's", "Price": " $41.93", "Image": "https://www.rei.com/media/983b4bb5-75f9-4926-9acb-6a6b9269e248.jpg"}
-{"Name": "Capilene Midweight Zip-Neck Base Layer Top - Men's", "Price": " $43.83", "Image": "https://www.rei.com/media/6a4debf5-9054-485a-8c8b-c170d4e8e6ab.jpg"}
+{"Name": "Capilene Midweight Zip-Neck Base Layer Top - Men's", "Price": " $61.93", "Image": "https://www.rei.com/media/6a4debf5-9054-485a-8c8b-c170d4e8e6ab.jpg"}
 {"Name": "Cielo Rain Jacket - Men's", "Price": " $71.83", "Image": "https://www.rei.com/media/562f3b51-3fa1-44eb-b73e-cb57ce437f93.jpg"}
 {"Name": "Midweight Base Layer Half-Zip Top - Men's", "Price": " $29.83", "Image": "https://www.rei.com/media/1f746236-cc83-427a-8c92-99c93db41231.jpg"}
 {"Name": "Merino 185 Base Layer Top - Men's", "Price": " $48.93", "Image": "https://www.rei.com/media/cace6713-2421-45e4-b5a4-565b40074191.jpg"}
@@ -2571,7 +2541,7 @@
 {"Name": "Hydrenalite Down Hoodie - Men's", "Price": " $124.83", "Image": "https://www.rei.com/media/a4a71e1f-4974-4ff4-b5b2-a777b8327593.jpg"}
 {"Name": "Mathis Core T-Shirt - Men's", "Price": " $33.93", "Image": "https://www.rei.com/media/8e417c7e-5851-4b9d-a7cc-13cc94d853e8.jpg"}
 {"Name": "Subo Pants - Men's", "Price": " $64.93", "Image": "https://www.rei.com/media/d6a6c6a2-6875-4cb6-8c3a-fe4f6a9c669e.jpg"}
-{"Name": "Interceptr Full-Zip Jacket - Men's", "Price": " $68.83", "Image": "https://www.rei.com/media/36c3588d-094f-4220-8f0b-28f3c65bff07.jpg"}
+{"Name": "Interceptr Full-Zip Jacket - Men's", "Price": " $68.83", "Image": "https://www.rei.com/media/96c221ad-7e69-4ec8-a5a1-6a27924322af.jpg"}
 {"Name": "Sahara Polo Shirt - Men's", "Price": " $34.93", "Image": "https://www.rei.com/media/049c682a-c462-4745-8f0d-8cee0743732f.jpg"}
 {"Name": "Classic Thermal Merino Crew Base Layer Top - Men's", "Price": " $79.93", "Image": "https://www.rei.com/media/017c50b2-cb2c-43e0-81a1-61c62352f520.jpg"}
 {"Name": "P-6 Logo Uprisal Hoodie", "Price": " $61.93", "Image": "https://www.rei.com/media/d14e30e4-86f0-472c-8c92-bc453eab9138.jpg"}
@@ -2615,6 +2585,7 @@
 {"Name": "Notch Thermal Hoodie 2.0 - Men's", "Price": " $48.83", "Image": "https://www.rei.com/media/9ffadcea-04f2-498e-b255-98983a18f421.jpg"}
 {"Name": "Vented Trailsmith Hat", "Price": " $37.93", "Image": "https://www.rei.com/media/e04c5fed-8eb7-4fe9-a7bb-0d2dae843730.jpg"}
 {"Name": "Woodrow 2-in-1 Run Shorts - Men's", "Price": " $47.83", "Image": "https://www.rei.com/media/c238ba79-40ee-4235-bb8c-a7d1e4f5c0af.jpg"}
+{"Name": "P-6 Logo LoPro Trucker Hat", "Price": " $26.93", "Image": "https://www.rei.com/media/ade63783-af8f-4dff-910f-7459cbb77bfe.jpg"}
 {"Name": "Distance T-Shirt 3.0 - Men's", "Price": " $18.83", "Image": "https://www.rei.com/media/c9bf07ae-9e12-4d63-bdb0-371863e61aa5.jpg"}
 {"Name": "Dri-FIT Rise 365 Running Top - Men's", "Price": " $26.83", "Image": "https://www.rei.com/media/d6d3bc7b-d435-46e8-8dcf-6bfe1ae46895.jpg"}
 {"Name": "Active Lined 7\" Shorts - Men's", "Price": " $58.93", "Image": "https://www.rei.com/media/9b259831-b718-44b8-9051-84d1b81de7ff.jpg"}
@@ -2641,7 +2612,6 @@
 {"Name": "Versatility Pants - Men's", "Price": " $58.83", "Image": "https://www.rei.com/media/3d5d7bdc-3666-483d-b30a-357ecc010daf.jpg"}
 {"Name": "Spacedye Take It Easy Pants - Men's", "Price": " $48.83", "Image": "https://www.rei.com/media/df0756b8-a97b-40b5-ab47-4664763d812f.jpg"}
 {"Name": "Vigor Grid Fleece Full-Zip Hoodie - Men's", "Price": " $83.93", "Image": "https://www.rei.com/media/215b097a-8a78-496b-830e-06e880f3c5d2.jpg"}
-{"Name": "Ripstop Pants - Men's", "Price": " $48.83", "Image": "https://www.rei.com/media/c9b8944a-14f0-467b-886c-155017215d1a.jpg"}
 {"Name": "Active Pursuits Boxy T-Shirt", "Price": " $21.83", "Image": "https://www.rei.com/media/52772f33-9dd3-4c23-860b-97dc77c37cb4.jpg"}
 {"Name": "120 Cool Tec Clean Base Layer T-Shirt - Men's", "Price": " $62.93", "Image": "https://www.rei.com/media/287d69ff-309a-4e47-89e9-0eb34dce0e00.jpg"}
 {"Name": "Abisko Sun Hoodie - Men's", "Price": " $69.93", "Image": "https://www.rei.com/media/35e1dcb1-e9a9-4336-bc49-e2a90b2b8c81.jpg"}
@@ -2713,9 +2683,10 @@
 {"Name": "COOLMAX EcoMade Everyday Low Socks - 2 Pairs", "Price": "$6.83", "Image": "https://www.rei.com/media/2fd30cc1-5fee-4b42-a9f8-8db8f5608d02.jpg"}
 {"Name": "Traditions Snow OTC Socks", "Price": "$9.73", "Image": "https://www.rei.com/media/d1a5a01d-c243-4099-b448-adfef26a4a26.jpg"}
 {"Name": "1938 Graphic T-Shirt", "Price": "$9.83", "Image": "https://www.rei.com/media/add11a0f-a496-4bc2-bf83-91adf36eb9a2.jpg"}
+{"Name": "Trail Mix Earband", "Price": "$8.83", "Image": "https://www.rei.com/media/842c7295-356a-472e-84e7-7e295b7b6985.jpg"}
 {"Name": "REPREVE Active Low Socks", "Price": "$8.73", "Image": "https://www.rei.com/media/a132836f-45f8-43ea-8807-462089461c25.jpg"}
 {"Name": "Multisport Socks", "Price": "$9.73", "Image": "https://www.rei.com/media/a9d8e047-4a63-4f83-8e5a-f71fe1adefdc.jpg"}
 {"Name": "Polar Neckwarmer", "Price": "$9.73", "Image": "https://www.rei.com/media/7dbb9579-e93f-484e-b99a-dfb95b268cc2.jpg"}
 {"Name": "Liner Crew Socks", "Price": " $7.93", "Image": "https://www.rei.com/media/17614921-7861-4857-a056-f89ab2d902a6.jpg"}
-{"Name": "Ghost Lite Crew Socks", "Price": " $8.93", "Image": "https://www.rei.com/media/1e6b2da0-6f67-427a-a2e9-f0b252244ee1.jpg"}
+{"Name": "Ghost Lite Crew Socks", "Price": " $8.93", "Image": "https://www.rei.com/media/3fddca55-80c3-42c9-b287-9ed7b615797b.jpg"}
 {"Name": "Trailsmith Merino Wool Crew Socks", "Price": " $7.83", "Image": "https://www.rei.com/media/e86b417e-acd6-4948-97ce-cac6be592fdd.jpg"}
