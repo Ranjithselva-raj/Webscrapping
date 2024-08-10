@@ -162,6 +162,5 @@ def main():
             print(f"{len(content)} items written to {category}.json")
     print("done")
 
-
 if __name__ == "__main__":
     main()

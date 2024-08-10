@@ -1,2 +1,5 @@
 httpx
 selectolax
+urllib3
+ipykernel
+pandas
