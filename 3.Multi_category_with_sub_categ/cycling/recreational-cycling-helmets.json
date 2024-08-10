@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "major mips bike helmet - men's",
+        "Price": "$59.73",
+        "Image": "https://www.rei.com/media/822014b0-bcae-42bd-88fe-ec4adb2d021b.jpg"
+    },
+    {
+        "Name": "maze bike helmet",
+        "Price": "$59.73",
+        "Image": "https://www.rei.com/media/2f67d37e-7968-4b00-8621-37271bbedea0.jpg"
+    },
+    {
+        "Name": "myelin bike helmet",
+        "Price": "$49.93",
+        "Image": "https://www.rei.com/media/dabb7027-f864-4635-a030-feba2ce48788.jpg"
+    },
+    {
+        "Name": "watts 2.0 mips winter helmet with compass fit - men's",
+        "Price": "$76.73",
+        "Image": "https://www.rei.com/media/f9464961-525d-4ffa-a691-3bd41878ab38.jpg"
+    },
+    {
+        "Name": "starvos wavecel round fit bike helmet",
+        "Price": "$47.93",
+        "Image": "https://www.rei.com/media/92dadb83-d821-478d-b296-fa4181014518.jpg"
+    },
+    {
+        "Name": "starvos wavecel bike helmet",
+        "Price": "$64.83",
+        "Image": "https://www.rei.com/media/405846cc-dd2e-4580-a1b6-6d4dc4fa6cfa.jpg"
+    },
+    {
+        "Name": "flight bike helmet",
+        "Price": "$41.73",
+        "Image": "https://www.rei.com/media/02647366-852b-4825-b1d5-a19c3a34f036.jpg"
+    },
+    {
+        "Name": "chapter mips bike helmet",
+        "Price": "$107.93",
+        "Image": "https://www.rei.com/media/7ed31da1-90f4-44f4-b765-fd899b75253c.jpg"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "coaster bike",
+        "Price": "$342.93",
+        "Image": "https://www.rei.com/media/fe1dc405-cbf2-4849-9c4e-cb3e78e9c88d.jpg"
+    },
+    {
+        "Name": "cruiser 1 24\" step-over bike",
+        "Price": "$299.93",
+        "Image": "https://www.rei.com/media/8b65d5e9-043a-4607-9621-320910c14967.jpg"
+    },
+    {
+        "Name": "dusk loft go! 7d eq step-thru electric bike",
+        "Price": "$1,359.93",
+        "Image": "https://www.rei.com/media/e5275068-5ca2-4a1e-91a7-d36af7fe2821.jpg"
+    },
+    {
+        "Name": "townie go! 8d eq step-over electric bike",
+        "Price": "$1,959.93",
+        "Image": "https://www.rei.com/media/86d890b1-78a7-4bec-8ba9-2da5b8589d3d.jpg"
+    }
+]

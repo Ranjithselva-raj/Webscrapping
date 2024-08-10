@@ -1,0 +1,407 @@
+[
+    {
+        "Name": "super 5k smartphone armband",
+        "Price": "$15.73",
+        "Image": "https://www.rei.com/media/71be12bb-c8c6-4019-b096-14129bb01053.jpg"
+    },
+    {
+        "Name": "roadtripper 60 duffel",
+        "Price": "$41.93",
+        "Image": "https://www.rei.com/media/d99907a5-63a1-4ba9-b8ef-0d589a62f2c6.jpg"
+    },
+    {
+        "Name": "roadtripper 100 duffel",
+        "Price": "$48.93",
+        "Image": "https://www.rei.com/media/4b4a565d-92f4-41c6-83e9-7083b8656f45.jpg"
+    },
+    {
+        "Name": "eddy+ renew water bottle - 25 fl. oz.",
+        "Price": " $10.93",
+        "Image": "https://www.rei.com/media/37ed2218-ea43-47b4-9a7b-08e5d08017e8.jpg"
+    },
+    {
+        "Name": "malibu recovery slide sandals",
+        "Price": "$41.93",
+        "Image": "https://www.rei.com/media/9d225f43-6b99-4a39-8389-fd77e77665cf.jpg"
+    },
+    {
+        "Name": "roadtripper 40 duffel",
+        "Price": "$34.93",
+        "Image": "https://www.rei.com/media/230bc1b6-99bc-4a07-a885-d9736752aead.jpg"
+    },
+    {
+        "Name": "xinglet optic beam lite flashing reflective vest",
+        "Price": "$34.93",
+        "Image": "https://www.rei.com/media/477fb15a-1157-4cb1-b481-398d3104db4b.jpg"
+    },
+    {
+        "Name": "ecobuds true wireless earbuds",
+        "Price": "$29.99",
+        "Image": "https://www.rei.com/media/ee24b58e-6a63-4a59-a826-cad06eacfb7b.jpg"
+    },
+    {
+        "Name": "wide-mouth vacuum water bottle with flex straw cap - 32 fl. oz.",
+        "Price": " $30.93",
+        "Image": "https://www.rei.com/media/ff396282-e7e6-4234-8931-9c4ba2325486.jpg"
+    },
+    {
+        "Name": "versa-light max usb safety light",
+        "Price": "$23.93",
+        "Image": "https://www.rei.com/media/e93bc415-7860-482d-9d66-c67990f2c6ce.jpg"
+    },
+    {
+        "Name": "founder vacuum water bottle with union top - 32 fl. oz.",
+        "Price": "$45.93",
+        "Image": "https://www.rei.com/media/9141e7f0-be86-49b3-8eb6-33e5d1f3f395.jpg"
+    },
+    {
+        "Name": "sleek organizer",
+        "Price": "$31.93",
+        "Image": "https://www.rei.com/media/e5d452c5-3f34-46a0-9ec1-7c1b56c239e6.jpg"
+    },
+    {
+        "Name": "sleek snack tray",
+        "Price": "$31.93",
+        "Image": "https://www.rei.com/media/6f3ac554-0a9a-4fd6-b9c2-9d0e56d513cd.jpg"
+    },
+    {
+        "Name": "misting fan",
+        "Price": "$38.93",
+        "Image": "https://www.rei.com/media/03249b24-7eaf-4e7c-ac6c-1372da03b435.jpg"
+    },
+    {
+        "Name": "maker vacuum water bottle with element top - 10 fl. oz.",
+        "Price": "$29.73",
+        "Image": "https://www.rei.com/media/bbdedd2a-0e19-4515-8240-dfb9f1a1320a.jpg"
+    },
+    {
+        "Name": "multibev insulated water bottle - 22 fl. oz.",
+        "Price": "$26.73",
+        "Image": "https://www.rei.com/media/73b101b5-37e2-40c2-be26-87aff3fb008b.jpg"
+    },
+    {
+        "Name": "big haul 90 recycled duffel",
+        "Price": "$110.93",
+        "Image": "https://www.rei.com/media/48670f5b-2cd4-45de-a236-042f79412f34.jpg"
+    },
+    {
+        "Name": "heritage duffel",
+        "Price": "$69.73",
+        "Image": "https://www.rei.com/media/ea71a91b-ebd8-4e46-ae9c-aee91c7e366a.jpg"
+    },
+    {
+        "Name": "saferrun ripcord siren personal alarm and strobe light",
+        "Price": "$20.73",
+        "Image": "https://www.rei.com/media/7dc884eb-aa33-4608-b456-0c02803bef66.jpg"
+    },
+    {
+        "Name": "big haul 120 recycled duffel",
+        "Price": "$117.93",
+        "Image": "https://www.rei.com/media/13b5d661-df46-47ee-9f59-b4090f0def4a.jpg"
+    },
+    {
+        "Name": "big haul 28 recycled duffel",
+        "Price": " $69.93",
+        "Image": "https://www.rei.com/media/659520b9-7e6e-448a-8e92-21fad30f9692.jpg"
+    },
+    {
+        "Name": "roadtripper 60 print duffel",
+        "Price": "$41.93",
+        "Image": "https://www.rei.com/media/7dad0033-4bdf-46e2-99fd-e4e08af19cba.jpg"
+    },
+    {
+        "Name": "expedition duffel - 75l",
+        "Price": "$188.93",
+        "Image": "https://www.rei.com/media/0e626627-a959-4ed9-bf21-98152ee514a6.jpg"
+    },
+    {
+        "Name": "expedition duffel - 140l",
+        "Price": "$209.93",
+        "Image": "https://www.rei.com/media/d0bb6373-5acc-4a99-8d1e-26929603eae4.jpg"
+    },
+    {
+        "Name": "expedition duffel - 100l",
+        "Price": "$195.93",
+        "Image": "https://www.rei.com/media/0125dcab-85b9-49d8-b4d7-aedcf51f4614.jpg"
+    },
+    {
+        "Name": "chit chat plus stroller",
+        "Price": "$124.93",
+        "Image": "https://www.rei.com/media/8b12871f-a2ad-4069-b2e9-2c80a9fde704.jpg"
+    },
+    {
+        "Name": "run calf sleeves 4.0 - men's",
+        "Price": " $30.93",
+        "Image": "https://www.rei.com/media/d335a70f-caeb-46c4-84ed-a653d1f1bdad.jpg"
+    },
+    {
+        "Name": "caravan britax car seat adapter",
+        "Price": "$29.93",
+        "Image": "https://www.rei.com/media/782983eb-1aeb-4d6c-850e-9c5bca17e27f.jpg"
+    },
+    {
+        "Name": "glide 2 sun/mesh cover",
+        "Price": "$47.93",
+        "Image": "https://www.rei.com/media/b6d477f2-40c4-451e-94f0-9d95b0a9ffa4.jpg"
+    },
+    {
+        "Name": "caravan double seat kit",
+        "Price": "$24.93",
+        "Image": "https://www.rei.com/media/08697837-ee76-4af8-88ce-9d597484b258.jpg"
+    },
+    {
+        "Name": "glide sun/mesh cover",
+        "Price": "$39.93",
+        "Image": "https://www.rei.com/media/b21ff034-5534-49f6-91aa-8fab50d6afb4.jpg"
+    },
+    {
+        "Name": "camp 4 duffel - 45 l",
+        "Price": "$90.93",
+        "Image": "https://www.rei.com/media/c8a32efd-8d58-47e5-b39c-1ceba30060ad.jpg"
+    },
+    {
+        "Name": "caravan multi-model car seat adapter",
+        "Price": "$29.93",
+        "Image": "https://www.rei.com/media/bfa6f6ac-0f21-48f4-856c-d445f55e377a.jpg"
+    },
+    {
+        "Name": "kari 30 l duffel bag",
+        "Price": "$39.73",
+        "Image": "https://www.rei.com/media/4d9b2a1f-c7db-44d5-bb74-be16f6b9da33.jpg"
+    },
+    {
+        "Name": "alpaca 40 duffel bag",
+        "Price": "$99.73",
+        "Image": "https://www.rei.com/media/723f6c22-2c4b-483f-8f8d-8e7cf160ee41.jpg"
+    },
+    {
+        "Name": "alpaca 60 duffel",
+        "Price": "$114.73",
+        "Image": "https://www.rei.com/media/4be763f4-9e31-4e04-95db-fe74215a3f30.jpg"
+    },
+    {
+        "Name": "migrate duffel - 90 l",
+        "Price": "$94.73",
+        "Image": "https://www.rei.com/media/8cca7a51-5d0a-45d6-bed7-11771fac8ce7.jpg"
+    },
+    {
+        "Name": "aviant duffel pro 40",
+        "Price": "$89.73",
+        "Image": "https://www.rei.com/media/6df38b63-a19f-4add-bda9-4025524c2177.jpg"
+    },
+    {
+        "Name": "migrate duffel - 60 l",
+        "Price": "$89.73",
+        "Image": "https://www.rei.com/media/bf998df4-4a8d-403a-9f0e-704482f1c95b.jpg"
+    },
+    {
+        "Name": "venture duffel - 130 l",
+        "Price": "$68.73",
+        "Image": "https://www.rei.com/media/f52e1145-567f-4b71-96b3-a0dfb4a0be55.jpg"
+    },
+    {
+        "Name": "aviant duffel pro 60",
+        "Price": "$99.73",
+        "Image": "https://www.rei.com/media/d7342e93-e836-48c4-a7b9-f2068d5b2738.jpg"
+    },
+    {
+        "Name": "aviant duffel pro 90",
+        "Price": "$114.73",
+        "Image": "https://www.rei.com/media/c8cb170f-9990-414d-bd82-e60d1a7806d5.jpg"
+    },
+    {
+        "Name": "no matter what duffel",
+        "Price": "$74.73",
+        "Image": "https://www.rei.com/media/643eba5c-21ee-4dae-8fc7-8f94eaa9dc6e.jpg"
+    },
+    {
+        "Name": "migrate duffel - 40 l",
+        "Price": "$79.73",
+        "Image": "https://www.rei.com/media/e3a12390-fdb6-45eb-babf-2f8ac535ec55.jpg"
+    },
+    {
+        "Name": "glide stroller snack tray",
+        "Price": "$39.93",
+        "Image": "https://www.rei.com/media/faaa227b-2998-49a4-8b60-6dd8f8a37554.jpg"
+    },
+    {
+        "Name": "glide car seat adapter",
+        "Price": "$55.93",
+        "Image": "https://www.rei.com/media/73454aa2-3157-4b3e-9d49-97292d54fb14.jpg"
+    },
+    {
+        "Name": "eddy+ insulated stainless-steel water bottle - 32 fl. oz.",
+        "Price": "$23.73",
+        "Image": "https://www.rei.com/media/f1feb89d-d5f6-41d2-b22d-834e1f9c41e1.jpg"
+    },
+    {
+        "Name": "carryout duffel bag",
+        "Price": "$139.73",
+        "Image": "https://www.rei.com/media/57ec250f-8e49-447c-b1eb-32b6e349f61a.jpg"
+    },
+    {
+        "Name": "whakata coast slip-on shoes",
+        "Price": "$35.73",
+        "Image": "https://www.rei.com/media/f635d905-25da-43d6-9084-6f838644c638.jpg"
+    },
+    {
+        "Name": "stonehauler 90 l duffel",
+        "Price": "$132.73",
+        "Image": "https://www.rei.com/media/249eb8ed-3e5f-4fb0-ab52-28f5751f50f1.jpg"
+    },
+    {
+        "Name": "max support compression knee sleeve",
+        "Price": "$34.83",
+        "Image": "https://www.rei.com/media/c4850c93-fcbf-48da-b0e9-6ba1887d987e.jpg"
+    },
+    {
+        "Name": "light support compression knee sleeve",
+        "Price": "$20.93",
+        "Image": "https://www.rei.com/media/efad8c93-c855-41e4-b2ef-108973b128b4.jpg"
+    },
+    {
+        "Name": "camp 4 duffel - 95 l",
+        "Price": "$111.93",
+        "Image": "https://www.rei.com/media/e7850fb5-6546-4348-aeb7-bf9b8aa6af85.jpg"
+    },
+    {
+        "Name": "camp 4 duffel - 135 l",
+        "Price": "$125.93",
+        "Image": "https://www.rei.com/media/65c6acfe-01ea-41e3-98c1-3b60e3ce80d6.jpg"
+    },
+    {
+        "Name": "caravan snack trays - package of 2",
+        "Price": "$24.93",
+        "Image": "https://www.rei.com/media/118b1e7d-26c2-409d-ae52-c9fedd98d2e1.jpg"
+    },
+    {
+        "Name": "caravan chicco car seat adapter",
+        "Price": "$34.93",
+        "Image": "https://www.rei.com/media/8efeb51a-156c-413a-b74d-6acadfe9e6d7.jpg"
+    },
+    {
+        "Name": "caravan canopies - set of 2",
+        "Price": "$59.93",
+        "Image": "https://www.rei.com/media/972b922b-f37d-4619-8fc8-cf5d4fa1e15f.jpg"
+    },
+    {
+        "Name": "xmount anchor",
+        "Price": "$27.93",
+        "Image": "https://www.rei.com/media/2753cbaf-e09b-4318-af4d-86f0a4f4e07f.jpg"
+    },
+    {
+        "Name": "chasm 90 l duffel bag",
+        "Price": "$132.93",
+        "Image": "https://www.rei.com/media/d81c634a-f02b-4688-8d69-c16c2292eeed.jpg"
+    },
+    {
+        "Name": "sand-free beach wagon",
+        "Price": "$104.93",
+        "Image": "https://www.rei.com/media/9a74ac77-85d7-480c-99c2-8e854f5ba2e5.jpg"
+    },
+    {
+        "Name": "marq adventurer watch",
+        "Price": "$1,399.93",
+        "Image": "https://www.rei.com/media/052f820c-853e-4bd7-93e9-07dad6c28b85.jpg"
+    },
+    {
+        "Name": "ooriginal sport flip-flops",
+        "Price": " $51.93",
+        "Image": "https://www.rei.com/media/2012e532-fe13-4809-b541-9c031ec850e0.jpg"
+    },
+    {
+        "Name": "mover vacuum water bottle with union top - 18 fl. oz.",
+        "Price": "$39.93",
+        "Image": "https://www.rei.com/media/1122dcc8-0c28-4d94-a720-eaea92e02c53.jpg"
+    },
+    {
+        "Name": "cup holders - set of 2",
+        "Price": "$22.93",
+        "Image": "https://www.rei.com/media/90063cc2-8dbd-40c1-b3f1-b86e85af72c2.jpg"
+    },
+    {
+        "Name": "bug shield",
+        "Price": "$22.93",
+        "Image": "https://www.rei.com/media/1b7e9ac6-ddf3-4404-b321-5cce853ff096.jpg"
+    },
+    {
+        "Name": "sleek bassinet mesh cover",
+        "Price": "$24.93",
+        "Image": "https://www.rei.com/media/1a91f359-d565-4938-95a8-513dca97ae86.jpg"
+    },
+    {
+        "Name": "supply duffel 90",
+        "Price": "$97.73",
+        "Image": "https://www.rei.com/media/48d544df-589a-4a2c-9519-2c8a2b14cbac.jpg"
+    },
+    {
+        "Name": "supply duffel 60",
+        "Price": "$82.73",
+        "Image": "https://www.rei.com/media/fd3e6d3b-044d-4fc5-8169-c6ad29e21a59.jpg"
+    },
+    {
+        "Name": "brila 550 headlamp",
+        "Price": "$27.73",
+        "Image": "https://www.rei.com/media/937a7f37-00ab-4b7e-8c61-f4375bad0300.jpg"
+    },
+    {
+        "Name": "terra fire 400 rx hand torch",
+        "Price": "$39.73",
+        "Image": "https://www.rei.com/media/db5ff679-e72a-4d72-b414-d2317655a052.jpg"
+    },
+    {
+        "Name": "rx hyperbrite light",
+        "Price": "$13.73",
+        "Image": "https://www.rei.com/media/c6e782e0-a217-4b96-a581-99cdba5c83f5.jpg"
+    },
+    {
+        "Name": "big haul 60 recycled duffel",
+        "Price": " $96.93",
+        "Image": "https://www.rei.com/media/a6de51d1-8b16-4f2a-b67a-60570ab68c74.jpg"
+    },
+    {
+        "Name": "standard-mouth vacuum water bottle with flex straw cap - 24 fl. oz.",
+        "Price": " $26.83",
+        "Image": "https://www.rei.com/media/c0817c91-5554-4322-851c-90ab937c25ff.jpg"
+    },
+    {
+        "Name": "wide-mouth vacuum water bottle with flex cap - 40 fl. oz.",
+        "Price": " $29.83",
+        "Image": "https://www.rei.com/media/cbe174a7-4afe-4bba-99da-b6fa73b613b4.jpg"
+    },
+    {
+        "Name": "big haul 40 recycled duffel",
+        "Price": " $82.93",
+        "Image": "https://www.rei.com/media/d6a3b83f-614d-4e9a-8916-f29498be1e8d.jpg"
+    },
+    {
+        "Name": "wide-mouth vacuum water bottle with flex chug cap - 32 fl. oz.",
+        "Price": " $29.83",
+        "Image": "https://www.rei.com/media/d083fb5d-830e-4fc6-9787-ff29cd4d8e39.jpg"
+    },
+    {
+        "Name": "oocloog clogs",
+        "Price": " $39.83",
+        "Image": "https://www.rei.com/media/b2442ee9-c3dc-48d6-bb4c-d01964f1ac55.jpg"
+    },
+    {
+        "Name": "versa-mini rechargeable led safety light",
+        "Price": " $6.83",
+        "Image": "https://www.rei.com/media/8aef4a3e-829b-4058-97bf-0c6c66e79c08.jpg"
+    },
+    {
+        "Name": "full-viz reflective slap band",
+        "Price": "$9.93",
+        "Image": "https://www.rei.com/media/261d522f-d7d8-4c71-9bca-a74c5130e225.jpg"
+    },
+    {
+        "Name": "lightbender mini r safety light",
+        "Price": "$9.83",
+        "Image": "https://www.rei.com/media/1001167e-66ea-49c1-baa5-4a17b6fb1857.jpg"
+    },
+    {
+        "Name": "hyperbrite orb strobe",
+        "Price": "$9.73",
+        "Image": "https://www.rei.com/media/75a5a4d0-a01f-4a05-acfd-f460a0ff320b.jpg"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "cty e3.1 electric bike",
+        "Price": "$4,058.93",
+        "Image": "https://www.rei.com/media/ee383ed6-eda1-40e6-a637-51f6b680fb58.jpg"
+    },
+    {
+        "Name": "tesoro neo x 2 stepthru electric bike",
+        "Price": "$3,299.99",
+        "Image": "https://www.rei.com/media/0030124b-9981-4261-bc07-e8b4c13499aa.jpg"
+    },
+    {
+        "Name": "tesoro neo x 2 electric bike",
+        "Price": "$2,999.99",
+        "Image": "https://www.rei.com/media/dfbdbc84-2718-4aae-a975-28e96b3f5053.jpg"
+    },
+    {
+        "Name": "tesoro neo x 1 remixte electric bike",
+        "Price": "$3,719.93",
+        "Image": "https://www.rei.com/media/995d610f-1558-4a9c-a49d-1d0b2aa8fd4b.jpg"
+    },
+    {
+        "Name": "tesoro neo x 1 electric bike",
+        "Price": "$3,799.99",
+        "Image": "https://www.rei.com/media/bf0d36b8-3a3b-4192-a5a1-49b537985b3f.jpg"
+    },
+    {
+        "Name": "townie go! 8d eq step-over electric bike",
+        "Price": "$1,959.93",
+        "Image": "https://www.rei.com/media/86d890b1-78a7-4bec-8ba9-2da5b8589d3d.jpg"
+    },
+    {
+        "Name": "tesoro neo x 1 stepthru electric bike",
+        "Price": "$3,679.99",
+        "Image": "https://www.rei.com/media/be3aca52-6afb-4dc5-9ef9-19c7fe9f29ab.jpg"
+    },
+    {
+        "Name": "tesoro neo x speed electric bike",
+        "Price": "$3,199.93",
+        "Image": "https://www.rei.com/media/8cb38af8-95b4-4017-b2af-461c8420c6af.jpg"
+    },
+    {
+        "Name": "moterra 4 electric mountain bike",
+        "Price": "$3,199.73",
+        "Image": "https://www.rei.com/media/cd139c9d-7a13-4fac-806b-999827bfeea6.jpg"
+    },
+    {
+        "Name": "moterra s4 electric mountain bike",
+        "Price": "$2,799.99",
+        "Image": "https://www.rei.com/media/b67cb5bc-a177-42bc-9d41-2fa6eb881d07.jpg"
+    },
+    {
+        "Name": "dusk loft go! 7d eq step-thru electric bike",
+        "Price": "$1,359.93",
+        "Image": "https://www.rei.com/media/e5275068-5ca2-4a1e-91a7-d36af7fe2821.jpg"
+    },
+    {
+        "Name": "tesoro neo x 2 remixte electric bike",
+        "Price": "$2,831.93",
+        "Image": "https://www.rei.com/media/c70281b7-8ca2-43ed-b583-a0f08970f788.jpg"
+    }
+]
