@@ -2,16 +2,19 @@
     {
         "Name": "yepp nexxt mini slim fit adapter",
         "Price": "$31.93",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/5db0ccdf-fd45-4204-ab08-d0fa0b1fb90d.jpg"
     },
     {
         "Name": "sleeproll sleeping support - basic",
         "Price": "$31.93",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/95656eab-ae7d-4e33-83b7-7f8a5626dcbc.jpg"
     },
     {
         "Name": "yepp nexxt maxi frame-mount child bike seat",
         "Price": "$239.93",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/a0cf26e3-0928-4944-adc8-4536819cb629.jpg"
     }
 ]

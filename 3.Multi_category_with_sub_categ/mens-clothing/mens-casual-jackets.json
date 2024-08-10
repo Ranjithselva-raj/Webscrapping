@@ -1,0 +1,680 @@
+[
+    {
+        "Name": "kaffee racer jacket - men's",
+        "Price": "$139.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/20845eda-d738-40c8-8e51-1eac7beaef22.jpg"
+    },
+    {
+        "Name": "microlayer 2.0 hs hooded jacket - men's",
+        "Price": "$119.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/ad97a205-b176-4a9b-9914-531780e1732d.jpg"
+    },
+    {
+        "Name": "trailmade fleece jacket - men's",
+        "Price": " $29.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/9b13b614-a6df-4d37-881b-4bee2b617a55.jpg"
+    },
+    {
+        "Name": "nano puff jacket - men's",
+        "Price": " $166.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/78fbb2dd-b1a2-4043-9a61-be342fa4f7c0.jpg"
+    },
+    {
+        "Name": "perspektiv jacket - men's",
+        "Price": "$96.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d9441e47-64cb-49ed-a104-c1500def5c28.jpg"
+    },
+    {
+        "Name": "shell jacket - men's",
+        "Price": "$83.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/c4cfc975-27e7-426f-b3be-7e246ef7e3e7.jpg"
+    },
+    {
+        "Name": "bugsaway sandfly jacket - men's",
+        "Price": "$82.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/b4771ab3-9622-43e4-b83d-35fd402fe072.jpg"
+    },
+    {
+        "Name": "hydro light status jacket - men's",
+        "Price": "$56.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/33351a04-cf8a-4d48-89f3-033dc4bc9e57.jpg"
+    },
+    {
+        "Name": "teca fleece full-zip jacket - men's",
+        "Price": "$54.83 - $76.93",
+        "Savings": "save 30% - 50%",
+        "Image": "https://www.rei.com/media/9b8a69f4-464c-4403-8519-888a3a886f5b.jpg"
+    },
+    {
+        "Name": "hydro lite bomber rain jacket - men's",
+        "Price": "$62.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/ddd082ee-3be4-4926-9624-57651e7c5e9e.jpg"
+    },
+    {
+        "Name": "high coast wind jacket - men's",
+        "Price": "$129.49",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/70e8324c-ac5c-4be3-8cb8-a1aa59f41815.jpg"
+    },
+    {
+        "Name": "thorium down hoodie - men's",
+        "Price": "$399.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/c8cb3674-0675-4973-8eaa-82bb3b586e9b.jpg"
+    },
+    {
+        "Name": "jackson ridge jacket - men's",
+        "Price": "$98.73",
+        "Savings": "save 43%",
+        "Image": "https://www.rei.com/media/24a44ac4-541d-4a06-9529-2b0288b0399b.jpg"
+    },
+    {
+        "Name": "shadowquilt jacket - men's",
+        "Price": "$54.73",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/84666915-78e5-41b1-b36d-cb7357a50c70.jpg"
+    },
+    {
+        "Name": "burr insulated jacket - men's",
+        "Price": "$139.93",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/758a1917-67ff-40ed-9e0c-4d7a614de020.jpg"
+    },
+    {
+        "Name": "melange stretch full-zip hoodie - men's",
+        "Price": "$63.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/6bd4f728-c153-4c7f-bb0d-9fbb02dca2cb.jpg"
+    },
+    {
+        "Name": "tokeland fleece jacket - men's",
+        "Price": "$86.73",
+        "Savings": "save 41%",
+        "Image": "https://www.rei.com/media/f2d6e67e-b2ac-4706-93c1-f24e754990c9.jpg"
+    },
+    {
+        "Name": "ibex ii jacket - men's",
+        "Price": "$125.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/afd628b9-c7a0-4678-9cbd-9e56befaf7f4.jpg"
+    },
+    {
+        "Name": "atlas reversible jacket - men's",
+        "Price": "$78.73",
+        "Savings": "save 39%",
+        "Image": "https://www.rei.com/media/4aafb818-b553-4233-9cd4-589f6f219c0a.jpg"
+    },
+    {
+        "Name": "rolpa fleece jacket - men's",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/8ba158c9-60b5-4b55-b2b3-1d8157f1f354.jpg"
+    },
+    {
+        "Name": "frore sweater-knit fleece jacket - men's",
+        "Price": "$69.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/4fd9e235-8561-494f-9717-db795017a501.jpg"
+    },
+    {
+        "Name": "teca calido hooded insulated jacket - men's",
+        "Price": "$74.83 - $104.93",
+        "Savings": "save 30% - 50%",
+        "Image": "https://www.rei.com/media/b31a1f15-ec3f-4702-b70f-bc206f465a0a.jpg"
+    },
+    {
+        "Name": "burly canvas soft-shell jacket - men's",
+        "Price": "$89.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/9660d18b-2f6b-492e-bd2b-5a69774f1699.jpg"
+    },
+    {
+        "Name": "cielo rain jacket - men's",
+        "Price": " $71.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/562f3b51-3fa1-44eb-b73e-cb57ce437f93.jpg"
+    },
+    {
+        "Name": "daybreaker fleece jacket - men's",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/fec91333-ec9f-48d0-ae5a-2b7639f583b5.jpg"
+    },
+    {
+        "Name": "hydro light spectator jacket - men's",
+        "Price": "$62.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/83cbfca5-3960-47a1-a3a0-8fc085778409.jpg"
+    },
+    {
+        "Name": "voyage insulated puffy jacket - men's",
+        "Price": "$74.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/64b04dd5-f349-4a84-b445-736e79624981.jpg"
+    },
+    {
+        "Name": "calabaza ii brick fleece jacket - men's",
+        "Price": "$55.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/6be31099-5022-469d-b048-1a7fa211843f.jpg"
+    },
+    {
+        "Name": "klash jacket - men's",
+        "Price": "$111.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/9e1995b5-32a2-4022-a4c0-0e30588ddf9a.jpg"
+    },
+    {
+        "Name": "explore fleece jacket - men's",
+        "Price": "$81.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/1fbf25fc-2066-46ad-9970-78bc32d23e45.jpg"
+    },
+    {
+        "Name": "abrazo half-zip fleece jacket - men's",
+        "Price": " $59.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/2caebddc-b982-4b21-8194-42d862a25d19.jpg"
+    },
+    {
+        "Name": "pack in pullover hoodie - men's",
+        "Price": "$138.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/b9541e83-a0dd-4779-b206-aa5d01f612c4.jpg"
+    },
+    {
+        "Name": "cielo rain anorak - men's",
+        "Price": "$107.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/13f5deb1-ffec-4c3e-9beb-442170f6510f.jpg"
+    },
+    {
+        "Name": "hicamp fleece full-zip hoodie - men's",
+        "Price": "$89.83",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/0accbd3a-2b48-470b-a146-1239974c45ab.jpg"
+    },
+    {
+        "Name": "isthmus utility jacket - men's",
+        "Price": "$138.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/315a2085-eb24-47ae-b4a4-21f0a9c50634.jpg"
+    },
+    {
+        "Name": "ukon fleece-lined hoodie - men's",
+        "Price": "$223.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/19d204d8-88e0-43dd-b2bc-2965235a61fb.jpg"
+    },
+    {
+        "Name": "backbowl remastered fleece jacket - men's",
+        "Price": "$54.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/7b8266f1-e484-45d7-97a0-7619da6681b8.jpg"
+    },
+    {
+        "Name": "better sweater fleece jacket - men's",
+        "Price": " $110.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/eabd86e6-ed48-4290-b49b-e2ec9bd20bb8.jpg"
+    },
+    {
+        "Name": "teca calido hooded print insulated jacket - men's",
+        "Price": "$79.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/e00eb445-befd-4804-935a-dd6a670ae5c9.jpg"
+    },
+    {
+        "Name": "cedar cliff jacket - men's",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/254e5e97-609c-4042-bfce-1158078de8d0.jpg"
+    },
+    {
+        "Name": "marquam peak fusion insulated parka - men's",
+        "Price": "$109.73",
+        "Savings": "save 45%",
+        "Image": "https://www.rei.com/media/6accc849-0ab7-487e-bf43-c68c72d117f0.jpg"
+    },
+    {
+        "Name": "del campo down parka - men's",
+        "Price": "$173.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/9a280b82-add3-47f7-b181-9555d26f81c9.jpg"
+    },
+    {
+        "Name": "gate racer soft-shell jacket - men's",
+        "Price": "$98.73",
+        "Savings": "save 45%",
+        "Image": "https://www.rei.com/media/f4fc1a33-bc3c-4d9c-8bc0-b16c65dc3eb1.jpg"
+    },
+    {
+        "Name": "burdell down jacket - men's",
+        "Price": "$129.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/7516a6bc-1730-4e35-b236-e52c2cc00da8.jpg"
+    },
+    {
+        "Name": "covert fleece hoodie - men's",
+        "Price": "$99.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/b94cf6ac-dbf7-44cc-a354-ed35d9519555.jpg"
+    },
+    {
+        "Name": "solazo down hooded jacket - men's",
+        "Price": "$119.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/259651e8-e38f-42cd-a1bf-9eb0ed5c9b10.jpg"
+    },
+    {
+        "Name": "ripstop denali jacket - men's",
+        "Price": "$140.93",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/333f6288-34b2-420f-8efd-602298368400.jpg"
+    },
+    {
+        "Name": "1992 ripstop nuptse down jacket - men's",
+        "Price": "$245.93",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/020b3028-9d59-4fdc-9e45-0d9fa724f4dd.jpg"
+    },
+    {
+        "Name": "fordham down jacket - men's",
+        "Price": "$194.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/abf7800b-9579-41b4-9d0a-8269c78d5269.jpg"
+    },
+    {
+        "Name": "lake 22 down jacket - men's",
+        "Price": "$89.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/cf0c4820-bf7c-4145-8e72-9630898ba2c5.jpg"
+    },
+    {
+        "Name": "pack in pullover hoodie - men's",
+        "Price": "$98.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/1b6d7c52-0198-4adb-bf01-df4f59d7c4b6.jpg"
+    },
+    {
+        "Name": "abisko midsummer jacket - men's",
+        "Price": "$150.49",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/bbd701cd-6262-4de1-9d3f-43808af7edff.jpg"
+    },
+    {
+        "Name": "waterproof stretch jacket - men's",
+        "Price": "$62.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/8b518cfa-9820-4633-be99-3e32589f8d92.jpg"
+    },
+    {
+        "Name": "solid sets eco windbreaker - men's",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/2e2ae71b-0a77-493f-84d5-c99c13945bf1.jpg"
+    },
+    {
+        "Name": "greenpoint gtx featherless insulated jacket - men's",
+        "Price": "$299.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/0bd8e347-e30a-418f-a731-8dfb1360df60.jpg"
+    },
+    {
+        "Name": "tres 3-in-1 parka - men's",
+        "Price": "$453.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/47df6086-8e2a-46e7-9a86-ce908c71bd8c.jpg"
+    },
+    {
+        "Name": "'92 crinkle reversible nuptse down jacket - men's",
+        "Price": "$189.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/de175c02-9ad5-4319-97eb-f58ce17b3606.jpg"
+    },
+    {
+        "Name": "denali x jacket - men's",
+        "Price": "$175.93",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/666c6b22-5a51-44ae-b261-05d98d837c55.jpg"
+    },
+    {
+        "Name": "mcarthur jacket - men's",
+        "Price": "$131.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/e612b488-c890-4761-900c-568e191d536b.jpg"
+    },
+    {
+        "Name": "lined chore jacket - men's",
+        "Price": "$126.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/caeaca16-14ef-4eb2-af5a-40a3fa68b26a.jpg"
+    },
+    {
+        "Name": "casey insulated jacket - men's",
+        "Price": "$134.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/99d81386-2ae9-4ffd-b260-437d1103e07e.jpg"
+    },
+    {
+        "Name": "downdrift down jacket - men's",
+        "Price": "$163.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/a392bbbc-a4a3-4abc-8b4d-9235f8538865.jpg"
+    },
+    {
+        "Name": "teca calido insulated jacket - men's",
+        "Price": "$69.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/c28bd0e4-8711-4d4d-9fdb-2cf5a012cefb.jpg"
+    },
+    {
+        "Name": "konfluence fleece jacket - men's",
+        "Price": "$88.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/42d555c4-3c32-4dc3-b206-639edffd7eb9.jpg"
+    },
+    {
+        "Name": "isthmus anorak - men's",
+        "Price": "$109.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/2eedc550-dc16-42db-955f-0c47b6335a78.jpg"
+    },
+    {
+        "Name": "hudson trail fleece full-zip jacket - men's",
+        "Price": "$112.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/e287b67e-192e-4357-932f-b53d492932cd.jpg"
+    },
+    {
+        "Name": "wyatt wooly jacket - men's",
+        "Price": "$66.73",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/74f3bc54-e645-470c-98b1-76d75196284f.jpg"
+    },
+    {
+        "Name": "kollusion fleece-lined jacket - men's",
+        "Price": "$171.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/5f96a80c-14db-4fc6-bc40-142f88051e1f.jpg"
+    },
+    {
+        "Name": "coldfront down hoodie - men's",
+        "Price": " $194.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/5f88c9f5-d105-4ac6-a83f-37f270b444ef.jpg"
+    },
+    {
+        "Name": "fuego down jacket - men's",
+        "Price": "$134.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/eb0480da-4f48-4920-a98f-c21fae854002.jpg"
+    },
+    {
+        "Name": "law fleece-lined hoodie - men's",
+        "Price": "$134.93",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/7673f4bc-e198-48ba-bd03-e53259a6fc10.jpg"
+    },
+    {
+        "Name": "burdell down jacket - men's",
+        "Price": "$137.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/af49fe8d-1731-498a-96bf-9f6494991b8e.jpg"
+    },
+    {
+        "Name": "coldfront down hoodie - men's",
+        "Price": "$165.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/78b2f2d9-ac37-407a-8c1a-57d03571bce1.jpg"
+    },
+    {
+        "Name": "whistler mid-weight down jacket - men's",
+        "Price": "$189.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/6935e356-5541-4fc5-a98f-8295302a951e.jpg"
+    },
+    {
+        "Name": "bodie hoodie - men's",
+        "Price": "$79.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/f588d6ca-9f30-49e7-8bd9-bc70ef3d6e12.jpg"
+    },
+    {
+        "Name": "microdini hoodie - men's",
+        "Price": "$73.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/3f1862e9-f4db-4f6a-b0c8-21ed70ab2691.jpg"
+    },
+    {
+        "Name": "shearling jacket - men's",
+        "Price": "$88.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/b426b0cc-fe1f-4a51-aae9-32ea5c120ce9.jpg"
+    },
+    {
+        "Name": "loma vista interchange 3-in-1 jacket - men's",
+        "Price": "$181.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/32122b9a-64bc-4dd1-94f9-507ceabefcd2.jpg"
+    },
+    {
+        "Name": "driftwood canyon hoodie - men's",
+        "Price": "$173.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/e682bfec-2745-4f42-ae09-8f8fec178647.jpg"
+    },
+    {
+        "Name": "textured mountain fleece jacket - men's",
+        "Price": "$59.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/9d597e4d-bbb8-4eed-bf6f-4f9a598dc049.jpg"
+    },
+    {
+        "Name": "fuego hooded down jacket - men's",
+        "Price": " $146.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/62f01eb3-248a-4591-9559-7f5e80d9ea0d.jpg"
+    },
+    {
+        "Name": "wyatt wooly jacket - men's",
+        "Price": "$124.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/6822b4fa-da8b-406b-b77b-fb632e8037cd.jpg"
+    },
+    {
+        "Name": "birchwood insulated jacket - men's",
+        "Price": "$115.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/e3bb7cd5-39c8-47ad-a87b-857196c290f5.jpg"
+    },
+    {
+        "Name": "rapide lifaloft air insulated jacket - men's",
+        "Price": "$172.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/568b44c8-51f7-4851-b25c-bc537b21223c.jpg"
+    },
+    {
+        "Name": "warmcube gore-tex golden mantle insulated jacket - men's",
+        "Price": "$449.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/8f0c4409-4058-42d0-b987-57f153deb204.jpg"
+    },
+    {
+        "Name": "forrest down jacket - men's",
+        "Price": "$89.73",
+        "Savings": "save 52%",
+        "Image": "https://www.rei.com/media/e1000725-be04-48ab-a648-81c9fd37b1aa.jpg"
+    },
+    {
+        "Name": "kollusion fleece-lined jacket - men's",
+        "Price": "$167.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/74541cdf-5d12-46a4-a17c-e8224c5f985e.jpg"
+    },
+    {
+        "Name": "mountain fleece power stretch jacket - men's",
+        "Price": "$69.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/0be00410-3f05-46ac-a7cc-90f02fdcba5a.jpg"
+    },
+    {
+        "Name": "juneau fleece jacket - men's",
+        "Price": "$87.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/3f7d1a13-5acf-4c73-960a-759bb3ea20d9.jpg"
+    },
+    {
+        "Name": "abrazo fleece hooded full-zip jacket - men's",
+        "Price": "$94.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/bb8592d9-f782-4724-91aa-447d3cc5fe5b.jpg"
+    },
+    {
+        "Name": "whitney portal down jacket - men's",
+        "Price": "$188.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c6ff01f6-9134-42bb-8b3f-4f90218fe6d0.jpg"
+    },
+    {
+        "Name": "rye insulated jacket - men's",
+        "Price": "$74.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/34db4706-85b9-4879-abef-a40379f5d495.jpg"
+    },
+    {
+        "Name": "moonwalk insulated jacket - men's",
+        "Price": "$199.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/b8a9629d-007d-4816-a502-8d9bceb1e67b.jpg"
+    },
+    {
+        "Name": "trailsmith fleece jacket - men's",
+        "Price": " $44.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/07663207-6c5b-49ea-a2a4-39b42cada70a.jpg"
+    },
+    {
+        "Name": "novelty cyclone wind hoodie - men's",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/50925145-b366-4677-887e-38f860da28e8.jpg"
+    },
+    {
+        "Name": "aros fleece jacket - men's",
+        "Price": "$89.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/d78ae963-f209-4a47-ae67-74871d9e1398.jpg"
+    },
+    {
+        "Name": "vista soft-shell jacket - men's",
+        "Price": "$89.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/079933cd-51c0-4bca-8a80-26c8cade7dfe.jpg"
+    },
+    {
+        "Name": "teca half-zip windbreaker - men's",
+        "Price": "$54.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/9aa41af7-fe19-41a7-ab8f-ea3e7acbd9dd.jpg"
+    },
+    {
+        "Name": "freecycle hydro lite gale insulated jacket - men's",
+        "Price": "$87.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/3db4dea7-1087-4e28-a987-653c05381aee.jpg"
+    },
+    {
+        "Name": "rocklin full-zip jacket - men's",
+        "Price": "$56.73 - $59.73",
+        "Savings": "save 25% - 29%",
+        "Image": "https://www.rei.com/media/766069f4-377f-40f9-949d-de1142f46aa0.jpg"
+    },
+    {
+        "Name": "teca fleece hooded full-zip jacket - men's",
+        "Price": "$96.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/286965e2-8967-4a9e-8b93-9992422ed967.jpg"
+    },
+    {
+        "Name": "trico hybrid hooded jacket - men's",
+        "Price": "$119.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/85ba80ca-22bb-4def-95d0-37ebe0449b7a.jpg"
+    },
+    {
+        "Name": "'86 low-fi hi-tek mountain jacket - men's",
+        "Price": "$159.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/b486139c-e831-4cba-babe-33685c1a69c1.jpg"
+    },
+    {
+        "Name": "hudson trail fleece hoodie - men's",
+        "Price": "$112.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/0b58fee9-e355-4857-9ac2-d11bf485f893.jpg"
+    },
+    {
+        "Name": "therme down parka - men's",
+        "Price": " $559.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/4b090343-5b7f-4792-94d0-978d16f28a57.jpg"
+    },
+    {
+        "Name": "classic retro-x jacket - men's",
+        "Price": " $159.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/92b2a542-b063-4076-b20b-f3b36ef36e5f.jpg"
+    },
+    {
+        "Name": "1996 retro nuptse down jacket - men's",
+        "Price": " $231.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/458ae8eb-a5d6-4f8d-97d3-d6338dde3215.jpg"
+    },
+    {
+        "Name": "capa hybrid insulated hooded jacket - men's",
+        "Price": " $125.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/e8064a11-86c9-4445-8ba9-ecf2c385d2dd.jpg"
+    },
+    {
+        "Name": "hydrenalite down hoodie - men's",
+        "Price": " $124.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/a4a71e1f-4974-4ff4-b5b2-a777b8327593.jpg"
+    },
+    {
+        "Name": "nuuk lite insulated parka - men's",
+        "Price": " $224.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/dd188de1-6e03-4e9b-9fbd-bd8d07bbd9b3.jpg"
+    },
+    {
+        "Name": "teca half-zip windbreaker - men's",
+        "Price": " $55.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/7892657d-b8a5-4d0b-94f4-438210256ea3.jpg"
+    },
+    {
+        "Name": "teca full-zip fleece hoodie - men's",
+        "Price": " $97.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/e7c5bc3a-16f5-4144-b9ca-b62e3a77fd9f.jpg"
+    },
+    {
+        "Name": "trico hybrid hooded jacket - men's",
+        "Price": " $86.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/95ff12a8-48aa-401d-b773-a39e19714059.jpg"
+    }
+]

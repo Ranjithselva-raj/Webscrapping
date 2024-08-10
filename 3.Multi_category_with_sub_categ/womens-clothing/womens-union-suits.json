@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "olivia onesie - women's",
+        "Price": "$123.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/f9948e20-f648-4cf9-ae99-14decf8a36f3.jpg"
+    },
+    {
+        "Name": "olivia onesie - women's",
+        "Price": "$146.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/09005be8-3922-4ae4-a46a-e05ea3883df3.jpg"
+    },
+    {
+        "Name": "sasha fleece onesie - women's",
+        "Price": "$89.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/c2ddfa91-cebf-4ec6-9773-e9b3e02c49ce.jpg"
+    }
+]

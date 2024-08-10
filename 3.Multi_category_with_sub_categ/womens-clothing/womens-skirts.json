@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "tirill thermal skirt",
+        "Price": "$46.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/9aee7f00-848c-4520-936b-e35a34bd6ea7.jpg"
+    },
+    {
+        "Name": "storm thermal skirt",
+        "Price": "$29.83",
+        "Savings": "save 64%",
+        "Image": "https://www.rei.com/media/7a917cb6-040d-46f2-8354-52ce15d55844.jpg"
+    },
+    {
+        "Name": "esla skirt",
+        "Price": "$82.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/517526ff-725f-4b4a-b54a-33867a9da2ef.jpg"
+    },
+    {
+        "Name": "core nordic insulated skirt",
+        "Price": "$41.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/5c4b8a3d-69bd-4f73-9b13-048dcd9406cb.jpg"
+    },
+    {
+        "Name": "core nordic training insulated skirt - women's",
+        "Price": "$62.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/27fdac58-3899-4ff0-bef5-f08994449c97.jpg"
+    },
+    {
+        "Name": "spotless evolution skirt",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/eb91903f-1d0c-417e-a507-df28f9a0bbca.jpg"
+    },
+    {
+        "Name": "ruth skirt",
+        "Price": "$48.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/8d2a8aa9-0267-4e7d-b6f1-ab3ccb4f6df9.jpg"
+    },
+    {
+        "Name": "chaka ruffle skirt",
+        "Price": "$39.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/eb7e4005-38dd-4b57-b638-af5831818f41.jpg"
+    },
+    {
+        "Name": "merino heartfelt sweater skirt",
+        "Price": "$79.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/8bbae3c4-b35e-4081-bcea-4a97b8418b0d.jpg"
+    },
+    {
+        "Name": "cozy up sport skirt",
+        "Price": "$50.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/3d17d64f-cd2d-4e58-8f9b-96feca17f338.jpg"
+    },
+    {
+        "Name": "chaka skirt",
+        "Price": "$48.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/6da5debc-02d4-42de-b0eb-5efd60b75faf.jpg"
+    },
+    {
+        "Name": "smartloft skirt",
+        "Price": "$67.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/ef0bc372-dac8-4b56-8b42-d3202be5299d.jpg"
+    }
+]

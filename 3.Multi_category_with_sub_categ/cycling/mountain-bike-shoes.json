@@ -2,106 +2,127 @@
     {
         "Name": "freerider canvas mountain bike shoes - women's",
         "Price": " $54.83",
+        "Savings": null,
         "Image": "https://www.rei.com/media/86f416ff-2f91-4aa5-95ec-8e29d3a801b1.jpg"
     },
     {
         "Name": "drift mountain bike shoes - women's",
         "Price": "$39.73",
+        "Savings": "save 71%",
         "Image": "https://www.rei.com/media/705873da-e29f-4a59-b88a-d551afda6b87.jpg"
     },
     {
         "Name": "drift mountain bike shoes - men's",
         "Price": "$39.73",
+        "Savings": "save 71%",
         "Image": "https://www.rei.com/media/2b9f2b5c-46ce-421b-b34e-7e021be56979.jpg"
     },
     {
         "Name": "ssr multisport bike shoes - men's",
         "Price": "$54.83",
+        "Savings": "save 50%",
         "Image": "https://www.rei.com/media/32e76f0e-1b8e-448a-b931-08b8b0d05c36.jpg"
     },
     {
         "Name": "x-alp flow mountain bike shoes - men's",
         "Price": "$29.83",
+        "Savings": "save 70%",
         "Image": "https://www.rei.com/media/e242bdbe-59ec-414b-9309-6f6a47421296.jpg"
     },
     {
         "Name": "trailcross lt mountain bike shoes - women's",
         "Price": "$41.83",
+        "Savings": "save 70%",
         "Image": "https://www.rei.com/media/584d5d3c-e0bf-4810-bde2-b9d82c77e4b4.jpg"
     },
     {
         "Name": "trailcross gtx mountain bike shoes - men's",
         "Price": "$131.93",
+        "Savings": "save 40%",
         "Image": "https://www.rei.com/media/7b4970bd-291b-437b-bb09-2a108c523505.jpg"
     },
     {
         "Name": "drift vent mountain bike shoes - men's",
         "Price": "$43.73",
+        "Savings": "save 70%",
         "Image": "https://www.rei.com/media/2663fc11-fe35-4b07-af8a-8af6a92a2349.jpg"
     },
     {
         "Name": "drift vent mountain bike shoes - women's",
         "Price": "$58.73",
+        "Savings": "save 60%",
         "Image": "https://www.rei.com/media/074b05e9-03ee-4c89-afbf-c5a04245ba40.jpg"
     },
     {
         "Name": "transition mountain bike shoes - men's",
         "Price": "$43.73",
+        "Savings": "save 72%",
         "Image": "https://www.rei.com/media/6697525b-d3e0-4050-b3cd-83ac3e2e6340.jpg"
     },
     {
         "Name": "wildcat mountain bike shoes - kids'",
         "Price": "$20.73",
+        "Savings": "save 79%",
         "Image": "https://www.rei.com/media/b696cdc9-3e29-4075-a14a-f966db64e4cf.jpg"
     },
     {
         "Name": "foray mountain bike shoes",
         "Price": "$48.83 - $81.83",
+        "Savings": "save 50% - 70%",
         "Image": "https://www.rei.com/media/73ed8beb-5954-4db9-a02f-5fc46db52ec2.jpg"
     },
     {
         "Name": "quantum mountain bike shoes",
         "Price": "$39.83",
+        "Savings": "save 50%",
         "Image": "https://www.rei.com/media/ea325f55-263e-4d24-8ade-bdc510248bbf.jpg"
     },
     {
         "Name": "evoke mountain bike shoes",
         "Price": "$61.83",
+        "Savings": "save 50%",
         "Image": "https://www.rei.com/media/e1d19d39-7d92-4f95-b285-0d4ff3751e7c.jpg"
     },
     {
         "Name": "canyon spd mountain bike shoes - men's",
         "Price": " $86.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/5e57016f-3359-4fdf-a1ef-b6e279bef922.jpg"
     },
     {
         "Name": "wolfgar insulated cycling boots",
         "Price": "$395.93",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/b322b04c-d1aa-4968-b0ce-10fbbada69dd.jpg"
     },
     {
         "Name": "ragnarok boa cycling boots",
         "Price": "$171.93",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/59bd04bf-3509-486c-b311-17f69866e591.jpg"
     },
     {
         "Name": "ragnarok tall bike shoes",
         "Price": "$195.93",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/6b7e8d61-3e4d-4226-a2e7-0297927c66f7.jpg"
     },
     {
         "Name": "traverse mountain bike shoes - women's",
         "Price": "$42.73",
+        "Savings": "save 73%",
         "Image": "https://www.rei.com/media/3913a459-177a-4788-bc93-3fc2ea9c8d93.jpg"
     },
     {
         "Name": "freerider pro mountain bike shoes - women's",
         "Price": " $111.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/4ea5c16b-0823-4477-b32a-12e1c614c716.jpg"
     },
     {
         "Name": "freerider pro canvas mountain bike shoes - men's",
         "Price": " $111.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/de953a06-1968-44a5-a19b-f64454fb1f45.jpg"
     }
 ]

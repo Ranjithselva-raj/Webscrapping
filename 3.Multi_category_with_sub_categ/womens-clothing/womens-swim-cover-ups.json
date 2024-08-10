@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "quarter-zip sunshade - women's",
+        "Price": " $44.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/2e326dc5-a12b-4b0d-b682-812fc1becc8b.jpg"
+    },
+    {
+        "Name": "fernie shirt - women's",
+        "Price": " $43.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/a0b388f6-afb9-42de-a659-3009cedcc67e.jpg"
+    },
+    {
+        "Name": "gia swim cover-up - women's",
+        "Price": "$54.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/60ee6560-573b-4dff-b2b8-4e316a384d4c.jpg"
+    },
+    {
+        "Name": "sunfree dress",
+        "Price": "$38.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/88c26c79-9475-43e0-9777-cc9e1c2e6399.jpg"
+    },
+    {
+        "Name": "take a hike t-shirt - women's",
+        "Price": "$28.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/39c08773-083a-4fd4-a207-ba8f7eb2337f.jpg"
+    },
+    {
+        "Name": "fernie wide leg jumpsuit - women's",
+        "Price": " $48.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/e2a47a15-40a4-43ed-b270-82f69d83c91d.jpg"
+    },
+    {
+        "Name": "mantra bay tunic - women's",
+        "Price": "$38.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/098d82fa-17f8-4976-9e36-edd16e609a3c.jpg"
+    }
+]

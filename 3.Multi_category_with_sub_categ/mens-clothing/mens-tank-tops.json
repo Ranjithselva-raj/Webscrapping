@@ -1,0 +1,56 @@
+[
+    {
+        "Name": "distance tank top 3.0 - men's",
+        "Price": "$24.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/27dc7d31-0e54-430e-8e75-d12c75d31212.jpg"
+    },
+    {
+        "Name": "sprinter tank top - men's",
+        "Price": "$29.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/82ef1de3-e2e8-4a85-ab29-68d5ec024105.jpg"
+    },
+    {
+        "Name": "swiftland grid running tank top - men's",
+        "Price": " $23.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/3888ef2f-efff-4b5b-ae8a-f4ac9c1ffd26.jpg"
+    },
+    {
+        "Name": "active ultralite pride graphic tank top",
+        "Price": "$36.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/c89b9230-e122-4662-b376-099948089568.jpg"
+    },
+    {
+        "Name": "adizero running singlet - men's",
+        "Price": "$48.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/288b7e99-1cff-4d22-bcd6-f85ef4c84af9.jpg"
+    },
+    {
+        "Name": "qualifier sleeveless t-shirt - men's",
+        "Price": "$32.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/617f1345-023c-47b9-9694-01875fe11497.jpg"
+    },
+    {
+        "Name": "sense aero singlet - men's",
+        "Price": "$31.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/ffcda3e7-7635-48a2-9d18-da83d903e09e.jpg"
+    },
+    {
+        "Name": "thinkfast mesh tank top - men's",
+        "Price": "$23.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/d88b98ca-529d-460e-a48b-0b1e3941083b.jpg"
+    },
+    {
+        "Name": "pro hypervent singlet - men's",
+        "Price": "$41.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/884ba806-c6cf-48f2-879e-d87187b0c0a6.jpg"
+    }
+]

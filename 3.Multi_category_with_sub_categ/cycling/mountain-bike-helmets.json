@@ -2,86 +2,97 @@
     {
         "Name": "speedframe pro fade bike helmet",
         "Price": "$132.73",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/9189beb2-a4df-4527-ae00-edb49ad34752.jpg"
     },
     {
         "Name": "forefront 2 mips bike helmet",
         "Price": "$129.73",
+        "Savings": "save 48%",
         "Image": "https://www.rei.com/media/9c74d553-054b-44c0-8cf7-e397cbf351dc.jpg"
     },
     {
         "Name": "mainframe trvrs helmet",
         "Price": "$62.73",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/6c42dc01-7a06-493a-b16a-b4fe0b771459.jpg"
     },
     {
         "Name": "speedframe pro blocked bike helmet",
         "Price": "$132.73",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/d0fe35c8-fcfc-4924-b098-cf74f3b7d0bb.jpg"
     },
     {
         "Name": "radix mips bike helmet",
         "Price": " $74.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/0af9d6f4-16e7-49a3-8ebe-ef9f25e097f1.jpg"
     },
     {
         "Name": "dropframe pro mips bike helmet",
         "Price": "$157.73",
+        "Savings": "save 29%",
         "Image": "https://www.rei.com/media/92f28b0d-eb14-419c-a58b-397ac9049819.jpg"
     },
     {
         "Name": "tectal bike helmet",
         "Price": "$105.73",
+        "Savings": "save 41%",
         "Image": "https://www.rei.com/media/e12097c2-d481-40a5-bf31-b4447e8a9cc5.jpg"
     },
     {
         "Name": "session mips bike helmet",
         "Price": "$119.73",
+        "Savings": "save 29%",
         "Image": "https://www.rei.com/media/d6b4809b-2e32-48d3-8667-c2d78bfad453.jpg"
     },
     {
         "Name": "rampage bike helmet",
         "Price": "$157.73",
+        "Savings": "save 29%",
         "Image": "https://www.rei.com/media/80af1740-4d66-4bfa-bb97-c9469e26b312.jpg"
     },
     {
         "Name": "switchblade mips bike helmet",
         "Price": "$209.93",
+        "Savings": "save 25%",
         "Image": "https://www.rei.com/media/497d7c6a-f10e-497a-9930-b99026bf1e6a.jpg"
     },
     {
         "Name": "forefront 2 mips bike helmet",
         "Price": "$110.73",
+        "Savings": "save 55%",
         "Image": "https://www.rei.com/media/ec73794a-d1c3-4b43-9361-24d0f2fdf79e.jpg"
     },
     {
         "Name": "kortal race mips bike helmet",
         "Price": "$124.93",
+        "Savings": "save 50%",
         "Image": "https://www.rei.com/media/503f944c-61cb-4e42-b41c-7d9cbe31db77.jpg"
     },
     {
         "Name": "session mips bike helmet",
         "Price": "$109.73",
+        "Savings": "save 35%",
         "Image": "https://www.rei.com/media/ffe038a2-1c7d-401f-9879-e59ad36ac753.jpg"
     },
     {
         "Name": "speedframe pro mips bike helmet",
         "Price": " $141.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/b4100e22-80d4-4ded-944f-98d4be26334a.jpg"
     },
     {
         "Name": "tectal race mips bike helmet",
         "Price": "$114.93",
+        "Savings": "save 50%",
         "Image": "https://www.rei.com/media/c9728f80-3fe1-4da0-84bc-5245f4bd26a8.jpg"
     },
     {
         "Name": "forefront 2 mips bike helmet",
         "Price": " $174.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/3f88e7ae-909a-4678-a71c-0458d56a8de6.jpg"
-    },
-    {
-        "Name": "jackal kineticore bike helmet",
-        "Price": " $109.93",
-        "Image": "https://www.rei.com/media/0f390e75-de41-4a96-9e3d-d0ca53563a0c.jpg"
     }
 ]

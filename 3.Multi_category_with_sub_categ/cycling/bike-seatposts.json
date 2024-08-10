@@ -2,21 +2,25 @@
     {
         "Name": "ridge 125 dropper post",
         "Price": "$96.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/1151c206-8168-424b-8cea-1b852bbf4b35.jpg"
     },
     {
         "Name": "transfer sl performance elite dropper post",
         "Price": "$262.93",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/a81899fd-a4fc-40b2-adb7-2bf6dc60eeb7.jpg"
     },
     {
         "Name": "cx dropper remote lever",
         "Price": "$40.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/50855e14-d86d-4584-b3c4-eec6488360b4.jpg"
     },
     {
         "Name": "reverb stealth 125mm dropper seatpost - 30.9 x 390mm",
         "Price": "$243.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/21d725c3-e18b-448f-802b-3eba9b60b96c.jpg"
     }
 ]

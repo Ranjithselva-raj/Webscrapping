@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "navigator hybrid vest - men's",
+        "Price": "$86.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/67bb8604-0e40-4911-b995-73d9f592e0dd.jpg"
+    },
+    {
+        "Name": "smartloft vest - men's",
+        "Price": "$138.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/4635fdae-1de4-45c9-9830-a0bc3e4ffe06.jpg"
+    },
+    {
+        "Name": "xinglet optic beam usb rechargeable flashing reflective vest",
+        "Price": "$41.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/bf307d9a-2a58-4c65-a811-aa4134925a9a.jpg"
+    },
+    {
+        "Name": "impact run luminous packable vest - men's",
+        "Price": "$29.83",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/7c3d7e06-004e-4cbe-873f-18889a96fbdc.jpg"
+    },
+    {
+        "Name": "shield hybrid vest 2.0 - men's",
+        "Price": "$89.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/874850a5-15e2-415f-9d6c-8046c2f15a97.jpg"
+    },
+    {
+        "Name": "vibe reflective vest",
+        "Price": "$15.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/1501fc74-e497-441a-9677-acc8e407b467.jpg"
+    },
+    {
+        "Name": "sense aero wind vest - men's",
+        "Price": " $54.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/37e0c7e3-2482-4a45-8a8d-59879b6513e4.jpg"
+    }
+]

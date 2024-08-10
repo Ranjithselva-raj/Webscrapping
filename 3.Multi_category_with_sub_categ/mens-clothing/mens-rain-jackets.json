@@ -1,0 +1,512 @@
+[
+    {
+        "Name": "rainier rain jacket - men's",
+        "Price": " $49.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/ec37c736-6505-495e-8545-7c074fb997f7.jpg"
+    },
+    {
+        "Name": "trailmade rain jacket - men's",
+        "Price": "$34.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/bf76dd77-d8af-44e8-a176-61cf7ec8b780.jpg"
+    },
+    {
+        "Name": "torrentshell 3l jacket - men's",
+        "Price": " $124.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/cc5b13c0-24c3-4436-af26-0fdafe874b8f.jpg"
+    },
+    {
+        "Name": "flash stretch rain jacket - men's",
+        "Price": " $83.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/77e3096a-6535-48db-93a1-a66edacb9900.jpg"
+    },
+    {
+        "Name": "hydro light status jacket - men's",
+        "Price": "$56.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/33351a04-cf8a-4d48-89f3-033dc4bc9e57.jpg"
+    },
+    {
+        "Name": "seven j rain jacket - men's",
+        "Price": "$74.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/97c5596a-fb24-4aee-b63c-ed53cc8f60d9.jpg"
+    },
+    {
+        "Name": "cielo rain jacket - men's",
+        "Price": " $71.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/562f3b51-3fa1-44eb-b73e-cb57ce437f93.jpg"
+    },
+    {
+        "Name": "landroamer jacket - men's",
+        "Price": "$83.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/2db9aaa7-29ad-4718-914d-f7bc1b225135.jpg"
+    },
+    {
+        "Name": "hydro light spectator jacket - men's",
+        "Price": "$62.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/83cbfca5-3960-47a1-a3a0-8fc085778409.jpg"
+    },
+    {
+        "Name": "stratus rain jacket - men's",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/c2d9ea74-e5fb-4ebb-8e3e-f546ef9cc8a4.jpg"
+    },
+    {
+        "Name": "terrain vista 3l pro jacket - men's",
+        "Price": "$91.83",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/c3317431-5cb6-48fb-8fb6-f10a9f742c6a.jpg"
+    },
+    {
+        "Name": "arc eco jacket - men's",
+        "Price": "$99.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/dd782755-3f40-46a5-9a3c-3647256a1666.jpg"
+    },
+    {
+        "Name": "abstral 2.5-layer jacket - men's",
+        "Price": "$128.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/bcf18ca5-bb61-4e55-ba89-12040df47ef0.jpg"
+    },
+    {
+        "Name": "flash air jacket - men's",
+        "Price": "$133.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/5ff1b5a7-84ed-4de2-8e5a-76e64c8b7c84.jpg"
+    },
+    {
+        "Name": "hydro lite bomber rain jacket - men's",
+        "Price": "$62.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/ddd082ee-3be4-4926-9624-57651e7c5e9e.jpg"
+    },
+    {
+        "Name": "helium rain jacket - men's",
+        "Price": "$118.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/4e977bce-2f67-4b50-87bc-41d9cd351067.jpg"
+    },
+    {
+        "Name": "hikebound jacket - men's",
+        "Price": "$55.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/2ad23691-3f3e-4bc7-8fc1-213ff810d36f.jpg"
+    },
+    {
+        "Name": "glennaker lake jacket - men's",
+        "Price": "$50.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/c81069dd-739a-4f64-b388-b4c54133859d.jpg"
+    },
+    {
+        "Name": "summit series chamlang futurelight jacket - men's",
+        "Price": "$224.83 - $315.93",
+        "Savings": "save 29% - 50%",
+        "Image": "https://www.rei.com/media/2a74fc4e-c9a5-4ea7-ab9d-e1e3b722ef0e.jpg"
+    },
+    {
+        "Name": "shell jacket - men's",
+        "Price": "$83.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/c4cfc975-27e7-426f-b3be-7e246ef7e3e7.jpg"
+    },
+    {
+        "Name": "exposure/2 gore-tex paclite stretch jacket - men's",
+        "Price": "$164.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/6ba7f87e-fa62-47e9-8087-9548ba81efed.jpg"
+    },
+    {
+        "Name": "microlayer 2.0 hs hooded jacket - men's",
+        "Price": "$119.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/ad97a205-b176-4a9b-9914-531780e1732d.jpg"
+    },
+    {
+        "Name": "downpour plus 2.0 jacket - men's",
+        "Price": "$89.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/d929fa5a-4e5d-4cd4-8e34-c5fee9a2c23c.jpg"
+    },
+    {
+        "Name": "treeline rain shell - men's",
+        "Price": "$97.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/bb258110-d73b-4ea8-b512-5c16d1583131.jpg"
+    },
+    {
+        "Name": "dagda jacket - men's",
+        "Price": "$97.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e3c54867-6cc5-47ef-afd3-ae3cf6ef215a.jpg"
+    },
+    {
+        "Name": "odin 9 worlds 3.0 shell jacket - men's",
+        "Price": "$349.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/37977fd4-f899-4919-abd6-2d32b1efa3bd.jpg"
+    },
+    {
+        "Name": "beta ar jacket - men's",
+        "Price": " $420.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/488fb01e-c408-49d4-8a7f-4a809420e2b4.jpg"
+    },
+    {
+        "Name": "terrex multi 2.5l rain.rdy jacket - men's",
+        "Price": "$97.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/696d9418-ffd2-4dbb-99d2-c8218be382d2.jpg"
+    },
+    {
+        "Name": "alto light hs hooded jacket - men's",
+        "Price": "$164.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/22a9c20b-8683-412c-a8e2-74fcd7a7de31.jpg"
+    },
+    {
+        "Name": "santiago i.a jacket - men's",
+        "Price": "$97.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/8667e8ea-d93b-4f28-b128-0cdd7b81a8da.jpg"
+    },
+    {
+        "Name": "alpha sv jacket - men's",
+        "Price": " $630.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/bf581abb-c499-4bf2-ac23-da38362e5f90.jpg"
+    },
+    {
+        "Name": "foray ii gore-tex jacket - men's",
+        "Price": "$156.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/44abab39-43c9-4780-bc94-38a9cee9bb26.jpg"
+    },
+    {
+        "Name": "volute printed 2.5-layer jacket - men's",
+        "Price": "$156.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/8d3fccee-229a-4d7f-8aec-3905168ed900.jpg"
+    },
+    {
+        "Name": "wahkeena falls 3l shell jacket - men's",
+        "Price": "$118.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/166acfe3-964c-4cec-a269-b046eeb459c9.jpg"
+    },
+    {
+        "Name": "terrex xperior 2.5l light rain.rdy jacket - men's",
+        "Price": "$125.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/72227601-0d32-405d-ba8e-8397d8fd9c28.jpg"
+    },
+    {
+        "Name": "stall jacket - men's",
+        "Price": "$111.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/df1cf9a2-405e-4fc6-b221-31c632abb34b.jpg"
+    },
+    {
+        "Name": "cielo rain anorak - men's",
+        "Price": "$107.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/13f5deb1-ffec-4c3e-9beb-442170f6510f.jpg"
+    },
+    {
+        "Name": "stormline stretch rain shell - men's",
+        "Price": "$125.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/2f2e15eb-4f28-45e6-b946-35b0c24cce94.jpg"
+    },
+    {
+        "Name": "ibex ii jacket - men's",
+        "Price": "$125.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/afd628b9-c7a0-4678-9cbd-9e56befaf7f4.jpg"
+    },
+    {
+        "Name": "alta vista jacket - men's",
+        "Price": "$69.83 - $97.93",
+        "Savings": "save 30% - 50%",
+        "Image": "https://www.rei.com/media/2e74a4c1-3014-4a4b-a581-3655c6f53cfa.jpg"
+    },
+    {
+        "Name": "terrex xperior hybrid primeknit rain.rdy jacket - men's",
+        "Price": "$139.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/48c7756e-dea4-4548-ab9e-fe5e963d3243.jpg"
+    },
+    {
+        "Name": "helium ascentshell jacket - men's",
+        "Price": "$223.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/65050f82-2f68-413d-86de-3f84bd302d0d.jpg"
+    },
+    {
+        "Name": "antora rain hoodie - men's",
+        "Price": "$83.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/f854c7c4-71c3-4ede-ae89-dcbdd182c387.jpg"
+    },
+    {
+        "Name": "granite crest jacket - men's",
+        "Price": " $194.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/c5215171-ac95-47a6-b736-f69b48b22cb4.jpg"
+    },
+    {
+        "Name": "foray super stretch jacket - men's",
+        "Price": "$209.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/ca08b682-d855-4876-844a-2f7b1fa043fe.jpg"
+    },
+    {
+        "Name": "cedar cliff jacket - men's",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/254e5e97-609c-4042-bfce-1158078de8d0.jpg"
+    },
+    {
+        "Name": "downpour eco jacket - men's",
+        "Price": "$69.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/78e3fe1d-d765-4588-8768-c4b9e14d5230.jpg"
+    },
+    {
+        "Name": "86 retro mountain jacket - men's",
+        "Price": "$103.83",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/82331763-7247-4fe9-b6c4-7c2d7fdb2cc0.jpg"
+    },
+    {
+        "Name": "verglas infinity shell jacket - men's",
+        "Price": "$329.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/e9bd857a-af00-455f-9c61-f03f27e8015f.jpg"
+    },
+    {
+        "Name": "trailverse gore-tex jacket - men's",
+        "Price": "$209.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/40c58b3b-21e8-481d-af98-145ccabd2e4a.jpg"
+    },
+    {
+        "Name": "evapouration jacket - men's",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/2b14fccb-2c28-4e83-a65c-1f5a3e14557e.jpg"
+    },
+    {
+        "Name": "triolet jacket - men's",
+        "Price": " $313.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/eda691d2-b4b5-446f-b5f9-ea0514d33ce3.jpg"
+    },
+    {
+        "Name": "omni-tech ampli-dry shell jacket - men's",
+        "Price": "$104.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/8944ef29-2f65-4887-8d8b-31df7c805152.jpg"
+    },
+    {
+        "Name": "crater hs hooded jacket - men's",
+        "Price": "$256.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/05c85bfe-1445-46c9-885c-a80c2ef4e96a.jpg"
+    },
+    {
+        "Name": "convey tour hs hooded jacket - men's",
+        "Price": "$186.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ec2f84b2-456d-4de4-b28b-f6832beb92ff.jpg"
+    },
+    {
+        "Name": "alto guide hs hooded jacket - men's",
+        "Price": "$246.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/eebc96f2-103a-481b-89e3-9c598e55b3d0.jpg"
+    },
+    {
+        "Name": "waterproof stretch jacket - men's",
+        "Price": "$62.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/8b518cfa-9820-4633-be99-3e32589f8d92.jpg"
+    },
+    {
+        "Name": "alpha jacket - men's",
+        "Price": "$559.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/6f1e6b3b-9f99-436b-90f2-d86cea67faab.jpg"
+    },
+    {
+        "Name": "alto hs hooded jacket - men's",
+        "Price": "$152.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/5fbbfafc-c06e-424a-bdcc-086089aaa3d0.jpg"
+    },
+    {
+        "Name": "precip eco jacket - men's big sizes",
+        "Price": "$89.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/25396fda-4cb1-4111-8dae-613fa805d727.jpg"
+    },
+    {
+        "Name": "blaze 3-layer shell jacket - men's",
+        "Price": "$269.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/c46c619e-837f-463d-bacf-6d153d77e611.jpg"
+    },
+    {
+        "Name": "mcarthur jacket - men's",
+        "Price": "$131.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/e612b488-c890-4761-900c-568e191d536b.jpg"
+    },
+    {
+        "Name": "summit series pumori gtx pro jacket - men's",
+        "Price": "$399.93",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/d5384efc-d204-4f64-87ca-faea09510654.jpg"
+    },
+    {
+        "Name": "motive ascentshell jacket - men's",
+        "Price": "$147.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/2053adc5-5b40-47a2-882b-5d02b2a32c03.jpg"
+    },
+    {
+        "Name": "threshold jacket - men's",
+        "Price": "$107.83",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/82ac161c-a973-49e7-9503-ee554535dd53.jpg"
+    },
+    {
+        "Name": "precip eco jacket - men's",
+        "Price": "$74.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/88b6e429-fc70-4fb8-be48-6620e16aa0cb.jpg"
+    },
+    {
+        "Name": "helium ascentshell jacket - men's",
+        "Price": "$313.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/7f3a5d0b-b95c-4959-9916-c91fb0727e6d.jpg"
+    },
+    {
+        "Name": "foray ii gore-tex jacket - men's",
+        "Price": "$111.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/074a50ed-cdec-41dd-98be-1e2904391c12.jpg"
+    },
+    {
+        "Name": "stretch ozonic jacket - men's",
+        "Price": "$114.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/d2c2fda6-03bc-412e-8c31-5603ebefbd95.jpg"
+    },
+    {
+        "Name": "stretch voyagr jacket - men's",
+        "Price": "$88.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/6469c4d2-9673-4811-a6ce-a539f67b4ce6.jpg"
+    },
+    {
+        "Name": "high coast hydratic jacket - men's",
+        "Price": "$124.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/d5638f3e-081a-49cf-ae85-bf075a3a4384.jpg"
+    },
+    {
+        "Name": "west basin dryvent jacket - men's",
+        "Price": "$121.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/60951d0e-918d-4586-9096-22fd42bcb9ae.jpg"
+    },
+    {
+        "Name": "triolet jacket - men's",
+        "Price": "$314.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/7afcfdd5-4f00-498e-98d5-2342ed9c8f7d.jpg"
+    },
+    {
+        "Name": "stretch voyagr jacket - men's",
+        "Price": "$134.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/ca8180b9-eaf2-4bd5-9ce3-dc2c03cfcbbc.jpg"
+    },
+    {
+        "Name": "mitre peak jacket - men's",
+        "Price": "$286.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/183ea29c-41a3-4a5c-a2a0-d97cddc51b5e.jpg"
+    },
+    {
+        "Name": "dual aspect jacket - men's",
+        "Price": "$238.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/34192588-3908-43c3-b381-10aa1b00abb4.jpg"
+    },
+    {
+        "Name": "banff shell jacket - men's",
+        "Price": "$146.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/c7c2629e-2e93-468f-93b3-5dc642855d0d.jpg"
+    },
+    {
+        "Name": "cape wrath jacket - men's",
+        "Price": "$209.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a5d7fd0e-3999-4c8a-a55b-a4fb9e80691d.jpg"
+    },
+    {
+        "Name": "essential gore-tex shell jacket",
+        "Price": "$244.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e79dde18-4a62-470f-b48d-2f17cd512417.jpg"
+    },
+    {
+        "Name": "cedar cliff jacket - men's",
+        "Price": "$100.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/0d4fa16f-51c2-4d7a-9b56-3ecdced8d994.jpg"
+    },
+    {
+        "Name": "verglas 2l shell jacket - men's",
+        "Price": "$166.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/b78d8fba-fa24-4cf7-a5c1-b1fb66d51d15.jpg"
+    },
+    {
+        "Name": "wyre jacket - men's",
+        "Price": "$188.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c0663f05-935b-4ccb-97cf-881b60438050.jpg"
+    },
+    {
+        "Name": "odin 1 world infinity shell jacket - men's",
+        "Price": "$389.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/134eff9b-729b-4337-876f-b205781c059a.jpg"
+    },
+    {
+        "Name": "maxen jacket - men's",
+        "Price": "$196.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/e2b0a5a4-93e7-4042-ac1b-999094983f7f.jpg"
+    },
+    {
+        "Name": "boulder fork rain jacket - men's",
+        "Price": " $159.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/f2a29546-a47a-4709-908b-2a1378d6a573.jpg"
+    }
+]

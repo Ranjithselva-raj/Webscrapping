@@ -2,26 +2,31 @@
     {
         "Name": "spoon dc pedals",
         "Price": "$39.93",
+        "Savings": "save 38%",
         "Image": "https://www.rei.com/media/698e476f-c1f1-4239-a4dc-999609ad579b.jpg"
     },
     {
         "Name": "range composite pedals",
         "Price": "$44.93",
+        "Savings": "save 8%",
         "Image": "https://www.rei.com/media/a734c4c2-01fc-443b-be19-40695e6c92a7.jpg"
     },
     {
         "Name": "chester pedals - 2023",
         "Price": "$29.93",
+        "Savings": "save 23%",
         "Image": "https://www.rei.com/media/4e452d1a-cad0-447f-864b-5c8425da6418.jpg"
     },
     {
         "Name": "plus pedals",
         "Price": "$104.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/251456b2-0522-499e-8579-a172181cf376.jpg"
     },
     {
         "Name": "speedplay aero pedals",
         "Price": "$195.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/1b9c9c5b-2a24-4844-9dc8-e032f16f4341.jpg"
     }
 ]

@@ -1,0 +1,518 @@
+[
+    {
+        "Name": "rainier rain jacket - women's",
+        "Price": " $49.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/17b0f338-0e6f-4197-817d-060497937e86.jpg"
+    },
+    {
+        "Name": "rainier long line rain jacket - women's",
+        "Price": " $68.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/397f79b7-bf70-4b7d-a558-e5adcc3bff6c.jpg"
+    },
+    {
+        "Name": "trailmade rain jacket - women's",
+        "Price": "$34.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/cf4491ad-39ab-4657-b1bc-e1c25a2f5555.jpg"
+    },
+    {
+        "Name": "torrentshell 3l jacket - women's",
+        "Price": " $124.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/b8b89664-b25f-49ec-bcbb-cc49293468fe.jpg"
+    },
+    {
+        "Name": "microlayer 2.0 hs hooded jacket - women's",
+        "Price": "$119.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/e301e459-a5b1-49ab-884a-0b38cf888848.jpg"
+    },
+    {
+        "Name": "stratus rain jacket - women's",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/03e2bcab-45c6-4997-950d-08afe0b0dd39.jpg"
+    },
+    {
+        "Name": "alta vista jacket - women's",
+        "Price": "$97.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/f553c42a-f7b1-4912-9ad8-f01fc809da6b.jpg"
+    },
+    {
+        "Name": "switchback lined long jacket - women's",
+        "Price": "$69.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/d88e5bfc-9037-4e81-971d-9c259c3a65c2.jpg"
+    },
+    {
+        "Name": "switchback iii jacket - women's",
+        "Price": "$50.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/d23dc516-fa47-4b3a-a7ee-b8a92f45491c.jpg"
+    },
+    {
+        "Name": "helium rain jacket - women's",
+        "Price": "$89.83 - $125.93",
+        "Savings": "save 30% - 50%",
+        "Image": "https://www.rei.com/media/7f7bb0fb-f2c0-415b-9eef-6ab2ca4cf3b9.jpg"
+    },
+    {
+        "Name": "flash stretch rain jacket - women's",
+        "Price": " $83.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/b7675ce6-8aa7-4970-bf24-5f1e40e9dabc.jpg"
+    },
+    {
+        "Name": "atlanta i.a jacket - women's",
+        "Price": "$104.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/67459071-a33d-4b85-9b81-438a1d77a003.jpg"
+    },
+    {
+        "Name": "essence mid-length raincoat - women's",
+        "Price": "$149.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/20cb48d3-83b5-43a9-8491-9f90b4dcdd14.jpg"
+    },
+    {
+        "Name": "alto light hs hooded jacket - women's",
+        "Price": "$164.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/3285a97d-61e0-4a8e-9175-d49594be1f8d.jpg"
+    },
+    {
+        "Name": "x20 waterproof anorak - women's",
+        "Price": "$62.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9b300e26-a91e-4eb8-9bf9-8fca4e3bd090.jpg"
+    },
+    {
+        "Name": "precip eco pro rain jacket - women's",
+        "Price": "$95.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/879a473e-0857-4ecd-9188-59f41e66ccd5.jpg"
+    },
+    {
+        "Name": "seven j plus rain jacket - women's plus sizes",
+        "Price": "$74.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ab09ea1c-51b0-4b3e-8f8a-787df1f131ea.jpg"
+    },
+    {
+        "Name": "aspire ii gore-tex jacket - women's",
+        "Price": "$156.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/4de371bc-d769-49af-a3b1-bb12d30c19ae.jpg"
+    },
+    {
+        "Name": "terrain vista 3l pro jacket - women's",
+        "Price": "$91.83",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/e1a7ccd6-1954-46f2-8199-ce37dca18501.jpg"
+    },
+    {
+        "Name": "convey tour hs hooded jacket - women's",
+        "Price": "$186.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/45357d6d-6134-4a3f-9a73-67473f4185f0.jpg"
+    },
+    {
+        "Name": "trailverse gore-tex jacket - women's",
+        "Price": "$209.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/0242a168-5362-4718-82c7-fd83453546fa.jpg"
+    },
+    {
+        "Name": "x20 waterproof rain jacket - women's",
+        "Price": "$62.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/11dcfca7-0918-414a-b77a-2821e4b2a6d6.jpg"
+    },
+    {
+        "Name": "outdoor everyday rain jacket - women's",
+        "Price": " $173.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/62f130ef-feba-4d3b-a5ac-1c761ef411b0.jpg"
+    },
+    {
+        "Name": "helium ascentshell jacket - women's",
+        "Price": "$223.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/b9ca236f-b89b-40b9-9993-37521abe9763.jpg"
+    },
+    {
+        "Name": "marsco jacket - women's",
+        "Price": "$97.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9cfe8564-c686-4787-a288-ce7942f86741.jpg"
+    },
+    {
+        "Name": "voss jacket - women's",
+        "Price": "$199.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/bb09e8f9-f31c-4f69-b39e-bd184a6b34a8.jpg"
+    },
+    {
+        "Name": "aden rain jacket - women's",
+        "Price": "$96.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/7a86d9ca-b186-40cd-9359-df277c98ac3f.jpg"
+    },
+    {
+        "Name": "arc eco jacket - women's",
+        "Price": " $99.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/c1854f14-7cc7-467a-8f9a-1cbd50791361.jpg"
+    },
+    {
+        "Name": "hc hydratic trail jacket - women's",
+        "Price": " $192.49",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/ad7c0428-c1e7-4334-8983-4edc9197ca68.jpg"
+    },
+    {
+        "Name": "antora rain hoodie - women's",
+        "Price": "$83.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/26a4c443-463e-43c1-a2eb-473a780ca2e7.jpg"
+    },
+    {
+        "Name": "terrex xperior hybrid rain jacket - women's",
+        "Price": "$139.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/bbdd82e0-4c64-495a-a885-e04024bed206.jpg"
+    },
+    {
+        "Name": "kinetic alpine 2.0 jacket - women's",
+        "Price": "$154.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/13f2bb7d-93e3-4e5f-ab99-b251ed885338.jpg"
+    },
+    {
+        "Name": "rainier rain jacket - women's plus sizes",
+        "Price": "$39.83",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/c5b4e034-5712-4b2a-a0e6-d4b000f16aac.jpg"
+    },
+    {
+        "Name": "aspire ii gore-tex jacket - women's",
+        "Price": "$89.83 - $111.83",
+        "Savings": "save 50% - 60%",
+        "Image": "https://www.rei.com/media/3d5f9363-aaa8-40fe-b66c-a70a48566dc2.jpg"
+    },
+    {
+        "Name": "stina jacket - women's",
+        "Price": " $139.99",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/bd467ab4-933a-48a0-bf28-898fcbbb293b.jpg"
+    },
+    {
+        "Name": "valle vista stretch jacket - women's",
+        "Price": "$109.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/834c3f67-1f06-4188-b686-f1425570a7e3.jpg"
+    },
+    {
+        "Name": "crater hs hooded jacket - women's",
+        "Price": "$256.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/c4059a69-8b55-46cd-937c-931484789ef7.jpg"
+    },
+    {
+        "Name": "alpha jacket - women's",
+        "Price": "$559.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/b4568866-7d3f-4e22-866d-c66fefb24358.jpg"
+    },
+    {
+        "Name": "aspire ii trench jacket - women's",
+        "Price": "$173.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9c3aba6e-b281-4652-93bb-9aa4b3e35081.jpg"
+    },
+    {
+        "Name": "alto guide hs hooded jacket - women's",
+        "Price": "$246.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/98acbccf-d466-42f3-a9d8-5de0206a1ea5.jpg"
+    },
+    {
+        "Name": "exposure/2 gore-tex paclite jacket - women's",
+        "Price": "$164.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/7c65b9fb-1477-4abc-a121-a2effb13dd6b.jpg"
+    },
+    {
+        "Name": "archangel jacket - women's",
+        "Price": "$426.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/dcb590d8-5500-40c9-8421-a776bd26f4b7.jpg"
+    },
+    {
+        "Name": "juell storm rain jacket - women's",
+        "Price": "$164.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/4e79b9c0-6ec0-4e0a-8d02-99a9bf8aa702.jpg"
+    },
+    {
+        "Name": "odin 1 world infinity shell jacket - women's",
+        "Price": "$389.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/9fba47e0-8263-4307-a201-bab6786a6b08.jpg"
+    },
+    {
+        "Name": "dryline rain jacket - women's",
+        "Price": "$124.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/85ec770a-4cb1-4bf5-ae7e-b735221ed46f.jpg"
+    },
+    {
+        "Name": "storm10 jacket - women's",
+        "Price": "$226.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/edfea54c-4118-4d24-bd85-6a58e072589f.jpg"
+    },
+    {
+        "Name": "jetstream trench coat - women's",
+        "Price": "$164.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/9bf0a975-1de1-42b8-8dda-a529d7308a68.jpg"
+    },
+    {
+        "Name": "antora jacket - women's",
+        "Price": "$81.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/75442d80-7f17-4ac6-b6c7-3ee639e51bf8.jpg"
+    },
+    {
+        "Name": "precip eco jacket - women's plus sizes",
+        "Price": "$97.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/3a34dbc1-282d-4137-8b72-aae420e385f0.jpg"
+    },
+    {
+        "Name": "bonatti waterproof jacket - women's",
+        "Price": "$125.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/2c553f9e-a4c0-4e20-8e03-f4074c8234a7.jpg"
+    },
+    {
+        "Name": "minimalist pro gore-tex jacket - women's",
+        "Price": "$197.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/619943e0-cdf3-4ba8-9ed2-8872be5028d2.jpg"
+    },
+    {
+        "Name": "mitre peak gore-tex jacket - women's",
+        "Price": "$286.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/ac4ed6e9-516e-4468-b72a-b0518d9633d2.jpg"
+    },
+    {
+        "Name": "summit series papsura futurelight jacket - women's",
+        "Price": " $280.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/7e14cb44-8313-417c-9550-7b36b76f7c0b.jpg"
+    },
+    {
+        "Name": "xerodry gtx jacket - women's",
+        "Price": "$88.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/4857b628-b853-4802-a3d7-570ab49e4d1a.jpg"
+    },
+    {
+        "Name": "antora parka - women's",
+        "Price": "$59.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/910ee3ac-b927-470c-a0a8-497c81cc2b57.jpg"
+    },
+    {
+        "Name": "stretch ozonic jacket - women's",
+        "Price": "$114.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/356ec9a3-cdbc-445b-bdea-f9830ac8149a.jpg"
+    },
+    {
+        "Name": "antora jacket - women's",
+        "Price": "$76.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/f8912f84-557c-49ff-bc1c-b6cb8866176b.jpg"
+    },
+    {
+        "Name": "formation 3l shell jacket - women's",
+        "Price": "$194.83",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/dc81da8f-75b7-4b9c-9a54-91b999679e1a.jpg"
+    },
+    {
+        "Name": "shell jacket - women's",
+        "Price": "$88.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/7d93ed87-6688-4035-8e57-008ce8c85fab.jpg"
+    },
+    {
+        "Name": "helium rain jacket - women's",
+        "Price": "$62.83",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/4a59bf40-4d46-4c27-b61d-53aff009d546.jpg"
+    },
+    {
+        "Name": "one parka - women's",
+        "Price": " $224.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/5cf8170c-0036-4158-9984-a4242637b2db.jpg"
+    },
+    {
+        "Name": "precip eco jacket - women's",
+        "Price": "$68.73",
+        "Savings": "save 42%",
+        "Image": "https://www.rei.com/media/2f85aab7-c98b-4e11-adcf-01decf9d3270.jpg"
+    },
+    {
+        "Name": "xerodry gtx jacket - women's plus sizes",
+        "Price": "$49.83",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/c153499d-8b11-4ca1-b6da-86f39ddba447.jpg"
+    },
+    {
+        "Name": "gore-tex minimalist jacket - women's",
+        "Price": "$164.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/671443ea-5dc0-4850-8d42-41c3eb2b9fca.jpg"
+    },
+    {
+        "Name": "affric jacket - women's",
+        "Price": "$174.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c695e337-9040-4937-890f-7b51ed145e8c.jpg"
+    },
+    {
+        "Name": "perspektiv jacket - women's",
+        "Price": "$96.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d79e6f2e-e50c-4473-bc86-d0184aed5199.jpg"
+    },
+    {
+        "Name": "precip eco pro jacket - women's",
+        "Price": "$112.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/ca8a6807-70b9-4ff5-945d-6c622bc77186.jpg"
+    },
+    {
+        "Name": "hydroflex shell jacket - women's",
+        "Price": "$186.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/96dac122-49d6-4486-9e22-a5e49b67a1d0.jpg"
+    },
+    {
+        "Name": "taiss hs hooded jacket - women's",
+        "Price": "$288.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/55873767-748b-4dfd-954b-a01089cdfa5d.jpg"
+    },
+    {
+        "Name": "banff shell jacket - women's",
+        "Price": "$146.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/86137b67-e06a-4ba2-b98c-1fa641c2d464.jpg"
+    },
+    {
+        "Name": "dual aspect jacket - women's",
+        "Price": "$239.73",
+        "Savings": "save 49%",
+        "Image": "https://www.rei.com/media/d5321732-9874-4b4a-a129-d5035c07f0de.jpg"
+    },
+    {
+        "Name": "blaze 3-layer shell jacket - women's",
+        "Price": "$269.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/dd487dd4-1861-4a20-b64e-5e4bdd30e589.jpg"
+    },
+    {
+        "Name": "alto hs hooded jacket - women's",
+        "Price": "$152.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/0b5da4bf-e498-4dc9-bad2-563a5eed2668.jpg"
+    },
+    {
+        "Name": "essential gore-tex shell jacket",
+        "Price": "$244.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e79dde18-4a62-470f-b48d-2f17cd512417.jpg"
+    },
+    {
+        "Name": "reaction long jacket - women's",
+        "Price": "$209.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/87319270-f1f0-42b7-9da9-d701a5246f5a.jpg"
+    },
+    {
+        "Name": "highline stretch shell - women's",
+        "Price": "$219.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/6986ade4-1629-4f7e-ab6e-ea0d748243d5.jpg"
+    },
+    {
+        "Name": "odin 9 worlds 2.0 outdoor shell jacket - women's",
+        "Price": "$329.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/d75dc5b7-74ab-43bf-a8bb-bf14a4cdd457.jpg"
+    },
+    {
+        "Name": "fionn jacket - women's",
+        "Price": "$196.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/261e9c21-a285-48ca-b1fc-2d3e9890b55d.jpg"
+    },
+    {
+        "Name": "'78 all-weather parka - women's",
+        "Price": "$168.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d5e0914f-5b4d-468f-b30a-73ec23e00375.jpg"
+    },
+    {
+        "Name": "odin 9 worlds 3.0 shell jacket - women's",
+        "Price": "$349.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/5c52f23c-af7f-45c4-98a7-0aaecaf34bfc.jpg"
+    },
+    {
+        "Name": "nordwand light hs hooded jacket - women's",
+        "Price": "$254.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c28dfc88-7036-49ca-af46-bddd9bc5fd06.jpg"
+    },
+    {
+        "Name": "cielo rain jacket - women's",
+        "Price": " $71.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/bc6bff96-62a7-4508-b1c3-3866e181e8f4.jpg"
+    },
+    {
+        "Name": "downpour eco jacket - women's",
+        "Price": " $71.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/344639b7-78c0-47d0-8c1a-93da38b20cce.jpg"
+    },
+    {
+        "Name": "granite crest jacket - women's",
+        "Price": " $194.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/98b12a5d-5408-434b-bff1-d33a161c3190.jpg"
+    },
+    {
+        "Name": "boulder fork rain jacket - women's",
+        "Price": " $159.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/8224ad94-e35f-4e42-8685-0fd31a0a841e.jpg"
+    },
+    {
+        "Name": "stratoburst stretch rain jacket - women's",
+        "Price": " $114.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/42e00195-a912-414e-8fa0-f44878bf9930.jpg"
+    }
+]

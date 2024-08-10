@@ -1,0 +1,974 @@
+[
+    {
+        "Name": "switch v crop swimsuit top - women's",
+        "Price": "$44.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d2a3776f-4380-4d67-8017-ac8e1bb33329.jpg"
+    },
+    {
+        "Name": "patchwork one-piece swimsuit - women's",
+        "Price": " $71.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/0c171ffc-d180-4ee5-b75b-329bedfdd08e.jpg"
+    },
+    {
+        "Name": "lula classic bikini swimsuit bottoms - women's",
+        "Price": "$39.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/1ce6ada6-b526-41db-aa31-ba1a45e278f8.jpg"
+    },
+    {
+        "Name": "st. barth reversible swimsuit bottoms - women's",
+        "Price": " $28.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/0931f59c-24e9-4d87-9727-c34762ac7a08.jpg"
+    },
+    {
+        "Name": "zelda swim shorts - women's",
+        "Price": "$31.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/d2fd8e5c-38fa-4387-b1ac-38c900e8159c.jpg"
+    },
+    {
+        "Name": "riviere swimsuit top - women's",
+        "Price": "$19.73",
+        "Savings": "save 64%",
+        "Image": "https://www.rei.com/media/4eaf4979-251e-4cd1-84db-337a1b8808a0.jpg"
+    },
+    {
+        "Name": "logan one-piece swimsuit - women's",
+        "Price": "$54.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/88edbdb2-4b18-4af4-a2d8-8c11adf89083.jpg"
+    },
+    {
+        "Name": "nanoe one-piece swimsuit - women's",
+        "Price": "$83.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/66961c81-bb0b-4618-ae0f-b96698dc502b.jpg"
+    },
+    {
+        "Name": "yoga pocket swimsuit bottoms - women's",
+        "Price": "$28.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/050244f8-3c54-45a5-96c6-70db7288e364.jpg"
+    },
+    {
+        "Name": "jojo tankini swimsuit top - women's",
+        "Price": " $47.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/2d4b0793-6038-47a3-ae5a-8549e5f63a81.jpg"
+    },
+    {
+        "Name": "braided one-piece swimsuit - women's",
+        "Price": " $49.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/d915f611-a9a5-40c2-9f94-96f282ce4f6a.jpg"
+    },
+    {
+        "Name": "arielle high-waist bikini swimsuit bottoms - women's",
+        "Price": "$39.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/175d730f-32b7-488d-aa02-bc0e515d5a2b.jpg"
+    },
+    {
+        "Name": "pocket swimsuit bottoms - women's",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/09910161-4faf-453e-ad88-59583bfc85b6.jpg"
+    },
+    {
+        "Name": "high-waisted 2.5\" board shorts",
+        "Price": "$39.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/9389d703-c2ea-49cd-8111-51b6e9d9844a.jpg"
+    },
+    {
+        "Name": "margarita one-piece swimsuit - women's",
+        "Price": "$79.93",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/111e0c9f-9cce-41dc-80d8-b4bb0c03e435.jpg"
+    },
+    {
+        "Name": "jessa one-piece swimsuit - women's",
+        "Price": "$66.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/4e7eb4d4-05f7-4d2a-892c-a4393b7ca9ef.jpg"
+    },
+    {
+        "Name": "ruched high-rise swimsuit bottoms - women's",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/fc2871f5-b46f-4690-9953-a6153ab81eaf.jpg"
+    },
+    {
+        "Name": "dune one-piece swimsuit - women's",
+        "Price": "$101.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/6fe987b1-536f-4630-8ab6-1829cf9a10fe.jpg"
+    },
+    {
+        "Name": "dune bikini swimsuit bottoms - women's",
+        "Price": "$33.83 - $53.93",
+        "Savings": "save 20% - 50%",
+        "Image": "https://www.rei.com/media/442021fa-9966-4730-bf2c-2d9e79188068.jpg"
+    },
+    {
+        "Name": "textured bikini swimsuit bottoms - women's",
+        "Price": "$29.93",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/4ad42648-95c9-4373-8855-2b31c577edb2.jpg"
+    },
+    {
+        "Name": "willow falls reversible swimsuit top - women's",
+        "Price": " $48.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/982798f7-acb3-4440-a657-3567799096a6.jpg"
+    },
+    {
+        "Name": "patchwork one-piece swimsuit - women's",
+        "Price": "$69.73 - $72.73",
+        "Savings": "save 26% - 27%",
+        "Image": "https://www.rei.com/media/0eefe8d1-6a46-4837-91e0-d8d2e078aac3.jpg"
+    },
+    {
+        "Name": "surf crop swimsuit top - women's",
+        "Price": "$44.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/a1a60a52-2b69-4610-8620-d8c32dada681.jpg"
+    },
+    {
+        "Name": "high waist bikini swimsuit bottoms - women's",
+        "Price": "$34.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/2aaa946f-8491-425b-9c05-4256e08b883d.jpg"
+    },
+    {
+        "Name": "schaffie swim shorts - women's",
+        "Price": "$42.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/34c4fd77-c933-48f0-b967-4b4b37a819dd.jpg"
+    },
+    {
+        "Name": "baja bound one-piece swimsuit - women's",
+        "Price": "$79.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/c36400a8-b3c3-420f-9c1c-8bdb9c472570.jpg"
+    },
+    {
+        "Name": "noosa 2.0 shorts - women's",
+        "Price": "$36.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/4fb2681e-021e-4b69-94c5-db822c40da76.jpg"
+    },
+    {
+        "Name": "switch v crop swimsuit top - women's",
+        "Price": " $42.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/3e67faba-4d2f-4c6b-8dd9-261b39e12d29.jpg"
+    },
+    {
+        "Name": "baja bound bike swim shorts - women's",
+        "Price": "$36.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/f291c37c-affb-4fb5-9833-e658399ac419.jpg"
+    },
+    {
+        "Name": "expedition board shorts - women's",
+        "Price": "$34.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a9da2a8f-8259-498a-9661-35571201faad.jpg"
+    },
+    {
+        "Name": "drawstring tankini swimsuit top - women's",
+        "Price": "$44.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/1f03f520-983c-488b-aaf1-3b01a83ca8f3.jpg"
+    },
+    {
+        "Name": "baja bound swimsuit top - women's",
+        "Price": "$54.93",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/bf497c25-4294-4bdf-b4da-ad2539231511.jpg"
+    },
+    {
+        "Name": "nia scoop neck swimsuit top - women's",
+        "Price": "$39.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/13eb6efa-6f19-4d75-9ef7-04baa8403a02.jpg"
+    },
+    {
+        "Name": "kira swimsuit top - women's",
+        "Price": "$39.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/46838483-b5bc-4bfa-b4c4-0f68c91765c9.jpg"
+    },
+    {
+        "Name": "dune crop swimsuit top - women's",
+        "Price": "$70.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/9587709c-af6b-4926-9666-48c345fcf399.jpg"
+    },
+    {
+        "Name": "baja bound swimsuit bottoms - women's",
+        "Price": "$49.93",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/669c27c8-7634-43a5-828c-65612d8e0524.jpg"
+    },
+    {
+        "Name": "surf's up high neck bikini swimsuit top - women's",
+        "Price": "$55.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9e6980e3-9e92-4bdc-81c8-4a067f45d85b.jpg"
+    },
+    {
+        "Name": "kelly square neck bikini swimsuit top - women's",
+        "Price": "$39.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/87bce867-b73b-4db2-b4ed-21fc69ee1fb3.jpg"
+    },
+    {
+        "Name": "printed beach classics fashion swimsuit top - women's",
+        "Price": "$34.93",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/552e21bb-43be-4e8a-8ae1-a6fe50f37a71.jpg"
+    },
+    {
+        "Name": "printed beach classics fashion one-piece swimsuit - women's",
+        "Price": "$79.93",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/c6d9625b-bbcf-4d1a-8417-d4cd9a09b0a4.jpg"
+    },
+    {
+        "Name": "rip curl swimsuit bottoms - women's",
+        "Price": "$29.93",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/cbbcbbf4-e384-453b-acd0-a5344c41aa91.jpg"
+    },
+    {
+        "Name": "reversible 4.5\" swim shorts",
+        "Price": "$39.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/86659627-06f1-4a51-bd5e-2e6375d108f2.jpg"
+    },
+    {
+        "Name": "margarita hipster swimsuit bottoms - women's",
+        "Price": "$34.93",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/5f6bfd8f-4fea-468b-ae61-803cd9fae93d.jpg"
+    },
+    {
+        "Name": "printed beach classics fixed tri swimsuit top - women's",
+        "Price": "$29.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/b0072005-dbc9-4b43-a3d6-bfbc1a5dc1d6.jpg"
+    },
+    {
+        "Name": "surf crop swimsuit top - women's",
+        "Price": "$44.93",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/a475deb9-fc55-404a-ba59-f6099775222b.jpg"
+    },
+    {
+        "Name": "tulum swimsuit top - women's",
+        "Price": "$44.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/65945b51-3847-4306-8ced-e44397e9ea38.jpg"
+    },
+    {
+        "Name": "printed beach classics one-piece swimsuit - women's",
+        "Price": "$74.93",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/088b39c1-4147-4076-a3cd-07585f94adb9.jpg"
+    },
+    {
+        "Name": "haole bralette swimsuit top - women's",
+        "Price": "$37.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/1c0bcf85-9a12-4fa4-9f2b-9ed3e948aca5.jpg"
+    },
+    {
+        "Name": "printed beach classics mod lace-up swimsuit bottoms - women's",
+        "Price": "$29.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/8eefdced-f45e-4a4b-aeaf-2cb59014e1fb.jpg"
+    },
+    {
+        "Name": "reversible high-leg swimsuit bottoms - women's",
+        "Price": "$29.93",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/6113f2e9-7712-43c5-9ec6-c67e3f1f6a8b.jpg"
+    },
+    {
+        "Name": "wahine bikini swimsuit bottoms - women's",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/882c1347-dc88-4983-8ad8-d9fdd793c00c.jpg"
+    },
+    {
+        "Name": "napkey 5\" board shorts - women's",
+        "Price": "$44.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/cb8cea61-fb44-4630-b70d-fe492c726e3e.jpg"
+    },
+    {
+        "Name": "wahine printed bralette swimsuit top - women's",
+        "Price": "$37.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/c541b37f-50b6-49f0-bbd4-fa03d2500d28.jpg"
+    },
+    {
+        "Name": "wahine printed bikini swimsuit bottoms - women's",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/8a08f29e-a9f8-4106-b646-489b4dc8b19b.jpg"
+    },
+    {
+        "Name": "soroya bikini swimsuit bottoms - women's",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/c8949388-4aa7-436f-9988-edc9204bcc18.jpg"
+    },
+    {
+        "Name": "figgy printed bikini swimsuit bottoms - women's",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/a3008c54-a863-4c69-b7c2-c2787633c76e.jpg"
+    },
+    {
+        "Name": "may one-piece swimsuit - women's",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/ac2a5fd4-cd74-4e17-b68b-fdf0813f6374.jpg"
+    },
+    {
+        "Name": "margarita bralette swimsuit top - women's",
+        "Price": "$39.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/9e6c3d71-5030-47c1-a31b-60a88ed646fd.jpg"
+    },
+    {
+        "Name": "long-sleeve swell seeker one-piece swimsuit - women's",
+        "Price": "$131.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/6f45b026-19ac-4d53-81db-58a64c9b43c5.jpg"
+    },
+    {
+        "Name": "caribbean swimsuit bottoms - women's",
+        "Price": "$14.73",
+        "Savings": "save 64%",
+        "Image": "https://www.rei.com/media/3cc45a15-dbda-4d90-88a8-ba97fc25a2d2.jpg"
+    },
+    {
+        "Name": "reversible 5\" board shorts",
+        "Price": "$47.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/28947ef4-37eb-4d62-90b4-26f599356e0d.jpg"
+    },
+    {
+        "Name": "wahine bralette swimsuit top - women's",
+        "Price": "$37.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/b40fdb28-1a5d-4f23-9e9c-3bda3ad2a38c.jpg"
+    },
+    {
+        "Name": "swim tank top",
+        "Price": "$39.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/def6d3c1-63ab-4f4a-b0d5-7c5131817c74.jpg"
+    },
+    {
+        "Name": "high-waisted boy shorts",
+        "Price": "$33.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/ead958ff-4e06-4636-b909-149d6cb420b5.jpg"
+    },
+    {
+        "Name": "demba printed board shorts - women's",
+        "Price": "$37.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/2f37e230-0824-49da-8741-fde52929cd6d.jpg"
+    },
+    {
+        "Name": "sport swimsuit top",
+        "Price": "$39.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/b1d6b436-0341-4ab2-85f7-9a3bae76b5e0.jpg"
+    },
+    {
+        "Name": "straight up longline swimsuit top",
+        "Price": "$39.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/08568b07-5aee-4361-8c8f-c8569358c51f.jpg"
+    },
+    {
+        "Name": "heritage 7\" board shorts",
+        "Price": "$47.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/b644a4c3-b26f-45e0-b44a-444403b32fdc.jpg"
+    },
+    {
+        "Name": "mojito swimsuit bottoms - women's",
+        "Price": "$13.73",
+        "Savings": "save 71%",
+        "Image": "https://www.rei.com/media/086c0b05-45b3-4d55-99cc-9a32b13ad8c7.jpg"
+    },
+    {
+        "Name": "racerback zip swimsuit top",
+        "Price": "$44.93",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/252309d4-ece5-457e-b965-c526b3804683.jpg"
+    },
+    {
+        "Name": "dune bikini swimsuit top - women's",
+        "Price": "$33.83 - $53.93",
+        "Savings": "save 20% - 50%",
+        "Image": "https://www.rei.com/media/9d079756-b1c5-4ccb-b89a-684e1a1d4e73.jpg"
+    },
+    {
+        "Name": "nanogrip cami swimsuit top - women's",
+        "Price": "$58.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9195ca51-554c-4e7e-aa80-56dd85df0db6.jpg"
+    },
+    {
+        "Name": "lined 9\" board shorts",
+        "Price": "$54.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/4fc8ff9b-8f90-4c46-98c7-6cbae8d53910.jpg"
+    },
+    {
+        "Name": "surfs up bikini swimsuit top - women's",
+        "Price": "$39.83 - $55.93",
+        "Savings": "save 30% - 50%",
+        "Image": "https://www.rei.com/media/cbba2a32-1cbf-4f30-882e-9d0ec22e6bd2.jpg"
+    },
+    {
+        "Name": "6\" one-piece swimsuit",
+        "Price": "$59.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/6dfa7c81-78ba-40fc-bc5b-33ac3405b319.jpg"
+    },
+    {
+        "Name": "4.5\" swim shorts",
+        "Price": "$33.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/b9cc8e5c-97e4-4a64-b9f7-8878bbecf2d1.jpg"
+    },
+    {
+        "Name": "winnie one-piece swimsuit - women's",
+        "Price": "$66.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/5985c752-0835-4782-bd2e-7ad0348b0a63.jpg"
+    },
+    {
+        "Name": "reversible plunge swimsuit top",
+        "Price": "$33.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/31140157-48bf-41e9-be10-bfa7b8f5cfe8.jpg"
+    },
+    {
+        "Name": "reversible sport swimsuit top",
+        "Price": "$39.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/fa915cb0-335a-49c7-ae74-768e14807afe.jpg"
+    },
+    {
+        "Name": "sanitas reversible swimsuit top - women's",
+        "Price": "$29.93",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/adb9233d-dec1-496a-8472-f1e9b5276056.jpg"
+    },
+    {
+        "Name": "surfs up one-piece swimsuit - women's",
+        "Price": "$74.83 - $99.93",
+        "Savings": "save 33% - 50%",
+        "Image": "https://www.rei.com/media/1ea68b9e-d54f-43bc-ae74-71b0db4babaf.jpg"
+    },
+    {
+        "Name": "tulum one-piece swimsuit - women's",
+        "Price": "$79.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/c784d09f-e4f4-424e-b788-1879c692e3a5.jpg"
+    },
+    {
+        "Name": "surfs up bikini swimsuit bottoms - women's",
+        "Price": "$39.83 - $55.93",
+        "Savings": "save 30% - 50%",
+        "Image": "https://www.rei.com/media/dd69526e-e106-48a0-a4e9-75f20371594a.jpg"
+    },
+    {
+        "Name": "9\" swim shorts with pocket",
+        "Price": "$39.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/9a200d44-e62e-434f-9e50-3930435323e6.jpg"
+    },
+    {
+        "Name": "mer swimsuit top - women's",
+        "Price": "$18.73",
+        "Savings": "save 71%",
+        "Image": "https://www.rei.com/media/88b4069e-d4ab-46a5-b82d-95170471a870.jpg"
+    },
+    {
+        "Name": "high tide one-piece swimsuit - women's",
+        "Price": "$63.73 - $69.73",
+        "Savings": "save 25% - 26%",
+        "Image": "https://www.rei.com/media/5b037959-ee76-446b-a0ef-a5d6b2670ac0.jpg"
+    },
+    {
+        "Name": "reversible 6\" one-piece swimsuit",
+        "Price": "$59.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/c6652cd7-f8fc-4f57-9e3c-e523052702a7.jpg"
+    },
+    {
+        "Name": "swim romper - women's",
+        "Price": "$69.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/bd85247f-16aa-4569-9b8e-70e90193461f.jpg"
+    },
+    {
+        "Name": "meadow flowers bralette swimsuit top - women's",
+        "Price": " $39.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/446b999a-c8bb-4f6f-9c21-723391fc9568.jpg"
+    },
+    {
+        "Name": "drawstring swim shorts - women's",
+        "Price": "$38.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/09bb5b55-166d-480f-9586-8f740a915428.jpg"
+    },
+    {
+        "Name": "mesh zip-up racerback swimsuit top - women's",
+        "Price": "$38.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/411d6b85-bbd5-4422-9d3d-6ee081620626.jpg"
+    },
+    {
+        "Name": "mini rib track stripe tankini swimsuit top - women's",
+        "Price": "$34.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/cdf30ebd-f930-43f0-ade8-ca3f1950af1e.jpg"
+    },
+    {
+        "Name": "full side shirring tankini swimsuit top - women's",
+        "Price": "$38.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/4ad9edaa-5632-453c-8781-0571f3b36832.jpg"
+    },
+    {
+        "Name": "cross up crop swimsuit top - women's",
+        "Price": "$29.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/b0067ba3-d94a-443c-9e79-8421831e45cf.jpg"
+    },
+    {
+        "Name": "belltello swim skirt - morning glory bloom - women's",
+        "Price": "$21.73",
+        "Savings": "save 66%",
+        "Image": "https://www.rei.com/media/e8cacd78-e0d7-43ec-8176-8587dd1a8436.jpg"
+    },
+    {
+        "Name": "dune shorty swimsuit bottoms - women's",
+        "Price": "$41.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/14230fde-d8ed-466f-9252-bd83233e353c.jpg"
+    },
+    {
+        "Name": "thresher solids aerofit one-piece swimsuit - women's",
+        "Price": "$37.73",
+        "Savings": "save 72%",
+        "Image": "https://www.rei.com/media/9b41a134-f59f-4414-b7d7-e751fc47704c.jpg"
+    },
+    {
+        "Name": "sandhaven swimsuit top - women's",
+        "Price": "$28.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/e018a24c-9c26-477b-9e80-9914c4f4ac83.jpg"
+    },
+    {
+        "Name": "active shorty biker swimsuit bottoms - anthracite - women's",
+        "Price": "$23.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/5ceef0f2-625e-42bf-922a-326a6f0c3a7f.jpg"
+    },
+    {
+        "Name": "christie swimsuit top - women's",
+        "Price": "$43.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/2df42a09-2b04-4740-87f0-0ab6b58bb030.jpg"
+    },
+    {
+        "Name": "stella vest - women's",
+        "Price": "$31.73",
+        "Savings": "save 65%",
+        "Image": "https://www.rei.com/media/a458c6e1-1aee-4d8d-b091-d1173c94a3de.jpg"
+    },
+    {
+        "Name": "beach classics elongated triangle bikini swimsuit top - women's",
+        "Price": "$27.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/5df998a4-cb88-4472-b643-e2cd16ccec8d.jpg"
+    },
+    {
+        "Name": "beach squad deep-v one-piece swimsuit - women's",
+        "Price": "$58.73",
+        "Savings": "save 63%",
+        "Image": "https://www.rei.com/media/aa999135-3d3c-4cf8-895f-402d64df8633.jpg"
+    },
+    {
+        "Name": "sanitas reversible swimsuit bottoms - women's",
+        "Price": "$20.73",
+        "Savings": "save 62%",
+        "Image": "https://www.rei.com/media/995f5616-8b24-41f0-b7fb-35ebebe5f05e.jpg"
+    },
+    {
+        "Name": "patchwork crop swimsuit top - women's",
+        "Price": "$29.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/b88bde83-5628-4aac-839c-777982367abe.jpg"
+    },
+    {
+        "Name": "innix reversible swimsuit bottoms - women's",
+        "Price": "$24.73",
+        "Savings": "save 55%",
+        "Image": "https://www.rei.com/media/03c5753b-67fe-4ddb-b5e5-28def75b6dfc.jpg"
+    },
+    {
+        "Name": "beacon one-piece swimsuit - women's",
+        "Price": "$46.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/7d9ea1df-a51a-40eb-93a1-32deeda6585b.jpg"
+    },
+    {
+        "Name": "swell seeker long-sleeve one-piece swimsuit - women's",
+        "Price": "$132.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/eb790ecb-9a9c-4fac-9856-c953e10a33c9.jpg"
+    },
+    {
+        "Name": "patchwork crop swimsuit top - women's",
+        "Price": "$44.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/951a0cbc-ffec-4ad6-ab63-22555d5eb92a.jpg"
+    },
+    {
+        "Name": "zip pocket swimsuit bottoms - women's",
+        "Price": "$32.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/db123ab2-0299-4059-8d4d-0b3e27b9e1d5.jpg"
+    },
+    {
+        "Name": "ainsley tankini swimsuit top - women's",
+        "Price": "$20.73",
+        "Savings": "save 74%",
+        "Image": "https://www.rei.com/media/2261f130-576b-4ce8-b9f8-ad5a82e4f3ac.jpg"
+    },
+    {
+        "Name": "shaka bralette swimsuit top - women's",
+        "Price": "$39.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/027e0b79-24d4-4d2c-a9f2-58c84ff61389.jpg"
+    },
+    {
+        "Name": "reversible extended break one-piece swimsuit - women's",
+        "Price": "$104.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/411cdead-8c4f-4aa2-8b9b-5f3c8762f0c3.jpg"
+    },
+    {
+        "Name": "midkini swimsuit top - women's",
+        "Price": "$44.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/4b501ee6-6e04-4384-9ac2-fe5a07c50249.jpg"
+    },
+    {
+        "Name": "cut back crop swimsuit top - women's",
+        "Price": "$44.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/eeace5df-7396-49b2-ad66-0d8d2fcdc506.jpg"
+    },
+    {
+        "Name": "macrome back tankini swimsuit top - women's",
+        "Price": "$38.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/cb505dcb-479d-4d1c-adcb-c5fa373b0c43.jpg"
+    },
+    {
+        "Name": "side shirred swim skirt",
+        "Price": "$38.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/13c21ffc-ef9f-4ebd-a2dc-7381a86ef361.jpg"
+    },
+    {
+        "Name": "dahlia one-piece swimsuit - women's",
+        "Price": "$54.73",
+        "Savings": "save 39%",
+        "Image": "https://www.rei.com/media/11cd8da8-bc0d-419f-9c08-3d09a8960903.jpg"
+    },
+    {
+        "Name": "sunny tide one-piece swimsuit - women's",
+        "Price": "$97.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/102aa240-06a8-4681-a44e-621a68b0dd6f.jpg"
+    },
+    {
+        "Name": "beach and beyond skort",
+        "Price": "$38.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/78985172-aaeb-4c75-9db6-a1e1cc300727.jpg"
+    },
+    {
+        "Name": "malia swim skirt - women's",
+        "Price": "$49.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/e305bad4-6705-498e-835b-10e73af294a7.jpg"
+    },
+    {
+        "Name": "colorblock swimsuit bottoms - women's",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/1c1669d8-3d6d-45ef-a622-4907cf2ecdf2.jpg"
+    },
+    {
+        "Name": "rowan swim skirt - women's",
+        "Price": "$42.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/e18a0bc7-dca2-4927-bc1a-978beee8a1ff.jpg"
+    },
+    {
+        "Name": "mesh racerback crop swimsuit top - women's",
+        "Price": "$44.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/7ebe43e1-b5f6-4975-989e-1adb41591d92.jpg"
+    },
+    {
+        "Name": "waterwear swimsuit bottoms - women's",
+        "Price": "$39.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/20fe86b7-917e-47ac-a664-676d0041b573.jpg"
+    },
+    {
+        "Name": "hydropower swimsuit top - women's",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/a2d80a91-c23e-47ab-ab10-1cc14ee5bb16.jpg"
+    },
+    {
+        "Name": "borneo swim shorts - women's",
+        "Price": "$42.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/c3a3b715-7c0c-4b60-b722-134d0338b021.jpg"
+    },
+    {
+        "Name": "cascade one-piece swimsuit - women's",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/163166ea-1f73-45d1-8d90-abea25463dc5.jpg"
+    },
+    {
+        "Name": "mid-rise swimsuit bottoms - women's",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/f48048ce-6882-4881-bacd-737c34e3ebd4.jpg"
+    },
+    {
+        "Name": "sunamee shortie surf bottoms - women's",
+        "Price": " $58.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/788f9833-e73f-4a55-8671-ace8c4b8a609.jpg"
+    },
+    {
+        "Name": "sandhaven one-piece swimsuit - women's",
+        "Price": "$66.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/65667379-fd0f-4725-ba68-4cae474d7d08.jpg"
+    },
+    {
+        "Name": "horizon swimsuit bottoms - women's",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/6e622b7e-0d86-4890-9e0f-b6dc7d4942f6.jpg"
+    },
+    {
+        "Name": "sugar shore one-piece swimsuit - women's",
+        "Price": "$79.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/cf85bd16-4708-4ebf-b09d-2be4528bb33f.jpg"
+    },
+    {
+        "Name": "patch swimsuit bottoms - women's",
+        "Price": "$32.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/e02a8853-e8b0-4540-8a5e-8c2dc9241898.jpg"
+    },
+    {
+        "Name": "hoku swim skirt - women's",
+        "Price": "$49.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/1d1f4b32-8725-4dd5-b2f5-3b4cf9ad441f.jpg"
+    },
+    {
+        "Name": "mallorca tankini swimsuit top - women's",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/028a13e2-6fea-4586-8580-63761958525d.jpg"
+    },
+    {
+        "Name": "banff swim shorts - women's",
+        "Price": "$42.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/3e9e6fe6-37ab-4fc6-a0fa-e62de88b20a5.jpg"
+    },
+    {
+        "Name": "mallorca one-piece swimsuit - women's",
+        "Price": "$79.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/b44ed03f-a26a-4a56-b71e-c4ce2614b373.jpg"
+    },
+    {
+        "Name": "vida notchneck tankini swimsuit top - women's",
+        "Price": " $46.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/797424f3-840f-40a3-b881-0e09f0dc61e9.jpg"
+    },
+    {
+        "Name": "erin reversible swimsuit bottoms - women's",
+        "Price": " $30.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/cc8611e2-a7c5-4cd2-9cbf-79cb8f34d5e9.jpg"
+    },
+    {
+        "Name": "cut back crop swimsuit top - women's",
+        "Price": " $42.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/991d47a0-b6fa-4e40-9798-e9af88c25e2e.jpg"
+    },
+    {
+        "Name": "lorenzo shorts - women's",
+        "Price": " $43.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/456a3667-48ac-4f4a-8524-a5943d0ccf97.jpg"
+    },
+    {
+        "Name": "pipa reversible swimsuit bottoms - women's",
+        "Price": " $41.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/718a48a3-8b8b-4758-9225-dfb8b0b9ed61.jpg"
+    },
+    {
+        "Name": "bali shorts - women's",
+        "Price": " $39.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/c6f0fc7b-ff2a-4f1e-b31a-32b9fe295497.jpg"
+    },
+    {
+        "Name": "printed beach classics hipster ties swimsuit bottoms - women's",
+        "Price": " $34.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/56a72a40-b6ee-425b-bea1-37947c0aabcc.jpg"
+    },
+    {
+        "Name": "elba swimsuit top - women's",
+        "Price": " $46.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/087d88b9-5370-4a72-b2e6-cce96638ed36.jpg"
+    },
+    {
+        "Name": "wavefarer board shorts - women's 5\" inseam",
+        "Price": " $21.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/48a9be95-4f8f-40e6-a3e8-d28923a959db.jpg"
+    },
+    {
+        "Name": "tofino swimsuit top - women's",
+        "Price": " $30.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/f5d00eb1-a753-4fc5-98fe-5f19ce628270.jpg"
+    },
+    {
+        "Name": "stinson tankini top - women's",
+        "Price": " $31.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/58f23061-862e-4290-90b1-7e7d91115cb0.jpg"
+    },
+    {
+        "Name": "stinson swimsuit top - women's",
+        "Price": " $35.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/1eaa6f18-1d22-4943-a566-008af97ae3df.jpg"
+    },
+    {
+        "Name": "printed beach classics strappy swimsuit top - women's",
+        "Price": " $29.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/d39e52f2-6174-46fa-ae90-91107bf7feed.jpg"
+    },
+    {
+        "Name": "sunrise slider swimsuit top - women's",
+        "Price": " $51.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/3cd3df8c-ca56-445b-843b-1cb17f0abcf9.jpg"
+    },
+    {
+        "Name": "ruched high rise swimsuit bottoms - women's",
+        "Price": " $28.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/d2662004-49b6-4a3b-a9f7-2ac25a490afd.jpg"
+    },
+    {
+        "Name": "drea compression swimsuit top - women's",
+        "Price": " $38.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/45d7dda3-3a0c-40c8-998d-738946b59357.jpg"
+    },
+    {
+        "Name": "core crop swimsuit top - women's",
+        "Price": " $47.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/736e3a86-5796-44bd-ab3e-f353c0a63b8d.jpg"
+    },
+    {
+        "Name": "skye compression one-piece swimsuit - women's",
+        "Price": " $74.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/f5f60971-ab50-499f-8127-a1fa61577afc.jpg"
+    },
+    {
+        "Name": "sunrise slider reversible bikini swimsuit bottoms - women's",
+        "Price": " $58.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/349b4c53-39c3-4338-bb63-4c3c30ed8eb3.jpg"
+    },
+    {
+        "Name": "della swim shorts - women's",
+        "Price": " $39.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/b4246346-323a-4bcd-bd8d-2c37f56cd6d1.jpg"
+    },
+    {
+        "Name": "summer wave swimsuit bottoms - women's",
+        "Price": " $29.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/00c60d5d-30d8-4d2c-8008-e9b65ff6e339.jpg"
+    },
+    {
+        "Name": "love the oceana swimsuit top - women's",
+        "Price": " $29.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/5e434ca4-1657-4a38-9cb7-a68bb380a2a4.jpg"
+    },
+    {
+        "Name": "love the comber hipster swimsuit bottoms - women's",
+        "Price": " $29.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/36fde820-fb3e-4181-86b8-5ac7de36a00e.jpg"
+    },
+    {
+        "Name": "classic bikini swimsuit bottoms - women's",
+        "Price": " $28.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/4807e9a8-7882-4a01-b0f2-17faa99bd20a.jpg"
+    }
+]

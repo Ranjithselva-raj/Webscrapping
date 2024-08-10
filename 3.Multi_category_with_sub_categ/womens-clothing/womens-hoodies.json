@@ -1,0 +1,422 @@
+[
+    {
+        "Name": "cloud lite long-sleeve zip-up sweatshirt - women's",
+        "Price": "$42.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/1d6c27f2-aef2-476d-8779-2316326fed77.jpg"
+    },
+    {
+        "Name": "ventilator long-sleeve performance hoodie - women's",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/a3c99cf6-368e-4772-9f33-01d93007c068.jpg"
+    },
+    {
+        "Name": "halo essential hoodie - women's",
+        "Price": " $75.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/7935c23d-2517-43e2-8f6e-d9d8d27c706a.jpg"
+    },
+    {
+        "Name": "box nse pullover hoodie - women's",
+        "Price": "$41.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/bfb1e4b3-1d8a-4e2d-b6a6-e5d708932cbe.jpg"
+    },
+    {
+        "Name": "ahnya full-zip hoodie - women's",
+        "Price": "$68.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/f8818cd0-420a-44d5-8b17-8cc9ce7b7e74.jpg"
+    },
+    {
+        "Name": "rory corduroy pullover hoodie - women's",
+        "Price": "$46.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/dc5c0ff2-7b10-42e4-9cd4-c3f6af70128e.jpg"
+    },
+    {
+        "Name": "rowan hoodie - women's",
+        "Price": "$75.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/0bd3070d-be0d-4e1f-8be0-8de76600757a.jpg"
+    },
+    {
+        "Name": "double knit slub henley hoodie - women's",
+        "Price": "$56.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/44f3529b-f47b-4683-8ed3-5ffc418eae0e.jpg"
+    },
+    {
+        "Name": "canyonlands hoodie - women's",
+        "Price": "$74.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/3b281aa4-6afb-40ec-80a0-f59f7bf66143.jpg"
+    },
+    {
+        "Name": "echo hoodie - women's",
+        "Price": "$49.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/a51f2c92-31fa-4521-bdc6-680f48ad3fff.jpg"
+    },
+    {
+        "Name": "cozy up hoodie - women's",
+        "Price": "$48.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/5a69895c-7f7a-4bc7-bbee-bb292e023f8f.jpg"
+    },
+    {
+        "Name": "mountain stretch hoodie - women's",
+        "Price": "$55.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/0b7f9c66-5f3f-415c-81e1-43f5c127f4a3.jpg"
+    },
+    {
+        "Name": "echo printed hoodie - women's",
+        "Price": "$58.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/58ea0e69-dc52-4f38-b5c2-57131124b7a4.jpg"
+    },
+    {
+        "Name": "crux hoodie - women's",
+        "Price": "$56.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/77d3751b-9549-4495-ac7a-b19ee18daf76.jpg"
+    },
+    {
+        "Name": "coastal hoodie - women's",
+        "Price": "$38.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/5c2cc50b-9229-4274-bb7b-95ecc2f91fc6.jpg"
+    },
+    {
+        "Name": "orsa polartec wool hoodie - women's",
+        "Price": "$119.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/8a2fe99c-65ed-4773-88bc-b0e785dd071b.jpg"
+    },
+    {
+        "Name": "thermal merino drape neck hoodie - women's",
+        "Price": "$108.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/03ef19f9-25d1-43e5-9843-df3acaf363b7.jpg"
+    },
+    {
+        "Name": "quantum iii long-sleeve zip hoodie - women's",
+        "Price": "$148.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/84b80ebb-c835-47d7-a668-a6e871bfe7f8.jpg"
+    },
+    {
+        "Name": "glacial trail pullover hoodie - women's",
+        "Price": "$81.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/75f83627-f0bd-49e5-9789-8b16ebf369d1.jpg"
+    },
+    {
+        "Name": "mountain sweatshirt hoodie - women's",
+        "Price": "$99.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/423ac1d7-d2cf-4c06-a69b-2aafa88e1679.jpg"
+    },
+    {
+        "Name": "chabot hoodie - women's",
+        "Price": " $55.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/1ac52826-e46f-4fcf-8771-001e9dc28a5b.jpg"
+    },
+    {
+        "Name": "evolution hi lo hoodie - women's",
+        "Price": "$41.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/df9805ec-d860-47d3-b24b-86334745977f.jpg"
+    },
+    {
+        "Name": "pfg cropped solar stream hoodie - women's",
+        "Price": " $34.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/8ceb67a8-5d82-4662-823f-766f8cc22598.jpg"
+    },
+    {
+        "Name": "tekno logo hoodie - women's",
+        "Price": "$64.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/4c8aacbc-c654-46c4-b30f-7c01fdc0bf2e.jpg"
+    },
+    {
+        "Name": "gibao hoodie",
+        "Price": "$79.93",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/41c62c04-5e11-4ada-a9d9-5bd9d84ee108.jpg"
+    },
+    {
+        "Name": "pfg solar stream elite hoodie - women's",
+        "Price": " $48.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/3f40231c-36e6-4024-a50d-befff86c3fad.jpg"
+    },
+    {
+        "Name": "own the run excite 3s hoodie - women's",
+        "Price": " $55.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/3ce03a00-b38e-4808-9272-cfa5ea05d141.jpg"
+    },
+    {
+        "Name": "glorya long-sleeve hooded top - women's",
+        "Price": "$58.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/b73fee85-24c5-4bd2-b09b-cefc60aa2a8f.jpg"
+    },
+    {
+        "Name": "arroyo coastal fit sun hoodie - women's plus sizes",
+        "Price": "$68.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/35856bd3-ef41-4151-9c84-fc5c837df294.jpg"
+    },
+    {
+        "Name": "capilene cool daily hoodie - women's",
+        "Price": " $44.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/a89850d4-4e2b-48ca-aff0-a60f02d4ce6c.jpg"
+    },
+    {
+        "Name": "intraknit merino tech pullover hoodie - women's",
+        "Price": "$99.73",
+        "Savings": "save 43%",
+        "Image": "https://www.rei.com/media/b42c4ab7-88ce-4d8c-be80-c5c49cf9dad7.jpg"
+    },
+    {
+        "Name": "trail mix fleece pullover hoodie - women's",
+        "Price": "$65.73",
+        "Savings": "save 45%",
+        "Image": "https://www.rei.com/media/4e521b44-0d99-4450-beff-0c96220be182.jpg"
+    },
+    {
+        "Name": "run visible thermal hoodie - women's",
+        "Price": "$79.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/d910eac6-8975-478f-b43c-c4fa377367cc.jpg"
+    },
+    {
+        "Name": "capilene cool daily graphic hoodie - women's",
+        "Price": " $51.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/842fa7da-8334-4a09-a5a1-8ec4dbabc78e.jpg"
+    },
+    {
+        "Name": "arroyo forest fit sun hoodie - women's plus sizes",
+        "Price": "$68.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/118cefaf-84e8-4519-aeb7-21c7fe41d9a0.jpg"
+    },
+    {
+        "Name": "mountain sweatshirt pullover - women's",
+        "Price": "$74.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/3dfff94d-408d-4fe8-8aa9-7b29cc0563bd.jpg"
+    },
+    {
+        "Name": "sol searcher hoodie - women's",
+        "Price": "$59.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/035da7c3-0b61-45b6-aad5-11ce07a3e49e.jpg"
+    },
+    {
+        "Name": "delta half-zip hoodie - women's",
+        "Price": "$119.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/2a26044b-c5d0-4dcd-98e0-14f300441e8c.jpg"
+    },
+    {
+        "Name": "lana merino wool hoodie - women's",
+        "Price": "$95.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/1aeb64f0-ea00-4d6d-91d9-62b8c47d54ec.jpg"
+    },
+    {
+        "Name": "alpenglow pro hoodie - women's",
+        "Price": "$89.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d99fbafd-8c53-4d11-b0fd-f6dc1fa94462.jpg"
+    },
+    {
+        "Name": "sol searcher hoodie - women's",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/53e7c5a8-dc6e-4b22-b48d-f93602a659ad.jpg"
+    },
+    {
+        "Name": "longs peak quilted quarter-zip top - women's",
+        "Price": "$89.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/c16f2eef-26d9-4fe1-b1b7-7c7cc8fe0ee2.jpg"
+    },
+    {
+        "Name": "summit series direct sun hoodie - women's",
+        "Price": "$76.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/0d508033-ac79-42ee-9b86-5aed66a2c283.jpg"
+    },
+    {
+        "Name": "caravan long-sleeve hoodie - women's",
+        "Price": "$59.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/0afbf016-f460-4e7f-b669-bed6d62955d7.jpg"
+    },
+    {
+        "Name": "megafleece snap up hoodie - women's",
+        "Price": "$95.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a743e863-ca51-4bf6-ad97-f5776fe00d1f.jpg"
+    },
+    {
+        "Name": "90s doodle parks hoodie - women's",
+        "Price": "$49.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/d22aa330-d7da-4c12-89e4-3399fe6f006c.jpg"
+    },
+    {
+        "Name": "mountain sweatshirt international women's day pullover - women's",
+        "Price": "$44.83",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/2243654e-166f-4906-8db3-13e29e1307aa.jpg"
+    },
+    {
+        "Name": "summit grid half-zip hoodie - women's",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/a8f9f06a-b368-40b6-845f-38ebe9670292.jpg"
+    },
+    {
+        "Name": "airmesh hoodie - women's",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/c7edef11-10be-48ae-bfc1-a9beae562b10.jpg"
+    },
+    {
+        "Name": "coastal hoodie - women's",
+        "Price": "$24.73",
+        "Savings": "save 53%",
+        "Image": "https://www.rei.com/media/70bd20be-a061-458a-8862-8eb886400191.jpg"
+    },
+    {
+        "Name": "rothe fleece hoodie - women's",
+        "Price": "$67.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/cfa6c1c9-6f45-453c-9494-0ca23a9e7a5c.jpg"
+    },
+    {
+        "Name": "insect shield alandra hooded top - women's",
+        "Price": "$32.73",
+        "Savings": "save 45%",
+        "Image": "https://www.rei.com/media/5c92e978-bfb7-4ef9-8a4a-5ca5c7fc8c1b.jpg"
+    },
+    {
+        "Name": "rush pullover hoodie - women's",
+        "Price": "$28.83",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/3d577c7c-9808-4acf-9f78-53ef55b723fd.jpg"
+    },
+    {
+        "Name": "astroman air sun hoodie - women's",
+        "Price": "$73.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/688001bb-e4ae-45b8-970a-bf7d479c9969.jpg"
+    },
+    {
+        "Name": "echo hoodie - women's plus sizes",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/539043cb-6be3-4f83-8649-b751ffe06820.jpg"
+    },
+    {
+        "Name": "everyday exploration pullover hoodie - women's",
+        "Price": "$90.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/aac256c0-4d6b-4999-b56a-759b038cd2b7.jpg"
+    },
+    {
+        "Name": "365 hooded long-sleeve shirt - women's",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/237efec8-960e-4a37-aae8-97d0c1442b33.jpg"
+    },
+    {
+        "Name": "polar escape half-zip pullover - women's",
+        "Price": "$82.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/44aa1ae9-bf8e-4335-ad28-80ee14780393.jpg"
+    },
+    {
+        "Name": "active long-sleeve hooded t-shirt - women's",
+        "Price": "$48.73",
+        "Savings": "save 18%",
+        "Image": "https://www.rei.com/media/eafcade2-2b58-4e13-8cff-7c86aaa43232.jpg"
+    },
+    {
+        "Name": "stryde hoodie - women's",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/a490681a-e873-4196-8138-4347bca2703f.jpg"
+    },
+    {
+        "Name": "baylands cardigan - women's",
+        "Price": "$92.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/724b7520-3d51-43e1-aab8-431de6cc2f6b.jpg"
+    },
+    {
+        "Name": "peaks hoodie - women's",
+        "Price": "$44.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/7ba0c524-20e7-40d3-b021-09c98ee58fcc.jpg"
+    },
+    {
+        "Name": "lifa tech lite hoodie - women's",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/389bcaf3-1ff6-408b-8576-e1409e98d696.jpg"
+    },
+    {
+        "Name": "nature for life hoodie - women's",
+        "Price": "$44.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/7a7b8645-e2ac-411c-afbe-b0778a604043.jpg"
+    },
+    {
+        "Name": "marmot mountain works hoodie - women's",
+        "Price": "$44.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/ec17cd83-dbfb-4328-b895-7e2fb3ce9b1b.jpg"
+    },
+    {
+        "Name": "shadow pine colorblock crew sweater - women's",
+        "Price": " $72.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/9c382231-c16c-43a1-93c6-ebb79745208c.jpg"
+    },
+    {
+        "Name": "p-6 logo uprisal hoodie",
+        "Price": " $61.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/df156c0b-a7b9-4b66-a86c-6f7dfcf26ea2.jpg"
+    },
+    {
+        "Name": "sahara shade hoodie - women's plus sizes",
+        "Price": " $34.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/dd64f289-1c26-45af-8512-cb2eaf7cca23.jpg"
+    },
+    {
+        "Name": "regenerative organic certified cotton essential hoodie - women's",
+        "Price": " $68.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/9387ebd9-334c-479c-af77-5af11d8040a2.jpg"
+    },
+    {
+        "Name": "summit grid tunic hoodie - women's",
+        "Price": " $58.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/c3186cbb-9e1a-4079-8480-4dd694d69fe4.jpg"
+    }
+]

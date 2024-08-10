@@ -2,61 +2,67 @@
     {
         "Name": "rc1 road cycling shoes - women's",
         "Price": " $29.83",
+        "Savings": null,
         "Image": "https://www.rei.com/media/e080511d-40a7-418f-9175-6d1b8d324239.jpg"
     },
     {
         "Name": "multi air flex ii cycling shoes - men's",
         "Price": "$79.73",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/4c6a82f0-4a02-4213-9e78-4e5fe6cacb1d.jpg"
     },
     {
         "Name": "rc1 road cycling shoes - men's",
         "Price": "$69.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/f8fb411e-39a6-4080-8e42-6450af6c00e0.jpg"
     },
     {
         "Name": "rc3 road cycling shoes - men's",
         "Price": "$86.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/ef49bbc3-7ad1-492b-a19d-45bb0795fd11.jpg"
     },
     {
         "Name": "rc3 road cycling shoes - women's",
         "Price": "$86.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/ebc10e1d-ffc7-4f22-9aae-fe78224cf1be.jpg"
     },
     {
         "Name": "multi air flex ii cycling shoes - women's",
         "Price": "$79.73",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/681a07f7-0612-41d5-9a90-e5eeeb0d78fd.jpg"
     },
     {
         "Name": "sugar road cycling shoes - women's",
         "Price": "$38.83",
+        "Savings": "save 70%",
         "Image": "https://www.rei.com/media/0e016c70-17d7-4886-8e73-6a6445812f2d.jpg"
     },
     {
         "Name": "circuit road cycling shoes",
         "Price": "$71.83",
+        "Savings": "save 50%",
         "Image": "https://www.rei.com/media/08e79ab8-d4ed-4191-81ff-4f06c549c1c0.jpg"
     },
     {
         "Name": "solstice road cycling shoes",
         "Price": "$34.83",
+        "Savings": "save 50%",
         "Image": "https://www.rei.com/media/8bc3a703-2603-4724-b976-1e19e3b469ed.jpg"
     },
     {
         "Name": "explore cycling shoes",
         "Price": "$43.83",
+        "Savings": "save 85%",
         "Image": "https://www.rei.com/media/963b29eb-5479-4954-ad79-dc8e42deb3e9.jpg"
-    },
-    {
-        "Name": "expedition cycling shoes - men's",
-        "Price": " $79.83",
-        "Image": "https://www.rei.com/media/5ea8ca3f-311f-4239-8b0a-7e30aae97fa1.jpg"
     },
     {
         "Name": "expedition cycling shoes - women's",
         "Price": "$95.93",
+        "Savings": "save 40%",
         "Image": "https://www.rei.com/media/e33af0ae-9b40-4166-869f-905c44a59ae5.jpg"
     }
 ]

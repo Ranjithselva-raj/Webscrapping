@@ -2,111 +2,133 @@
     {
         "Name": "raddler tcs light/fast rolling tire",
         "Price": "$45.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/895ab48d-3334-4b14-bef6-98e1f4b39b84.jpg"
     },
     {
         "Name": "gravdal studded wire bead tire",
         "Price": "$58.93",
+        "Savings": "save 31%",
         "Image": "https://www.rei.com/media/175475e7-6b28-4245-af60-57d47ebcb09c.jpg"
     },
     {
         "Name": "kahva studded tire - wire bead - 33 tpi",
         "Price": "$71.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/12cc13cf-0164-4851-8290-507d63c175af.jpg"
     },
     {
         "Name": "riddler tcs tire",
         "Price": "$45.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/b97d751c-bd24-4686-b343-52b816f1977f.jpg"
     },
     {
         "Name": "riddler tcs light/fast rolling tire",
         "Price": "$52.93",
+        "Savings": "save 31%",
         "Image": "https://www.rei.com/media/589d4bd3-95de-4ee7-9df8-8d79b2712757.jpg"
     },
     {
         "Name": "resolute gravel tire",
         "Price": "$45.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/0df6c02f-b032-4d63-b213-23ce8940c66e.jpg"
     },
     {
         "Name": "raddler tcs light/fast rolling tire",
         "Price": "$52.93",
+        "Savings": "save 31%",
         "Image": "https://www.rei.com/media/e3289688-2f5c-41c5-ad1d-2223189dc851.jpg"
     },
     {
         "Name": "vigilante tcs light/fast rolling tire",
         "Price": "$52.93",
+        "Savings": "save 31%",
         "Image": "https://www.rei.com/media/1c051fe7-d017-41f3-87ad-fc750960d1fc.jpg"
     },
     {
         "Name": "aw3 hard-case lite tire",
         "Price": "$31.93",
+        "Savings": "save 50%",
         "Image": "https://www.rei.com/media/7be454d9-5148-47be-ad22-c189d692c937.jpg"
     },
     {
         "Name": "byway road plus tire",
         "Price": " $45.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/657905f7-e8b7-4e23-acbd-14264e245251.jpg"
     },
     {
         "Name": "horizon road plus tire - 650b x 47",
         "Price": "$45.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/9aff463d-f601-4337-bdc8-edeaf7bdb968.jpg"
     },
     {
         "Name": "nano tcs light/fast rolling tire",
         "Price": "$52.93",
+        "Savings": "save 31%",
         "Image": "https://www.rei.com/media/5afa577d-7ea1-4fa8-a61e-a969748fabc0.jpg"
     },
     {
         "Name": "vigilante 2.3 tire",
         "Price": "$52.93",
+        "Savings": "save 31%",
         "Image": "https://www.rei.com/media/96a025d8-a8d1-4a40-9016-7114d13f136c.jpg"
     },
     {
         "Name": "nano tcs light fast-rolling tire - 700c x 40mm",
         "Price": "$45.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/c1352c00-321d-422f-8983-1a7df46b644d.jpg"
     },
     {
         "Name": "vulpine tire - 120 tpi",
         "Price": " $52.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/484c5a51-3ec4-49c5-b1f8-b6c911929155.jpg"
     },
     {
         "Name": "vigilante 2.6 tire",
         "Price": " $62.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/8e594093-ec23-432d-91ba-013a5b6ffaa3.jpg"
     },
     {
         "Name": "vulpine tire - 60 tpi",
         "Price": " $45.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/2e9a5fbf-a29b-47c8-b360-2fd96fd6f900.jpg"
     },
     {
         "Name": "gravelking ss plus tire",
         "Price": "$53.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/3063ef7c-9739-4f06-8932-32bb4ea43f01.jpg"
     },
     {
         "Name": "gravdal tire",
         "Price": "$109.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/64649230-87e8-435f-a29b-fe3ad788127c.jpg"
     },
     {
         "Name": "tubeless sealant workshop bottle - 1 liter",
         "Price": "$21.93",
+        "Savings": "save 51%",
         "Image": "https://www.rei.com/media/48fa5a02-3982-4c6e-b1c3-f8d8b4eb2238.jpg"
     },
     {
         "Name": "grand prix urban tire",
         "Price": "$33.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/32e86a4a-2f17-4518-a079-13b0ec2f1a02.jpg"
     },
     {
         "Name": "verdict tire",
         "Price": " $54.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/caf03491-fbc4-49a2-9a8d-493b2acca6a8.jpg"
     }
 ]

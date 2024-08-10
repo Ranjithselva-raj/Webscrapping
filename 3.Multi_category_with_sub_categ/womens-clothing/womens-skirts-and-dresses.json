@@ -1,0 +1,638 @@
+[
+    {
+        "Name": "fleetwith dress",
+        "Price": "$68.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/3d0695c2-617e-4847-9adf-0018fff328d4.jpg"
+    },
+    {
+        "Name": "spacedye curves movement dress",
+        "Price": " $37.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/e68348c8-6dd0-41b9-882f-780b6b86684f.jpg"
+    },
+    {
+        "Name": "rosalinda dress",
+        "Price": "$64.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/3ca82dee-677b-4de9-a5a2-9d8517a7b37c.jpg"
+    },
+    {
+        "Name": "trail to town skort",
+        "Price": "$34.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/3e065777-8aff-4b0d-8063-6fd7c6a867b3.jpg"
+    },
+    {
+        "Name": "trailmade dress",
+        "Price": "$36.83 - $51.93",
+        "Savings": "save 30% - 50%",
+        "Image": "https://www.rei.com/media/0865f80e-a564-40a6-92d0-77239d313ee7.jpg"
+    },
+    {
+        "Name": "loop to pines dress - women's",
+        "Price": "$82.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/80d234f2-c10c-4151-b5da-9faf6e0a6d67.jpg"
+    },
+    {
+        "Name": "featherweight at the ready square neck dress",
+        "Price": "$95.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/113b4ee7-503b-43cb-bf7d-a55bb3ba97f8.jpg"
+    },
+    {
+        "Name": "railay pocket dress",
+        "Price": "$68.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/1652f0a1-d011-4b2f-b33a-877a2a985ec6.jpg"
+    },
+    {
+        "Name": "thalia summer dress 2.0",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/58f31338-204b-4301-8b79-e29c21ebb5ed.jpg"
+    },
+    {
+        "Name": "peak to pavement skort",
+        "Price": "$49.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/e4cc1a42-6e1f-42d4-8331-04572c949449.jpg"
+    },
+    {
+        "Name": "h2core silkweight hoodie dress",
+        "Price": " $49.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/ffea6ca8-a509-4d04-80aa-1994a679dfd2.jpg"
+    },
+    {
+        "Name": "cozy up skyland dress",
+        "Price": "$49.73",
+        "Savings": "save 44%",
+        "Image": "https://www.rei.com/media/8355a5f3-92a8-4b53-82dc-49803dbef825.jpg"
+    },
+    {
+        "Name": "fleetwith skort",
+        "Price": "$58.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/f2b70375-2f90-4412-bf5d-9ae4cca6c449.jpg"
+    },
+    {
+        "Name": "chakara skirt",
+        "Price": "$52.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/87f3fc47-a19f-4aae-9fee-9b270276fef3.jpg"
+    },
+    {
+        "Name": "trailmade skort",
+        "Price": "$26.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/f29a19d5-ffdc-4da1-aae1-f35db44dc51d.jpg"
+    },
+    {
+        "Name": "volley dress",
+        "Price": "$74.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/7accda93-f4b1-4ecd-b260-31ab86065992.jpg"
+    },
+    {
+        "Name": "discovery iii skort",
+        "Price": "$53.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2e1fd3bd-3b22-4c7a-a13b-a7c23ea90ffe.jpg"
+    },
+    {
+        "Name": "hybrid skort",
+        "Price": "$34.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/95970469-90e4-455d-92af-57782886544a.jpg"
+    },
+    {
+        "Name": "follow through hooded dress",
+        "Price": "$71.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/018a46d2-fe81-4426-9052-a9a9d7e8ac33.jpg"
+    },
+    {
+        "Name": "kali tiered maxi dress",
+        "Price": "$68.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/50800a74-af14-4515-8699-125aec75d66b.jpg"
+    },
+    {
+        "Name": "foundation rib dress",
+        "Price": "$62.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/1f5fba10-3059-4411-b359-3f7c6a9bff7d.jpg"
+    },
+    {
+        "Name": "kamen dress",
+        "Price": "$69.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/df0268af-40ff-44f8-a5b8-7564b47647b6.jpg"
+    },
+    {
+        "Name": "tharu shirt dress",
+        "Price": "$74.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/f4fe3b11-964b-4b65-bf7a-31f4e1530e0d.jpg"
+    },
+    {
+        "Name": "lata beach dress",
+        "Price": "$86.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/531bb6fe-9489-4f4a-864f-b9cfe781778c.jpg"
+    },
+    {
+        "Name": "run icons 3-stripes running skort",
+        "Price": "$39.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/81f17e2f-87b8-418d-89c8-3a2758d18d91.jpg"
+    },
+    {
+        "Name": "chaka skirt",
+        "Price": "$48.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/6da5debc-02d4-42de-b0eb-5efd60b75faf.jpg"
+    },
+    {
+        "Name": "alivia scoop neck dress",
+        "Price": "$59.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/9f1bffaa-38bd-4309-ab6f-5dcd286c2bb3.jpg"
+    },
+    {
+        "Name": "milani v-neck dress",
+        "Price": "$89.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/6a0454e4-5d8b-4cb8-b03b-a63deb2cced9.jpg"
+    },
+    {
+        "Name": "maipo dress",
+        "Price": "$89.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e03603cd-8ff3-4982-978d-618126528c27.jpg"
+    },
+    {
+        "Name": "fleetwith jumpsuit - women's",
+        "Price": "$96.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/eef35ab2-c4c1-4994-86f2-87118736d723.jpg"
+    },
+    {
+        "Name": "spacedye hot shot circle skirt",
+        "Price": "$60.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/eab7b9da-564e-4cd5-9a8e-660a7273b00c.jpg"
+    },
+    {
+        "Name": "spacedye keep pace biker jumpsuit - women's",
+        "Price": "$76.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a8bf1f33-c74d-46b2-bd03-59665a651251.jpg"
+    },
+    {
+        "Name": "s/f saddle to table dress - women's",
+        "Price": "$118.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/119dc6a6-019f-4535-be98-73bec2f71f7c.jpg"
+    },
+    {
+        "Name": "swift skort",
+        "Price": "$53.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/5c9889ed-ee93-4940-960a-b8a1b6649102.jpg"
+    },
+    {
+        "Name": "s/f field suit - women's",
+        "Price": "$167.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/b70a5bcb-f0bd-4c44-b08b-85ce12f4c284.jpg"
+    },
+    {
+        "Name": "crater lake dress",
+        "Price": "$48.83 - $68.93",
+        "Savings": "save 30% - 50%",
+        "Image": "https://www.rei.com/media/d0931448-f330-426f-af84-ef441da99343.jpg"
+    },
+    {
+        "Name": "bodie quarter-zip dress - women's",
+        "Price": "$44.73",
+        "Savings": "save 62%",
+        "Image": "https://www.rei.com/media/78ef9e0f-b093-402e-af35-96bfdf8be074.jpg"
+    },
+    {
+        "Name": "elda skort",
+        "Price": "$39.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/9004c04e-421c-48be-9c3e-5e1c8b042c11.jpg"
+    },
+    {
+        "Name": "yuba trail onesie - women's",
+        "Price": "$76.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a8d40e48-e585-4138-81d9-6123e33f370f.jpg"
+    },
+    {
+        "Name": "railay snap-up skort",
+        "Price": "$54.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/edaea984-c82f-4a03-921e-e674dc19b68a.jpg"
+    },
+    {
+        "Name": "dirt coveralls - women's",
+        "Price": "$131.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/39bc62a1-d76b-42ff-9bfd-fb375017f4fd.jpg"
+    },
+    {
+        "Name": "ponderosa long-sleeve dress",
+        "Price": "$34.73",
+        "Savings": "save 61%",
+        "Image": "https://www.rei.com/media/97829e9a-c5e9-4de8-a291-ff9922d14d37.jpg"
+    },
+    {
+        "Name": "tirill thermal skirt",
+        "Price": "$46.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/9aee7f00-848c-4520-936b-e35a34bd6ea7.jpg"
+    },
+    {
+        "Name": "coveralls - women's",
+        "Price": "$112.93",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/fcdae9fc-976e-4e59-b618-e0253809de71.jpg"
+    },
+    {
+        "Name": "hempline dress",
+        "Price": "$46.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/2716c7b4-c92b-40d0-b896-d6c6e335d32c.jpg"
+    },
+    {
+        "Name": "maipo skort",
+        "Price": "$61.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/8868c774-13f8-4b85-ba40-2f2bc7866fc0.jpg"
+    },
+    {
+        "Name": "storm thermal skirt",
+        "Price": "$29.83",
+        "Savings": "save 64%",
+        "Image": "https://www.rei.com/media/7a917cb6-040d-46f2-8354-52ce15d55844.jpg"
+    },
+    {
+        "Name": "x hike clerb spring peak skort",
+        "Price": "$58.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/70995c4e-3f08-415a-b6b9-f4a7b9baecc6.jpg"
+    },
+    {
+        "Name": "chaka ruffle skirt",
+        "Price": "$39.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/eb7e4005-38dd-4b57-b638-af5831818f41.jpg"
+    },
+    {
+        "Name": "the exercise dress",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/f027bab9-2582-4f35-be25-089dde710a2a.jpg"
+    },
+    {
+        "Name": "mountain stretch dress",
+        "Price": "$58.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e94ad74f-e6f2-4d88-a7e6-443220081ea3.jpg"
+    },
+    {
+        "Name": "dynama dress",
+        "Price": "$44.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/85b8ee2a-3aac-4765-832b-679370965015.jpg"
+    },
+    {
+        "Name": "sahara dress",
+        "Price": "$21.83",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/c761bc33-7d96-45ea-87bf-8aeb3b880b49.jpg"
+    },
+    {
+        "Name": "jewel lake summer dress",
+        "Price": "$69.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/07a3de45-9741-4341-a7e8-c0e8e507c110.jpg"
+    },
+    {
+        "Name": "x chaco skort",
+        "Price": "$58.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/463066fb-f4ca-47a8-849c-ed9db60eb724.jpg"
+    },
+    {
+        "Name": "ane skort",
+        "Price": "$34.73",
+        "Savings": "save 46%",
+        "Image": "https://www.rei.com/media/8e4c50ea-8c79-42bd-a2d0-fdea672e4a67.jpg"
+    },
+    {
+        "Name": "astro skort",
+        "Price": "$42.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/8790d3ee-c0ba-46cc-8c15-ba74f958b3ac.jpg"
+    },
+    {
+        "Name": "get dirty dress 2.0",
+        "Price": "$51.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/26ddbf83-89e7-4504-9b5e-3973e57b199d.jpg"
+    },
+    {
+        "Name": "freeflex skort",
+        "Price": "$55.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/c98b30fc-a173-43ca-929d-2c784a84fb3b.jpg"
+    },
+    {
+        "Name": "merino heartfelt sweater skirt",
+        "Price": "$79.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/8bbae3c4-b35e-4081-bcea-4a97b8418b0d.jpg"
+    },
+    {
+        "Name": "granary sleeveless dress",
+        "Price": "$83.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/8ad7c056-238a-4a8e-82f9-3ebb4546c798.jpg"
+    },
+    {
+        "Name": "ruth tankdress",
+        "Price": "$48.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a50cba7a-36cb-4408-837e-bd661dc4e44b.jpg"
+    },
+    {
+        "Name": "elda dress",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/9523d89f-8f60-43af-a4e6-705d9f0f1fa2.jpg"
+    },
+    {
+        "Name": "cozy up sport skirt",
+        "Price": "$50.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/3d17d64f-cd2d-4e58-8f9b-96feca17f338.jpg"
+    },
+    {
+        "Name": "mountain stretch skort",
+        "Price": "$48.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/813e4085-f9d3-4611-8843-63c20fbbe56f.jpg"
+    },
+    {
+        "Name": "dynama skort",
+        "Price": "$51.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/a98b64d7-cdc1-4334-9094-39f28de543b3.jpg"
+    },
+    {
+        "Name": "jewel lake summer dress",
+        "Price": " $68.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/89a99218-4670-457f-90c4-fc96619081a5.jpg"
+    },
+    {
+        "Name": "re-form flannel shirt dress",
+        "Price": "$34.73",
+        "Savings": "save 63%",
+        "Image": "https://www.rei.com/media/243e4bd9-327e-444e-8bcb-f02e06a22e83.jpg"
+    },
+    {
+        "Name": "laurel dress",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/237b7edc-750d-4954-87ba-971d32c58090.jpg"
+    },
+    {
+        "Name": "anya dress",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/445cc869-16ee-464b-9f91-de860f75db45.jpg"
+    },
+    {
+        "Name": "cycle dress",
+        "Price": "$58.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/5c1c1953-a5bf-41fb-85fc-6306a40b0636.jpg"
+    },
+    {
+        "Name": "dune sky bodysuit - women's",
+        "Price": "$49.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/10217e11-36bd-427e-a264-e535a8cc987f.jpg"
+    },
+    {
+        "Name": "rosie dress",
+        "Price": "$69.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/e26b531e-8c7e-4a58-81a4-8e2b95d0c2d2.jpg"
+    },
+    {
+        "Name": "recycled cotton cable sweater dress",
+        "Price": "$87.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/9dd49c8e-c3b9-444e-90c2-58d5273d9161.jpg"
+    },
+    {
+        "Name": "core nordic insulated skirt",
+        "Price": "$41.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/5c4b8a3d-69bd-4f73-9b13-048dcd9406cb.jpg"
+    },
+    {
+        "Name": "get dirty dress",
+        "Price": "$39.83",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/e1b5d4dc-55e6-4011-9fb5-541819f9497a.jpg"
+    },
+    {
+        "Name": "spacedye get in gear biker jumpsuit - women's",
+        "Price": "$54.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/4a099566-57de-4e84-8b1c-a16a4cd8d37a.jpg"
+    },
+    {
+        "Name": "willow dress",
+        "Price": "$59.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/8d94200c-080a-40d4-a642-33254571500e.jpg"
+    },
+    {
+        "Name": "cue wrap dress - women's",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/b8c04723-f0ab-4330-890d-d38ce9818f3b.jpg"
+    },
+    {
+        "Name": "bergen dress",
+        "Price": "$48.73",
+        "Savings": "save 55%",
+        "Image": "https://www.rei.com/media/79b98afd-2bfd-47bc-b28a-a5f1a39b21a3.jpg"
+    },
+    {
+        "Name": "rosemarie dress",
+        "Price": "$64.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/944f7c49-21c7-4fa3-812a-cb89462deac8.jpg"
+    },
+    {
+        "Name": "core nordic training insulated skirt - women's",
+        "Price": "$62.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/27fdac58-3899-4ff0-bef5-f08994449c97.jpg"
+    },
+    {
+        "Name": "jammer skort",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/018a0f1f-5235-4732-bac9-1ed3cc12d2bb.jpg"
+    },
+    {
+        "Name": "rosemarie sleeveless dress",
+        "Price": "$62.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/c5eaebb2-da7f-4508-8fd4-82b3da2f447b.jpg"
+    },
+    {
+        "Name": "spotless evolution skirt",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/eb91903f-1d0c-417e-a507-df28f9a0bbca.jpg"
+    },
+    {
+        "Name": "spotless evolution dress",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/054963f4-3e2d-431d-ac6a-2683ace2a97f.jpg"
+    },
+    {
+        "Name": "esla skirt",
+        "Price": "$82.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/517526ff-725f-4b4a-b54a-33867a9da2ef.jpg"
+    },
+    {
+        "Name": "yuba trail shorts - women's",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/146f7a12-55ce-45f3-a6cb-31f134092124.jpg"
+    },
+    {
+        "Name": "ruth skirt",
+        "Price": "$48.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/8d2a8aa9-0267-4e7d-b6f1-ab3ccb4f6df9.jpg"
+    },
+    {
+        "Name": "railay snap up skort",
+        "Price": "$57.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/70b2ee61-d809-48d1-8777-bdf8ea413455.jpg"
+    },
+    {
+        "Name": "piru henley midi tank dress",
+        "Price": "$57.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/f4f15027-1834-468c-9449-3e919f5289ae.jpg"
+    },
+    {
+        "Name": "run icons 3-stripes summer dress",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/213cb27e-ea4e-4d74-be3d-363bf7e104de.jpg"
+    },
+    {
+        "Name": "luxara dress",
+        "Price": "$84.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/6a3ae0e5-2c89-49e9-b1da-62770be10214.jpg"
+    },
+    {
+        "Name": "grom tank dress",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/a91f2b67-89b9-4bfc-b6d9-53a4b26d7a25.jpg"
+    },
+    {
+        "Name": "gemina sleeveless dress",
+        "Price": "$58.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/3522ca63-0003-4a83-9418-8a9e00ba238b.jpg"
+    },
+    {
+        "Name": "windmere ii long-sleeve dress",
+        "Price": "$57.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/e785e878-a91a-4dd0-ac5e-01fbc6d0a85f.jpg"
+    },
+    {
+        "Name": "bugsaway della skort",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/86da8d9e-18c1-4b25-bfcc-494d1bf073d9.jpg"
+    },
+    {
+        "Name": "rufflita dress",
+        "Price": "$44.73",
+        "Savings": "save 44%",
+        "Image": "https://www.rei.com/media/c10f3ffa-0e1b-42d6-8c56-3e4fda93ad66.jpg"
+    },
+    {
+        "Name": "heavana hot spell shortie - women's",
+        "Price": "$69.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/7879f43a-f3e2-40f1-bf17-3d4b7d6bb886.jpg"
+    },
+    {
+        "Name": "bella performance romper dress",
+        "Price": "$68.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/493784c7-52c4-47f5-a82f-e4d578f3d55a.jpg"
+    },
+    {
+        "Name": "cue wrap long-sleeve dress",
+        "Price": "$67.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/6c8af452-d29e-461a-88ca-3ec4a24b2dfd.jpg"
+    },
+    {
+        "Name": "bella colorblock romper dress",
+        "Price": "$68.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/64cdf90d-db6d-405c-896e-29efb4868f0a.jpg"
+    },
+    {
+        "Name": "active pique quarter-zip dress",
+        "Price": "$46.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/1393da48-a880-459a-9a54-5cfc3207d167.jpg"
+    },
+    {
+        "Name": "smartloft skirt",
+        "Price": "$67.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/ef0bc372-dac8-4b56-8b42-d3202be5299d.jpg"
+    },
+    {
+        "Name": "lyla dress",
+        "Price": "$69.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/e3cbcf65-ffd8-4ec7-a95b-83aabdf249a8.jpg"
+    },
+    {
+        "Name": "trail romper - women's",
+        "Price": " $81.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/1f883bbf-1174-434a-ab7e-e74192b53270.jpg"
+    }
+]

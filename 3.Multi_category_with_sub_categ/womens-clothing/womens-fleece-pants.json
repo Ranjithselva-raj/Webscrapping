@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "harper fleece joggers - women's",
+        "Price": "$59.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/5b8d200b-d30e-43ab-b689-2940bad160bf.jpg"
+    },
+    {
+        "Name": "canyonlands jogger pants - women's",
+        "Price": "$41.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/417416bb-6e0d-4566-b62b-1d54aa3790a2.jpg"
+    },
+    {
+        "Name": "west bend fleece pull-on pants - women's",
+        "Price": "$48.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/1580d4f1-3989-4739-951e-58b0de724f1f.jpg"
+    },
+    {
+        "Name": "alpine polartec 100 pants - women's",
+        "Price": "$44.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/3c6f79e3-e650-4479-920b-bded6df3d08d.jpg"
+    },
+    {
+        "Name": "denali fleece pants - women's",
+        "Price": "$59.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/e0a9d59a-9f23-47dd-82ba-4a0daae596f6.jpg"
+    },
+    {
+        "Name": "hyperaxis fleece pants - women's plus sizes",
+        "Price": " $39.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/6b51f19c-2131-42ff-a9c2-cf4d310d9599.jpg"
+    },
+    {
+        "Name": "ripstop denali pants - women's",
+        "Price": "$91.93",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/7951cd61-68ed-4523-b200-c7c3c32a45b3.jpg"
+    },
+    {
+        "Name": "alpine polartec 200 pants - women's",
+        "Price": "$68.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/3011a9b2-1ce4-4364-89cc-08b9de31a97d.jpg"
+    }
+]

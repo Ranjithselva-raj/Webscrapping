@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "sahara convertible pants - men's",
+        "Price": "$55.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/caa5cf33-7ffc-4cc8-a829-92e28eed946e.jpg"
+    },
+    {
+        "Name": "bug barrier traveler zip 'n' go convertible pants - men's",
+        "Price": "$86.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/aa429598-d290-4860-940e-de2c9c3bbf1c.jpg"
+    },
+    {
+        "Name": "active traveler zip 'n' go convertible pants - men's",
+        "Price": "$86.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/a4adfeba-563e-43d6-bfcb-760d4152b21e.jpg"
+    },
+    {
+        "Name": "utilitas zip-off hiking pants - men's",
+        "Price": " $94.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/495d6b44-e7b4-4949-b4e4-a4fc2aa5b921.jpg"
+    },
+    {
+        "Name": "double peak convertible pants - men's",
+        "Price": "$76.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/d0db7062-ef51-4123-88ba-3c859421164a.jpg"
+    },
+    {
+        "Name": "arch rock convertible pants - men's",
+        "Price": "$67.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/9816f066-2499-4fb0-88f5-396b4a591b2b.jpg"
+    },
+    {
+        "Name": "renegade convertible pants - men's",
+        "Price": "$53.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/548be879-7bf5-4e9f-a384-5f0a47daeff1.jpg"
+    },
+    {
+        "Name": "rectrek zip-off pants - men's",
+        "Price": "$58.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/9854c6ff-319d-463a-9f9d-1c4e1ece37c8.jpg"
+    }
+]

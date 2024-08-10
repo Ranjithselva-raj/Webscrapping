@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "rothe fleece vest - women's",
+        "Price": "$39.83 - $62.93",
+        "Savings": "save 30% - 50%",
+        "Image": "https://www.rei.com/media/88121175-200f-4cd4-916f-e9e94ee69741.jpg"
+    },
+    {
+        "Name": "classic retro-x fleece vest - women's",
+        "Price": "$86.73",
+        "Savings": "save 45%",
+        "Image": "https://www.rei.com/media/1d316bca-ffd2-4698-a4c4-48360cd4c7f4.jpg"
+    },
+    {
+        "Name": "wiley polartec vest - women's",
+        "Price": "$93.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/534dc8ec-656f-4aed-b072-fdc890b85521.jpg"
+    },
+    {
+        "Name": "rothe vest - women's",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/7868bdb8-d7e8-40a9-8918-20033628f7f6.jpg"
+    },
+    {
+        "Name": "benton springs vest - women's",
+        "Price": " $27.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/bc0e2f8f-e816-4b23-86c1-6a5973f251f2.jpg"
+    },
+    {
+        "Name": "benton springs fleece vest - women's plus sizes",
+        "Price": " $27.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/147299fa-3a95-4a85-a5fb-dd2b1f82f3e7.jpg"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "Name": "classic fleece joggers - men's",
+        "Price": "$39.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/0165653e-b34c-44e6-8a2f-58b472e4edd7.jpg"
+    },
+    {
+        "Name": "rolpa joggers - men's",
+        "Price": "$42.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/e362dfe4-13ca-4883-a53d-aeb41ffab0c7.jpg"
+    },
+    {
+        "Name": "rolpa pants - men's",
+        "Price": "$42.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/787d2e97-5f26-4efb-abd6-624cba670f6b.jpg"
+    },
+    {
+        "Name": "mahnya fleece pants - men's",
+        "Price": "$48.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/5e179e3f-b19d-4ba0-9e2f-f7678fd96e35.jpg"
+    },
+    {
+        "Name": "denali fleece pants - men's",
+        "Price": "$59.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/28849aac-8c3e-421f-bcf6-fe551b852194.jpg"
+    },
+    {
+        "Name": "active fleece tech pants - men's",
+        "Price": "$79.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/20406649-d7c6-4fbe-a7be-6d574fa0c59a.jpg"
+    },
+    {
+        "Name": "canyonlands jogger pants - men's",
+        "Price": "$33.83 - $41.83",
+        "Savings": "save 50% - 60%",
+        "Image": "https://www.rei.com/media/efe10c7d-e834-45c3-b07d-bf4caef80e6a.jpg"
+    },
+    {
+        "Name": "el morro fleece pants - men's",
+        "Price": "$68.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/56ef07cd-47b3-41ee-a10f-03d474778839.jpg"
+    },
+    {
+        "Name": "ripstop denali pants - men's",
+        "Price": "$91.93",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/54be3279-cdab-4447-b370-249436074c73.jpg"
+    },
+    {
+        "Name": "canyonlands straight pants - men's",
+        "Price": "$59.93",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/ef6d3239-a69d-4b84-8a5e-c90cd7bf4c9b.jpg"
+    },
+    {
+        "Name": "abrazo fleece joggers - men's",
+        "Price": " $83.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/8e44a44a-596c-4fb9-bb82-8cfa25d351d3.jpg"
+    }
+]

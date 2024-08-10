@@ -1,0 +1,1598 @@
+[
+    {
+        "Name": "altitude tech 5-panel hat",
+        "Price": "$25.93",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/f27ac244-ec24-4366-8b21-6816f2d43ca7.jpg"
+    },
+    {
+        "Name": "campout beanie",
+        "Price": "$23.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/5218df74-27bf-430f-911b-de7dd0e543eb.jpg"
+    },
+    {
+        "Name": "pastel hat - women's",
+        "Price": "$23.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/de52efd1-d163-4810-b6b9-1e37edba55e3.jpg"
+    },
+    {
+        "Name": "alto beanie",
+        "Price": "$16.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/c9697bad-3001-447a-9e7a-44ea89c598c4.jpg"
+    },
+    {
+        "Name": "dad hat",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/316fa66a-0ae5-47de-8004-b60887646003.jpg"
+    },
+    {
+        "Name": "brodeo beanie",
+        "Price": "$23.73",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/d3c34f68-8628-46fc-adea-7eed1758237a.jpg"
+    },
+    {
+        "Name": "krystal hat - women's",
+        "Price": "$23.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/9b69b2fa-6b2f-4da7-8c28-227b9fc797c0.jpg"
+    },
+    {
+        "Name": "mountain time radar hat",
+        "Price": "$31.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/2a75cb55-84d4-4e59-9283-aa1569a356fe.jpg"
+    },
+    {
+        "Name": "boonie hat",
+        "Price": "$24.73",
+        "Savings": "save 22%",
+        "Image": "https://www.rei.com/media/bd19c251-8d14-4a5e-b4d5-f3c42d2d8bf8.jpg"
+    },
+    {
+        "Name": "making waves heritage tech hat",
+        "Price": "$29.93",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/6d833a69-e2fa-4495-aa70-2cc73e363e62.jpg"
+    },
+    {
+        "Name": "cabin to curb beanie",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/00d50b38-c148-484d-ba3b-e797500bbfe3.jpg"
+    },
+    {
+        "Name": "duckbill trucker hat",
+        "Price": "$26.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/abdbcc2b-50a6-4ddd-a65e-c35b67209f30.jpg"
+    },
+    {
+        "Name": "cooling cap",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/a92c5650-d58d-4133-85df-4b36c6e8679e.jpg"
+    },
+    {
+        "Name": "snow beanie",
+        "Price": "$26.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/f9a053bc-f8a3-49b2-b6ae-3a60edc45bfb.jpg"
+    },
+    {
+        "Name": "drye beanie",
+        "Price": "$21.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/8710fbca-ea7c-4944-b67b-95d7a083d2e2.jpg"
+    },
+    {
+        "Name": "p-6 logo trucker hat",
+        "Price": " $26.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/b21ba347-aa62-469f-91cb-ae952c73f614.jpg"
+    },
+    {
+        "Name": "horizon hat - women's",
+        "Price": "$20.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/0e7b392e-2eab-40fd-ad3d-e067d600ff05.jpg"
+    },
+    {
+        "Name": "cada dia 5-panel hat",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/1ae245d0-266d-4d3d-9e64-1292e74b82ad.jpg"
+    },
+    {
+        "Name": "fun hog beanie",
+        "Price": "$26.73",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/0130d471-0ee8-4fb3-bbe5-5469e3578afb.jpg"
+    },
+    {
+        "Name": "summit crushable wide brim hat - women's",
+        "Price": "$28.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/5040bdea-0cd1-4ed1-b03c-40a93bf1b5c3.jpg"
+    },
+    {
+        "Name": "bugsaway bucket hat",
+        "Price": "$36.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/6823649f-a219-4767-af30-09f438c190ca.jpg"
+    },
+    {
+        "Name": "yukon cap",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/3bd579e4-1b22-4943-a224-788f8946ab97.jpg"
+    },
+    {
+        "Name": "horizon breeze brimmer hat",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/29e1f1aa-1cb0-4a7e-9912-42b30e6d1349.jpg"
+    },
+    {
+        "Name": "horizon breeze brimmer hat - women's",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/eea02d0b-86da-46a5-8e2f-0e25dc00cf04.jpg"
+    },
+    {
+        "Name": "bug bucket hat",
+        "Price": "$25.93",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/73c4212f-ec11-47cb-bbae-5bd4f0dace06.jpg"
+    },
+    {
+        "Name": "swift bucket hat",
+        "Price": "$30.93",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/22a49718-1214-48af-856a-ef0f58a84408.jpg"
+    },
+    {
+        "Name": "pfg back tack snapback hat",
+        "Price": "$20.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/5f5eb349-bbcf-44e2-9059-d756db9a9051.jpg"
+    },
+    {
+        "Name": "comfort shell stria maxclava balaclava",
+        "Price": "$22.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/755521ad-7819-4151-b443-3fcdd13efe7e.jpg"
+    },
+    {
+        "Name": "ultra clava",
+        "Price": "$27.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/dbdec7ad-e393-4dbb-808e-1c9aaaec23a5.jpg"
+    },
+    {
+        "Name": "henley beanie - women's",
+        "Price": "$14.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/3f006061-decf-469c-ba2a-5756f9df8d7a.jpg"
+    },
+    {
+        "Name": "pfg uncharted mesh snapback hat",
+        "Price": "$20.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/1b2d6189-1570-460a-adb2-ce52365b3057.jpg"
+    },
+    {
+        "Name": "dynamax quick combo balaclava",
+        "Price": "$23.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/7e595669-0e24-4533-b622-da614d43cfbe.jpg"
+    },
+    {
+        "Name": "active extreme x balaclava",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/1a5a1efc-b2c3-48db-95ba-14be22d99946.jpg"
+    },
+    {
+        "Name": "the hybrid clava balaclava",
+        "Price": "$17.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/8c6671f7-a300-4022-9477-2f6a9dda076b.jpg"
+    },
+    {
+        "Name": "pride trucker hat",
+        "Price": "$11.83",
+        "Savings": "save 52%",
+        "Image": "https://www.rei.com/media/ccaa75c9-e221-4445-ad6f-99f91dc79de9.jpg"
+    },
+    {
+        "Name": "payton beanie",
+        "Price": "$17.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/7fd33ad8-3f6f-485c-ac68-20cab4528bb1.jpg"
+    },
+    {
+        "Name": "the pearl beanie",
+        "Price": "$22.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9ce7f09f-4232-4598-8629-3c39cf177ed8.jpg"
+    },
+    {
+        "Name": "everest beanie",
+        "Price": "$16.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/4e6834eb-b78f-4c7f-b25d-fae45f02b3e4.jpg"
+    },
+    {
+        "Name": "jordan beanie",
+        "Price": "$22.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/73f3fd44-4148-4186-9a19-6de0503b1ce3.jpg"
+    },
+    {
+        "Name": "culture cap",
+        "Price": "$11.83",
+        "Savings": "save 52%",
+        "Image": "https://www.rei.com/media/146e0966-55c7-43de-96ff-0a38c3f1043b.jpg"
+    },
+    {
+        "Name": "seattle rain hat",
+        "Price": "$47.93",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/5efcbea9-3caa-4272-b8c5-8f8187784875.jpg"
+    },
+    {
+        "Name": "take a stand trucker hat",
+        "Price": "$26.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/450a1861-170a-4975-b766-efb0751fcc9b.jpg"
+    },
+    {
+        "Name": "the outback hat",
+        "Price": "$83.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a4f72bb1-eb6b-4048-87c3-a7b926875345.jpg"
+    },
+    {
+        "Name": "waxed rugged fedora",
+        "Price": "$83.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/292ae1a8-d54a-4f25-812c-f2ce25774c30.jpg"
+    },
+    {
+        "Name": "criss cross bucket hat - women's",
+        "Price": "$16.73",
+        "Savings": "save 58%",
+        "Image": "https://www.rei.com/media/6b06f442-f8da-45aa-9a8b-5e4d07c3ea31.jpg"
+    },
+    {
+        "Name": "alicia hat - women's",
+        "Price": "$16.73",
+        "Savings": "save 47%",
+        "Image": "https://www.rei.com/media/60377a3d-7cb1-406a-9c4a-02144cf28021.jpg"
+    },
+    {
+        "Name": "innoclava with lavawool balaclava",
+        "Price": "$13.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/9841f6ee-c160-4f45-bf38-b56e2db548d2.jpg"
+    },
+    {
+        "Name": "oasis sun hat - women's",
+        "Price": "$32.93",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/75496f46-a191-4aeb-b738-be31a63a8145.jpg"
+    },
+    {
+        "Name": "summit vent cap - women's",
+        "Price": "$23.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/c73d97d4-87fc-477e-9db9-f6232f2b2d44.jpg"
+    },
+    {
+        "Name": "whitefish hat",
+        "Price": "$39.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/753be7ba-7adc-42d6-8385-9ba93fe508bf.jpg"
+    },
+    {
+        "Name": "exposure/2 gore-tex infinium rain hat",
+        "Price": "$35.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/bf0a0b20-8bd8-4f6c-97b4-cf207e3e5493.jpg"
+    },
+    {
+        "Name": "summit crushable straw hat - women's",
+        "Price": "$25.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e6e8bd8c-0d88-4abb-b52d-ad8fab2a7be1.jpg"
+    },
+    {
+        "Name": "cayman hat",
+        "Price": "$25.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/d1b334b6-8fa5-457b-a859-6ee46edf0b47.jpg"
+    },
+    {
+        "Name": "trail mix bucket hat",
+        "Price": "$27.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/5df00447-5476-48c6-b20d-e51c9d29ba47.jpg"
+    },
+    {
+        "Name": "koa crushable lifeguard hat",
+        "Price": "$41.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/aeb75103-5773-439b-8fd2-8681885f8bee.jpg"
+    },
+    {
+        "Name": "irish visor hat",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/dc569053-f9a6-46cc-9b5d-560875fd8e93.jpg"
+    },
+    {
+        "Name": "woolie cap",
+        "Price": "$33.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/1ba08b68-eecd-46d1-90ea-6386a6bc78fb.jpg"
+    },
+    {
+        "Name": "mountain trucker hat",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/363b1e08-2df0-4f53-a37f-fcb0e7bb76f3.jpg"
+    },
+    {
+        "Name": "convertible balaclava",
+        "Price": "$25.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/1ba2464b-a0ba-4d3c-b71c-c2ac32d60131.jpg"
+    },
+    {
+        "Name": "howler bando headband",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/3653f82c-9797-4633-b1af-375e154bd20a.jpg"
+    },
+    {
+        "Name": "chore bucket hat",
+        "Price": "$29.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/4efeb739-a6a2-4a5a-9349-b64e4190ba5a.jpg"
+    },
+    {
+        "Name": "comfort shell pwb beanie",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/88e95f51-8569-4b69-8e3d-30e54b7a5ef3.jpg"
+    },
+    {
+        "Name": "canyon hat",
+        "Price": "$28.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/6b04ead8-355d-4705-8d7f-c73473ed2a24.jpg"
+    },
+    {
+        "Name": "lavawool convertible face mask",
+        "Price": "$28.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/771a270f-cac7-45fd-9b02-cb21c38d0cd8.jpg"
+    },
+    {
+        "Name": "plushknit beanie - dark marsh - women's",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/f915c063-4be7-4a72-bf64-bb9edcd393f1.jpg"
+    },
+    {
+        "Name": "alpine tundra cap",
+        "Price": "$35.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/0bc912c8-e1fa-4756-adb4-da23314e5fe4.jpg"
+    },
+    {
+        "Name": "catacombs hood ii balaclava",
+        "Price": "$20.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/323646c3-8cd0-4b00-aa47-b059f61652bb.jpg"
+    },
+    {
+        "Name": "higbee hat",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/ddc67863-ef64-41bd-9c4d-13f7ea493765.jpg"
+    },
+    {
+        "Name": "better sweater beanie",
+        "Price": "$29.73",
+        "Savings": "save 39%",
+        "Image": "https://www.rei.com/media/72329899-a3e6-4c95-ab9e-9ddf368b467b.jpg"
+    },
+    {
+        "Name": "vishnu hat",
+        "Price": "$19.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/afdd4541-af7a-4ea4-952e-dbe75759e285.jpg"
+    },
+    {
+        "Name": "ice hammer 80/20 wool beanie - women's",
+        "Price": "$29.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/68b1764a-84de-4100-9e24-984c3d0ad225.jpg"
+    },
+    {
+        "Name": "nina beanie - women's",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/c2da9629-5d3f-4164-a44d-d30e9faeaf83.jpg"
+    },
+    {
+        "Name": "persuade cuffed beanie",
+        "Price": "$25.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/9a066ab8-2531-456e-9bdd-9185d4d9297c.jpg"
+    },
+    {
+        "Name": "matty trucker hat - women's",
+        "Price": "$24.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/736963e8-2d2d-436e-9284-79eb652e95da.jpg"
+    },
+    {
+        "Name": "francine hat",
+        "Price": "$26.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/6ee879be-f242-456b-b4d0-f20b0768fa0d.jpg"
+    },
+    {
+        "Name": "coolnet uv national park series multifunctional neckwear",
+        "Price": "$11.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/52b4d476-69e7-491b-8839-865da123dc39.jpg"
+    },
+    {
+        "Name": "helium wind cap",
+        "Price": "$25.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/d38d0f78-269d-434f-a085-cada45896a57.jpg"
+    },
+    {
+        "Name": "taboo pom beanie - women's",
+        "Price": "$20.73",
+        "Savings": "save 42%",
+        "Image": "https://www.rei.com/media/9a2ab803-cd18-45c0-acd4-6bcf126e9693.jpg"
+    },
+    {
+        "Name": "windproof multifunctional neckwear",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/16af040c-2561-4d31-939f-58955296df3b.jpg"
+    },
+    {
+        "Name": "echo printed ubertube",
+        "Price": "$15.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/ec26148f-8fc5-47fe-b8c7-0c7b08514322.jpg"
+    },
+    {
+        "Name": "echo ubertube",
+        "Price": "$14.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/6811b52c-95c9-4d9f-9d1c-c118cbf83d15.jpg"
+    },
+    {
+        "Name": "waterproof brimmed boonie hat",
+        "Price": "$34.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/07e1ca49-a9a8-447b-a62a-e979fc505713.jpg"
+    },
+    {
+        "Name": "legion hat",
+        "Price": "$24.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/39c0a33e-77d6-42a0-8b0f-425e50f3342c.jpg"
+    },
+    {
+        "Name": "ultra storm bucket hat - women's",
+        "Price": "$44.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/6c3a2872-8daf-4690-998f-c6bbbbafa880.jpg"
+    },
+    {
+        "Name": "summit sahara cap",
+        "Price": "$30.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d2619c33-b1a7-4ebb-aeb9-50b1c176cde6.jpg"
+    },
+    {
+        "Name": "coldfront down beanie",
+        "Price": "$32.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/37da7c9f-2ea2-4eda-aedc-12bd1fce9461.jpg"
+    },
+    {
+        "Name": "summit expedition hat",
+        "Price": "$30.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/777e232e-d7b8-499b-9fc6-ed89da86d440.jpg"
+    },
+    {
+        "Name": "helium rain full brim hat",
+        "Price": "$40.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/6a9e3bd2-4d27-4466-8bb3-ea1268b9611e.jpg"
+    },
+    {
+        "Name": "adrenaline multi-tasker pro balaclava",
+        "Price": "$29.73",
+        "Savings": "save 39%",
+        "Image": "https://www.rei.com/media/4d353159-9201-422d-b458-2a4eb5c40b35.jpg"
+    },
+    {
+        "Name": "small bird cap",
+        "Price": "$39.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/1e500f3e-0cab-4a85-8fd9-afa0c590fc02.jpg"
+    },
+    {
+        "Name": "core backcountry knit hat",
+        "Price": "$22.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/3ebdc77d-10f6-4e8c-9a45-f779195f0d90.jpg"
+    },
+    {
+        "Name": "blazin' cap",
+        "Price": "$28.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/e899f500-a446-4974-a645-9d7b7a32c175.jpg"
+    },
+    {
+        "Name": "nomad ladies adjustable shade cap - women's",
+        "Price": "$33.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/fc3061c6-eaf8-4bb2-a38d-a844d7e12e57.jpg"
+    },
+    {
+        "Name": "spitsbergen beanie",
+        "Price": "$29.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/ac6ad362-8f13-47e1-8963-fbad6a914d01.jpg"
+    },
+    {
+        "Name": "vigor plus beanie",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/5cedac7e-709a-45a2-8f1b-7d0d71cc9e32.jpg"
+    },
+    {
+        "Name": "calidum 5-panel cap",
+        "Price": "$43.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/0ca14046-c11b-449c-8aa9-d607c226b762.jpg"
+    },
+    {
+        "Name": "mistral multi-tasker pro balaclava",
+        "Price": "$26.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/672633bb-ddba-421b-884e-56b73eaa7e08.jpg"
+    },
+    {
+        "Name": "mistral neck and face protector",
+        "Price": "$20.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/b0ca4ada-e340-4e83-8b8a-5f3543135eb4.jpg"
+    },
+    {
+        "Name": "summit boonie hat - women's",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/67255b29-51e4-4e03-aea8-d5f32414a5a5.jpg"
+    },
+    {
+        "Name": "ear band",
+        "Price": "$18.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/e1769509-0d85-4cd4-a374-f036dc912b71.jpg"
+    },
+    {
+        "Name": "sun mask",
+        "Price": "$24.73",
+        "Savings": "save 14%",
+        "Image": "https://www.rei.com/media/d5072ea3-d383-427b-8889-a45d758e47d6.jpg"
+    },
+    {
+        "Name": "lavawool hat",
+        "Price": "$13.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/080c0a8c-a27e-4e85-8fe8-d25db87b33c1.jpg"
+    },
+    {
+        "Name": "dome perignon hat",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/11c7988c-6593-41da-b648-b1bf4047ec93.jpg"
+    },
+    {
+        "Name": "frittata beanie - women's",
+        "Price": "$24.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/77ecee06-2c09-4233-9c8d-fe978c6a00cb.jpg"
+    },
+    {
+        "Name": "coastal cable beanie",
+        "Price": "$26.73",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/4cdd2432-8332-4dd1-b009-79a6d3125cb2.jpg"
+    },
+    {
+        "Name": "tioga pass beanie - women's",
+        "Price": "$23.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/e6849ee2-f6c6-431e-9b3c-5d66982a8039.jpg"
+    },
+    {
+        "Name": "coralia resort hat - women's",
+        "Price": "$33.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/945ccc7c-be77-4c4f-b3e9-9d7d09c68adb.jpg"
+    },
+    {
+        "Name": "uvshield cool gaiter",
+        "Price": "$18.73 - $22.73",
+        "Savings": "save 24% - 25%",
+        "Image": "https://www.rei.com/media/993f13e6-55c2-46cf-af5c-d2169935103e.jpg"
+    },
+    {
+        "Name": "olden polartec beanie",
+        "Price": "$20.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e82431a4-9aa6-4984-9304-f76791fd6a58.jpg"
+    },
+    {
+        "Name": "overlook merino wool liner beanie",
+        "Price": "$31.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/c0908467-f43e-4736-927c-cea32a527491.jpg"
+    },
+    {
+        "Name": "emma hat - women's",
+        "Price": "$23.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/cfeba348-4240-4f8b-ae0a-698f78bb6137.jpg"
+    },
+    {
+        "Name": "comfort shell pwb stria beanie",
+        "Price": "$23.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/503ac810-9974-4e2c-8d78-0ef068153773.jpg"
+    },
+    {
+        "Name": "snowmelt merino beanie - women's",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/19d79690-9892-4f59-962e-9d8cd1f73e88.jpg"
+    },
+    {
+        "Name": "quilted bucket hat",
+        "Price": "$30.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/37bacfc5-e9de-457c-add2-bf67fc0bef6e.jpg"
+    },
+    {
+        "Name": "do good 5-panel hat",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/bd8d4f2f-2273-428c-939d-180cdf43ff89.jpg"
+    },
+    {
+        "Name": "waypoint beanie",
+        "Price": "$33.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/1151f6bf-df03-485a-8821-d405c0de9c90.jpg"
+    },
+    {
+        "Name": "snowbelle beanie",
+        "Price": "$26.73",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/36dbc67b-3631-4fb2-830a-df7a1e8e9223.jpg"
+    },
+    {
+        "Name": "howling wind fleece beanie",
+        "Price": "$25.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/0fad6d42-d0bf-42f8-abf6-c2a2103e344f.jpg"
+    },
+    {
+        "Name": "apex balaclava",
+        "Price": "$33.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/61510c7d-9ab4-4a04-9f1a-eb47ecf638ee.jpg"
+    },
+    {
+        "Name": "sun haven hat - women's",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/54841cf6-4bd7-4d4e-9c59-ac99906e49f7.jpg"
+    },
+    {
+        "Name": "cast hat",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/96d1fbed-4084-4853-a312-75a59229af55.jpg"
+    },
+    {
+        "Name": "tranquil merino beanie - women's",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/de47b148-fc37-4d32-8b12-35a842e517b8.jpg"
+    },
+    {
+        "Name": "haselhoff hat",
+        "Price": "$18.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/cb88e071-834d-4007-ab28-10d1dc3a3b78.jpg"
+    },
+    {
+        "Name": "cozy beanie",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/3a16fc91-0f69-4426-9667-704345d4cfe4.jpg"
+    },
+    {
+        "Name": "norval merino knitted beanie",
+        "Price": "$31.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/d7a5e026-2f1e-4df6-b4ac-33811df2169b.jpg"
+    },
+    {
+        "Name": "ecostretch balaclava",
+        "Price": "$18.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2c5bed0b-6d10-483a-9f8d-e8a966e241cb.jpg"
+    },
+    {
+        "Name": "rose headband - women's",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/58fb57b0-2497-4a72-bc35-93496d6bcedc.jpg"
+    },
+    {
+        "Name": "tuna lifeguard straw hat",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/a35ccb86-0d9d-44d2-bfa1-59c16fd0c34d.jpg"
+    },
+    {
+        "Name": "cross neck and head light gaiter",
+        "Price": "$17.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/8269e7f2-17fe-44ae-94e2-10aa78849b8a.jpg"
+    },
+    {
+        "Name": "lanai hat",
+        "Price": "$28.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/51d61af9-919f-4a0c-8f48-d8fcbf2a3ccd.jpg"
+    },
+    {
+        "Name": "vaporlite stride cap",
+        "Price": "$28.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/122411b0-63ed-4722-b642-1bc8abb118e1.jpg"
+    },
+    {
+        "Name": "pocket hat",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/0a8cb5c8-cf5f-4883-981d-0957258227bc.jpg"
+    },
+    {
+        "Name": "aberdeen beanie",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ebda7e71-3cf0-4067-854b-8db1075a106a.jpg"
+    },
+    {
+        "Name": "ultra adventure hat",
+        "Price": "$37.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/05c6c29c-f0f5-49c9-9c80-8777fbdf50de.jpg"
+    },
+    {
+        "Name": "tikse beanie - women's",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/10a38e3f-216d-46ca-ac41-a1049f40ab22.jpg"
+    },
+    {
+        "Name": "manaslu hat",
+        "Price": "$23.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/04bae02d-8a91-44b4-a9ab-075f73d652e2.jpg"
+    },
+    {
+        "Name": "hacker merino beanie",
+        "Price": "$23.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/c8dcd2e9-6f4d-4f88-82f4-b58226d16d5f.jpg"
+    },
+    {
+        "Name": "200 oasis beanie",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/8260c689-c8a3-4d3e-85fd-139b701e41a9.jpg"
+    },
+    {
+        "Name": "city plush earband - women's",
+        "Price": "$22.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/ba81b7d2-20a5-4be5-a746-fcbac064eaed.jpg"
+    },
+    {
+        "Name": "nord beanie",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/f01a0f2d-0c08-4181-acdf-882ce9d085dd.jpg"
+    },
+    {
+        "Name": "rothe beanie - women's",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/3ade4a0e-50af-497a-aece-8275ad4298c7.jpg"
+    },
+    {
+        "Name": "aprespro beanie",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/4d0f06e6-ec73-49b3-96f0-29fdf400b22f.jpg"
+    },
+    {
+        "Name": "solar bucket hat",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/748d9e36-b57d-4011-8d7a-e2211f11f105.jpg"
+    },
+    {
+        "Name": "niels knitted & polar headband",
+        "Price": "$19.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/eeb52a7f-5cca-4115-8524-33a2c995ffa1.jpg"
+    },
+    {
+        "Name": "beau 80/20 wool beanie",
+        "Price": "$28.73",
+        "Savings": "save 22%",
+        "Image": "https://www.rei.com/media/bd4ea5af-1741-4814-ba91-466cd55edf88.jpg"
+    },
+    {
+        "Name": "corina hat",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/032fedcc-9b09-4504-8130-b1769d5a5a24.jpg"
+    },
+    {
+        "Name": "halifax 50/50 merino beanie",
+        "Price": "$20.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/603ff21e-045c-4276-b3a5-d3b0bcd4cce8.jpg"
+    },
+    {
+        "Name": "hillary hat",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/696fc58f-8303-49fa-b3f8-ed403f524249.jpg"
+    },
+    {
+        "Name": "norgay beanie",
+        "Price": "$26.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/f12d75bb-38cb-4c15-a80e-d088d1d239e9.jpg"
+    },
+    {
+        "Name": "aerial cap",
+        "Price": "$25.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/c7739f49-58ee-4dbe-b925-89b7ef265d6d.jpg"
+    },
+    {
+        "Name": "pitted beanie",
+        "Price": "$25.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/5b0eec76-4232-4ec6-8eb3-33f14476aa45.jpg"
+    },
+    {
+        "Name": "business 2 beanie",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/80516414-d10d-43a0-b791-10ba6630c2f9.jpg"
+    },
+    {
+        "Name": "comfort shell maxclava stria balaclava",
+        "Price": "$24.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/fee92df3-6f3e-45ca-a45c-b4132b258763.jpg"
+    },
+    {
+        "Name": "fog free fleece face mask",
+        "Price": "$24.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/841c07cb-cbdf-40e8-a610-4edec414f551.jpg"
+    },
+    {
+        "Name": "rose beanie - women's",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/f3866b38-0e65-4498-85ab-d436121f11e0.jpg"
+    },
+    {
+        "Name": "niroj beanie",
+        "Price": "$24.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/5932504b-06bf-4792-a1d7-2b039f379c95.jpg"
+    },
+    {
+        "Name": "rose beanie - women's",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/2349a9a5-ed05-443a-8b6f-6120923762f1.jpg"
+    },
+    {
+        "Name": "clava midweight balaclava",
+        "Price": "$12.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/cab8f5df-018e-4a2d-a67e-058cf756c01c.jpg"
+    },
+    {
+        "Name": "powder town beanie",
+        "Price": "$23.73",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/db84b155-c3e4-41ce-bfc5-7f821c9df949.jpg"
+    },
+    {
+        "Name": "arctic dash beanie - women's",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/43893f3f-b8f9-4b43-a37b-c3210f154674.jpg"
+    },
+    {
+        "Name": "meridian thermal earband",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/402d9ad8-b06b-43ec-8cfe-3db45f0adfa8.jpg"
+    },
+    {
+        "Name": "tikse headband - women's",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/a99f89ee-bb5a-4563-b13c-b0417aa41e02.jpg"
+    },
+    {
+        "Name": "yeti beanie",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/2a6be4ed-9407-479b-b1bc-eb0dbd9f5453.jpg"
+    },
+    {
+        "Name": "journey wool fur hat",
+        "Price": "$39.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/34f3c91b-27f1-43c4-89c9-5ac83bc0a2a4.jpg"
+    },
+    {
+        "Name": "brooke mixed beanie - women's",
+        "Price": "$18.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/1d10a3b0-ded9-4ae1-a3b1-7f036c7cad9b.jpg"
+    },
+    {
+        "Name": "steephollow beanie",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/82b7c0d0-bca4-4fb8-948c-125b6ffc089d.jpg"
+    },
+    {
+        "Name": "adventure hat",
+        "Price": "$34.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/7beddc9f-5684-4f09-80c5-3685b9bd90b8.jpg"
+    },
+    {
+        "Name": "suelo pure merino balaclava",
+        "Price": "$34.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/956d3d94-cf57-4a26-97f1-fc1b063e72e5.jpg"
+    },
+    {
+        "Name": "wanderlust fedora - women's",
+        "Price": "$32.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/888438e9-0813-4dc2-9146-78cbb4bd8661.jpg"
+    },
+    {
+        "Name": "meridian thermal cap",
+        "Price": "$31.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/42bdaed8-3fc5-4d3d-ace3-34a8457a79fd.jpg"
+    },
+    {
+        "Name": "nordwand beanie",
+        "Price": "$31.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/028aa9a9-6ea9-484d-8596-f4e0fb554ed3.jpg"
+    },
+    {
+        "Name": "sport hat",
+        "Price": "$31.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/c03231ff-5089-4eda-8357-25617785f703.jpg"
+    },
+    {
+        "Name": "sol seeker hat - women's",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/abc4f017-cad9-4704-a045-4c01cdf05711.jpg"
+    },
+    {
+        "Name": "tiffany beanie - women's",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ce927d4f-c834-450b-ba4a-0b9cec83453e.jpg"
+    },
+    {
+        "Name": "andy merino beanie",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/214701df-5612-404d-8fb0-bee30bfbec5e.jpg"
+    },
+    {
+        "Name": "camping lifeguard hat",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/f34a22e3-2809-448b-b570-4c6c13917123.jpg"
+    },
+    {
+        "Name": "city plush beanie - women's",
+        "Price": "$28.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/c07535bb-3327-47f5-af3a-a4c9ac1d23af.jpg"
+    },
+    {
+        "Name": "jolie beanie",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/a791c762-3717-45b7-969e-75fabf4010df.jpg"
+    },
+    {
+        "Name": "kylie beanie - women's",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/b59f6f2c-35c3-4c12-a18f-8e950312d3b2.jpg"
+    },
+    {
+        "Name": "ninja balaclava",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/122cab5b-1086-4e9f-b518-74b4b2661f5f.jpg"
+    },
+    {
+        "Name": "andover 80/20 wool beanie",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/c66c5fbb-ceca-4806-8971-7eb14cc03ff3.jpg"
+    },
+    {
+        "Name": "ocean trucker hat",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/c8ba9054-8bd6-4c4e-995f-edfc9b9bd833.jpg"
+    },
+    {
+        "Name": "aerial cap - women's",
+        "Price": "$25.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/6a2b40e7-5076-4646-bd4a-5b374523154b.jpg"
+    },
+    {
+        "Name": "nightfall reflective beanie",
+        "Price": "$25.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/04513a96-ea92-4f93-8e32-95e362430108.jpg"
+    },
+    {
+        "Name": "marin knitted beanie",
+        "Price": "$25.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/e69d282c-e945-4c14-bc8c-4b821216794c.jpg"
+    },
+    {
+        "Name": "melody beanie - women's",
+        "Price": "$25.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/95ad3a7a-3a47-4215-8565-76c96317137e.jpg"
+    },
+    {
+        "Name": "tempest multi-tasker balaclava",
+        "Price": "$24.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2f43936d-048a-4f35-8aec-d5262cc3af62.jpg"
+    },
+    {
+        "Name": "melody balaclava - women's",
+        "Price": "$24.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/6b624464-ec2a-4254-895f-16ba83458d06.jpg"
+    },
+    {
+        "Name": "verbier beanie",
+        "Price": "$24.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/779c9c70-955a-460e-a26c-7e9dead0f111.jpg"
+    },
+    {
+        "Name": "juliette beanie - women's",
+        "Price": "$24.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/1ea917e0-afdf-4a22-9a25-c0de34db339f.jpg"
+    },
+    {
+        "Name": "adrenaline balaclava",
+        "Price": "$24.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2822fff2-5c97-4561-a762-8613de1b212e.jpg"
+    },
+    {
+        "Name": "lightweight merino beanie",
+        "Price": "$23.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/e837a994-e958-4c79-a4dc-e91f0637835b.jpg"
+    },
+    {
+        "Name": "kyte beanie",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/a894d233-1595-4616-8e80-dcab83e140d9.jpg"
+    },
+    {
+        "Name": "windbloc face shield maskot balaclava",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/26b8ca8c-a5fa-45da-95df-3ed013378213.jpg"
+    },
+    {
+        "Name": "rose headband - women's",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/acdc8991-1601-4fa2-b191-a16942c68dbb.jpg"
+    },
+    {
+        "Name": "polar multifunctional neckwear",
+        "Price": "$23.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2d3a0164-d558-49c6-969a-9043d48a0119.jpg"
+    },
+    {
+        "Name": "urban cuff beanie",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/08393232-2704-4bc9-a091-0e142ce58d87.jpg"
+    },
+    {
+        "Name": "everyone's favorite beanie",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/71a8a019-e3de-4151-bb6a-f92ae8ae874d.jpg"
+    },
+    {
+        "Name": "neptune beanie",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/7a79767b-dca7-4057-b069-e9580889ff6f.jpg"
+    },
+    {
+        "Name": "trail mix beanie",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/b24beffd-dbaf-4c3f-a76a-619a0db6d6ce.jpg"
+    },
+    {
+        "Name": "chelonia 150 fleece shellaclava",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/9aac2136-eca5-4b1d-bca4-e8e0d0763be3.jpg"
+    },
+    {
+        "Name": "reflector beanie",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/16679fbd-4320-42d3-87e3-34f5b6f8ac43.jpg"
+    },
+    {
+        "Name": "jumla hat",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/cedf687c-ff82-4274-8f21-03b170ad426e.jpg"
+    },
+    {
+        "Name": "tempest balaclava",
+        "Price": "$20.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/bd34da13-8fe6-4830-b087-c6724711a3ff.jpg"
+    },
+    {
+        "Name": "elon knitted beanie",
+        "Price": "$19.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/3cb82a74-ce4c-474f-b322-e1185bd89331.jpg"
+    },
+    {
+        "Name": "juneau beanie",
+        "Price": "$18.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/e82e8bdf-b8e5-4098-af3f-8755b554f9a2.jpg"
+    },
+    {
+        "Name": "logo cuff beanie",
+        "Price": "$17.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/b1271fd5-e88f-48db-81bc-f3abe6a92159.jpg"
+    },
+    {
+        "Name": "traverse beanie",
+        "Price": "$17.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/2a075c52-3da2-4632-a86e-42847155d565.jpg"
+    },
+    {
+        "Name": "rilla fleece earband",
+        "Price": "$10.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/e1a08499-f12b-4374-a567-bf992e4531e8.jpg"
+    },
+    {
+        "Name": "valencia hat - women's",
+        "Price": "$33.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/9e98e9ef-0b20-44ea-801c-5e43b366c6fd.jpg"
+    },
+    {
+        "Name": "sunward visor",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/63e419b7-f17f-4284-8e55-6d98a63e9594.jpg"
+    },
+    {
+        "Name": "sunset hat - women's",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2d3a83d9-85be-43da-814f-a7dc5cc7ab0b.jpg"
+    },
+    {
+        "Name": "dream seeker cooling trucker hat",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/3a999aaf-7bc6-48f9-a843-b211bbbcc7ff.jpg"
+    },
+    {
+        "Name": "marie headband",
+        "Price": "$18.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/3481f177-4253-408d-bd04-aab6495fb19a.jpg"
+    },
+    {
+        "Name": "afterhours headband",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/01e6cb65-5d57-4c2b-b5b7-5f51203e7e9d.jpg"
+    },
+    {
+        "Name": "micro-elite chamois balaclava with chil-block mask",
+        "Price": "$23.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/315ffeda-d6f8-4fb2-a4e2-9d7ad7c7c651.jpg"
+    },
+    {
+        "Name": "chil-block half mask",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/895ccad6-e951-4319-bbd3-db0338d39a7b.jpg"
+    },
+    {
+        "Name": "micro-elite chamois convertible balaclava",
+        "Price": "$25.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/65574fdf-c860-4d54-8781-99d54264a765.jpg"
+    },
+    {
+        "Name": "micro-elite chamois bandana with mask",
+        "Price": "$17.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/8cf1f6a7-77eb-4016-a5d7-c668b29aee90.jpg"
+    },
+    {
+        "Name": "lavawool mask",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/7a012128-e5e5-49c4-81d9-e1198dced1f5.jpg"
+    },
+    {
+        "Name": "overtime beanie",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/1a9c33b7-9d15-4d0a-a467-13f1f9189aa2.jpg"
+    },
+    {
+        "Name": "breezeblocker beanie",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/23496917-9d05-45c2-80a8-56bcbcc41719.jpg"
+    },
+    {
+        "Name": "alpine onset balaclava",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/15c525d2-c61c-4d80-bb4e-597462865009.jpg"
+    },
+    {
+        "Name": "brand beanie",
+        "Price": "$17.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/64e3cb8f-982e-4660-8175-15ffe6597146.jpg"
+    },
+    {
+        "Name": "thermonet hinged balaclava",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/c1f316c7-a2e6-411a-93c4-afcf394c497d.jpg"
+    },
+    {
+        "Name": "niels knitted beanie",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/961ccd54-dd54-4c7a-99db-279f3c33049a.jpg"
+    },
+    {
+        "Name": "explorer knit beanie",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ccc6c3a6-ffca-4211-88ee-9357ca58a125.jpg"
+    },
+    {
+        "Name": "ida beanie",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/91d2012f-1d85-446a-9218-7d2bfd861439.jpg"
+    },
+    {
+        "Name": "windbloc face shield",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/23b4990f-8c9c-4bfc-9f13-3bb3e7ac5a23.jpg"
+    },
+    {
+        "Name": "lydia beanie - women's - 2023",
+        "Price": "$26.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/c348d7da-566c-4a9e-9d4f-b26f194500d2.jpg"
+    },
+    {
+        "Name": "jack pine merino beanie",
+        "Price": "$26.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/492e6a7c-c99e-4bbf-877d-c0b8598037bd.jpg"
+    },
+    {
+        "Name": "davina beanie - women's",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/97a44085-6bb4-4e69-89d9-b4e1314e54a3.jpg"
+    },
+    {
+        "Name": "jaya beanie",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/aa14dda9-50ca-4331-9b0c-510dcf392e61.jpg"
+    },
+    {
+        "Name": "taj mahal beanie",
+        "Price": "$22.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/23941da8-3a55-4f46-82bf-cc4cc9faef59.jpg"
+    },
+    {
+        "Name": "minzy beanie - women's",
+        "Price": "$24.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/22191ff2-2035-409a-82ed-63177159380b.jpg"
+    },
+    {
+        "Name": "bradie knit-brim beanie - women's",
+        "Price": "$24.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/2082716b-67f9-4c93-9a51-5cd5a160d284.jpg"
+    },
+    {
+        "Name": "kacey cuffed beanie - women's",
+        "Price": "$14.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/3f453dd0-1833-48ca-965a-87c84b499782.jpg"
+    },
+    {
+        "Name": "brandt striped beanie",
+        "Price": "$14.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/638d7c51-1405-41a6-bb9b-a83e7df10fac.jpg"
+    },
+    {
+        "Name": "conan mixed beanie",
+        "Price": "$14.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/ab5f1d03-dfef-4699-981d-5d54b47e8518.jpg"
+    },
+    {
+        "Name": "feedback flannel cap",
+        "Price": "$27.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/ccbf46b3-37fd-42bc-9d9a-dc6826b961a1.jpg"
+    },
+    {
+        "Name": "everyone's favorite reversible beanie",
+        "Price": "$20.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/31d24654-212b-42f2-9cd3-3426f72b33ae.jpg"
+    },
+    {
+        "Name": "matisse beanie - women's",
+        "Price": "$22.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/a3c03c68-dfba-4792-a580-496e15ae9bfa.jpg"
+    },
+    {
+        "Name": "astoria pom beanie - women's",
+        "Price": "$19.73",
+        "Savings": "save 41%",
+        "Image": "https://www.rei.com/media/bb32b7ba-7d31-411e-873f-60b46f99155f.jpg"
+    },
+    {
+        "Name": "gas station beanie",
+        "Price": "$21.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/cacda9f3-07ab-4648-aa7b-feb2f6319880.jpg"
+    },
+    {
+        "Name": "liftie vx beanie",
+        "Price": "$23.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/ba23183c-b7dd-4e93-b4d2-297fcfae828b.jpg"
+    },
+    {
+        "Name": "taboo earflap beanie - women's",
+        "Price": "$29.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/a22448c4-4505-4965-9581-8c7778b5db18.jpg"
+    },
+    {
+        "Name": "thermonet multifunctional neckwear",
+        "Price": "$20.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/518f651b-b127-476c-8e9b-7354b7f27370.jpg"
+    },
+    {
+        "Name": "howler multi-tasker pro balaclava",
+        "Price": "$37.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/71fd4258-e10b-4ae2-bff1-266debb46e6d.jpg"
+    },
+    {
+        "Name": "adrenaline multi-liner balaclava",
+        "Price": "$28.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/92700c19-f889-44d9-aa76-0a20d7dca237.jpg"
+    },
+    {
+        "Name": "gradient beanie",
+        "Price": "$25.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/34023fc7-13f1-4131-8139-af34adfc552b.jpg"
+    },
+    {
+        "Name": "sunbriolet sun hat",
+        "Price": " $32.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/0c841934-6433-44ed-83f0-a5ac5512c78d.jpg"
+    },
+    {
+        "Name": "tech bucket hat",
+        "Price": " $29.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/72bde4f9-f881-43cc-b388-258a5e475d9c.jpg"
+    },
+    {
+        "Name": "vented trailsmith hat",
+        "Price": " $37.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/e04c5fed-8eb7-4fe9-a7bb-0d2dae843730.jpg"
+    },
+    {
+        "Name": "sahara path hat",
+        "Price": " $24.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/a7370ac4-6732-4a27-b0ed-3531e1b01e06.jpg"
+    },
+    {
+        "Name": "p-6 label trad cap",
+        "Price": " $18.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/732719f5-eb35-4e46-a285-2f9c917f8d7f.jpg"
+    },
+    {
+        "Name": "seattle rain cap",
+        "Price": " $36.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/545dbc63-cff0-42bb-ac49-587ca70439cc.jpg"
+    },
+    {
+        "Name": "classic knit hat",
+        "Price": " $30.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/4e85525c-3d18-4514-b7ca-8674071da990.jpg"
+    },
+    {
+        "Name": "salty bae lined beanie - women's",
+        "Price": " $19.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/7fd00ee7-8c13-4b4b-baec-ca98c2897184.jpg"
+    },
+    {
+        "Name": "lightweight logo beanie",
+        "Price": " $13.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/d7d75d92-a56d-4017-ad8c-bf096bdaddb8.jpg"
+    },
+    {
+        "Name": "ribbed watch cap",
+        "Price": " $11.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/69948e61-5590-409b-9839-35b7377ed7ce.jpg"
+    },
+    {
+        "Name": "logo beanie",
+        "Price": " $11.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/c461614b-6756-44c4-8dad-75406b3c80eb.jpg"
+    },
+    {
+        "Name": "mount hood overhood",
+        "Price": " $37.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/f38e3024-8105-4079-9356-bcb91c3b4869.jpg"
+    },
+    {
+        "Name": "whirlibird watch cap beanie",
+        "Price": "$9.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/dd4a2298-f28f-4c2a-85ed-04b41cab9447.jpg"
+    },
+    {
+        "Name": "trailmade reversible beanie",
+        "Price": "$9.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/7e88aac6-7453-4a09-aea8-69d49144b531.jpg"
+    },
+    {
+        "Name": "trail mix earband",
+        "Price": "$8.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/842c7295-356a-472e-84e7-7e295b7b6985.jpg"
+    },
+    {
+        "Name": "trailmade cuff beanie",
+        "Price": " $9.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/b4117e3a-6c57-4074-9653-fa13860f5353.jpg"
+    }
+]

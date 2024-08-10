@@ -2,41 +2,49 @@
     {
         "Name": "strada kineticore bike helmet",
         "Price": " $81.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/8d6b0de7-7e9b-4346-ac59-beaa54b0c013.jpg"
     },
     {
         "Name": "network mips bike helmet",
         "Price": "$79.73",
+        "Savings": "save 53%",
         "Image": "https://www.rei.com/media/9c68be44-16b9-4acc-867e-45ee62de8bdd.jpg"
     },
     {
         "Name": "starvos wavecel round fit bike helmet",
         "Price": "$47.93",
+        "Savings": "save 54%",
         "Image": "https://www.rei.com/media/92dadb83-d821-478d-b296-fa4181014518.jpg"
     },
     {
         "Name": "starvos wavecel bike helmet",
         "Price": "$64.83",
+        "Savings": "save 38%",
         "Image": "https://www.rei.com/media/405846cc-dd2e-4580-a1b6-6d4dc4fa6cfa.jpg"
     },
     {
         "Name": "trace mips bike helmet",
         "Price": "$127.73",
+        "Savings": "save 48%",
         "Image": "https://www.rei.com/media/8eeb5405-1e70-410f-aee9-5208f0aef27d.jpg"
     },
     {
         "Name": "ventral mips bike helmet",
         "Price": "$209.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/63563e14-eeda-4cf0-8be8-5451b1c4c560.jpg"
     },
     {
         "Name": "ventral air mips bike helmet",
         "Price": "$181.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/6273f93e-4b16-48e0-af2c-570cd940f505.jpg"
     },
     {
         "Name": "network mips bike helmet",
         "Price": " $126.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/d27d0bc4-7956-45fe-b221-7d0cd3bb700d.jpg"
     }
 ]

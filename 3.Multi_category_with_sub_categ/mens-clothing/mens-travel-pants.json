@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "sahara convertible pants - men's",
+        "Price": "$55.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/caa5cf33-7ffc-4cc8-a829-92e28eed946e.jpg"
+    },
+    {
+        "Name": "live free flex pants - men's",
+        "Price": "$99.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/656c6dfe-826f-4796-8d9a-f550829f3030.jpg"
+    },
+    {
+        "Name": "bugsaway active pants - men's",
+        "Price": "$74.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/86d7acdc-61cc-4f6a-aac9-2709917c6bcc.jpg"
+    },
+    {
+        "Name": "bugsaway everyday woven pants - men's",
+        "Price": "$82.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/4c533bb9-06ba-4f37-aba9-2634b15fefb4.jpg"
+    },
+    {
+        "Name": "transit tech pants - men's",
+        "Price": " $46.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/4d97bdb6-61da-4497-90d5-30fbd1fafe60.jpg"
+    },
+    {
+        "Name": "renegade convertible pants - men's",
+        "Price": "$53.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/548be879-7bf5-4e9f-a384-5f0a47daeff1.jpg"
+    },
+    {
+        "Name": "freeflex pants - men's",
+        "Price": "$66.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/ce0fb78f-4acc-478b-a0f3-b1b58b2e0443.jpg"
+    }
+]

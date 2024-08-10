@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "mojave shorts - men's",
+        "Price": "$54.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/a703da7f-9c80-4208-8cdf-2588f763f4d7.jpg"
+    },
+    {
+        "Name": "flatanger shorts - men's",
+        "Price": "$44.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/633376be-c00c-4281-98f8-34f492675578.jpg"
+    },
+    {
+        "Name": "belay shorts - men's",
+        "Price": "$62.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/ed041b09-7c86-43b5-ac2b-ae3147743f87.jpg"
+    },
+    {
+        "Name": "sierra lt shorts - men's",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/8d2149da-749a-4682-8c4e-8ac34f09b225.jpg"
+    },
+    {
+        "Name": "hampi rock shorts - men's",
+        "Price": "$49.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/03b286ad-bce9-4bbe-8c5e-fd607c332f00.jpg"
+    },
+    {
+        "Name": "bleauser shorts - men's",
+        "Price": "$59.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/62ca098d-7807-402d-8a43-7be9c31a9321.jpg"
+    }
+]

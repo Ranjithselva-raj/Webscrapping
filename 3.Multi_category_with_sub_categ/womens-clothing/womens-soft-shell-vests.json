@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "aerotherm vest - women's",
+        "Price": "$104.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/38f85068-a7d2-4680-82ce-9a47f9342422.jpg"
+    },
+    {
+        "Name": "kor airshell vest - women's",
+        "Price": "$78.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/bb00350e-0cf2-47e2-a576-250e5be1aa19.jpg"
+    },
+    {
+        "Name": "tirill thermal vest - women's",
+        "Price": "$104.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/3228d432-0554-478f-b8db-a07698677359.jpg"
+    }
+]

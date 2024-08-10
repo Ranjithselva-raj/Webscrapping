@@ -1,0 +1,80 @@
+[
+    {
+        "Name": "tokeland fleece vest - men's",
+        "Price": "$76.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/c08c99e6-33fe-4322-9b31-87b59b6ed0a1.jpg"
+    },
+    {
+        "Name": "classic retro-x fleece vest - men's",
+        "Price": "$78.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/5152bac8-2a03-408e-ace4-3595459db788.jpg"
+    },
+    {
+        "Name": "hudson trail fleece vest - men's",
+        "Price": "$85.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/87a98a74-983c-4712-9af3-2819b23a9a12.jpg"
+    },
+    {
+        "Name": "synchilla vest - men's",
+        "Price": "$63.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/a8b0e638-6741-4309-ae6e-5cff327e270c.jpg"
+    },
+    {
+        "Name": "subalpine printed fleece vest - men's",
+        "Price": "$78.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/3085fef8-8afd-488f-adf1-c489995d3f4e.jpg"
+    },
+    {
+        "Name": "trail mix fleece vest - men's",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/b5a02066-209b-47bc-9cfa-fa86e0396424.jpg"
+    },
+    {
+        "Name": "subalpine fleece vest - men's",
+        "Price": "$73.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/8362e1fa-8775-4a7d-b51f-bab36c246a0f.jpg"
+    },
+    {
+        "Name": "polartec high loft vest - men's",
+        "Price": "$96.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d98682a7-f6ed-46f6-9fbc-ef8adb7f0d11.jpg"
+    },
+    {
+        "Name": "better sweater vest - men's",
+        "Price": " $82.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/13b01f9b-b3f7-4556-a4c8-3386223f88d8.jpg"
+    },
+    {
+        "Name": "campo fleece vest - men's",
+        "Price": "$79.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/78c3d266-2a26-4536-a282-b7de5464d3dc.jpg"
+    },
+    {
+        "Name": "classic retro-x fleece vest - men's",
+        "Price": " $110.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/5434d30e-f4ca-4007-bef2-31c3a6aecb6c.jpg"
+    },
+    {
+        "Name": "denali fleece vest - men's",
+        "Price": " $69.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/94bae0d0-faa9-4834-b253-1c1bb82a813d.jpg"
+    },
+    {
+        "Name": "synchilla fleece vest - men's",
+        "Price": " $89.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/c5e63a96-ab75-44e9-9282-9cfbd62862f6.jpg"
+    }
+]

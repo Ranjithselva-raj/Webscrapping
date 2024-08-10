@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "sun mask",
+        "Price": "$24.73",
+        "Savings": "save 14%",
+        "Image": "https://www.rei.com/media/d5072ea3-d383-427b-8889-a45d758e47d6.jpg"
+    },
+    {
+        "Name": "uvshield cool gaiter",
+        "Price": "$18.73 - $22.73",
+        "Savings": "save 24% - 25%",
+        "Image": "https://www.rei.com/media/993f13e6-55c2-46cf-af5c-d2169935103e.jpg"
+    },
+    {
+        "Name": "echo ubertube",
+        "Price": "$14.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/6811b52c-95c9-4d9f-9d1c-c118cbf83d15.jpg"
+    },
+    {
+        "Name": "echo printed ubertube",
+        "Price": "$15.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/ec26148f-8fc5-47fe-b8c7-0c7b08514322.jpg"
+    },
+    {
+        "Name": "polar multifunctional neckwear",
+        "Price": "$23.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2d3a0164-d558-49c6-969a-9043d48a0119.jpg"
+    }
+]

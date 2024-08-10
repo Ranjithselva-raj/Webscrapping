@@ -2,21 +2,25 @@
     {
         "Name": "tailgate cover",
         "Price": "$115.73 - $129.73",
+        "Savings": "save 29%",
         "Image": "https://www.rei.com/media/0bf46415-fedb-47f4-ba95-f9abb2f89379.jpg"
     },
     {
         "Name": "2-bike gravity pole bike stand",
         "Price": "$44.73",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/e4ff6b9c-911e-460b-b53f-34c6562ef4e1.jpg"
     },
     {
         "Name": "megarack ultra bike rack",
         "Price": "$29.73",
+        "Savings": "save 29%",
         "Image": "https://www.rei.com/media/8e1655c5-0771-4f41-9a3d-053d3673d92f.jpg"
     },
     {
         "Name": "u bar",
         "Price": "$30.93",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/6ce2ea82-fea8-4f9e-9c9c-18543a048949.jpg"
     }
 ]

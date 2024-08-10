@@ -1,0 +1,986 @@
+[
+    {
+        "Name": "evolution crew sweatshirt - men's",
+        "Price": " $37.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/6e8d7453-3265-4707-877b-653d71082556.jpg"
+    },
+    {
+        "Name": "classic pullover hoodie - men's",
+        "Price": "$39.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/5c152632-a43a-445d-afae-5244ff0900e0.jpg"
+    },
+    {
+        "Name": "crossover hoodie - men's",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/9bddf05e-faab-4b98-846c-12aa4e633d60.jpg"
+    },
+    {
+        "Name": "maridalen fleece pullover - men's",
+        "Price": "$74.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/218bc76c-1f59-4e0d-8ff4-e1787df7bbc8.jpg"
+    },
+    {
+        "Name": "rei logo crew sweatshirt",
+        "Price": " $26.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/869f186b-7eaf-4f1b-a3e0-889bd7ee5cec.jpg"
+    },
+    {
+        "Name": "helvetia half-snap fleece pullover - men's",
+        "Price": "$24.83 - $58.93",
+        "Savings": "save 30% - 70%",
+        "Image": "https://www.rei.com/media/a7f29bc5-01fc-4935-94d2-1464f23556d2.jpg"
+    },
+    {
+        "Name": "heritage patch crew sweatshirt - men's",
+        "Price": " $31.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/12175dbc-a2c2-49b2-8ed7-02fb60cdd7b8.jpg"
+    },
+    {
+        "Name": "brand proud hoodie - men's",
+        "Price": "$44.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/1e9ff483-631a-4a61-94a1-14ce46a0d9c2.jpg"
+    },
+    {
+        "Name": "mountain sweatshirt pullover - men's",
+        "Price": "$59.83",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/f11bac53-2943-4bd1-8678-1cbd648150ec.jpg"
+    },
+    {
+        "Name": "julian terry pullover hoodie - men's",
+        "Price": "$46.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/ca055760-1819-4373-8bd6-7d489422e777.jpg"
+    },
+    {
+        "Name": "fleece pullover hoodie - men's",
+        "Price": "$62.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a0d3c1d5-5585-4eb9-9aa4-69fea2f32a4c.jpg"
+    },
+    {
+        "Name": "uddesya eco quarter-zip hoodie - men's",
+        "Price": "$97.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/1f9794c3-cd1a-4370-9b1f-0c4145129ff4.jpg"
+    },
+    {
+        "Name": "trail supplies crew sweatshirt",
+        "Price": "$26.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/f8aec962-0f54-4a86-8b4c-3e30b45847ee.jpg"
+    },
+    {
+        "Name": "lightweight synchilla snap-t fleece pullover - men's",
+        "Price": "$68.83 - $110.99",
+        "Savings": "save 20% - 50%",
+        "Image": "https://www.rei.com/media/da07dbdf-07f6-47c8-95ae-cd607fc9b589.jpg"
+    },
+    {
+        "Name": "wintertrainer fleece pullover - men's",
+        "Price": "$44.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/7aa3c66a-2159-4310-9032-a244f3e8c14d.jpg"
+    },
+    {
+        "Name": "capilene cool daily hoodie - men's",
+        "Price": " $40.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/6238b4e0-78da-4082-afb8-bf959378ae9f.jpg"
+    },
+    {
+        "Name": "daybreaker half-zip fleece jacket - men's",
+        "Price": "$44.73 - $48.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/e7d76759-9d15-431f-a783-8aa6bcb1ef6e.jpg"
+    },
+    {
+        "Name": "mountain sweatshirt hoodie - men's",
+        "Price": "$110.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/25162f4f-d3da-460d-9366-2ba3ac750e41.jpg"
+    },
+    {
+        "Name": "durable henley t-shirt hoodie - men's",
+        "Price": "$39.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/cdb98b47-10e6-42d9-99e1-7f9cbd4e3e6c.jpg"
+    },
+    {
+        "Name": "westlands crew sweater - men's",
+        "Price": "$92.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/e5e3ae39-1476-4561-97a6-c8c90dba4d2b.jpg"
+    },
+    {
+        "Name": "hicamp fleece pullover - men's",
+        "Price": "$69.73",
+        "Savings": "save 46%",
+        "Image": "https://www.rei.com/media/c6a16eff-ce52-41cc-8a0d-8dc8283783d8.jpg"
+    },
+    {
+        "Name": "alpine polartec 200 half-zip pullover - men's",
+        "Price": "$69.73",
+        "Savings": "save 41%",
+        "Image": "https://www.rei.com/media/97a29dd8-58a9-4bd0-bd2b-ede4ffedbd77.jpg"
+    },
+    {
+        "Name": "ventilator long-sleeve performance hoodie - men's",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/c3882165-e4a5-442b-a36f-21d00978a421.jpg"
+    },
+    {
+        "Name": "box quilted pullover - men's",
+        "Price": "$113.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/310c44f1-bfdf-4cc0-acdf-7880205caf48.jpg"
+    },
+    {
+        "Name": "abisko sun hoodie - men's",
+        "Price": " $69.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/35e1dcb1-e9a9-4336-bc49-e2a90b2b8c81.jpg"
+    },
+    {
+        "Name": "intraknit merino tech quarter-zip pullover - men's",
+        "Price": "$118.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/57550857-6f8a-4989-9e32-47fc520f8470.jpg"
+    },
+    {
+        "Name": "performance luxe tee hoodie - men's",
+        "Price": "$46.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/95a20af9-afa9-4e76-9404-f1b5b8bf5502.jpg"
+    },
+    {
+        "Name": "capilene cool daily graphic hoodie - men's",
+        "Price": " $51.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/580ce8c9-e757-4d80-84fa-108f23fdf322.jpg"
+    },
+    {
+        "Name": "trail mix fleece pullover hoodie - men's",
+        "Price": "$35.73",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/3bda7bf5-8268-4a3d-92e2-a05507d92738.jpg"
+    },
+    {
+        "Name": "flack tech hoodie - men's",
+        "Price": "$84.93",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/6b2bd555-4cb3-49a7-8cfd-5aeb3a4b9ec0.jpg"
+    },
+    {
+        "Name": "run amok el morro fleece hoodie - men's",
+        "Price": "$89.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/cdfd56ee-2a07-47b2-be1d-5f55c3b28c1c.jpg"
+    },
+    {
+        "Name": "gibao hoodie",
+        "Price": "$79.93",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/41c62c04-5e11-4ada-a9d9-5bd9d84ee108.jpg"
+    },
+    {
+        "Name": "shari full-zip tech hoodie - men's",
+        "Price": "$79.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/80eb616e-02a1-4cd8-947b-ae2d28752872.jpg"
+    },
+    {
+        "Name": "mathew quarter-zip tech fleece pullover - men's",
+        "Price": "$79.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/1587d570-8a34-4e6d-a2b6-44ebb0962ed7.jpg"
+    },
+    {
+        "Name": "emerald lake pullover - men's",
+        "Price": "$49.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/1a99a0ed-6a8e-4e65-af20-d8a150d0acf6.jpg"
+    },
+    {
+        "Name": "pali pile fleece hoodie - men's",
+        "Price": "$49.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/24e35f0f-1f5f-4696-a5c8-69130695401d.jpg"
+    },
+    {
+        "Name": "hicamp fleece pullover - men's",
+        "Price": "$79.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/2060b38b-a9af-47cd-8fe2-2524d780ecf5.jpg"
+    },
+    {
+        "Name": "global tek hoodie - men's",
+        "Price": "$48.93",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/3323bcea-0d58-48a4-a9cb-998b2c3ba4e9.jpg"
+    },
+    {
+        "Name": "zoneknit long-sleeve zip hoodie - men's",
+        "Price": "$189.73",
+        "Savings": "save 42%",
+        "Image": "https://www.rei.com/media/59dd6fd3-c641-4452-b41f-75592daa2c3a.jpg"
+    },
+    {
+        "Name": "explore fleece half-zip pullover - men's",
+        "Price": "$59.73",
+        "Savings": "save 39%",
+        "Image": "https://www.rei.com/media/6dea0d21-fdc7-4a01-ab90-d8de71417549.jpg"
+    },
+    {
+        "Name": "raglan crew neck sweater - men's",
+        "Price": "$48.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/7a142034-920c-4e6c-a43d-88d195a069a8.jpg"
+    },
+    {
+        "Name": "waffle knit henley hoodie sweater - men's",
+        "Price": "$72.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/ba48d50d-7318-45ce-9af0-1ccd425a319d.jpg"
+    },
+    {
+        "Name": "wiley polartec half-zip fleece pullover - men's",
+        "Price": "$82.73",
+        "Savings": "save 48%",
+        "Image": "https://www.rei.com/media/0d090a7e-0733-4bbd-a465-2c7dee3d09b8.jpg"
+    },
+    {
+        "Name": "helvetia fleece hoodie - men's",
+        "Price": "$44.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/a46ec244-b3a0-49f9-a5bc-388475f59fb9.jpg"
+    },
+    {
+        "Name": "amado fleece pullover - men's",
+        "Price": "$51.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/f52581c8-61c1-4c59-9a90-a316b0dc3764.jpg"
+    },
+    {
+        "Name": "coldstream hoodie - men's",
+        "Price": "$86.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/814ca1d2-82b5-417f-b177-489faa76b531.jpg"
+    },
+    {
+        "Name": "quantum iii long-sleeve zip hoodie - men's",
+        "Price": "$148.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/ec338da5-54ef-4674-84c4-aa3978c09ede.jpg"
+    },
+    {
+        "Name": "altitude tracker hoodie - men's",
+        "Price": "$66.73",
+        "Savings": "save 39%",
+        "Image": "https://www.rei.com/media/ae52a9d3-4df6-464b-9aee-b0bbf2a1d360.jpg"
+    },
+    {
+        "Name": "heavyweight drop line printed half-zip fleece pullover - men's",
+        "Price": "$64.73",
+        "Savings": "save 41%",
+        "Image": "https://www.rei.com/media/c4228b48-f3bd-4eb5-9f16-2fafe3a76ca6.jpg"
+    },
+    {
+        "Name": "techrock ultralight half-zip hooded fleece jacket - men's",
+        "Price": "$89.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/1196e04c-29bb-4dbc-8008-5bfd6971603f.jpg"
+    },
+    {
+        "Name": "steens mountain half-snap pullover - men's",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/dd826269-19e6-479e-8db9-acb63c3fccef.jpg"
+    },
+    {
+        "Name": "run visible thermal hoodie - men's",
+        "Price": "$79.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/924c7ced-790a-4dd2-866e-7b90e45662af.jpg"
+    },
+    {
+        "Name": "crag hoodie - men's",
+        "Price": "$49.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/ff39cd37-cb67-48c1-8c58-47cd65db95f5.jpg"
+    },
+    {
+        "Name": "microdini half-zip pullover - men's",
+        "Price": "$63.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/5a7307b0-2e00-4d6b-9de9-5aefc7ffc9b2.jpg"
+    },
+    {
+        "Name": "polartec power stretch pro quarter-zip top - men's",
+        "Price": "$44.73",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/8b8bd0cc-9e3d-4625-9109-7a5505cc9068.jpg"
+    },
+    {
+        "Name": "coastal eco pullover hoodie - men's",
+        "Price": "$44.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/e2140ef4-4165-4e7f-bc88-51a2e8b056b7.jpg"
+    },
+    {
+        "Name": "tekno logo hoodie - men's",
+        "Price": "$58.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/3088539b-76ab-47bb-a3db-cd91111647b2.jpg"
+    },
+    {
+        "Name": "trail mix hoodie - men's",
+        "Price": "$59.73",
+        "Savings": "save 45%",
+        "Image": "https://www.rei.com/media/4d0978e8-05b8-493f-bd1a-33110dc5441a.jpg"
+    },
+    {
+        "Name": "megafleece snap up pullover - men's",
+        "Price": "$68.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/ba55df6e-c3b3-4f5b-a565-6949f543b9fc.jpg"
+    },
+    {
+        "Name": "colwood half-snap pullover - men's",
+        "Price": "$83.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/f8c42ec3-d38b-4043-9ffe-da647d088e05.jpg"
+    },
+    {
+        "Name": "uluwatu water hoodie - men's",
+        "Price": "$43.83 - $58.93",
+        "Savings": "save 20% - 40%",
+        "Image": "https://www.rei.com/media/901c1267-070a-4330-a0a8-1c2d21a31c40.jpg"
+    },
+    {
+        "Name": "campshire fleece hoodie - men's",
+        "Price": "$59.83",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/c2653fcd-8777-4916-843b-02b872f53751.jpg"
+    },
+    {
+        "Name": "mountain sweatshirt pullover - men's",
+        "Price": "$79.73",
+        "Savings": "save 42%",
+        "Image": "https://www.rei.com/media/16d50f24-1a11-4d71-a944-b1e262b52c2c.jpg"
+    },
+    {
+        "Name": "recycled wool-blend sweater hoodie - men's",
+        "Price": "$67.73",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/dea1e790-6842-47d8-b9d2-1ba382762dd9.jpg"
+    },
+    {
+        "Name": "crown weatherproof fleece pullover - men's",
+        "Price": "$46.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/86808020-2a8b-4977-b51a-ea6b61bc3250.jpg"
+    },
+    {
+        "Name": "print tekno hoodie - men's",
+        "Price": "$63.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/e4da445f-0608-4481-8bcd-1dd6246a1dce.jpg"
+    },
+    {
+        "Name": "rajen texture crew sweater - men's",
+        "Price": "$64.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/a28b03b9-29e3-42e0-8b4a-393de82c43af.jpg"
+    },
+    {
+        "Name": "notch thermal hoodie 2.0 - men's",
+        "Price": "$28.73",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/0576f482-d378-480f-9ff3-c07766ebe6af.jpg"
+    },
+    {
+        "Name": "sueded spacedye half-zip colorblock mock-neck shirt - men's",
+        "Price": "$34.73",
+        "Savings": "save 42%",
+        "Image": "https://www.rei.com/media/f9fc32fd-4988-4806-b42c-cd524a86ff30.jpg"
+    },
+    {
+        "Name": "polartec microfleece quarter-zip top - men's",
+        "Price": "$44.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/a5da8b73-aad4-4da0-9857-21ea8545baa2.jpg"
+    },
+    {
+        "Name": "axys zip fleece - men's",
+        "Price": "$47.93",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/7a49e473-00b0-4520-915b-0b2bf211796c.jpg"
+    },
+    {
+        "Name": "hood surf t-shirt - men's",
+        "Price": "$55.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/01febfac-00a6-44ba-996d-736c359f0cbf.jpg"
+    },
+    {
+        "Name": "sweater weather ii half-zip fleece pullover - men's",
+        "Price": "$41.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/7e2880e8-849d-4967-9eed-ba5c57235c92.jpg"
+    },
+    {
+        "Name": "wallace lake waffle sweater - men's",
+        "Price": "$44.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/69bdb0e1-c303-4d87-8486-99f43087099c.jpg"
+    },
+    {
+        "Name": "mountain fleece pullover - men's",
+        "Price": "$63.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/219034ac-1de9-48f4-869c-a38d50a4b465.jpg"
+    },
+    {
+        "Name": "delta half-zip hoodie - men's",
+        "Price": "$119.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/76c660d2-a927-46d8-a0d4-c743ad8399c5.jpg"
+    },
+    {
+        "Name": "microdini half-zip pullover - men's",
+        "Price": "$63.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/5f499578-c429-4358-bcdc-ad845718abdd.jpg"
+    },
+    {
+        "Name": "shearling button fleece pullover - men's",
+        "Price": "$78.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/1b37fa86-a396-4e9a-9c70-7e36d263f6c2.jpg"
+    },
+    {
+        "Name": "activeice spectrum sun hoodie - men's big sizes",
+        "Price": "$59.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/d11e2b66-c25e-4375-bb36-d4ba4ba31ca8.jpg"
+    },
+    {
+        "Name": "creators eco pullover hoodie - men's",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/7711ce77-4009-4f3b-8f9b-239e50fbe459.jpg"
+    },
+    {
+        "Name": "merino wilcox long-sleeve sweater - men's",
+        "Price": "$109.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/b3ec3161-5e26-4dac-ac51-899488f819e6.jpg"
+    },
+    {
+        "Name": "merino quantum iii long-sleeve zip jacket - men's",
+        "Price": "$139.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/6bc5fa48-3d36-466e-af44-e68f9bc644ec.jpg"
+    },
+    {
+        "Name": "aenergy ml half-zip pullover - men's",
+        "Price": "$68.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/04c5e602-d8e6-457c-a149-16a113082a14.jpg"
+    },
+    {
+        "Name": "sun free long-sleeve hoodie - men's",
+        "Price": "$34.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/2c2a50bd-a688-4801-a78c-580afa1fdf30.jpg"
+    },
+    {
+        "Name": "solid sets eco po hoodie - men's",
+        "Price": "$49.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/5947e76d-ca52-4969-93c7-982853252b86.jpg"
+    },
+    {
+        "Name": "airmesh hoodie - men's",
+        "Price": "$62.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/a7f1b934-a26d-417e-a383-55f92b7ecdd4.jpg"
+    },
+    {
+        "Name": "grand teton graphic hoodie - men's",
+        "Price": "$45.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/f26d2a4b-aa51-4bfc-bffe-64dbd4d746ac.jpg"
+    },
+    {
+        "Name": "shearling button pullover - men's",
+        "Price": "$84.73",
+        "Savings": "save 46%",
+        "Image": "https://www.rei.com/media/831ef390-0e88-4530-9cd8-2eb446f25436.jpg"
+    },
+    {
+        "Name": "better sweater quarter-zip pullover - men's",
+        "Price": "$96.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/070dc514-ee75-4125-8526-65b54da71521.jpg"
+    },
+    {
+        "Name": "axys hoodie - men's",
+        "Price": "$59.93",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/0341d6eb-8434-40d8-bccf-b5b2cf69a9cf.jpg"
+    },
+    {
+        "Name": "sol shade hoodie - men's",
+        "Price": "$54.93",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/74685553-5a45-424e-8842-85bcaff7b920.jpg"
+    },
+    {
+        "Name": "summer light sun hoodie - men's",
+        "Price": "$39.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/fe73b285-0bea-4564-84bc-37ef7c211a88.jpg"
+    },
+    {
+        "Name": "adventure sun hoodie - men's",
+        "Price": "$44.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/f6b1e680-452f-4ae0-9e9a-a43d01cd3f3b.jpg"
+    },
+    {
+        "Name": "magic hour hoodie - men's",
+        "Price": "$44.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/519b3ec4-cad2-46ce-bd23-41f9c5c19acb.jpg"
+    },
+    {
+        "Name": "texture half-zip sweater - men's",
+        "Price": "$111.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/839c97db-c8bf-463e-8c7b-fc09052819e4.jpg"
+    },
+    {
+        "Name": "r1 daily zip-neck top - men's",
+        "Price": "$73.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/9da43253-341b-48c0-a444-32a924a52789.jpg"
+    },
+    {
+        "Name": "trail sherpa fleece pullover",
+        "Price": "$97.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/3888c1a6-7739-4941-bdda-92ac10b97063.jpg"
+    },
+    {
+        "Name": "mountain fleece crewneck",
+        "Price": "$53.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/05ac5291-43cc-47c8-981a-366d3539ec0c.jpg"
+    },
+    {
+        "Name": "global midlayer crew shirt - men's",
+        "Price": "$53.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/e1d0e851-e005-4b33-a7fd-eae546ddf312.jpg"
+    },
+    {
+        "Name": "tekno logo hoodie - men's",
+        "Price": "$51.83",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/d61d53be-75d8-4184-9ee8-606b31862fab.jpg"
+    },
+    {
+        "Name": "summit series futurefleece lt half-zip pullover - men's",
+        "Price": "$97.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/d6f1091c-f5cf-43cf-b206-e23963bdabc2.jpg"
+    },
+    {
+        "Name": "mountain works crew sweatshirt - men's",
+        "Price": "$37.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/39d445a9-22a3-444a-a90b-1838cc3500f4.jpg"
+    },
+    {
+        "Name": "vigor quarter-zip top - men's",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ac18c4ed-61e9-424f-9092-204650443f99.jpg"
+    },
+    {
+        "Name": "classic fleece zip hoodie - men's",
+        "Price": "$46.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/475ae635-2c07-41a4-b363-1d9be43bd817.jpg"
+    },
+    {
+        "Name": "cozy lodge buff check sweater - men's",
+        "Price": "$59.73",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/f1b01c58-08bc-4fd7-9aa7-83cdc9dd1754.jpg"
+    },
+    {
+        "Name": "tech trail quarter-zip top - men's",
+        "Price": "$21.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/d06206b8-3ef6-4cdb-becc-01e1172c1191.jpg"
+    },
+    {
+        "Name": "rolpa half-zip fleece sweater - men's",
+        "Price": "$48.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/55a88c08-864f-4a3a-8a3d-70916a26a593.jpg"
+    },
+    {
+        "Name": "trailsmith fleece pullover - men's",
+        "Price": "$39.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/3883c136-e025-4099-8f25-404ae0b62361.jpg"
+    },
+    {
+        "Name": "engineered hoodie - men's",
+        "Price": "$41.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/288fee4a-8f4b-4467-b3b6-f5a63cade120.jpg"
+    },
+    {
+        "Name": "mountain stretch hoodie - men's",
+        "Price": "$55.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/975f9365-413d-454b-bc79-ebac21f452c0.jpg"
+    },
+    {
+        "Name": "better sweater quarter-zip pullover - men's",
+        "Price": "$68.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/fe6adff6-65ab-4423-a57b-49ef006a6fff.jpg"
+    },
+    {
+        "Name": "reversible shearling crew sweatshirt - men's",
+        "Price": "$63.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/e704918e-65ee-494b-b982-51da96753a9e.jpg"
+    },
+    {
+        "Name": "sweater weather fleece half-zip pullover - men's",
+        "Price": "$55.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/8e77b0d4-544b-478d-ab57-a63a5fd67137.jpg"
+    },
+    {
+        "Name": "kangtega quarter-zip sweater - men's",
+        "Price": "$104.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/15843655-3ee8-4410-a4b3-f23a981226f5.jpg"
+    },
+    {
+        "Name": "mahnya fleece crewneck sweatshirt - men's",
+        "Price": "$48.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/ce7da113-6b7c-4235-a9b0-f681e8f30d3d.jpg"
+    },
+    {
+        "Name": "baylands fisherman sweater - men's",
+        "Price": "$89.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/634fb08b-19de-489c-a883-e7d66638302b.jpg"
+    },
+    {
+        "Name": "run within sweatshirt - men's",
+        "Price": "$57.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/cfdce665-b2a2-439a-9fb0-e7845ff1c185.jpg"
+    },
+    {
+        "Name": "alpine polartec 100 pullover - men's",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/6187df16-4ba7-47ac-b94c-8ae9fd1e5ad7.jpg"
+    },
+    {
+        "Name": "microdini half-zip pullover - men's",
+        "Price": "$77.73",
+        "Savings": "save 39%",
+        "Image": "https://www.rei.com/media/1acf5338-0ffa-4db8-af27-f044f83e35e4.jpg"
+    },
+    {
+        "Name": "'94 e.c.o. recycled fleece pullover - men's",
+        "Price": "$97.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/0caa1d95-8e49-42ec-ab94-4f5b54b50c43.jpg"
+    },
+    {
+        "Name": "echo printed hoodie - men's",
+        "Price": "$54.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/fca960c6-fb0b-4669-a461-5c34e61742a5.jpg"
+    },
+    {
+        "Name": "bhutan pullover - men's",
+        "Price": "$83.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/be66455c-277b-448b-8017-05c4dda62f22.jpg"
+    },
+    {
+        "Name": "ponderosa crew sweater - men's",
+        "Price": "$86.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/054c5af9-29e6-44cb-abfb-cb5e1b20522a.jpg"
+    },
+    {
+        "Name": "roice half-zip pullover - men's",
+        "Price": "$82.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/d96d2350-3202-43c3-82ef-78141db3bcae.jpg"
+    },
+    {
+        "Name": "olden polartec half-zip jacket - men's",
+        "Price": "$86.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/dca49fc0-4917-48e3-a65a-dd0dee544dce.jpg"
+    },
+    {
+        "Name": "watchtower hoodie - men's",
+        "Price": "$69.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/c3c9a930-e56d-4077-8272-4024c66e532e.jpg"
+    },
+    {
+        "Name": "orsa polartec wool hoodie - men's",
+        "Price": "$127.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/9024dc73-6aaf-490e-b0f0-5224b9e83848.jpg"
+    },
+    {
+        "Name": "coastal hoodie - men's",
+        "Price": "$44.73 - $48.73",
+        "Savings": "save 25% - 31%",
+        "Image": "https://www.rei.com/media/15a072a5-2af3-481b-8741-a4a638b072a8.jpg"
+    },
+    {
+        "Name": "el ultra soft fleece quarter-zip pullover - men's",
+        "Price": "$54.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/d1f80e7d-56cb-4e19-8530-83217c1da88d.jpg"
+    },
+    {
+        "Name": "culebra peak hoodie - men's",
+        "Price": "$44.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/f56145c5-7c2b-4019-9733-f78f04f9d0e7.jpg"
+    },
+    {
+        "Name": "incrediwool half-zip sweater - men's",
+        "Price": "$116.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/af7b786f-8fb0-47d2-b2d2-7ec64f519e7f.jpg"
+    },
+    {
+        "Name": "tri thermal threads henley shirt - men's",
+        "Price": "$93.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/eb506e9f-6b45-45d5-bc8d-6c05f62d9048.jpg"
+    },
+    {
+        "Name": "x-city reflect at night half-zip top - men's",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/186fcb1e-0d7a-4b36-ac67-6a27363c739e.jpg"
+    },
+    {
+        "Name": "hudson trail fleece half-zip sweater - men's",
+        "Price": "$104.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d5ec6493-f207-4e03-bafb-c211f97beec7.jpg"
+    },
+    {
+        "Name": "rocklin half-zip pullover - men's",
+        "Price": "$48.73 - $52.73",
+        "Savings": "save 24% - 30%",
+        "Image": "https://www.rei.com/media/4c698acd-36d3-4a8b-a201-f0adf783ec80.jpg"
+    },
+    {
+        "Name": "ranga button mock-neck sweater - men's",
+        "Price": "$99.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/61c080cb-8134-4c6b-8d6c-4f521842ddc4.jpg"
+    },
+    {
+        "Name": "mineral wash t-shirt hoodie - men's",
+        "Price": "$39.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/5bd51c98-9d2f-4a11-9a01-af8790757ba1.jpg"
+    },
+    {
+        "Name": "wensley quarter-zip top - men's",
+        "Price": "$86.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/5143342c-1451-4e41-b66d-70917826239f.jpg"
+    },
+    {
+        "Name": "repeater hoodie - men's",
+        "Price": "$68.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/0acef24a-a762-46eb-b23e-947e436f126a.jpg"
+    },
+    {
+        "Name": "do good crew sweatshirt - men's",
+        "Price": "$44.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/5c6fd579-3ea3-41e4-bb29-1dbcc8bfac6f.jpg"
+    },
+    {
+        "Name": "teca fleece pullover - men's",
+        "Price": "$69.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/8bbdaa97-fe12-41f6-bebd-13f80a5dfeb7.jpg"
+    },
+    {
+        "Name": "colorblock raglan fleece crew sweatshirt - men's",
+        "Price": "$46.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/cc6753fe-4b7b-4ef9-b04e-940c901551a9.jpg"
+    },
+    {
+        "Name": "headlands hemp button crew sweater - men's",
+        "Price": "$82.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/91019178-677c-4cd5-b6a8-f303828cb21b.jpg"
+    },
+    {
+        "Name": "baylands lined half-zip sweater - men's",
+        "Price": "$116.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/5a19805a-de5b-47b6-be79-a52032e3cbf2.jpg"
+    },
+    {
+        "Name": "arete hoodie - men's",
+        "Price": "$89.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/1e38556f-0d52-4433-80ed-737ad17b01b3.jpg"
+    },
+    {
+        "Name": "arete crew sweatshirt - men's",
+        "Price": "$78.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/8a94992b-ae9c-4395-ae0b-5f3b7eab3740.jpg"
+    },
+    {
+        "Name": "tendu active half-zip top - men's",
+        "Price": "$69.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c71a1ee1-eabb-4229-91e9-08c3caee4225.jpg"
+    },
+    {
+        "Name": "intraknit merino tech half-zip hoodie - men's",
+        "Price": "$121.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/4cbba46f-fd83-4611-aa54-4ff63a6fc4ab.jpg"
+    },
+    {
+        "Name": "coefficient quarter-zip hoodie - men's",
+        "Price": " $111.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/beb98eec-4d6a-408a-9242-51693608bdca.jpg"
+    },
+    {
+        "Name": "r1 techface hoodie - men's",
+        "Price": " $152.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/262ffe70-e64d-4b89-b404-c14f749b296f.jpg"
+    },
+    {
+        "Name": "better sweater quarter-zip fleece pullover - men's",
+        "Price": " $68.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/1c33339f-b18c-45d0-a7fd-c2f7ce689a89.jpg"
+    },
+    {
+        "Name": "sombra sun hoodie - men's",
+        "Price": " $54.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/73dadc39-722d-47e8-8a82-d6aa1a6e6375.jpg"
+    },
+    {
+        "Name": "do good crew sweatshirt - men's",
+        "Price": " $31.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/e4183ef2-7a49-4523-8c4a-fab31b960ca8.jpg"
+    },
+    {
+        "Name": "r1 pullover - men's",
+        "Price": " $68.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/975ce648-29e3-49e9-949a-85fd945725b9.jpg"
+    },
+    {
+        "Name": "p-6 logo uprisal hoodie",
+        "Price": " $61.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/df156c0b-a7b9-4b66-a86c-6f7dfcf26ea2.jpg"
+    },
+    {
+        "Name": "carrollton lightweight hoodie - men's",
+        "Price": " $33.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/3b21caed-dd70-475b-b1e0-f41a91f93726.jpg"
+    },
+    {
+        "Name": "capilene thermal hoodie - men's",
+        "Price": " $96.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/4a4cb1d8-1ad3-44f5-bd79-4c0c4b747e28.jpg"
+    },
+    {
+        "Name": "notch thermal hoodie 2.0 - men's",
+        "Price": " $48.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/9ffadcea-04f2-498e-b255-98983a18f421.jpg"
+    },
+    {
+        "Name": "p-6 logo uprisal crew sweatshirt",
+        "Price": " $54.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/382afb24-1837-498e-b149-97abeab1f265.jpg"
+    },
+    {
+        "Name": "droptemp all day cooling hoodie - men's",
+        "Price": " $44.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/fd238c8d-a5f2-4b9a-bba6-454b27850a5b.jpg"
+    },
+    {
+        "Name": "evolution vintage hoodie - men's",
+        "Price": " $41.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/15f39591-eaac-4af3-a209-5dd1666395b8.jpg"
+    },
+    {
+        "Name": "r1 pullover hoodie - men's",
+        "Price": " $83.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/5eedc211-3a99-4eb0-848b-94c886e19d52.jpg"
+    },
+    {
+        "Name": "vigor grid fleece pullover hoodie - men's",
+        "Price": " $76.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/a823a1ec-8f28-4dd4-ada8-48cbe3be5e58.jpg"
+    },
+    {
+        "Name": "teca fleece pullover - men's",
+        "Price": " $69.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/488ee4da-0cb9-41f7-bf75-87f630b74878.jpg"
+    }
+]

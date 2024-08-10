@@ -2,46 +2,55 @@
     {
         "Name": "cn-lg500 10/11-speed chain",
         "Price": "$10.93",
+        "Savings": "save 52%",
         "Image": "https://www.rei.com/media/438ba801-1c4f-4b72-9827-a51955e60754.jpg"
     },
     {
         "Name": "fh 11-23 7-speed cassette",
         "Price": "$21.93",
+        "Savings": "save 31%",
         "Image": "https://www.rei.com/media/20789471-88f5-440d-b1e7-2672b0981d72.jpg"
     },
     {
         "Name": "deore cs-m4100 10-speed cassette",
         "Price": " $34.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/b0149bef-bd66-4859-8879-66918f877ec7.jpg"
     },
     {
         "Name": "xt rd-m786 sgs 10-speed rear derailleur",
         "Price": "$61.93",
+        "Savings": "save 40%",
         "Image": "https://www.rei.com/media/bd6a3933-2062-4e5e-80f2-baf88a5af705.jpg"
     },
     {
         "Name": "deore m5100 2 x 11-speed front derailleur",
         "Price": "$23.93",
+        "Savings": "save 40%",
         "Image": "https://www.rei.com/media/ae66e1c5-7d93-437f-9baf-42e5f7896718.jpg"
     },
     {
         "Name": "m7000 slx 11-speed chainring",
         "Price": "$19.93",
+        "Savings": "save 41%",
         "Image": "https://www.rei.com/media/9f6ba44d-04a3-432d-b6cd-81f538d1d4c3.jpg"
     },
     {
         "Name": "deore m4100 2 x 10-speed front derailleur",
         "Price": "$21.93",
+        "Savings": "save 42%",
         "Image": "https://www.rei.com/media/24280a9f-4dc6-4a14-a021-d22af5dd5be0.jpg"
     },
     {
         "Name": "ultegra priority pack",
         "Price": "$1,871.93",
+        "Savings": "save 10%",
         "Image": "https://www.rei.com/media/01dc0373-cff2-4af1-a76c-0db232e84981.jpg"
     },
     {
         "Name": "acera fc-mt210 3 x 9-speed crankset",
         "Price": "$29.93",
+        "Savings": "save 31%",
         "Image": "https://www.rei.com/media/8c6ae8c6-85a0-4f39-9436-286a522db50f.jpg"
     }
 ]

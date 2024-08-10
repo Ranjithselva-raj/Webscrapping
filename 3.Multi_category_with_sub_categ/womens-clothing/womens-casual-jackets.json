@@ -1,0 +1,854 @@
+[
+    {
+        "Name": "jackson ridge jacket - women's",
+        "Price": "$98.73",
+        "Savings": "save 43%",
+        "Image": "https://www.rei.com/media/0d05ae86-335d-4d30-b100-d31fbb795f5b.jpg"
+    },
+    {
+        "Name": "mosaic butter pile jacket - women's",
+        "Price": "$62.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a31d7159-dd30-4f20-a569-c555867c2508.jpg"
+    },
+    {
+        "Name": "juneau sherpa fleece jacket - women's",
+        "Price": "$80.73",
+        "Savings": "save 41%",
+        "Image": "https://www.rei.com/media/e04ae979-2ffb-4b3e-970b-e0c1067e4a17.jpg"
+    },
+    {
+        "Name": "skysail jacket - women's",
+        "Price": " $98.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/888f4ea5-74e8-4f2c-b137-ea63a4c18f59.jpg"
+    },
+    {
+        "Name": "old school reversible jacket - women's",
+        "Price": "$68.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/52af581d-6865-4f6c-9abf-6b77ce74e070.jpg"
+    },
+    {
+        "Name": "microdini fleece hoodie - women's",
+        "Price": "$103.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/0281a50f-1694-4780-9ccb-83187c38cb1a.jpg"
+    },
+    {
+        "Name": "aada primaloft long jacket - women's",
+        "Price": "$149.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/23d09143-7607-40b9-b1f0-0abf2312d3b3.jpg"
+    },
+    {
+        "Name": "outbound heather butter pile jacket - women's",
+        "Price": "$57.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/7c7e1318-707b-47ad-8010-850c7fa93a3c.jpg"
+    },
+    {
+        "Name": "x20 waterproof anorak - women's",
+        "Price": "$62.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9b300e26-a91e-4eb8-9bf9-8fca4e3bd090.jpg"
+    },
+    {
+        "Name": "transitional trench jacket - women's",
+        "Price": "$152.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/30d9cb78-f02e-4cca-b714-9da00ff1684f.jpg"
+    },
+    {
+        "Name": "chelsea down coat - women's",
+        "Price": "$284.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/6ea7ba50-62ed-44b5-adc9-ef89c45db55d.jpg"
+    },
+    {
+        "Name": "super soft-shell hybrid jacket - women's",
+        "Price": "$59.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/075df21f-c07a-4d78-a0b1-a9097b8aa3c9.jpg"
+    },
+    {
+        "Name": "super softshell lite jacket - women's",
+        "Price": "$69.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/33492ddc-46ae-4e54-b395-ffb13e166012.jpg"
+    },
+    {
+        "Name": "trailmade fleece jacket - women's",
+        "Price": " $29.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/ed43a065-626f-470b-888c-30e2852b912f.jpg"
+    },
+    {
+        "Name": "re-tool hybrid jacket - women's",
+        "Price": "$148.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/4c14eb47-9b01-4312-8ad0-15b8cf587de0.jpg"
+    },
+    {
+        "Name": "reversible insulated jacket - women's",
+        "Price": "$69.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/1e7ae14d-a086-4899-abca-3ded5573468f.jpg"
+    },
+    {
+        "Name": "perspektiv jacket - women's",
+        "Price": "$96.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d79e6f2e-e50c-4473-bc86-d0184aed5199.jpg"
+    },
+    {
+        "Name": "microchill full-zip jacket - women's",
+        "Price": "$62.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/2ceaa7c1-5e99-4655-9f5f-f7db4cf41208.jpg"
+    },
+    {
+        "Name": "bugsaway damselfly jacket - women's",
+        "Price": "$82.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/5c247463-fa8d-4229-9ffd-ff708272b7c5.jpg"
+    },
+    {
+        "Name": "skysail jacket - women's",
+        "Price": "$128.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/3528dcff-8ead-4f50-9e0d-36af0fc5c709.jpg"
+    },
+    {
+        "Name": "luxe+ fleece-lined zip hoodie - women's",
+        "Price": "$48.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/98b64a27-09fc-446f-a02c-70dec0030848.jpg"
+    },
+    {
+        "Name": "diamond quilted bomber insulated hoodie - women's",
+        "Price": " $138.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/691654af-8ad7-4385-80a2-337466dc4cfe.jpg"
+    },
+    {
+        "Name": "klash trench jacket - women's",
+        "Price": "$125.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/5977e9d1-3d87-43fc-a79a-243f139a8a64.jpg"
+    },
+    {
+        "Name": "better sweater jacket - women's",
+        "Price": "$89.73",
+        "Savings": "save 43%",
+        "Image": "https://www.rei.com/media/9b8c97e2-e918-42e2-b1b9-ab6b2c5309f4.jpg"
+    },
+    {
+        "Name": "eskape jacket - women's",
+        "Price": "$74.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/55e46afe-a87d-48b3-8011-763665450546.jpg"
+    },
+    {
+        "Name": "hudson trail fleece full-zip jacket - women's",
+        "Price": "$111.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/7c0ac63c-4ddc-4cc7-b6e3-d18a81706d39.jpg"
+    },
+    {
+        "Name": "microdini hoodie - women's",
+        "Price": "$73.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/3c848442-bff5-4443-ad24-6a38d1a6718e.jpg"
+    },
+    {
+        "Name": "nano puff jacket - women's",
+        "Price": " $166.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/7c8180df-63be-44ca-92ad-bbc991bf7b44.jpg"
+    },
+    {
+        "Name": "hudson trail fleece anorak - women's",
+        "Price": "$96.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/cd74f790-a860-49cb-b11e-bb85a2c6dcc0.jpg"
+    },
+    {
+        "Name": "high coast wind jacket - women's",
+        "Price": "$129.49",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/7a46ac1b-6e23-4724-ae10-67af334deb26.jpg"
+    },
+    {
+        "Name": "radalie insulated parka - women's",
+        "Price": " $198.99",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/0608aff0-772b-4579-b012-f961ff482f9b.jpg"
+    },
+    {
+        "Name": "arctic down parka - women's",
+        "Price": "$174.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/ed9b63ce-9e16-41f1-aba9-6f006de1d734.jpg"
+    },
+    {
+        "Name": "kando half-zip jacket - women's",
+        "Price": "$42.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/736f4af6-58f2-462c-a21d-d2628e3f58ca.jpg"
+    },
+    {
+        "Name": "merinoloft collingwood ii 3q hooded insulated jacket - women's",
+        "Price": "$294.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/92053d1e-6641-4044-995e-c03acf5bd3b4.jpg"
+    },
+    {
+        "Name": "1992 ripstop nuptse down jacket - women's",
+        "Price": "$245.93",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/7b539423-bfae-4a9f-8dd3-b20af9b16291.jpg"
+    },
+    {
+        "Name": "better sweater fleece jacket - women's",
+        "Price": " $110.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/ecf2eeee-635c-4022-8885-af7ff53dd86c.jpg"
+    },
+    {
+        "Name": "coldfront down jacket - women's",
+        "Price": "$113.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/96e8d19b-c2a2-4440-aa91-8ff15cd1ee76.jpg"
+    },
+    {
+        "Name": "spyfire down parka - women's",
+        "Price": "$163.83 - $196.83",
+        "Savings": "save 40% - 50%",
+        "Image": "https://www.rei.com/media/91e9add7-f3e0-4ede-8d74-4c6234ad88ef.jpg"
+    },
+    {
+        "Name": "fall in insulated parka - women's",
+        "Price": "$349.83 - $349.93",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/3cd1e1bd-d339-41ee-8f11-05c699bb4330.jpg"
+    },
+    {
+        "Name": "hillside down jacket - women's",
+        "Price": "$159.83",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/2b3c5b39-8932-4b1c-9d52-4ff96d4d44e6.jpg"
+    },
+    {
+        "Name": "ascendyr fleece hoodie - women's",
+        "Price": "$63.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/08c92676-d536-40fd-b0e2-ce734c6612c3.jpg"
+    },
+    {
+        "Name": "subalpine fleece jacket - women's",
+        "Price": "$93.93",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/79c6e062-cea8-4dbf-99e7-4b54c667d208.jpg"
+    },
+    {
+        "Name": "campshire full-zip fleece jacket - women's",
+        "Price": "$66.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/7cc9a81f-c71c-479d-abb9-24360138438f.jpg"
+    },
+    {
+        "Name": "rye insulated jacket - women's",
+        "Price": "$71.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/1a213ecb-e591-4462-8f42-34159b2e5413.jpg"
+    },
+    {
+        "Name": "flight jacket - women's",
+        "Price": "$112.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/0274d2e7-10a6-48b3-9677-278d9a32ac5c.jpg"
+    },
+    {
+        "Name": "stina jacket - women's",
+        "Price": " $139.99",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/bd467ab4-933a-48a0-bf28-898fcbbb293b.jpg"
+    },
+    {
+        "Name": "shadow reversible insulated parka - women's",
+        "Price": "$98.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/eddc75e2-efe0-4f3d-ae7a-20146144ca05.jpg"
+    },
+    {
+        "Name": "lunar dusk jacket - women's",
+        "Price": "$70.73",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/f27ccd24-c76a-4034-ab23-5319787cd71e.jpg"
+    },
+    {
+        "Name": "essence mid-length raincoat - women's",
+        "Price": "$149.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/20cb48d3-83b5-43a9-8491-9f90b4dcdd14.jpg"
+    },
+    {
+        "Name": "fuego down parka - women's",
+        "Price": "$161.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/f916886a-08a8-4e82-be46-fee118c0b810.jpg"
+    },
+    {
+        "Name": "aspire ii trench jacket - women's",
+        "Price": "$173.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9c3aba6e-b281-4652-93bb-9aa4b3e35081.jpg"
+    },
+    {
+        "Name": "hudson trail fleece full-zip jacket - women's",
+        "Price": "$41.73",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/fdfd0c83-58fe-4d82-a5ee-5a5bb8142f5e.jpg"
+    },
+    {
+        "Name": "nano puff insulated parka - women's",
+        "Price": "$148.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/365552e5-db34-44db-8340-65c4031b83ac.jpg"
+    },
+    {
+        "Name": "radalie insulated parka - women's",
+        "Price": "$123.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/e6219a27-ee3a-4dd7-ac98-84eccc7d932b.jpg"
+    },
+    {
+        "Name": "x20 waterproof rain jacket - women's",
+        "Price": "$62.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/11dcfca7-0918-414a-b77a-2821e4b2a6d6.jpg"
+    },
+    {
+        "Name": "fuego hooded down jacket - women's",
+        "Price": " $87.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/c6f50631-cfcf-4963-b4c9-d839310341c3.jpg"
+    },
+    {
+        "Name": "cotton down parka - women's",
+        "Price": "$173.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/53bac0b5-7763-4285-8db9-e8e772a9f349.jpg"
+    },
+    {
+        "Name": "suttle mountain long insulated jacket - women's",
+        "Price": "$159.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/7d19de2f-080e-4889-ae34-c63a8de88ea4.jpg"
+    },
+    {
+        "Name": "payton pass insulated jacket - women's",
+        "Price": "$142.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/ffd64d33-c469-4c3c-9025-8b3d9a1f02c7.jpg"
+    },
+    {
+        "Name": "mountain croo ii mid down jacket - women's",
+        "Price": "$186.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/6a34c138-1d3b-4196-8a9e-1b5e5f3c8293.jpg"
+    },
+    {
+        "Name": "katie down jacket - women's",
+        "Price": "$269.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/b7d9018d-fd36-44bf-b95b-089bb43f33ec.jpg"
+    },
+    {
+        "Name": "faith down jacket - women's",
+        "Price": "$248.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/4aa4030e-045c-4ee3-b5cf-51b3cc7e503b.jpg"
+    },
+    {
+        "Name": "arctic down parka - women's",
+        "Price": "$244.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/f2393701-770e-4f5a-bc8d-b60f437250e6.jpg"
+    },
+    {
+        "Name": "novelty arctic down parka - women's",
+        "Price": "$299.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/94c73633-2679-4149-b3b4-35aaa9f81aa5.jpg"
+    },
+    {
+        "Name": "prima flight fleece hoodie - women's",
+        "Price": "$120.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/b6d35efb-aff6-460f-b146-122a3f993e15.jpg"
+    },
+    {
+        "Name": "judy insulated jacket - women's",
+        "Price": "$134.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/dd158087-f65d-4b86-ab06-db47b873d2bb.jpg"
+    },
+    {
+        "Name": "wiley polartec fleece jacket - women's",
+        "Price": "$131.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/9f2f1098-d570-455f-a865-bafe440354f6.jpg"
+    },
+    {
+        "Name": "strollbridge down coat - women's",
+        "Price": "$187.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/3980c4d0-94d5-4694-b8c3-cb9f65d3c3a3.jpg"
+    },
+    {
+        "Name": "rocklin full-zip jacket - women's",
+        "Price": "$56.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/51b8cbe5-9c84-4e30-8f04-ae3220d0dc91.jpg"
+    },
+    {
+        "Name": "west bend fleece shirt jacket - women's",
+        "Price": "$48.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/550167dc-5e35-4c40-9d46-89259a7e10f3.jpg"
+    },
+    {
+        "Name": "pike lake ii insulated long jacket - women's",
+        "Price": "$99.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/c20dbc6a-0c9a-4542-9acc-059f15fdf7d7.jpg"
+    },
+    {
+        "Name": "explore fleece jacket - women's",
+        "Price": "$81.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/a9bb0d96-bf95-41fb-9e32-e50313e63c30.jpg"
+    },
+    {
+        "Name": "subalpine fleece jacket - women's",
+        "Price": "$93.93",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/66f58741-08e4-4b56-a877-b78396350c62.jpg"
+    },
+    {
+        "Name": "ukon fleece-lined hoodie - women's",
+        "Price": "$223.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/8064a9b5-a370-47b8-9865-68ae797bca75.jpg"
+    },
+    {
+        "Name": "lost canyon insulated jacket - women's",
+        "Price": "$98.93",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/f69b1775-cfe5-42a3-a9b1-658490f2ffe5.jpg"
+    },
+    {
+        "Name": "piper insulated jacket - women's",
+        "Price": "$88.73",
+        "Savings": "save 59%",
+        "Image": "https://www.rei.com/media/1a74a7bc-1bd3-4e2d-aa47-38a0995b15e2.jpg"
+    },
+    {
+        "Name": "melody insulated hoodie - women's",
+        "Price": "$89.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/6f9ed0f3-b1f5-444f-8b7a-158e31330e59.jpg"
+    },
+    {
+        "Name": "merino oak jacket - women's",
+        "Price": "$299.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/bc7291e6-8ca6-4051-bb95-1d2a948b8052.jpg"
+    },
+    {
+        "Name": "cascade soft-shell jacket - women's",
+        "Price": "$101.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/08e31ffc-99f0-4ea5-ba81-1fa9ab9b3d12.jpg"
+    },
+    {
+        "Name": "sherpa fleece jacket - women's",
+        "Price": "$83.93",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/4e6f7797-ad3d-48f4-b458-0a05f6e2fe44.jpg"
+    },
+    {
+        "Name": "fall in insulated jacket - women's",
+        "Price": "$324.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/e6326803-2032-45a2-892c-c1d2446c20d0.jpg"
+    },
+    {
+        "Name": "insect shield lucca jacket - women's",
+        "Price": "$59.73 - $65.73",
+        "Savings": "save 60% - 63%",
+        "Image": "https://www.rei.com/media/b46d3ebe-5595-4927-8363-bb885214c1f4.jpg"
+    },
+    {
+        "Name": "shell jacket - women's",
+        "Price": "$88.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/7d93ed87-6688-4035-8e57-008ce8c85fab.jpg"
+    },
+    {
+        "Name": "montreal down coat - women's",
+        "Price": "$224.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/57deea27-c8c5-42a4-aadb-07a1885e610d.jpg"
+    },
+    {
+        "Name": "coldfront down hoodie - women's",
+        "Price": "$138.93",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/4d203e8b-dabb-41b9-96cd-26fcbcc543b4.jpg"
+    },
+    {
+        "Name": "shelbe raschel hoodie - women's",
+        "Price": " $104.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/e3c038a7-3a4b-4de2-b091-77c8666a6d09.jpg"
+    },
+    {
+        "Name": "trailsmith fleece jacket - women's plus sizes",
+        "Price": "$26.83",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/029dc008-a747-47dd-a142-2c3968f1132c.jpg"
+    },
+    {
+        "Name": "heavenly long hooded jacket - women's plus sizes",
+        "Price": "$79.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/267302de-237b-44cf-9360-0fb43aeac3c3.jpg"
+    },
+    {
+        "Name": "fuego down jacket - women's",
+        "Price": "$134.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/353f8ee6-667c-41d0-9378-6694aa218b6b.jpg"
+    },
+    {
+        "Name": "teca calido hooded insulated jacket - women's",
+        "Price": "$89.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/0961ec1b-39fa-4f88-9443-52d3f8ad57c5.jpg"
+    },
+    {
+        "Name": "dusty mesa parka - women's",
+        "Price": "$113.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/f3dfd038-acb4-4fee-9d0f-136be7ccfa26.jpg"
+    },
+    {
+        "Name": "delta ridge hooded down jacket - women's",
+        "Price": "$119.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/a0be1738-dced-48b6-b63a-45ec2b0cc2a5.jpg"
+    },
+    {
+        "Name": "fedoz down hooded parka - women's",
+        "Price": "$246.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/9ac41df0-f7fa-4b4a-935d-4a1cf68c11db.jpg"
+    },
+    {
+        "Name": "one parka - women's",
+        "Price": " $224.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/5cf8170c-0036-4158-9984-a4242637b2db.jpg"
+    },
+    {
+        "Name": "precip eco jacket - women's",
+        "Price": "$68.73",
+        "Savings": "save 42%",
+        "Image": "https://www.rei.com/media/2f85aab7-c98b-4e11-adcf-01decf9d3270.jpg"
+    },
+    {
+        "Name": "classic retro-x fleece jacket - women's",
+        "Price": "$113.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/8732dd5b-10b4-4f36-afee-bd1700e15c1f.jpg"
+    },
+    {
+        "Name": "reversible los gatos cambria jacket - women's",
+        "Price": "$132.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/dd72e8d2-6359-41c4-b405-167ed55f88f5.jpg"
+    },
+    {
+        "Name": "hooded mono material insulated jacket - women's",
+        "Price": "$171.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/c04ccb50-55a0-410a-b662-b9223c62b0c6.jpg"
+    },
+    {
+        "Name": "hudson trail fleece jacket - women's",
+        "Price": "$114.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/b04568ba-42da-4a42-815e-65d1e996dd54.jpg"
+    },
+    {
+        "Name": "coze down coat - women's",
+        "Price": "$207.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/31ecb115-7a02-47af-9834-e2619f20c62f.jpg"
+    },
+    {
+        "Name": "osito fleece jacket - women's",
+        "Price": "$70.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/cbd0dc1d-50f5-4d6e-845b-b97196cb8434.jpg"
+    },
+    {
+        "Name": "emergence hoodie - women's",
+        "Price": "$104.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/502fca8e-395b-4bd3-affc-30c16ec767b7.jpg"
+    },
+    {
+        "Name": "chloe synth down insulated jacket - women's",
+        "Price": "$339.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/f7139c71-6734-46f7-adc4-5b44dd18a6e5.jpg"
+    },
+    {
+        "Name": "lake 22 down long hooded jacket - women's",
+        "Price": "$139.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/03211496-55d8-4405-9526-1c169e3a98e2.jpg"
+    },
+    {
+        "Name": "microlayer 2.0 hs hooded jacket - women's",
+        "Price": "$119.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/e301e459-a5b1-49ab-884a-0b38cf888848.jpg"
+    },
+    {
+        "Name": "stretchdown high-hip down jacket - women's",
+        "Price": "$239.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/402ab2e0-cc5f-4834-8258-7a3bd4375a5a.jpg"
+    },
+    {
+        "Name": "echo featherless long insulated jacket - women's",
+        "Price": "$174.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/72327eef-bc43-4360-9cc5-180b2b6bea8c.jpg"
+    },
+    {
+        "Name": "whistler anorak - women's",
+        "Price": "$63.73",
+        "Savings": "save 42%",
+        "Image": "https://www.rei.com/media/a6befed1-7c94-40a8-a444-d0ae72fbe05c.jpg"
+    },
+    {
+        "Name": "freecycle long puffer insulated jacket - women's",
+        "Price": "$89.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/190d49e9-2943-43d3-b3ac-2b379ad6bbe9.jpg"
+    },
+    {
+        "Name": "downdrift down jacket - women's",
+        "Price": "$163.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/3d0b90a5-801c-441a-8320-a4f62fc3bb9c.jpg"
+    },
+    {
+        "Name": "ember springs long down jacket - women's",
+        "Price": "$195.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9fab938f-be5d-4950-b534-9e4a267c0367.jpg"
+    },
+    {
+        "Name": "juneau fleece hoodie - women's",
+        "Price": "$87.73",
+        "Savings": "save 41%",
+        "Image": "https://www.rei.com/media/f16f5241-3831-4271-9c1c-40e0b92949e3.jpg"
+    },
+    {
+        "Name": "puffect mid hooded jacket - women's",
+        "Price": "$139.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/50d0b2bd-f3bb-4cf4-be5b-5cb4beecf916.jpg"
+    },
+    {
+        "Name": "moonwalk insulated jacket - women's",
+        "Price": "$184.73",
+        "Savings": "save 42%",
+        "Image": "https://www.rei.com/media/5e75d746-9bdc-4b98-b823-bcaf734ec4a8.jpg"
+    },
+    {
+        "Name": "sierra butter pile jacket - women's",
+        "Price": "$62.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/7d8431de-eb7e-4b7a-b541-3f8f607cac04.jpg"
+    },
+    {
+        "Name": "outline primaloft insulated hooded jacket - women's",
+        "Price": "$160.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/addaedba-31a8-491d-bcdb-44e5e0b404b3.jpg"
+    },
+    {
+        "Name": "'78 all-weather parka - women's",
+        "Price": "$168.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d5e0914f-5b4d-468f-b30a-73ec23e00375.jpg"
+    },
+    {
+        "Name": "stitch-free reversible insulated jacket - women's",
+        "Price": "$67.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/4d0a7dfb-18fc-428e-9022-8fbcb83d912a.jpg"
+    },
+    {
+        "Name": "celeste lined hoodie - women's",
+        "Price": "$99.73",
+        "Savings": "save 47%",
+        "Image": "https://www.rei.com/media/12c7deda-dfac-4e00-8f69-1ec9592d8172.jpg"
+    },
+    {
+        "Name": "mountain fleece jacket - women's",
+        "Price": "$62.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/459fe38c-46a5-49ea-bffe-d2fcdfa4ef4d.jpg"
+    },
+    {
+        "Name": "coldfront down jacket - women's",
+        "Price": "$154.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/8d37fe6a-010c-4468-9d98-abc44e3e7da6.jpg"
+    },
+    {
+        "Name": "oldina down parka - women's",
+        "Price": "$244.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c1213843-b5a2-4703-9a23-a7b23a1f8c8c.jpg"
+    },
+    {
+        "Name": "puffect insulated jacket - women's",
+        "Price": "$115.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/30738286-8359-4e17-a5c0-dd1289351b5a.jpg"
+    },
+    {
+        "Name": "iselin jacket - women's",
+        "Price": "$97.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/ec1c543f-af07-44c6-8834-9d8a5bc06f52.jpg"
+    },
+    {
+        "Name": "weekender insulated jacket - women's",
+        "Price": "$183.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/502413d5-3cf4-4a12-a999-1d2e94f795f1.jpg"
+    },
+    {
+        "Name": "thermo super soft-shell insulated anorak - women's",
+        "Price": "$76.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/3032547d-1cd6-4082-b431-a2dd6dad86e5.jpg"
+    },
+    {
+        "Name": "seven j plus rain jacket - women's plus sizes",
+        "Price": "$74.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ab09ea1c-51b0-4b3e-8f8a-787df1f131ea.jpg"
+    },
+    {
+        "Name": "rothe fleece jacket - women's",
+        "Price": "$74.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/684bc096-c284-4481-be05-275ac4a10d69.jpg"
+    },
+    {
+        "Name": "thermo super soft-shell jacket - women's",
+        "Price": "$72.73",
+        "Savings": "save 39%",
+        "Image": "https://www.rei.com/media/81606923-08a9-4da4-9d8e-ba662c6ae38a.jpg"
+    },
+    {
+        "Name": "ariadne fleece jacket - women's",
+        "Price": "$69.73",
+        "Savings": "save 53%",
+        "Image": "https://www.rei.com/media/2a7a0b07-7fed-451f-82d8-f3ed389170de.jpg"
+    },
+    {
+        "Name": "micro puff rib zippy jacket - women's",
+        "Price": "$55.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/24270aa5-4ed7-4f0a-a1c4-27db7c202b8f.jpg"
+    },
+    {
+        "Name": "arctic series insulated jacket - women's",
+        "Price": "$82.73 - $86.73",
+        "Savings": "save 30% - 33%",
+        "Image": "https://www.rei.com/media/0d4198dc-7a9a-40f4-b6da-6c1b256a04ba.jpg"
+    },
+    {
+        "Name": "cielo rain jacket - women's",
+        "Price": " $71.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/bc6bff96-62a7-4508-b1c3-3866e181e8f4.jpg"
+    },
+    {
+        "Name": "down with it parka - women's",
+        "Price": " $173.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/2540f53d-362d-41a9-80a4-1f8301875dd4.jpg"
+    },
+    {
+        "Name": "downdrift parka - women's",
+        "Price": " $198.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/a03f5325-2aad-4eb1-8e87-688fbf15d73d.jpg"
+    },
+    {
+        "Name": "kiruna padded insulated parka - women's",
+        "Price": " $174.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/84444f31-0637-40b5-bc7a-ba901e05cb3a.jpg"
+    },
+    {
+        "Name": "outdoor everyday rain jacket - women's",
+        "Price": " $173.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/62f130ef-feba-4d3b-a5ac-1c761ef411b0.jpg"
+    },
+    {
+        "Name": "patera down parka - women's",
+        "Price": " $399.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/3fca6737-ffb8-4e3f-af34-c0d49c322df4.jpg"
+    },
+    {
+        "Name": "radalie insulated jacket - women's",
+        "Price": " $138.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/916b687b-9640-40ed-956a-51c680ea02dc.jpg"
+    },
+    {
+        "Name": "1996 retro nuptse down jacket - women's",
+        "Price": " $164.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/fa917803-0a6a-49a8-8480-645a81d66f1f.jpg"
+    },
+    {
+        "Name": "rothe fleece jacket - women's",
+        "Price": " $49.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/51924fc8-0ed3-414a-95f2-ffb8662739b2.jpg"
+    },
+    {
+        "Name": "abrazo hooded full-zip fleece jacket - women's",
+        "Price": " $74.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/138405eb-134e-42c6-854f-e3aebe008038.jpg"
+    }
+]

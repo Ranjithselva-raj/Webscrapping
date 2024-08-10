@@ -2,11 +2,13 @@
     {
         "Name": "defender bike lock",
         "Price": "$54.73",
+        "Savings": "save 31%",
         "Image": "https://www.rei.com/media/5f52c3cc-7163-40ae-baca-a00ad9a0ed0e.jpg"
     },
     {
         "Name": "defender xl bike lock",
         "Price": "$64.73",
+        "Savings": "save 28%",
         "Image": "https://www.rei.com/media/bde38c6c-6a7e-4055-80f1-9c6945a0f4dd.jpg"
     }
 ]

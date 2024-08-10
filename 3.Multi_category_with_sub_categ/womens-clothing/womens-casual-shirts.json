@@ -1,0 +1,818 @@
+[
+    {
+        "Name": "dylan tank top - women's",
+        "Price": "$39.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/94d733c8-20d2-484b-b936-5d215e2bd10b.jpg"
+    },
+    {
+        "Name": "cozy up long-sleeve t-shirt - women's",
+        "Price": "$42.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/0a7b6450-21f1-4a71-84c0-4e2f62bf3ded.jpg"
+    },
+    {
+        "Name": "cozy up t-shirt - women's",
+        "Price": "$34.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/489ed84f-2f27-449b-911d-84dcfb50d8b7.jpg"
+    },
+    {
+        "Name": "dylan gauze shirt - women's",
+        "Price": "$29.83 - $43.93",
+        "Savings": "save 31% - 53%",
+        "Image": "https://www.rei.com/media/8f1144d6-6d15-41f8-b6de-4d8941eb7285.jpg"
+    },
+    {
+        "Name": "stine top - women's",
+        "Price": "$27.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/576c3e5f-8cd2-4922-b66b-89980c59d46f.jpg"
+    },
+    {
+        "Name": "leave no trace t-shirt",
+        "Price": "$24.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/72fa9b70-462b-452e-bcf2-a40993a8deeb.jpg"
+    },
+    {
+        "Name": "vacationer shirt - women's",
+        "Price": "$41.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/26a192df-bcb2-4df9-946c-1fb26152215b.jpg"
+    },
+    {
+        "Name": "reagan top - women's",
+        "Price": "$43.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/85fa6acc-4b5b-41d4-829b-f045838029d1.jpg"
+    },
+    {
+        "Name": "tencel cotton t-shirt - women's",
+        "Price": "$36.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/b677bdf9-6b73-4011-8beb-ac849cc04e10.jpg"
+    },
+    {
+        "Name": "granite swift organic t-shirt - women's",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/41f77f1b-f295-4f1e-9ea0-4daa2e6f45d1.jpg"
+    },
+    {
+        "Name": "vacationer stripe long-sleeve t-shirt - women's",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/47a93577-250d-4131-b887-3e248758be3f.jpg"
+    },
+    {
+        "Name": "everyday vw graphic tank top - women's",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/ca812aa8-6791-4158-94fc-8f195278c4ac.jpg"
+    },
+    {
+        "Name": "kamila stripe shirt - women's",
+        "Price": "$54.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/f779adbf-9cf1-44c5-9c34-8af004cf2317.jpg"
+    },
+    {
+        "Name": "piru mockneck long-sleeve t-shirt - women's",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/cfcff148-4532-4e0c-92d4-66b0d92468d2.jpg"
+    },
+    {
+        "Name": "smokey among friends t-shirt",
+        "Price": "$25.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/1e16b66a-a83e-42ef-a67d-0d107081595d.jpg"
+    },
+    {
+        "Name": "wallace lake flannel shirt - women's",
+        "Price": " $21.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/c2768d3e-a5ef-45b2-b59d-a6ec5ac8577c.jpg"
+    },
+    {
+        "Name": "camp cove shirt - women's",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/6029a232-7742-45d3-9a9d-f9c9925c292d.jpg"
+    },
+    {
+        "Name": "katya top - women's",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/6848d219-d05a-4bbf-940f-5dab60f1e112.jpg"
+    },
+    {
+        "Name": "feel the earth breathe globe t-shirt",
+        "Price": "$27.93",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/f83607db-053e-499d-b80b-7e072ac5a55e.jpg"
+    },
+    {
+        "Name": "calico basin long-sleeve shirt - women's",
+        "Price": "$24.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/3251c0c5-ebcb-43b3-bf47-ab2e31f619da.jpg"
+    },
+    {
+        "Name": "katya long-sleeve top - women's",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/bded310c-9e10-4f16-b363-38abf2e3f760.jpg"
+    },
+    {
+        "Name": "sopra seamless crop top - women's",
+        "Price": "$29.73",
+        "Savings": "save 56%",
+        "Image": "https://www.rei.com/media/c887c680-4f77-4de4-9244-7fc30fc8a7f5.jpg"
+    },
+    {
+        "Name": "davinia triblend jersey tank top - women's",
+        "Price": "$29.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/a6c8bd98-d409-4357-b0b8-d918d70473f8.jpg"
+    },
+    {
+        "Name": "isla tank top - women's",
+        "Price": "$33.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/effb884e-39ed-43c9-9ea1-242fe34def18.jpg"
+    },
+    {
+        "Name": "multi-way knit tank top - women's",
+        "Price": "$44.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/07a457a6-8da2-44b6-849d-e74ed6b8eab8.jpg"
+    },
+    {
+        "Name": "oasis shirt - women's",
+        "Price": "$65.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/bd46a545-cef2-4588-ac49-cac7680eda6d.jpg"
+    },
+    {
+        "Name": "foundation peek-a-boo top - women's",
+        "Price": "$44.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/892ad070-d2f4-46db-b8ca-17d876f4b476.jpg"
+    },
+    {
+        "Name": "trail harbor t-shirt - women's",
+        "Price": "$21.73",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/2379e82c-5ba8-48c0-b3b0-40c475134d26.jpg"
+    },
+    {
+        "Name": "railay pullover - women's",
+        "Price": " $43.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/140aa0af-9304-4887-bb9b-ccd90f3b01b2.jpg"
+    },
+    {
+        "Name": "national parks fill in t-shirt",
+        "Price": " $27.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/41bdd0e7-7df3-422c-8f94-e3580df8c3b3.jpg"
+    },
+    {
+        "Name": "national parks usa grizzly t-shirt",
+        "Price": "$27.93",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/ffe5dcc6-f862-48cd-bcfd-14443028c955.jpg"
+    },
+    {
+        "Name": "national parks sunrise pocket t-shirt",
+        "Price": "$29.93",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/dbd7f244-9783-4c35-a0d1-b602fea01423.jpg"
+    },
+    {
+        "Name": "life well lived graphic t-shirt",
+        "Price": "$23.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/a3ed99c4-9bbf-422a-9747-f87473b2580a.jpg"
+    },
+    {
+        "Name": "trail supplies graphic t-shirt",
+        "Price": "$23.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/d2741bbf-17fd-4000-9cc1-c7d06b576a32.jpg"
+    },
+    {
+        "Name": "nature in mind pocket t-shirt",
+        "Price": "$29.93",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/fe55d644-82c5-4eb7-9900-0858d696a9ed.jpg"
+    },
+    {
+        "Name": "cta ringer responsibili-tee shirt - women's",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/4031266c-626e-4526-bf80-f19050af49a6.jpg"
+    },
+    {
+        "Name": "heavyweight t-shirt - women's",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/4abf4133-ba7d-4d82-839a-733528f0710f.jpg"
+    },
+    {
+        "Name": "national parks for all t-shirt",
+        "Price": "$25.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/34f83b21-6f6f-44d2-8c21-f273a3de2c6e.jpg"
+    },
+    {
+        "Name": "evolution oversized t-shirt - women's",
+        "Price": "$23.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/45484a48-056d-4962-ab63-da32051c8bf0.jpg"
+    },
+    {
+        "Name": "may flannel shirt - women's",
+        "Price": "$104.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/08bf6663-5ef1-4597-8e70-49912b0495e8.jpg"
+    },
+    {
+        "Name": "x hike clerb evolution oversize t-shirt - women's",
+        "Price": "$23.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/b2e405c3-61a9-4ad3-a439-07e77e4ddb6c.jpg"
+    },
+    {
+        "Name": "ryan cargo shirt - women's",
+        "Price": "$63.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/7b359be9-0d69-46bd-886e-987036dd248c.jpg"
+    },
+    {
+        "Name": "out-of-doors-club t-shirt",
+        "Price": "$25.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/25fbd4ae-b728-4e1a-b1fb-ff6c46195cfe.jpg"
+    },
+    {
+        "Name": "out-of-doors-club t-shirt",
+        "Price": "$25.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/dba9755f-de83-4d00-926a-9a34c3b88cbf.jpg"
+    },
+    {
+        "Name": "feel the earth breathe globe tank top - women's",
+        "Price": "$22.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/4d748c13-8fc7-4053-95fd-fafc67d48e77.jpg"
+    },
+    {
+        "Name": "iguala top - women's",
+        "Price": "$54.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/5754b6ac-15f6-440d-85a7-fdda2721b4d8.jpg"
+    },
+    {
+        "Name": "yellowstone type t-shirt",
+        "Price": "$25.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/31de0f47-47e9-49ce-aba6-8e0cfd5b9c11.jpg"
+    },
+    {
+        "Name": "granite peak long-sleeve flannel shirt - women's",
+        "Price": "$64.73",
+        "Savings": "save 41%",
+        "Image": "https://www.rei.com/media/f829be62-4317-4f5d-8f24-e0770a9a6821.jpg"
+    },
+    {
+        "Name": "dolores flannel long-sleeve shirt - women's",
+        "Price": "$57.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/25c68d84-a752-49b3-9c1c-259e966a61ec.jpg"
+    },
+    {
+        "Name": "holly hideaway flannel shirt - women's",
+        "Price": "$39.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/50a503f6-e27a-4373-a878-f74b57587837.jpg"
+    },
+    {
+        "Name": "triblend scoop neck tank top - women's",
+        "Price": "$25.73",
+        "Savings": "save 41%",
+        "Image": "https://www.rei.com/media/9cc26bb2-2bb1-4057-8f8f-91ac1e09dca2.jpg"
+    },
+    {
+        "Name": "live.climb.repeat. tank top - women's",
+        "Price": "$12.73",
+        "Savings": "save 63%",
+        "Image": "https://www.rei.com/media/c201edbf-50aa-4dd3-82c9-970b18254daf.jpg"
+    },
+    {
+        "Name": "fairfax boyfriend midweight flannel shirt - women's",
+        "Price": "$54.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/58b17c3e-ccc5-4c3a-8074-01278ac498f6.jpg"
+    },
+    {
+        "Name": "thermotech flannel shirt - women's",
+        "Price": "$49.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/c5385055-0160-4ab1-8a77-3220222e57bb.jpg"
+    },
+    {
+        "Name": "heavyweight fjord flannel overshirt - women's",
+        "Price": "$93.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/e2ddcea6-5eb2-44ca-8922-23f4deb76a75.jpg"
+    },
+    {
+        "Name": "national parks puff print tank top - women's",
+        "Price": "$22.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/ce13ef8c-fc09-41e5-be31-7ee708b17fdc.jpg"
+    },
+    {
+        "Name": "lightweight a/c button-down shirt - women's",
+        "Price": "$68.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/0c264597-1519-4e03-a068-c5ef5856947e.jpg"
+    },
+    {
+        "Name": "feedback flannel shirt - women's",
+        "Price": "$56.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/1ebdcb79-a7f7-478b-a48d-a3c421d0ac74.jpg"
+    },
+    {
+        "Name": "lightweight a/c shirt - women's",
+        "Price": "$54.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e903bd95-595b-426c-8856-fcbda8633409.jpg"
+    },
+    {
+        "Name": "sunrise high-neck tank top - women's",
+        "Price": "$42.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/47277d7b-8488-4494-ad0b-24a7dd7a8c0b.jpg"
+    },
+    {
+        "Name": "bugsaway everyday knit shirt - women's",
+        "Price": "$48.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/7194dd52-1595-4a59-bceb-e569043c7673.jpg"
+    },
+    {
+        "Name": "63 national parks boxy long-sleeve shirt - women's",
+        "Price": "$32.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/1dd78848-5939-4056-b1a3-62a80e8667c0.jpg"
+    },
+    {
+        "Name": "bugaway everyday knit long-sleeve shirt - women's",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/039fb2a0-c139-4058-8c94-81fcf5edddde.jpg"
+    },
+    {
+        "Name": "fairfax midweight flannel shirt - women's",
+        "Price": "$22.73",
+        "Savings": "save 67%",
+        "Image": "https://www.rei.com/media/e123226f-785b-4d50-9fb7-dd9683b0ff06.jpg"
+    },
+    {
+        "Name": "eliza slub jersey cinched tank top - women's",
+        "Price": "$24.73",
+        "Savings": "save 48%",
+        "Image": "https://www.rei.com/media/19b7e82a-16a0-4270-9ffa-18d26f717c4c.jpg"
+    },
+    {
+        "Name": "national park stacked long-sleeve shirt",
+        "Price": "$23.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/7c7508c5-ea8a-44c0-bd5e-89ac05058e4b.jpg"
+    },
+    {
+        "Name": "cozy up sweet breeze top - women's",
+        "Price": "$49.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/ea0da795-3862-48bb-9b63-7903350dcc10.jpg"
+    },
+    {
+        "Name": "mirella tie strap slub tank top - women's",
+        "Price": "$32.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/b2aa9d7a-4d15-4628-8d93-98b971a037f4.jpg"
+    },
+    {
+        "Name": "konstance t-shirt - women's",
+        "Price": "$41.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/db03cc05-e026-473f-8b67-7f2163e8e35b.jpg"
+    },
+    {
+        "Name": "isla t-shirt - women's",
+        "Price": "$41.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/d134c7eb-e752-4c1d-a5f5-e42f1b51523e.jpg"
+    },
+    {
+        "Name": "elsie shirt - women's",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/1252b813-28cc-4f04-ad71-c9360d442d43.jpg"
+    },
+    {
+        "Name": "brisa shirt - women's",
+        "Price": "$41.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/fb0ef128-c6ab-4329-8be3-d270f1df954f.jpg"
+    },
+    {
+        "Name": "gibao t-shirt",
+        "Price": "$32.93",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/20034941-6bb4-4b27-a281-2a16a84124d1.jpg"
+    },
+    {
+        "Name": "switchbacks graphic t-shirt",
+        "Price": "$23.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/0d5ce3cd-664e-4463-b31c-39dd22ef2eb7.jpg"
+    },
+    {
+        "Name": "all day crewneck top - women's",
+        "Price": "$41.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/dea0034c-09e2-4cb4-9dc4-1c07e3d8d8e3.jpg"
+    },
+    {
+        "Name": "long-sleeve shirt",
+        "Price": "$32.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/d2503b81-9e7e-4c06-b2dd-176acfbecffa.jpg"
+    },
+    {
+        "Name": "heritage graphic t-shirt",
+        "Price": "$21.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/0bf55f41-5fd0-4a55-8bae-276a51c9c4c7.jpg"
+    },
+    {
+        "Name": "sunpeak waffle long-sleeve shirt - women's",
+        "Price": "$34.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/70a4c22e-9710-408d-95e1-5ca334700893.jpg"
+    },
+    {
+        "Name": "sweat tech rib tank top - women's",
+        "Price": "$21.73",
+        "Savings": "save 61%",
+        "Image": "https://www.rei.com/media/23b19560-0d61-41ac-9e21-e92daa36dd0a.jpg"
+    },
+    {
+        "Name": "downtown long-sleeve top - women's",
+        "Price": "$18.73",
+        "Savings": "save 71%",
+        "Image": "https://www.rei.com/media/42daa36d-3be3-4b86-8291-4b4ce3bd23f2.jpg"
+    },
+    {
+        "Name": "trailsmith trusty t-shirt - women's",
+        "Price": "$20.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9e910538-7e25-4cd2-9fe6-b5d352b11f99.jpg"
+    },
+    {
+        "Name": "garner top - women's",
+        "Price": "$21.73",
+        "Savings": "save 61%",
+        "Image": "https://www.rei.com/media/7bd39cfa-50fe-4e26-9173-3f1a5eb05bc9.jpg"
+    },
+    {
+        "Name": "long-sleeve midweight fjord flannel shirt - women's",
+        "Price": "$28.93",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/ff25b7d9-19b5-4619-adaa-5fa122c1ba75.jpg"
+    },
+    {
+        "Name": "rib crop tank top - women's",
+        "Price": "$31.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/e9ede9a1-a5ba-4c97-be0b-21f38367ed78.jpg"
+    },
+    {
+        "Name": "lea pullover - women's",
+        "Price": "$61.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c6f15aec-b8b3-4578-8413-6e7a09e0c836.jpg"
+    },
+    {
+        "Name": "farlands henley shirt - women's",
+        "Price": "$41.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/2f72fe36-fbad-4ece-a326-f7d450adbd40.jpg"
+    },
+    {
+        "Name": "foundation 365 v-neck top - women's",
+        "Price": "$36.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d261b864-3426-4d14-b021-475f56796310.jpg"
+    },
+    {
+        "Name": "coastal long-sleeve t-shirt - women's",
+        "Price": "$21.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/f649c9b6-8a90-4c24-89cb-a04fd23c6e65.jpg"
+    },
+    {
+        "Name": "side current t-shirt - women's",
+        "Price": "$28.73",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/1188cfec-1f65-496d-a1ad-0db66a0c799f.jpg"
+    },
+    {
+        "Name": "aslan pullover shirt - women's",
+        "Price": "$51.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/90cb5335-b504-4a25-a2d0-ddc8b8177633.jpg"
+    },
+    {
+        "Name": "frieda top - women's",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/1ebf4b1e-672f-435b-baa1-e8b062c58eee.jpg"
+    },
+    {
+        "Name": "floral tundra graphic long sleeve t-shirt - women's",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/c98264d3-0bf9-4b47-885f-c6df7ad671f5.jpg"
+    },
+    {
+        "Name": "meadow run flannel shirt - women's",
+        "Price": "$62.73",
+        "Savings": "save 42%",
+        "Image": "https://www.rei.com/media/1c7976fb-e848-4688-b6e0-3d8c54f26dbb.jpg"
+    },
+    {
+        "Name": "featherweight t-shirt - women's",
+        "Price": "$44.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/dbac610b-30ba-4a95-bd67-c9740c1608c3.jpg"
+    },
+    {
+        "Name": "b cool v-neck scallop hem top - women's",
+        "Price": "$32.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/df736259-352f-4c97-85d5-41d3aa0006f1.jpg"
+    },
+    {
+        "Name": "all over acadia t-shirt - women's",
+        "Price": "$36.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/e42a1da5-1be9-403b-a992-0de5aa2cdae6.jpg"
+    },
+    {
+        "Name": "fairfax novelty lightweight flannel shirt - women's",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/583bcb99-fee6-4d14-aba9-6c4ae921c7e9.jpg"
+    },
+    {
+        "Name": "dylan gauze tunic - women's",
+        "Price": "$46.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/08ca3026-fe64-4d58-ab77-15e4652ecfe2.jpg"
+    },
+    {
+        "Name": "vacationer tank top - women's",
+        "Price": "$43.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/13c8d0d5-13af-4bc0-a5f5-1acf4df97290.jpg"
+    },
+    {
+        "Name": "cozy up scoop neck t-shirt - women's",
+        "Price": "$34.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/e566d798-4938-4b39-9edb-c2f0fa9bb496.jpg"
+    },
+    {
+        "Name": "incline heavyweight flannel overshirt - women's",
+        "Price": "$75.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/5ee118dc-029f-4807-b7ce-bb44a86ba788.jpg"
+    },
+    {
+        "Name": "dylan gauze shirt - women's",
+        "Price": "$44.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/b1f08a7f-3819-4b4f-9315-b24c154d7a40.jpg"
+    },
+    {
+        "Name": "dylan textured tank top - women's",
+        "Price": "$39.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/69332eab-bdd2-4038-aa94-4ac53a953fda.jpg"
+    },
+    {
+        "Name": "re-form flannel long-sleeve shirt - women's",
+        "Price": "$49.73",
+        "Savings": "save 41%",
+        "Image": "https://www.rei.com/media/48877d66-7101-4fe3-8675-7416eb01dc26.jpg"
+    },
+    {
+        "Name": "kamila flannel shirt - women's",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/dffd3b31-86a7-43b9-a20c-d8a71bdbab7a.jpg"
+    },
+    {
+        "Name": "stryde hoodie - women's",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/a490681a-e873-4196-8138-4347bca2703f.jpg"
+    },
+    {
+        "Name": "bugsaway everyday knit tank top - women's",
+        "Price": "$39.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/6f8f5366-7955-406f-a742-cc238b0ce0c7.jpg"
+    },
+    {
+        "Name": "primo crew t-shirt - women's",
+        "Price": "$33.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/568d824e-1686-44ff-8401-753b3e55f741.jpg"
+    },
+    {
+        "Name": "explore nature's magic graphic long sleeve t-shirt - women's",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/db56010d-4688-49eb-b020-6c5c1c3a795c.jpg"
+    },
+    {
+        "Name": "tess flannel shirt - women's",
+        "Price": "$61.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/34cdc803-4c9f-49a0-97d9-bf6af15495fe.jpg"
+    },
+    {
+        "Name": "expedition pro tunic - women's",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2a8874c7-9eea-45c8-880e-b0c05c01e165.jpg"
+    },
+    {
+        "Name": "pride heavyweight t-shirt",
+        "Price": "$29.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/145490f4-c17b-4e2f-94e1-3b4c840047a5.jpg"
+    },
+    {
+        "Name": "desert view t-shirt - women's",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/a6135f39-3f06-4b91-bac3-f003f42eee1a.jpg"
+    },
+    {
+        "Name": "microtech chill b cool cami top - women's",
+        "Price": "$32.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/0f63653d-de6b-45cb-96de-96efe44c1dec.jpg"
+    },
+    {
+        "Name": "lieback flex tunic long-sleeve shirt - women's",
+        "Price": "$71.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/5d313e49-2166-416e-821d-5f7524dcded7.jpg"
+    },
+    {
+        "Name": "feedback light flannel shirt - women's",
+        "Price": "$41.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/42411faa-8885-4ddf-a81a-7c93c460ad5c.jpg"
+    },
+    {
+        "Name": "dream trekker flannel long-sleeve shirt - women's",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/8c623ffc-0f73-41b1-909a-c6c61b2d63a3.jpg"
+    },
+    {
+        "Name": "kulshan flannel shirt - women's",
+        "Price": "$56.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/5b4fad49-cb73-4289-be23-2d6e32afc605.jpg"
+    },
+    {
+        "Name": "do good t-shirt - women's",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/70c3cdc6-bd7f-44a1-b109-ff7768987f28.jpg"
+    },
+    {
+        "Name": "lokka flannel long-sleeve shirt - women's",
+        "Price": "$74.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/be1dc4fe-9502-42c6-9fb1-6de8d8e641b9.jpg"
+    },
+    {
+        "Name": "foundation rib tank top - women's",
+        "Price": "$32.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/6c2de852-ec4b-430b-b011-e07281978a81.jpg"
+    },
+    {
+        "Name": "kamp long-sleeve shirt - women's",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/e9876573-aa5b-4a5b-a642-c341a0a16d22.jpg"
+    },
+    {
+        "Name": "feedback flannel shirt - women's",
+        "Price": "$59.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/f2826000-3016-40ab-83f1-b50862764af4.jpg"
+    },
+    {
+        "Name": "cloud lite crew-neck long-sleeve top - women's",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/1f08dde0-56b9-447b-8371-31549f2d95e7.jpg"
+    },
+    {
+        "Name": "cozy up t-shirt - women's plus sizes",
+        "Price": "$36.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/b11dfb11-1344-4692-847a-ef95ef970224.jpg"
+    },
+    {
+        "Name": "corrine top - women's",
+        "Price": "$43.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/49401a35-e4f0-4f80-87c6-36358e18cd39.jpg"
+    },
+    {
+        "Name": "feedback flannel twill shirt - women's",
+        "Price": "$63.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/7f1310a6-d631-4313-8178-2b5428159dae.jpg"
+    },
+    {
+        "Name": "dirt shirt - women's",
+        "Price": " $75.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/268aad7e-866b-4b7f-bfd3-3778f117f664.jpg"
+    },
+    {
+        "Name": "p-6 logo responsibili-tee shirt - women's",
+        "Price": " $30.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/f93773ca-f371-4bae-8776-8a445bfce946.jpg"
+    },
+    {
+        "Name": "p-6 logo responsibili-tee long-sleeve t-shirt - women's",
+        "Price": " $37.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/80e41397-f8f6-4268-89f6-fa22bc8200af.jpg"
+    },
+    {
+        "Name": "73 skyline easy cut responsibili-tee shirt - women's",
+        "Price": " $30.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/3ebf4ac7-813f-43a5-ba45-b7bd6863173e.jpg"
+    },
+    {
+        "Name": "lake sunshirt - women's",
+        "Price": " $46.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/ab3a9af4-da25-475c-a08f-7864fc049840.jpg"
+    },
+    {
+        "Name": "rei logo t-shirt",
+        "Price": " $23.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/f879f8f7-88a7-4519-ade1-756809432a50.jpg"
+    },
+    {
+        "Name": "outside life graphic t-shirt",
+        "Price": " $23.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/add13509-715a-48f6-aeee-fd3bba213d71.jpg"
+    },
+    {
+        "Name": "national parks boxy fill in t-shirt - women's",
+        "Price": " $25.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/18f08f85-6660-484c-a21a-4e0d4832902a.jpg"
+    },
+    {
+        "Name": "1938 graphic t-shirt",
+        "Price": "$9.83",
+        "Savings": "save 71%",
+        "Image": "https://www.rei.com/media/add11a0f-a496-4bc2-bf83-91adf36eb9a2.jpg"
+    }
+]

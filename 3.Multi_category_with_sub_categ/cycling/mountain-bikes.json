@@ -1,57 +1,62 @@
 [
     {
-        "Name": "avalanche sport mountain bike - 2021",
-        "Price": "$551.73",
-        "Image": "https://www.rei.com/media/b55c8619-0591-466a-a161-4079d5c9760b.jpg"
-    },
-    {
         "Name": "drt 3.1 mountain bike",
         "Price": "$2,078.93",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/aec648b4-74e4-4c63-9936-d9e35279e31b.jpg"
     },
     {
         "Name": "yowie carbon mountain bike",
         "Price": "$3,799.93",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/ec9dfd97-6889-4db0-b35b-e142c5ef3d18.jpg"
     },
     {
         "Name": "habit lt 2 mountain bike",
         "Price": " $2899.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/51b68430-d94b-48b6-9b8a-2c29b0c6d330.jpg"
     },
     {
         "Name": "beargrease 2.5 cues 11 fat-tire bike",
         "Price": "$1,998.93",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/9a07e653-f104-4c7a-ad4e-5936ef73f7a2.jpg"
     },
     {
         "Name": "drt 3.3 mountain bike",
         "Price": "$2,718.93",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/db152d0e-9400-47e0-92ff-8fadb56c72b0.jpg"
     },
     {
         "Name": "drt 4.1 fat-tire mountain bike",
         "Price": "$1,198.93",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/52df50fa-704f-43aa-acdf-0d5aa58741e3.jpg"
     },
     {
         "Name": "yowie 1 mountain bike",
         "Price": "$2,479.93",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/75f47fc7-8f8a-400c-b1d7-0dd36f577aa6.jpg"
     },
     {
         "Name": "yowie 2 mountain bike",
         "Price": "$2,999.93",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/8be45794-aaf3-4911-944a-272976bec843.jpg"
     },
     {
         "Name": "moterra 4 electric mountain bike",
         "Price": "$3,199.73",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/cd139c9d-7a13-4fac-806b-999827bfeea6.jpg"
     },
     {
         "Name": "moterra s4 electric mountain bike",
         "Price": "$2,799.99",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/b67cb5bc-a177-42bc-9d41-2fa6eb881d07.jpg"
     }
 ]

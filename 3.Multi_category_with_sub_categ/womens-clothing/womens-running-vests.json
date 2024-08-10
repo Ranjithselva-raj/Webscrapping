@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "mayen insulated vest - women's",
+        "Price": "$104.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/f9640d5b-fd48-4a03-a9bf-81363fd3d8ad.jpg"
+    },
+    {
+        "Name": "shield hybrid vest 2.0 - women's",
+        "Price": "$79.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/524a1853-e9b0-44cd-98e4-30441187c382.jpg"
+    },
+    {
+        "Name": "smartloft vest - women's",
+        "Price": "$91.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/adca4725-f475-41b8-a552-682e489d09c6.jpg"
+    },
+    {
+        "Name": "tirill thermal vest - women's",
+        "Price": "$104.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/3228d432-0554-478f-b8db-a07698677359.jpg"
+    },
+    {
+        "Name": "xinglet optic beam usb rechargeable flashing reflective vest",
+        "Price": "$41.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/bf307d9a-2a58-4c65-a811-aa4134925a9a.jpg"
+    },
+    {
+        "Name": "aerotherm vest - women's",
+        "Price": "$104.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/38f85068-a7d2-4680-82ce-9a47f9342422.jpg"
+    },
+    {
+        "Name": "vibe reflective vest",
+        "Price": "$15.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/1501fc74-e497-441a-9677-acc8e407b467.jpg"
+    }
+]

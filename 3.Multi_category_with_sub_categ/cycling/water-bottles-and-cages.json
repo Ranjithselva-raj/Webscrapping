@@ -2,21 +2,25 @@
     {
         "Name": "junction water bottle cage",
         "Price": " $6.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/704c1ad0-22c6-4af1-840d-352bc295dbf8.jpg"
     },
     {
         "Name": "linear cup holder",
         "Price": " $14.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/411bc6fc-f7f5-441e-bea3-8295cf07d314.jpg"
     },
     {
         "Name": "base water bottle - 22 fl. oz.",
         "Price": "$6.73",
+        "Savings": "save 32%",
         "Image": "https://www.rei.com/media/8f28d263-797f-4cbf-89c1-b0b9014a3a64.jpg"
     },
     {
         "Name": "speed-c carbon water bottle cage",
         "Price": "$44.73",
+        "Savings": "save 31%",
         "Image": "https://www.rei.com/media/5368be60-5d64-4081-9377-1962c9755a2a.jpg"
     }
 ]

@@ -2,166 +2,187 @@
     {
         "Name": "link 15 l hydration pack",
         "Price": "$55.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/a6a55a17-d07d-4ff0-9a8b-7982b3ffa93e.jpg"
     },
     {
         "Name": "link 10 l hydration pack",
         "Price": "$55.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/372150c1-bf4e-4a5e-8231-7fff5e72c3cc.jpg"
     },
     {
         "Name": "hot laps 2 l bike waist pack",
         "Price": " $40.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/b8a0ef79-7e0f-4bf7-b9bf-dc777977ef1f.jpg"
     },
     {
         "Name": "chase 8 hydration vest",
         "Price": "$90.73",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/5bf26ba8-e244-43fd-8d6e-c72dfc2db072.jpg"
     },
     {
         "Name": "drafter 10 l bike hydration pack - women's",
         "Price": "$95.93",
+        "Savings": "save 40%",
         "Image": "https://www.rei.com/media/e158ae1e-ef68-4ee9-be4d-3cdc5630f3c1.jpg"
     },
     {
         "Name": "sylva 5 hydration pack - women's",
         "Price": "$92.73",
+        "Savings": "save 36%",
         "Image": "https://www.rei.com/media/13e23093-4234-481d-ab0f-a95cf75e88a8.jpg"
     },
     {
         "Name": "hot laps 5 l bike hydration waist pack - 2 liters",
         "Price": " $74.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/b21e4ec9-c3c8-4ffc-834e-19e7018af363.jpg"
     },
     {
         "Name": "drift 14 h2o hydration pack - men's",
         "Price": "$94.73",
+        "Savings": "save 32%",
         "Image": "https://www.rei.com/media/d06ec86b-c2c2-43e0-b0d6-17ab94daa3ff.jpg"
-    },
-    {
-        "Name": "dirt roamer bike pack 20 l",
-        "Price": "$78.73",
-        "Image": "https://www.rei.com/media/4ab18459-2c63-4d23-8004-800abac292e3.jpg"
     },
     {
         "Name": "chase bike hydration vest - women's",
         "Price": "$69.73",
+        "Savings": "save 33%",
         "Image": "https://www.rei.com/media/7f497c39-7ae3-4390-a30d-c2a997e09464.jpg"
     },
     {
         "Name": "crossover 15 liter hydration pack",
         "Price": "$75.73",
+        "Savings": "save 41%",
         "Image": "https://www.rei.com/media/819a93a2-9d5c-4d21-b75f-b35e2703f0c1.jpg"
     },
     {
         "Name": "endo 15 h2o pack - men's",
         "Price": "$99.73",
+        "Savings": "save 37%",
         "Image": "https://www.rei.com/media/874944d8-301a-46dd-b6e7-b2d9464e33f6.jpg"
     },
     {
         "Name": "hydraulics lumbar reservoir - 1.5 liters",
         "Price": "$19.73",
+        "Savings": "save 31%",
         "Image": "https://www.rei.com/media/878b944c-6caf-4ba1-9630-5b97f51abaec.jpg"
     },
     {
         "Name": "amasa 14 h2o hydration pack - women's",
         "Price": "$94.73",
+        "Savings": "save 32%",
         "Image": "https://www.rei.com/media/2fd791cc-9d18-446d-9348-03d45700e2d6.jpg"
     },
     {
         "Name": "explore mini messenger bag",
         "Price": "$54.73",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/7d0e2534-d11b-49d5-977e-5bd5c78a4bc5.jpg"
     },
     {
         "Name": "amasa 10 h2o hydration pack - women's",
         "Price": "$83.73",
+        "Savings": "save 35%",
         "Image": "https://www.rei.com/media/e626c1f8-ea0c-4f6d-9306-54243cb18967.jpg"
     },
     {
         "Name": "3d hydro reservoir - 3 liters",
         "Price": "$31.73",
+        "Savings": "save 26%",
         "Image": "https://www.rei.com/media/cbea32fe-413f-4b95-9019-01f4f60175f9.jpg"
     },
     {
         "Name": "3d hydro trek hydration reservoir - 3 liters",
         "Price": "$24.73",
+        "Savings": "save 48%",
         "Image": "https://www.rei.com/media/52e89b3d-ad80-4bd9-81c0-a3bd1227d2e2.jpg"
     },
     {
         "Name": "intake reservoir with handle - 3 liters",
         "Price": "$10.73",
+        "Savings": "save 66%",
         "Image": "https://www.rei.com/media/5da7c6dd-1993-4b71-8ae3-8524c42979e1.jpg"
     },
     {
         "Name": "drift 10 h2o hydration pack - men's",
         "Price": "$74.73",
+        "Savings": "save 42%",
         "Image": "https://www.rei.com/media/82832772-c847-436b-98e6-0da905c35be5.jpg"
     },
     {
         "Name": "endo 10 h2o hydration pack - men's",
         "Price": "$94.73",
+        "Savings": "save 36%",
         "Image": "https://www.rei.com/media/29e1371c-1a06-4101-afe1-90e2a43ff2ea.jpg"
     },
     {
         "Name": "avos 15 h2o hydration pack - women's",
         "Price": "$118.73",
+        "Savings": "save 25%",
         "Image": "https://www.rei.com/media/c6130b37-0a69-47e1-b60a-d0e71c6ff404.jpg"
     },
     {
         "Name": "tempo 3 h2o hydration pack - men's",
         "Price": "$69.73",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/9e6391e1-6e5d-4c6a-b9aa-9b735bf7c1e5.jpg"
     },
     {
         "Name": "pace 3 h2o hydration pack - women's",
         "Price": "$69.73",
-        "Image": "https://www.rei.com/media/ca9c5f7e-831d-4aaf-ae96-f1196cdb4720.jpg"
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/4dbc4e79-c30b-487a-aeba-8a7eb7a261f0.jpg"
     },
     {
         "Name": "pace 6 h2o hydration pack - women's",
         "Price": "$84.73",
+        "Savings": "save 29%",
         "Image": "https://www.rei.com/media/9c9cda2c-3a2c-4380-b27a-383ba4f1c267.jpg"
     },
     {
         "Name": "avos 10 h2o hydration pack - women's",
         "Price": "$111.73",
+        "Savings": "save 25%",
         "Image": "https://www.rei.com/media/e6569930-8d3d-4d2b-a34f-5313b6ca5e3e.jpg"
     },
     {
         "Name": "crossover 10 liter hydration pack",
         "Price": "$58.73",
+        "Savings": "save 46%",
         "Image": "https://www.rei.com/media/d7bc28d2-b394-4246-b355-bbf0668e5ff5.jpg"
     },
     {
         "Name": "avos 15 h2o hydration pack - women's",
         "Price": "$114.73",
+        "Savings": "save 28%",
         "Image": "https://www.rei.com/media/313421af-2ad9-43d0-a55c-d37bfbb20dfd.jpg"
-    },
-    {
-        "Name": "m.u.l.e. 5 hydration waist pack",
-        "Price": "$44.73",
-        "Image": "https://www.rei.com/media/0ce08b53-10bb-40b7-9d2a-4b7c081a1b66.jpg"
     },
     {
         "Name": "intake insulated reservoir - 2 liters",
         "Price": "$20.73",
+        "Savings": "save 45%",
         "Image": "https://www.rei.com/media/4307e6a0-9dc7-40b6-a1b9-13c272acaabf.jpg"
     },
     {
         "Name": "crossover 5 liter hydration pack",
         "Price": "$64.73",
+        "Savings": "save 31%",
         "Image": "https://www.rei.com/media/99008928-f667-41b9-876f-94b41988d1cf.jpg"
     },
     {
         "Name": "intake lt reservoir - 2 liters",
         "Price": "$12.73",
+        "Savings": "save 49%",
         "Image": "https://www.rei.com/media/17e3c62d-7720-49fe-9942-d34cba994c10.jpg"
     },
     {
         "Name": "lobo hydration pack - men's",
         "Price": " $59.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/d43738ac-1e23-4ba1-b1c5-0e224ba82013.jpg"
     }
 ]

@@ -1,0 +1,3806 @@
+[
+    {
+        "Name": "cooling cap",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/a92c5650-d58d-4133-85df-4b36c6e8679e.jpg"
+    },
+    {
+        "Name": "palama crew socks",
+        "Price": "$10.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/9152216e-c8f7-44c3-a90c-1e109a1b0b59.jpg"
+    },
+    {
+        "Name": "coolmax ecomade midweight hiking crew socks",
+        "Price": "$11.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/2444dacf-f7b6-44b6-8282-1500b62c19fe.jpg"
+    },
+    {
+        "Name": "comfort shell totally tubular neck gaiter",
+        "Price": "$11.73",
+        "Savings": "save 53%",
+        "Image": "https://www.rei.com/media/24af1314-abca-4ee2-9d2f-a2560a27a7a7.jpg"
+    },
+    {
+        "Name": "alto beanie",
+        "Price": "$16.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/c9697bad-3001-447a-9e7a-44ea89c598c4.jpg"
+    },
+    {
+        "Name": "drye beanie",
+        "Price": "$21.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/8710fbca-ea7c-4944-b67b-95d7a083d2e2.jpg"
+    },
+    {
+        "Name": "marshes tab socks",
+        "Price": "$10.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/941b99a9-51f1-4339-aa71-24519665ba60.jpg"
+    },
+    {
+        "Name": "boonie hat",
+        "Price": "$24.73",
+        "Savings": "save 22%",
+        "Image": "https://www.rei.com/media/bd19c251-8d14-4a5e-b4d5-f3c42d2d8bf8.jpg"
+    },
+    {
+        "Name": "comfort shell pwb stria beanie",
+        "Price": "$23.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/503ac810-9974-4e2c-8d78-0ef068153773.jpg"
+    },
+    {
+        "Name": "swiftland run quarter socks - seconds",
+        "Price": "$10.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/30303947-1e43-454f-81e3-f0caa07e49ac.jpg"
+    },
+    {
+        "Name": "hike light cushion crew socks - men's",
+        "Price": "$17.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/f9aa4c88-a4af-4289-8176-6910e63a5ea0.jpg"
+    },
+    {
+        "Name": "horizon breeze brimmer hat",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/29e1f1aa-1cb0-4a7e-9912-42b30e6d1349.jpg"
+    },
+    {
+        "Name": "calidum 5-panel cap",
+        "Price": "$43.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/0ca14046-c11b-449c-8aa9-d607c226b762.jpg"
+    },
+    {
+        "Name": "comfort shell stria maxclava balaclava",
+        "Price": "$22.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/755521ad-7819-4151-b443-3fcdd13efe7e.jpg"
+    },
+    {
+        "Name": "s/f scarf",
+        "Price": "$23.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/059250ca-578c-4574-808d-450490228a90.jpg"
+    },
+    {
+        "Name": "altitude tech 5-panel hat",
+        "Price": "$25.93",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/f27ac244-ec24-4366-8b21-6816f2d43ca7.jpg"
+    },
+    {
+        "Name": "instagaiter mid gaiters",
+        "Price": "$34.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/2e5f6311-1d05-4773-9b17-d86193ae2cc0.jpg"
+    },
+    {
+        "Name": "duckbill trucker hat",
+        "Price": "$26.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/abdbcc2b-50a6-4ddd-a65e-c35b67209f30.jpg"
+    },
+    {
+        "Name": "making waves heritage tech hat",
+        "Price": "$29.93",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/6d833a69-e2fa-4495-aa70-2cc73e363e62.jpg"
+    },
+    {
+        "Name": "fleece gloves - men's",
+        "Price": "$20.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/3f324e31-1343-4a5d-994c-8f1324706cac.jpg"
+    },
+    {
+        "Name": "levagaiter tall gtx gaiters",
+        "Price": "$58.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/8621f6ae-4ace-45fd-bcb0-583d68c518ee.jpg"
+    },
+    {
+        "Name": "lyng waterproof all-weather gloves with fusion control",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c6694e1c-9c6a-4861-8688-d9cfc8f481cc.jpg"
+    },
+    {
+        "Name": "bug bucket hat",
+        "Price": "$25.93",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/73c4212f-ec11-47cb-bbae-5bd4f0dace06.jpg"
+    },
+    {
+        "Name": "xtreme all weather gloves",
+        "Price": "$41.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e6790a20-ca1e-4afc-808e-39abf6f03ab9.jpg"
+    },
+    {
+        "Name": "swift bucket hat",
+        "Price": "$30.93",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/22a49718-1214-48af-856a-ef0f58a84408.jpg"
+    },
+    {
+        "Name": "flash gaiters",
+        "Price": "$27.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/4bfa50e4-9e0b-4bca-a994-770e8d20b655.jpg"
+    },
+    {
+        "Name": "tactility heat liner gloves",
+        "Price": "$255.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/0a317510-8a09-44a3-8568-4c3366de9fc5.jpg"
+    },
+    {
+        "Name": "socks that save lgbtq lives",
+        "Price": "$7.83 - $10.93",
+        "Savings": "save 31% - 50%",
+        "Image": "https://www.rei.com/media/cb43cb38-3a5d-4268-8e53-48f425e31339.jpg"
+    },
+    {
+        "Name": "pfg back tack snapback hat",
+        "Price": "$20.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/5f5eb349-bbcf-44e2-9059-d756db9a9051.jpg"
+    },
+    {
+        "Name": "walcott waterproof cold-weather gloves with fusion control",
+        "Price": "$76.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/bb2adfea-1a85-460e-b9cc-69ffdc8acaf1.jpg"
+    },
+    {
+        "Name": "socks that protect sloths",
+        "Price": "$10.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/b6a8f265-6463-4282-a62a-209fbfbe0bb5.jpg"
+    },
+    {
+        "Name": "soundtouch xtreme all weather gloves - men's",
+        "Price": "$44.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/b1698f5f-f67e-41e4-a5f1-4a1a361e33a4.jpg"
+    },
+    {
+        "Name": "waterproof extreme cold weather insulated gauntlet gloves",
+        "Price": "$64.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/8dce7250-3050-48c4-932f-910af09a0ad6.jpg"
+    },
+    {
+        "Name": "socks that save cats",
+        "Price": "$10.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/59d0d29e-1572-4ed0-8c46-5ccf21ada0d4.jpg"
+    },
+    {
+        "Name": "ultra clava",
+        "Price": "$27.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/dbdec7ad-e393-4dbb-808e-1c9aaaec23a5.jpg"
+    },
+    {
+        "Name": "heatwave liner gloves",
+        "Price": "$16.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/358ee8a6-a7d2-4aee-be64-71311b429c84.jpg"
+    },
+    {
+        "Name": "socks that protect turtles",
+        "Price": "$10.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/24587847-2ac1-454e-91b2-98f4d2c6228e.jpg"
+    },
+    {
+        "Name": "pfg uncharted mesh snapback hat",
+        "Price": "$20.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/1b2d6189-1570-460a-adb2-ce52365b3057.jpg"
+    },
+    {
+        "Name": "comfort shell luxe neckula neck gaiter",
+        "Price": "$20.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/1da729fe-25b2-45ee-89d4-20855bb7704d.jpg"
+    },
+    {
+        "Name": "dynamax quick combo balaclava",
+        "Price": "$23.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/7e595669-0e24-4533-b622-da614d43cfbe.jpg"
+    },
+    {
+        "Name": "fillmore gore-tex gloves - men's",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/72faeb6c-6e31-4080-9707-0bff44a42f8f.jpg"
+    },
+    {
+        "Name": "active extreme x balaclava",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/1a5a1efc-b2c3-48db-95ba-14be22d99946.jpg"
+    },
+    {
+        "Name": "the hybrid clava balaclava",
+        "Price": "$17.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/8c6671f7-a300-4022-9477-2f6a9dda076b.jpg"
+    },
+    {
+        "Name": "socks that support mental health",
+        "Price": "$10.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/1d7ed2d6-6367-4fbd-84c6-ed968be000c1.jpg"
+    },
+    {
+        "Name": "pride trucker hat",
+        "Price": "$11.83",
+        "Savings": "save 52%",
+        "Image": "https://www.rei.com/media/ccaa75c9-e221-4445-ad6f-99f91dc79de9.jpg"
+    },
+    {
+        "Name": "payton beanie",
+        "Price": "$17.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/7fd33ad8-3f6f-485c-ac68-20cab4528bb1.jpg"
+    },
+    {
+        "Name": "socks that plant trees",
+        "Price": "$10.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/ee9a99e1-7602-4f82-bf09-4990270ce99b.jpg"
+    },
+    {
+        "Name": "the pearl beanie",
+        "Price": "$22.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9ce7f09f-4232-4598-8629-3c39cf177ed8.jpg"
+    },
+    {
+        "Name": "everest beanie",
+        "Price": "$16.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/4e6834eb-b78f-4c7f-b25d-fae45f02b3e4.jpg"
+    },
+    {
+        "Name": "socks that save lgbtq lives - blue",
+        "Price": "$10.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/23c24064-e411-4c09-8c60-341652bb3900.jpg"
+    },
+    {
+        "Name": "jordan beanie",
+        "Price": "$22.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/73f3fd44-4148-4186-9a19-6de0503b1ce3.jpg"
+    },
+    {
+        "Name": "fillmore gore-tex short mittens - men's",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/1497d71b-dfdb-476b-b3e5-de394d170c11.jpg"
+    },
+    {
+        "Name": "active extreme x neck tube-one",
+        "Price": "$27.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/522d7a3f-4aa2-4469-858c-f708c169336b.jpg"
+    },
+    {
+        "Name": "culture cap",
+        "Price": "$11.83",
+        "Savings": "save 52%",
+        "Image": "https://www.rei.com/media/146e0966-55c7-43de-96ff-0a38c3f1043b.jpg"
+    },
+    {
+        "Name": "phoenix gore-tex mittens - men's",
+        "Price": "$132.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9da39912-f3a3-414d-950d-cb9a0be34aa8.jpg"
+    },
+    {
+        "Name": "heatwave plus soundtouch ascent gloves - men's",
+        "Price": "$83.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/d140500c-a824-4f32-ae24-d040aef68137.jpg"
+    },
+    {
+        "Name": "crocodile gore-tex gaiters - men's",
+        "Price": "$65.93",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/b33500c5-95fb-4f77-82af-0fcc3d3bebe5.jpg"
+    },
+    {
+        "Name": "ski+ medium otc socks - men's",
+        "Price": "$15.73",
+        "Savings": "save 43% - 45%",
+        "Image": "https://www.rei.com/media/1b0866a4-c097-4e2c-9eee-4dcca6d210f6.jpg"
+    },
+    {
+        "Name": "polar reversible multifunctional neckwear",
+        "Price": "$23.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/5e147e81-0ca7-45d3-af52-f0d7dbda9934.jpg"
+    },
+    {
+        "Name": "twyford waterproof cold-weather work gloves with fusion control",
+        "Price": "$76.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/21ca0ba4-1c1a-47a0-8db4-7306bc8ffbd2.jpg"
+    },
+    {
+        "Name": "fillmore gore-tex short trigger mittens - men's",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/2fa3ce12-91a1-4dcd-8528-ddcbce626321.jpg"
+    },
+    {
+        "Name": "hike medium crew socks - men's",
+        "Price": "$12.73",
+        "Savings": "save 42% - 44%",
+        "Image": "https://www.rei.com/media/dee47f28-74fb-4512-81f5-f1d15ee1c758.jpg"
+    },
+    {
+        "Name": "icon universal insulated mittens",
+        "Price": "$48.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/d83e120d-f180-4905-8154-aaf84656eb53.jpg"
+    },
+    {
+        "Name": "swaffham waterproof extreme cold weather insulated gauntlet gloves",
+        "Price": "$90.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/61bd121f-260e-4084-93a1-0889786b7cbb.jpg"
+    },
+    {
+        "Name": "seattle rain hat",
+        "Price": "$47.93",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/5efcbea9-3caa-4272-b8c5-8f8187784875.jpg"
+    },
+    {
+        "Name": "fring waterproof extreme cold weather insulated gloves with fusion control",
+        "Price": "$90.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c4f3549d-a5b9-4993-b159-ad1860d3b85b.jpg"
+    },
+    {
+        "Name": "heattouch atlas mid gloves",
+        "Price": "$174.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/cd873ae2-5803-4787-86c6-9f4edac8e52f.jpg"
+    },
+    {
+        "Name": "front range gloves - men's",
+        "Price": "$31.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/e9ce04c8-4a86-4aa5-97db-3443b1bbd11f.jpg"
+    },
+    {
+        "Name": "guide gloves",
+        "Price": "$125.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/27275bc3-8c1c-473c-ae89-1e110d031e8a.jpg"
+    },
+    {
+        "Name": "take a stand trucker hat",
+        "Price": "$26.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/450a1861-170a-4975-b766-efb0751fcc9b.jpg"
+    },
+    {
+        "Name": "powder gauntlet gloves",
+        "Price": "$75.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/957dd682-d766-4569-a806-73c088a8be3f.jpg"
+    },
+    {
+        "Name": "topo 3-finger gloves",
+        "Price": "$123.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/1eba7e5a-7608-4432-804e-dbe436f2cb6b.jpg"
+    },
+    {
+        "Name": "the outback hat",
+        "Price": "$83.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a4f72bb1-eb6b-4048-87c3-a7b926875345.jpg"
+    },
+    {
+        "Name": "cascade outdoor gloves - men's",
+        "Price": "$13.73",
+        "Savings": "save 61%",
+        "Image": "https://www.rei.com/media/2249b2f5-1582-4c61-9980-a9e8e8c2ee0a.jpg"
+    },
+    {
+        "Name": "cragmont fleece mittens",
+        "Price": "$31.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/71b8c51d-b7ab-43e1-8357-de5b5522cd83.jpg"
+    },
+    {
+        "Name": "performance run targeted cushion ankle socks - men's",
+        "Price": "$15.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ad5c8019-25fa-44fc-a542-575543f92762.jpg"
+    },
+    {
+        "Name": "ski lightweight socks - men's",
+        "Price": "$13.73",
+        "Savings": "save 54%",
+        "Image": "https://www.rei.com/media/ca3e1017-84d0-4a11-b2ce-ec7b3a700cb0.jpg"
+    },
+    {
+        "Name": "hicamp sherpa fleece gloves",
+        "Price": "$18.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/f88eb489-73f9-47b0-9ea3-d3433ad95f7f.jpg"
+    },
+    {
+        "Name": "madson gloves - men's",
+        "Price": "$31.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/cf6d5e1e-5785-49e7-9796-5fce13486606.jpg"
+    },
+    {
+        "Name": "renagaiter mid gaiters",
+        "Price": "$41.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/3bb9f5e0-5fc6-46c3-864d-ce69dca1e317.jpg"
+    },
+    {
+        "Name": "ferrosi hybrid gaiters",
+        "Price": "$25.93",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/fc40bf6b-f6ef-4dee-886a-62bb9e00ddd2.jpg"
+    },
+    {
+        "Name": "waterproof extreme cold insulated finger-mittens with fusion control",
+        "Price": "$64.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/a247e6ca-e7fd-4285-8a37-79e3352632b3.jpg"
+    },
+    {
+        "Name": "waxed rugged fedora",
+        "Price": "$83.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/292ae1a8-d54a-4f25-812c-f2ce25774c30.jpg"
+    },
+    {
+        "Name": "army leather patrol insulated gauntlet gloves",
+        "Price": "$131.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/063f8dd4-bf8c-425e-ae8d-22aec9c70491.jpg"
+    },
+    {
+        "Name": "protect the planet socks gift box - 3 pairs",
+        "Price": "$21.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/c5f37187-ab5c-4e40-b7f7-c159de75cc98.jpg"
+    },
+    {
+        "Name": "reaux snow wool otc socks",
+        "Price": "$13.73",
+        "Savings": "save 54%",
+        "Image": "https://www.rei.com/media/b18c00f6-7ea8-4246-b75d-6ac253fea773.jpg"
+    },
+    {
+        "Name": "gorp socks",
+        "Price": "$12.73",
+        "Savings": "save 49%",
+        "Image": "https://www.rei.com/media/51704925-c620-4232-8f13-78e4a01a430e.jpg"
+    },
+    {
+        "Name": "magarac gloves",
+        "Price": "$44.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/fa14b1f1-18af-4ca4-9aa2-ddca598a100c.jpg"
+    },
+    {
+        "Name": "hike light cushion ankle socks - men's",
+        "Price": "$16.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/bf457872-0d46-44ec-9a5f-25d6ed65652a.jpg"
+    },
+    {
+        "Name": "everyday mystic moth crew socks",
+        "Price": "$10.83",
+        "Savings": "save 52%",
+        "Image": "https://www.rei.com/media/5e9ba009-5f33-4ce7-88ef-2899079f4bcf.jpg"
+    },
+    {
+        "Name": "switchback no fly zone mesh bucket hat - men's",
+        "Price": "$26.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/5b6b80b0-f7f5-4cb6-836a-0bb55e5b2f4d.jpg"
+    },
+    {
+        "Name": "midweight screentap fleece gloves",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/0bfc278d-b767-4db5-a98b-4075e9627b12.jpg"
+    },
+    {
+        "Name": "curren snow wool otc socks",
+        "Price": "$11.73",
+        "Savings": "save 53%",
+        "Image": "https://www.rei.com/media/c9288f63-2ad2-472a-bb90-d5e0e2304ded.jpg"
+    },
+    {
+        "Name": "windweight convertible mittens",
+        "Price": "$29.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/61c31f1e-0981-4260-b5d6-712127bbcbb6.jpg"
+    },
+    {
+        "Name": "copper s gloves",
+        "Price": "$83.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/099ed974-df85-400d-b522-5dbfd3cb18ec.jpg"
+    },
+    {
+        "Name": "lifestyle ultralight crew socks - men's",
+        "Price": "$11.73",
+        "Savings": "save 41% - 44%",
+        "Image": "https://www.rei.com/media/fd180a52-dadd-420f-a574-ed3841dae07b.jpg"
+    },
+    {
+        "Name": "hicamp fleece mittens",
+        "Price": "$18.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/6f55af16-0f54-4cec-b136-a6b09524756a.jpg"
+    },
+    {
+        "Name": "s/f socks",
+        "Price": "$17.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/da765434-3182-4051-8f6b-9832699eb1ab.jpg"
+    },
+    {
+        "Name": "sweater weather fleece gloves - men's",
+        "Price": "$14.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/abc49d08-d0f6-44cf-8b09-4d1e390be78f.jpg"
+    },
+    {
+        "Name": "spring gloves",
+        "Price": "$44.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/24e3e9ab-1ced-41a3-bf99-e772371ae82d.jpg"
+    },
+    {
+        "Name": "gore-tex 3-in-1 gloves - men's",
+        "Price": "$58.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/cde10df2-f7ac-451e-b3c7-36f44c13415c.jpg"
+    },
+    {
+        "Name": "vigor heavyweight sensor gloves - men's",
+        "Price": "$21.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/688b486e-d9b0-4cc4-b8dc-26786fc11a95.jpg"
+    },
+    {
+        "Name": "run targeted cushion compression over the calf socks",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/29935e91-0ea2-499c-9ce2-9517c24d50b6.jpg"
+    },
+    {
+        "Name": "levagaiter mid gtx gaiters",
+        "Price": "$51.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a52f2417-093d-4b54-9940-1bcd88029756.jpg"
+    },
+    {
+        "Name": "switchback gtx gloves 2.0 - men's",
+        "Price": "$44.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/2d092227-77b4-4fd9-85a1-bd63e830f56c.jpg"
+    },
+    {
+        "Name": "sureshot heated soft-shell gloves - men's",
+        "Price": "$128.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/21690290-f1e2-4497-b3ef-7184be014981.jpg"
+    },
+    {
+        "Name": "gauntlet gtx gloves 2.0 - men's",
+        "Price": "$39.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/80ed6698-1208-4876-8059-02489d9a136b.jpg"
+    },
+    {
+        "Name": "titan gore-tex gloves - men's",
+        "Price": "$55.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/bfa60aa8-99c0-43f3-ae71-e31b61dcb2ed.jpg"
+    },
+    {
+        "Name": "extravert gloves - men's",
+        "Price": "$41.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/2d2b5b88-d3ac-48ed-96b1-9f42f2ea8ad1.jpg"
+    },
+    {
+        "Name": "trails gloves - men's",
+        "Price": "$19.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/d3e403e9-a9b7-4640-89c4-a17c31788b87.jpg"
+    },
+    {
+        "Name": "arendal gloves - men's",
+        "Price": "$34.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9dd45656-bdf9-4068-8c5a-5c33a5bb2b2d.jpg"
+    },
+    {
+        "Name": "merino wool hiking crew socks - men's",
+        "Price": "$14.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/c87bbda4-2b71-45b3-a8a4-4d1bdd6212a7.jpg"
+    },
+    {
+        "Name": "spring gloves",
+        "Price": "$48.73",
+        "Savings": "save 45%",
+        "Image": "https://www.rei.com/media/31b00526-e549-4e54-b284-a71e7b5b3978.jpg"
+    },
+    {
+        "Name": "infinium windstopper sherpa fleece-lined mittens",
+        "Price": "$38.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/898c5b42-6c37-419c-b714-915e10e3fcee.jpg"
+    },
+    {
+        "Name": "run targeted cushion mid crew socks - men's",
+        "Price": "$16.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/c704f757-74dd-46be-aa51-8cb1ef9bf139.jpg"
+    },
+    {
+        "Name": "sparks lobster mittens - men's",
+        "Price": "$39.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/2fcacc11-676b-4b38-a3f3-4d1b435ea37c.jpg"
+    },
+    {
+        "Name": "stormtracker sensor gloves - men's",
+        "Price": "$42.73",
+        "Savings": "save 45%",
+        "Image": "https://www.rei.com/media/4fa5c12f-f6b4-4e82-8c93-a6fe455b71cd.jpg"
+    },
+    {
+        "Name": "guide insulated gloves",
+        "Price": "$24.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/62f47f89-6705-4e50-be96-ec8fc5a9ef99.jpg"
+    },
+    {
+        "Name": "active fleece insulated gloves",
+        "Price": "$38.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/5c848df0-0584-46d9-9985-5d90193d7c62.jpg"
+    },
+    {
+        "Name": "hike light cushion striped mid crew socks - men's",
+        "Price": "$16.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/1afe9eed-708e-4299-8d89-ad6af620178a.jpg"
+    },
+    {
+        "Name": "rocklands waterproof extreme cold weather insulated gloves with fusion control",
+        "Price": "$90.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9fee5148-ef9b-4d97-ad47-b2280c94076c.jpg"
+    },
+    {
+        "Name": "geko hot gloves",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/692d70c7-41dd-41b7-9d83-ba27e15e7854.jpg"
+    },
+    {
+        "Name": "panorama leather gloves",
+        "Price": "$84.93",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/e4e9db0e-167a-41d2-a58b-f230f940fb52.jpg"
+    },
+    {
+        "Name": "rho lightweight wool neck gaiter",
+        "Price": "$35.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/7fa88021-3dfe-4e68-af3c-299bd1bc7446.jpg"
+    },
+    {
+        "Name": "hike light cushion pattern ankle socks",
+        "Price": "$16.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/5138a559-2709-4858-a065-216b51691f4d.jpg"
+    },
+    {
+        "Name": "innoclava with lavawool balaclava",
+        "Price": "$13.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/9841f6ee-c160-4f45-bf38-b56e2db548d2.jpg"
+    },
+    {
+        "Name": "bike zero cushion crew socks",
+        "Price": "$16.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/7798503c-df13-4ebe-9aa7-2420fdd3f72c.jpg"
+    },
+    {
+        "Name": "bike zero cushion ankle socks",
+        "Price": "$14.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/e55e1d0b-8267-488b-924a-046e5cb8faac.jpg"
+    },
+    {
+        "Name": "everyday rollinsville crew socks",
+        "Price": "$16.73 - $17.73",
+        "Savings": "save 22% - 27%",
+        "Image": "https://www.rei.com/media/5bb203c6-26af-4b26-8a26-f5be7be73b7a.jpg"
+    },
+    {
+        "Name": "rho neck gaiter - long",
+        "Price": "$31.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/7131220e-1816-4f45-9804-32de632d030c.jpg"
+    },
+    {
+        "Name": "xtreme hyperlite gloves - men's",
+        "Price": "$37.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/486c4ff0-681e-4d93-8abe-37b0bed2fe68.jpg"
+    },
+    {
+        "Name": "hike light cushion camp gear crew socks",
+        "Price": "$17.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/11ec4c73-d61b-40bc-ad31-8ddff91ff241.jpg"
+    },
+    {
+        "Name": "mercury mittens",
+        "Price": "$83.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/2af50b16-a409-410d-93f1-38b21f5d618d.jpg"
+    },
+    {
+        "Name": "commuter windstopper gloves",
+        "Price": "$31.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/69abb486-8378-43ab-a2ed-1d5b32ffb382.jpg"
+    },
+    {
+        "Name": "unicorn mittens",
+        "Price": "$44.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e1b5e63d-6912-419d-95b8-0f1b56a9ff18.jpg"
+    },
+    {
+        "Name": "flurry sensor gloves - men's",
+        "Price": "$29.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/46098be0-5d1e-45a7-a932-16705ec9d8cd.jpg"
+    },
+    {
+        "Name": "everyday popcorn cable full cushion crew socks",
+        "Price": "$19.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/cbf10c7b-cc8d-4a20-b566-e41166d5e118.jpg"
+    },
+    {
+        "Name": "everyday larimer light cushion crew socks",
+        "Price": "$19.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/2428f2a6-d8a9-4e6e-9538-0b30bec56f12.jpg"
+    },
+    {
+        "Name": "silk liner crew socks - seconds",
+        "Price": "$11.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/f729bd20-29a8-4c41-9dfc-1a770a92ed4e.jpg"
+    },
+    {
+        "Name": "whitefish hat",
+        "Price": "$39.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/753be7ba-7adc-42d6-8385-9ba93fe508bf.jpg"
+    },
+    {
+        "Name": "heady stripe socks - men's",
+        "Price": "$17.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/503b9597-22c2-4fed-b6d9-edd6f947f37e.jpg"
+    },
+    {
+        "Name": "everyday margarita crew socks",
+        "Price": "$15.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/3b059f69-b6db-4b4f-af4e-306f8b7461e2.jpg"
+    },
+    {
+        "Name": "run zero cushion ankle socks - men's",
+        "Price": "$14.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/a5cf10ef-7b3e-4caa-a4a9-51470c0b3bd9.jpg"
+    },
+    {
+        "Name": "hike light cushion nightfall in the forest crew socks",
+        "Price": "$17.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/97b9d8d6-61e6-46ec-b963-b583bd75c4e2.jpg"
+    },
+    {
+        "Name": "exposure/2 gore-tex infinium rain hat",
+        "Price": "$35.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/bf0a0b20-8bd8-4f6c-97b4-cf207e3e5493.jpg"
+    },
+    {
+        "Name": "summit sahara adjustable cap",
+        "Price": "$25.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/f501112d-bb0d-4db0-a00f-3d929b86ba55.jpg"
+    },
+    {
+        "Name": "alti ii gore-tex insulated mittens - men's",
+        "Price": "$98.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/deb429ba-40a7-4a78-85ef-254542bb51d6.jpg"
+    },
+    {
+        "Name": "bugsaway bucket hat",
+        "Price": "$36.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/6823649f-a219-4767-af30-09f438c190ca.jpg"
+    },
+    {
+        "Name": "teca fleece gloves",
+        "Price": "$14.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/e2395571-775a-4e97-9a39-78bc69bafa51.jpg"
+    },
+    {
+        "Name": "coolmax ecomade lightweight hiking quarter socks",
+        "Price": "$10.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/24ff418c-1fec-41bb-b412-754136c981b4.jpg"
+    },
+    {
+        "Name": "cayman hat",
+        "Price": "$25.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/d1b334b6-8fa5-457b-a859-6ee46edf0b47.jpg"
+    },
+    {
+        "Name": "trail mix bucket hat",
+        "Price": "$27.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/5df00447-5476-48c6-b20d-e51c9d29ba47.jpg"
+    },
+    {
+        "Name": "apex chute",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/537198d4-e1d6-4b62-a8cf-fc17ced481ae.jpg"
+    },
+    {
+        "Name": "no-show run socks - 3 pairs",
+        "Price": "$23.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/4e7ee915-64ba-4bf5-b2ed-481cdeeb36ff.jpg"
+    },
+    {
+        "Name": "stoney gloves",
+        "Price": "$69.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/addf10f0-0312-4460-96f8-b0b7f4254ff1.jpg"
+    },
+    {
+        "Name": "koa crushable lifeguard hat",
+        "Price": "$41.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/aeb75103-5773-439b-8fd2-8681885f8bee.jpg"
+    },
+    {
+        "Name": "buffalo plaid trapper hat - men's",
+        "Price": "$47.73",
+        "Savings": "save 39%",
+        "Image": "https://www.rei.com/media/eda550b5-32d3-463e-9596-6aca5cc80780.jpg"
+    },
+    {
+        "Name": "plaid trapper hat - men's",
+        "Price": "$47.73",
+        "Savings": "save 46%",
+        "Image": "https://www.rei.com/media/68019ed4-9ec6-4ed0-b6f2-865522a6ed9d.jpg"
+    },
+    {
+        "Name": "methow stride gloves",
+        "Price": "$28.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/5fbb49dd-1431-4bf7-9af2-8d80db571fb5.jpg"
+    },
+    {
+        "Name": "lumberman merino beanie - men's",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/88289778-f809-4195-8530-ea4a46f0e6a4.jpg"
+    },
+    {
+        "Name": "bronco gore-tex gloves - men's",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ffa483e2-6aeb-4285-a7d0-ed9252ff6f75.jpg"
+    },
+    {
+        "Name": "irish visor hat",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/dc569053-f9a6-46cc-9b5d-560875fd8e93.jpg"
+    },
+    {
+        "Name": "verv beanie - men's",
+        "Price": "$26.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/298c8520-96e3-4a17-96cc-9ff9ed80c26b.jpg"
+    },
+    {
+        "Name": "woolie cap",
+        "Price": "$33.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/1ba08b68-eecd-46d1-90ea-6386a6bc78fb.jpg"
+    },
+    {
+        "Name": "waterproof liners",
+        "Price": "$40.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/e1b3ec07-f938-45c1-865a-7894ac2d80ed.jpg"
+    },
+    {
+        "Name": "alpine onset merino ubertube",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/e0482162-4b64-4cf9-ac40-d531a6ec4b82.jpg"
+    },
+    {
+        "Name": "rocky mountain low gaiters - men's",
+        "Price": "$29.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/85f65b6b-b126-446c-a58e-d35a1040c980.jpg"
+    },
+    {
+        "Name": "shield gloves - men's",
+        "Price": "$35.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/66405e01-c8b5-4419-b797-005d907b7bc6.jpg"
+    },
+    {
+        "Name": "berghund no fly zone mesh safari hat - men's",
+        "Price": "$21.73",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/15b34cc4-7257-484a-b8ff-a35e4b45a530.jpg"
+    },
+    {
+        "Name": "deluxe rush lifeguard hat - men's",
+        "Price": "$32.73",
+        "Savings": "save 45%",
+        "Image": "https://www.rei.com/media/c10f9207-0ae1-48b2-83ba-efa9e3f43f9f.jpg"
+    },
+    {
+        "Name": "charger gloves - men's",
+        "Price": "$34.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a80696dd-f127-4846-b8ec-5031ae487383.jpg"
+    },
+    {
+        "Name": "titan gore-tex mittens - men's",
+        "Price": "$54.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/88453adc-5c0e-4fea-a1d1-ca0c996c9e21.jpg"
+    },
+    {
+        "Name": "scout gloves - men's",
+        "Price": "$44.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/92bda3e9-801d-4762-9d20-7cbbf9cf23f6.jpg"
+    },
+    {
+        "Name": "nova mittens - men's",
+        "Price": "$34.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a413f804-77f8-446a-b32c-005dae31777a.jpg"
+    },
+    {
+        "Name": "leather titan gore-tex mittens - men's",
+        "Price": "$69.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c1447da7-c907-450e-8bc6-07178ed55147.jpg"
+    },
+    {
+        "Name": "leather titan gore-tex gloves - men's",
+        "Price": "$74.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ef3aca9b-060b-455a-b3ec-f42ecf1e13b2.jpg"
+    },
+    {
+        "Name": "frontier gore-tex gloves - men's",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/661d5b2d-ea55-4ce2-8c21-a4636ebc2af7.jpg"
+    },
+    {
+        "Name": "convertible balaclava",
+        "Price": "$25.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/1ba2464b-a0ba-4d3c-b71c-c2ac32d60131.jpg"
+    },
+    {
+        "Name": "excursion gore-tex mittens - men's",
+        "Price": "$97.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/616e2d19-9506-4839-aace-31c5f2ec958f.jpg"
+    },
+    {
+        "Name": "howler bando headband",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/3653f82c-9797-4633-b1af-375e154bd20a.jpg"
+    },
+    {
+        "Name": "alpine leather primaloft gloves",
+        "Price": "$103.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/75563d3e-82c8-4184-8af6-e225532cb01c.jpg"
+    },
+    {
+        "Name": "fall line 5-finger gloves",
+        "Price": "$131.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/af3ae76f-8c53-437d-ab17-0b937d8a956f.jpg"
+    },
+    {
+        "Name": "ultimate plus gloves",
+        "Price": "$67.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/52b2c49f-c91a-4126-a817-c0d74972f171.jpg"
+    },
+    {
+        "Name": "explorair tech gloves",
+        "Price": "$51.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/38c8dc7a-447b-463a-a747-926bd572cda3.jpg"
+    },
+    {
+        "Name": "merino sport fleece wind mittens",
+        "Price": "$37.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/36373d72-703d-4307-a0cd-da08144a4320.jpg"
+    },
+    {
+        "Name": "merino sport fleece gloves",
+        "Price": "$31.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/8bdb2b52-0416-40c9-9c4e-43960d1fa51b.jpg"
+    },
+    {
+        "Name": "harling waterproof all-weather gloves",
+        "Price": "$48.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/44027adb-0648-433e-9f1d-d10c51f567b1.jpg"
+    },
+    {
+        "Name": "howe waterproof all-weather multi-activity gloves with fusion control",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/5237a8b6-ad95-4994-bc6a-84936dde66cd.jpg"
+    },
+    {
+        "Name": "chore bucket hat",
+        "Price": "$29.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/4efeb739-a6a2-4a5a-9349-b64e4190ba5a.jpg"
+    },
+    {
+        "Name": "highcamp gloves - men's",
+        "Price": "$36.73",
+        "Savings": "save 61%",
+        "Image": "https://www.rei.com/media/7ff05647-f972-4051-b49d-42a0b2f02d32.jpg"
+    },
+    {
+        "Name": "illuminator sensor gloves",
+        "Price": "$56.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/82216b9e-f6cb-44e3-a4c9-24f9a1f1d790.jpg"
+    },
+    {
+        "Name": "comfort shell lined pipe dream neck gaiter",
+        "Price": "$24.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/e57c70c4-a800-4ed8-aabd-4b7bb0f822ea.jpg"
+    },
+    {
+        "Name": "regulator gloves - dune - men's",
+        "Price": "$44.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/de2a006d-8ff3-4f5a-b80e-2d8965e7e2a4.jpg"
+    },
+    {
+        "Name": "leather mittens - men's",
+        "Price": "$59.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/732075a4-e04f-4bfc-a58f-de866087469e.jpg"
+    },
+    {
+        "Name": "comfort shell lined neckula neck gaiter",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/6e9bf0cd-09b5-46f8-8647-791432c66638.jpg"
+    },
+    {
+        "Name": "comfort shell pwb neck gaiter",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/23a29d92-a91b-4976-90c7-fcb1ca4c25b7.jpg"
+    },
+    {
+        "Name": "comfort shell pwb beanie",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/88e95f51-8569-4b69-8e3d-30e54b7a5ef3.jpg"
+    },
+    {
+        "Name": "canyon hat",
+        "Price": "$28.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/6b04ead8-355d-4705-8d7f-c73473ed2a24.jpg"
+    },
+    {
+        "Name": "lavawool convertible face mask",
+        "Price": "$28.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/771a270f-cac7-45fd-9b02-cb21c38d0cd8.jpg"
+    },
+    {
+        "Name": "aquabloc down gauntlet mittens - men's",
+        "Price": "$39.73",
+        "Savings": "save 43%",
+        "Image": "https://www.rei.com/media/531426a0-d0eb-46ca-af15-6ddaf35cf249.jpg"
+    },
+    {
+        "Name": "aquabloc mittens - men's",
+        "Price": "$37.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/7eb870ae-f24e-4a1c-86b9-e109ed2a58f8.jpg"
+    },
+    {
+        "Name": "challenge gloves - men's",
+        "Price": "$26.73",
+        "Savings": "save 61%",
+        "Image": "https://www.rei.com/media/8daf9e23-f7f7-44c6-a20d-64e7afc269bb.jpg"
+    },
+    {
+        "Name": "bronco gore-tex gloves - men's",
+        "Price": "$47.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/46873be8-544f-4a31-bf1f-5f9e2e2c5ddc.jpg"
+    },
+    {
+        "Name": "xplore s gloves",
+        "Price": "$97.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e6117785-5d86-436a-9064-885708a9bfcf.jpg"
+    },
+    {
+        "Name": "mission gloves - men's",
+        "Price": "$83.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/b61681de-63c2-4c6a-81b4-328da8450748.jpg"
+    },
+    {
+        "Name": "alpine tundra cap",
+        "Price": "$35.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/0bc912c8-e1fa-4756-adb4-da23314e5fe4.jpg"
+    },
+    {
+        "Name": "catacombs hood ii balaclava",
+        "Price": "$20.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/323646c3-8cd0-4b00-aa47-b059f61652bb.jpg"
+    },
+    {
+        "Name": "stormtracker sensor gloves - men's",
+        "Price": "$38.83 - $54.93",
+        "Savings": "save 30% - 50%",
+        "Image": "https://www.rei.com/media/677cd1e9-5f89-4555-90b3-8635024b275d.jpg"
+    },
+    {
+        "Name": "higbee hat",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/ddc67863-ef64-41bd-9c4d-13f7ea493765.jpg"
+    },
+    {
+        "Name": "better sweater beanie",
+        "Price": "$29.73",
+        "Savings": "save 39%",
+        "Image": "https://www.rei.com/media/72329899-a3e6-4c95-ab9e-9ddf368b467b.jpg"
+    },
+    {
+        "Name": "maine line gloves",
+        "Price": "$44.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/0b8fcd11-d809-4a9b-9d1d-f9bdcf21e828.jpg"
+    },
+    {
+        "Name": "vishnu hat",
+        "Price": "$19.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/afdd4541-af7a-4ea4-952e-dbe75759e285.jpg"
+    },
+    {
+        "Name": "shadow insulated mittens",
+        "Price": "$26.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/4eb129b5-3564-439c-8360-90b955ede50e.jpg"
+    },
+    {
+        "Name": "sabre gloves",
+        "Price": "$132.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/770bf5f1-aed4-41ac-b895-207bb66e6fb8.jpg"
+    },
+    {
+        "Name": "firefall/2 gore-tex gloves - men's",
+        "Price": "$55.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ed8e3051-06e4-4bdf-a2d7-2d95588a2660.jpg"
+    },
+    {
+        "Name": "gauntlet gtx split-finger mittens",
+        "Price": "$39.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/48e63c03-4fa1-4e91-a974-ee9cf0c89fad.jpg"
+    },
+    {
+        "Name": "first chair gtx snow mittens",
+        "Price": "$34.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/2aaadef3-2c0a-43cc-8269-7f6ca0860171.jpg"
+    },
+    {
+        "Name": "athlete edition approach crew socks",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2cdef1cd-7839-4789-833c-3e0a05356715.jpg"
+    },
+    {
+        "Name": "persuade cuffed beanie",
+        "Price": "$25.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/9a066ab8-2531-456e-9bdd-9185d4d9297c.jpg"
+    },
+    {
+        "Name": "all-stretch max gloves",
+        "Price": "$26.73",
+        "Savings": "save 18%",
+        "Image": "https://www.rei.com/media/381eb730-ec66-4a1f-b23a-ac0b2f6011b1.jpg"
+    },
+    {
+        "Name": "apex pro gloves",
+        "Price": "$38.73",
+        "Savings": "save 19%",
+        "Image": "https://www.rei.com/media/85dec486-a9ad-4883-8806-e25144bd7b5e.jpg"
+    },
+    {
+        "Name": "sully slouchy beanie - men's",
+        "Price": "$21.73",
+        "Savings": "save 39%",
+        "Image": "https://www.rei.com/media/40e4c352-7bb1-422a-b0e0-80cad1248543.jpg"
+    },
+    {
+        "Name": "radiantx gloves",
+        "Price": "$85.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d6e71cdb-c40e-425b-af0d-e1c63cc75547.jpg"
+    },
+    {
+        "Name": "waterproof extreme cold weather insulated gloves",
+        "Price": "$64.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/9fee5148-ef9b-4d97-ad47-b2280c94076c.jpg"
+    },
+    {
+        "Name": "team phoenix gore-tex gloves - men's",
+        "Price": "$63.73",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/2f724c90-1967-4e1c-b275-29a45b0c80a8.jpg"
+    },
+    {
+        "Name": "runabout gloves - men's",
+        "Price": "$20.73",
+        "Savings": "save 65%",
+        "Image": "https://www.rei.com/media/fe941f04-9bd2-4b12-95f9-9f769774507a.jpg"
+    },
+    {
+        "Name": "solano mittens",
+        "Price": "$279.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/711c376d-fb01-4741-98aa-358097e7189d.jpg"
+    },
+    {
+        "Name": "montana ski mittens - men's",
+        "Price": "$31.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/16bc4caa-dfbd-4ac9-9f81-399b39e550f9.jpg"
+    },
+    {
+        "Name": "ridge fleece mittens",
+        "Price": "$21.93",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/bd5d8db6-91a7-40c6-b5f4-32db40817a53.jpg"
+    },
+    {
+        "Name": "mt. baker ii gore-tex mittens",
+        "Price": "$81.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/ecfa549e-6117-4731-b2a2-04d2f9ed304a.jpg"
+    },
+    {
+        "Name": "coldfront down mittens",
+        "Price": "$36.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/9de19563-7203-4058-9bdb-4ff2d9181135.jpg"
+    },
+    {
+        "Name": "sureshot soft-shell gloves - men's",
+        "Price": "$24.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/05f547ef-95c7-49af-868e-d7557469568c.jpg"
+    },
+    {
+        "Name": "baron gore-tex trigger mittens - men's",
+        "Price": "$77.93",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/60469510-aeec-46c3-a4ac-917648cb4485.jpg"
+    },
+    {
+        "Name": "gore-tex 3-in-1 mittens - men's",
+        "Price": "$58.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a9f81eb8-6f12-4ae7-bb95-34421d6dd3e0.jpg"
+    },
+    {
+        "Name": "rigg gloves",
+        "Price": "$29.73",
+        "Savings": "save 45%",
+        "Image": "https://www.rei.com/media/ae1a9c1c-4642-4307-a8b4-45c5df3d7d85.jpg"
+    },
+    {
+        "Name": "coolnet uv national park series multifunctional neckwear",
+        "Price": "$11.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/52b4d476-69e7-491b-8839-865da123dc39.jpg"
+    },
+    {
+        "Name": "helium wind cap",
+        "Price": "$25.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/d38d0f78-269d-434f-a085-cada45896a57.jpg"
+    },
+    {
+        "Name": "runner/scarf",
+        "Price": "$29.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/bded92a0-894a-4f0b-b651-4264b5bf91db.jpg"
+    },
+    {
+        "Name": "comfort shell luxe pipe dream neck gaiter",
+        "Price": "$20.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/509de742-0c9b-4519-bf54-6fd8ded1b172.jpg"
+    },
+    {
+        "Name": "tarfala gloves",
+        "Price": "$41.83",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/af755b2e-2fe5-4a02-a6d6-d1316f13b5ae.jpg"
+    },
+    {
+        "Name": "ergo grip active wool terry gloves",
+        "Price": "$99.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/d9e7b8d8-c3dc-4023-b6ab-e5f558d347e8.jpg"
+    },
+    {
+        "Name": "mid mid-length mtb waterproof socks",
+        "Price": "$26.73",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/f2bcfbeb-ae2e-4917-9b1a-9a924e19bed7.jpg"
+    },
+    {
+        "Name": "switchback gtx mittens 2.0",
+        "Price": "$44.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/75f752ff-b7e8-4b87-93b0-708c29204b0a.jpg"
+    },
+    {
+        "Name": "gauntlet gtx mittens 2.0",
+        "Price": "$39.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/ff1c1ccb-1494-4095-bbbe-b106be793edc.jpg"
+    },
+    {
+        "Name": "first chair gtx snow gloves - men's",
+        "Price": "$34.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/0515cb6d-48d1-43bb-970d-351f93092382.jpg"
+    },
+    {
+        "Name": "minimalist gtx mittens 2.0",
+        "Price": "$24.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/a5b1dc8d-00e6-48cc-90a6-148595b8db70.jpg"
+    },
+    {
+        "Name": "soloist gloves",
+        "Price": "$90.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/ef8326a9-5edd-439c-b44b-c0debfc28600.jpg"
+    },
+    {
+        "Name": "soloist finger gloves",
+        "Price": "$90.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e099d470-1d45-4ef1-b6d3-ea61c0b03642.jpg"
+    },
+    {
+        "Name": "glissade mittens",
+        "Price": "$55.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9c96cc2d-a322-4016-9088-e5ddf2f6f44c.jpg"
+    },
+    {
+        "Name": "cirque gloves",
+        "Price": "$55.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/08dcadef-466b-46fb-951c-2abfb55994c4.jpg"
+    },
+    {
+        "Name": "terminator gloves",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/24ee3644-6065-4760-a227-f500f310f5cb.jpg"
+    },
+    {
+        "Name": "all out belt",
+        "Price": "$23.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/fc3feedc-6918-4628-afdd-9ab910434cf4.jpg"
+    },
+    {
+        "Name": "mountain ops gloves",
+        "Price": "$38.93",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/ea3635b4-1134-4488-af2b-2491e836513a.jpg"
+    },
+    {
+        "Name": "board insulated gloves - men's",
+        "Price": "$23.73",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/649dc3d9-28b1-4e98-bbe1-1040687f7810.jpg"
+    },
+    {
+        "Name": "versatile outdoor insulated gloves - men's",
+        "Price": "$34.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/2b3c019e-f7d2-4c0b-b2ed-cfc8406a5b51.jpg"
+    },
+    {
+        "Name": "waterproof all-weather gloves with fusion control",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c6694e1c-9c6a-4861-8688-d9cfc8f481cc.jpg"
+    },
+    {
+        "Name": "guide insulated mittens",
+        "Price": "$24.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/760583df-20e2-4fcb-8f9e-c812365a6b36.jpg"
+    },
+    {
+        "Name": "titan gore-tex mittens - men's",
+        "Price": "$55.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/604ddb29-9143-4853-99fd-8cec1ac9fb24.jpg"
+    },
+    {
+        "Name": "carbide sensor mittens",
+        "Price": " $59.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/a9e3c521-9e81-4c5f-bd23-92edc14b0274.jpg"
+    },
+    {
+        "Name": "tour gloves",
+        "Price": "$58.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c1f6a61f-b9f6-4bae-84dd-f2cf37397cc8.jpg"
+    },
+    {
+        "Name": "mogul ii insulated gloves - men's",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/17c65f35-4cdc-4ff8-bd4d-1f43ad2ec5aa.jpg"
+    },
+    {
+        "Name": "absolute mittens",
+        "Price": "$188.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/691309b3-3c42-49fa-99b1-b6dcb716f17b.jpg"
+    },
+    {
+        "Name": "aquabloc down gauntlet ii gloves - men's",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/1ff8f989-51ba-46a1-ac32-b78cf54fad2b.jpg"
+    },
+    {
+        "Name": "fission sv gloves",
+        "Price": " $139.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/70babb40-3e0b-4aff-8913-b8ab8b851829.jpg"
+    },
+    {
+        "Name": "vigor heavyweight sensor gloves - men's",
+        "Price": "$21.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/ca77d9a8-b681-414e-9d6f-1c3abceda16c.jpg"
+    },
+    {
+        "Name": "army leather extreme mittens",
+        "Price": "$139.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/dd2d1724-d734-4dc7-9224-5e02bc4127bb.jpg"
+    },
+    {
+        "Name": "windproof multifunctional neckwear",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/16af040c-2561-4d31-939f-58955296df3b.jpg"
+    },
+    {
+        "Name": "army leather patrol insulated gloves",
+        "Price": "$115.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/9376b395-006a-4aca-8b70-37d19d5f527f.jpg"
+    },
+    {
+        "Name": "super armadillo gaiters",
+        "Price": "$47.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/71526304-3886-401e-8447-8344b0b2a6ec.jpg"
+    },
+    {
+        "Name": "ergo grip active gloves",
+        "Price": "$91.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/3e3721a8-cee3-4ea1-a0ee-59193d757876.jpg"
+    },
+    {
+        "Name": "echo printed ubertube",
+        "Price": "$15.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/ec26148f-8fc5-47fe-b8c7-0c7b08514322.jpg"
+    },
+    {
+        "Name": "athletic targeted cushion pride rainbow print crew socks",
+        "Price": "$16.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/52d093d1-4aca-4fe6-99e5-86dec8113dbc.jpg"
+    },
+    {
+        "Name": "hike light cushion mid crew socks - men's",
+        "Price": "$17.73",
+        "Savings": "save 22%",
+        "Image": "https://www.rei.com/media/f4318eee-b266-49d9-8d4f-61fcf65c89cc.jpg"
+    },
+    {
+        "Name": "echo ubertube",
+        "Price": "$14.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/6811b52c-95c9-4d9f-9d1c-c118cbf83d15.jpg"
+    },
+    {
+        "Name": "bugsaway solstice canyon crew socks - men's",
+        "Price": "$19.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/fe52a015-b0e1-4a1a-8d76-010e2ac5f841.jpg"
+    },
+    {
+        "Name": "multisport light mini socks - men's",
+        "Price": "$14.73",
+        "Savings": "save 18% - 22%",
+        "Image": "https://www.rei.com/media/ada76d6f-95b6-468c-bced-bdfb5a9305f0.jpg"
+    },
+    {
+        "Name": "rivet gloves",
+        "Price": "$47.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/09980114-ab3d-4541-98d3-4d576e069ad4.jpg"
+    },
+    {
+        "Name": "firefall/2 gore-tex mittens",
+        "Price": "$55.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/942e5f85-f9e9-4372-991e-1a5fb2752b8d.jpg"
+    },
+    {
+        "Name": "waterproof brimmed boonie hat",
+        "Price": "$34.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/07e1ca49-a9a8-447b-a62a-e979fc505713.jpg"
+    },
+    {
+        "Name": "merino wool quarter crew socks",
+        "Price": "$17.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/2c64d94b-0c39-48c1-a76f-85b5ce0cdf93.jpg"
+    },
+    {
+        "Name": "merino wool low-cut socks",
+        "Price": "$15.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/89fcdbf5-d26a-4333-b7ce-d339f483f2f7.jpg"
+    },
+    {
+        "Name": "merino hiker socks - men's",
+        "Price": "$17.73",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/a6860575-bcee-4c8d-9f85-5c734755e0b1.jpg"
+    },
+    {
+        "Name": "merino wool 3/4 crew socks",
+        "Price": "$17.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/d13000b6-fe8c-45d0-8d75-dfa48ff01909.jpg"
+    },
+    {
+        "Name": "everyday ultra light boot socks - men's",
+        "Price": "$13.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/384ed56f-ceb4-43da-9780-fbaaf0638efb.jpg"
+    },
+    {
+        "Name": "multisport coolmax socks - men's",
+        "Price": "$10.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/e48bec1b-21b9-456c-a926-5f8a83b53bc2.jpg"
+    },
+    {
+        "Name": "everyday spruce street crew socks",
+        "Price": "$15.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/8a875eee-3b6c-4dc7-b43e-85bc43510d4c.jpg"
+    },
+    {
+        "Name": "ski light socks - men's",
+        "Price": "$14.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/cb385e0b-9e4e-451b-ab8b-7b6dd459ae7e.jpg"
+    },
+    {
+        "Name": "everyday larimer light cushion crew socks",
+        "Price": "$19.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/81ad48c2-94ce-4b3c-9318-07abcf65ec1c.jpg"
+    },
+    {
+        "Name": "run cold weather targeted cushion crew socks - men's",
+        "Price": "$16.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/0c0aa683-352e-40b1-a4ae-603db7a8d11d.jpg"
+    },
+    {
+        "Name": "legion hat",
+        "Price": "$24.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/39c0a33e-77d6-42a0-8b0f-425e50f3342c.jpg"
+    },
+    {
+        "Name": "aquabloc gloves - men's",
+        "Price": "$37.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/2ac0b2ac-a7da-41a6-ad8b-4a3db52d3d91.jpg"
+    },
+    {
+        "Name": "run targeted cushion low ankle socks - men's",
+        "Price": "$14.73",
+        "Savings": "save 22%",
+        "Image": "https://www.rei.com/media/6fc0dfea-cf5b-4588-b67c-f977511d3461.jpg"
+    },
+    {
+        "Name": "bitterblaze aerogel gloves - men's",
+        "Price": "$86.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/96ee28d4-d0e7-42ce-9354-43c6a8e15e8c.jpg"
+    },
+    {
+        "Name": "cirque gloves - men's",
+        "Price": "$46.73",
+        "Savings": "save 59%",
+        "Image": "https://www.rei.com/media/ef4d5514-7a04-42fc-bf25-0c08ba46a0ca.jpg"
+    },
+    {
+        "Name": "everyday joviansphere light cushion crew socks",
+        "Price": "$16.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/d9a5cc9d-def6-4077-b17f-4a1d5c6452da.jpg"
+    },
+    {
+        "Name": "fall line gloves - men's",
+        "Price": "$47.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/479ba3f7-7edc-4cc0-8228-2eaaae7a0900.jpg"
+    },
+    {
+        "Name": "everyday fair isle sweater light cushion crew socks",
+        "Price": "$19.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/d33577db-8e0c-4ab5-b248-727bbbefcca5.jpg"
+    },
+    {
+        "Name": "impreza gore-tex gloves - men's",
+        "Price": "$37.73",
+        "Savings": "save 46%",
+        "Image": "https://www.rei.com/media/6df25af8-5eed-4018-bd07-2231fb8d24e6.jpg"
+    },
+    {
+        "Name": "guide gloves - men's",
+        "Price": "$54.73",
+        "Savings": "save 57%",
+        "Image": "https://www.rei.com/media/d4338cc8-3a00-4e25-8d40-3cc43a3e872a.jpg"
+    },
+    {
+        "Name": "king no cushion crew socks",
+        "Price": "$14.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/a6b76a85-c442-4d71-9bfb-b5ed0881664d.jpg"
+    },
+    {
+        "Name": "everyday dazzling wonder full cushion crew socks",
+        "Price": "$19.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/9193cf81-cc20-4cfa-b849-34616af7df8d.jpg"
+    },
+    {
+        "Name": "everyday popcorn polka dot full cushion crew socks",
+        "Price": "$19.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/a23fdd93-cd79-4dd8-93cc-be2b3eaf5574.jpg"
+    },
+    {
+        "Name": "advanced speed compression socks",
+        "Price": "$29.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/dfb99365-7d8c-46d8-9a43-51016f97d1a4.jpg"
+    },
+    {
+        "Name": "summit sahara cap",
+        "Price": "$30.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d2619c33-b1a7-4ebb-aeb9-50b1c176cde6.jpg"
+    },
+    {
+        "Name": "max patch light targeted cushion 3/4 crew socks",
+        "Price": "$17.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/3e4b260b-603a-49fe-9ede-d913c467f7ca.jpg"
+    },
+    {
+        "Name": "camper wool hiking socks",
+        "Price": "$13.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/6a621159-b937-43d3-97ba-9f7c26d6ff9c.jpg"
+    },
+    {
+        "Name": "t3+ polartec superlight race ski over the calf socks",
+        "Price": "$22.73",
+        "Savings": "save 62%",
+        "Image": "https://www.rei.com/media/3d495b91-97ed-4196-a63b-b5c1fc1dcf35.jpg"
+    },
+    {
+        "Name": "coolmax ecomade lightweight hiking crew socks",
+        "Price": "$11.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/977ecffb-5e14-4090-a3cb-e8204239ce4d.jpg"
+    },
+    {
+        "Name": "everyday regarita light cushion crew socks - men's",
+        "Price": "$17.73",
+        "Savings": "save 22%",
+        "Image": "https://www.rei.com/media/b086e0ce-a416-435d-888f-fd6ee6815682.jpg"
+    },
+    {
+        "Name": "moraine gloves - men's",
+        "Price": "$37.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/0496d0e9-c1e9-473c-88b9-22a888b4c7f4.jpg"
+    },
+    {
+        "Name": "pro team cycling socks - extra long - men's",
+        "Price": "$16.73",
+        "Savings": "save 44%",
+        "Image": "https://www.rei.com/media/71bddd14-1ee8-4dfb-932a-d015765d42ba.jpg"
+    },
+    {
+        "Name": "everyday barnsley sweater light cushion crew socks",
+        "Price": "$16.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/0ebf91e0-97f6-4693-9242-7309a962e6d9.jpg"
+    },
+    {
+        "Name": "divide street crew socks",
+        "Price": "$13.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/d4895960-13d6-41dd-852a-a66382f9e65d.jpg"
+    },
+    {
+        "Name": "x jiberish ski over the calf zero cushion socks",
+        "Price": "$19.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/73317765-cfae-4ba5-8eae-a5ec2e55051e.jpg"
+    },
+    {
+        "Name": "mid hiker socks",
+        "Price": "$15.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/5c0aa910-afe5-4685-9559-2cfe6d568322.jpg"
+    },
+    {
+        "Name": "run light crew socks - 3 pairs",
+        "Price": "$30.73",
+        "Savings": "save 44%",
+        "Image": "https://www.rei.com/media/4a6d7fd4-81e6-4088-ae97-a5a0bf767d57.jpg"
+    },
+    {
+        "Name": "coldfront down beanie",
+        "Price": "$32.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/37da7c9f-2ea2-4eda-aedc-12bd1fce9461.jpg"
+    },
+    {
+        "Name": "all elements 3.0 touch tip gloves - men's",
+        "Price": "$39.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/6bfd4cbe-7a15-445d-9a4f-2a96ddbace49.jpg"
+    },
+    {
+        "Name": "summit expedition hat",
+        "Price": "$30.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/777e232e-d7b8-499b-9fc6-ed89da86d440.jpg"
+    },
+    {
+        "Name": "trail ridge gloves",
+        "Price": "$69.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/40bf5f67-43fd-4ad2-b802-3d7308219647.jpg"
+    },
+    {
+        "Name": "ski full cushion camo over the calf socks",
+        "Price": "$21.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/64ea213d-1848-45c2-a5c0-d01fde6d8cbf.jpg"
+    },
+    {
+        "Name": "ultra tab socks",
+        "Price": "$10.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/f295719c-9b26-4d6e-8eca-15131f706cb9.jpg"
+    },
+    {
+        "Name": "versa crew socks",
+        "Price": "$11.73",
+        "Savings": "save 41%",
+        "Image": "https://www.rei.com/media/5483254c-76ba-46a6-9b0d-3b5a558333c1.jpg"
+    },
+    {
+        "Name": "superior down clamp gloves",
+        "Price": "$44.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/7ff24cdb-67f8-4054-93e3-2ab8ff7c7cfe.jpg"
+    },
+    {
+        "Name": "graphic cycling socks",
+        "Price": "$18.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/c7ce380c-8c1f-4898-9994-989151c150ee.jpg"
+    },
+    {
+        "Name": "supreme quarter max socks",
+        "Price": "$17.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/cc55c338-64cf-4825-a8c6-af99b521c899.jpg"
+    },
+    {
+        "Name": "minimalist shell mittens - men's",
+        "Price": "$51.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/c9afbfde-b5c9-4f8b-9f1b-fdbc0720ea9b.jpg"
+    },
+    {
+        "Name": "fun hog beanie",
+        "Price": "$26.73",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/0130d471-0ee8-4fb3-bbe5-5469e3578afb.jpg"
+    },
+    {
+        "Name": "lined heavy-duty premium grain and suede pigskin mittens with knit wrists",
+        "Price": "$44.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/40f98a75-3879-457c-aec9-41b2f40972df.jpg"
+    },
+    {
+        "Name": "voyager mittens - men's",
+        "Price": "$82.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/88701338-76cb-4fc6-be7e-9bc97f48e030.jpg"
+    },
+    {
+        "Name": "helium rain full brim hat",
+        "Price": "$40.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/6a9e3bd2-4d27-4466-8bb3-ea1268b9611e.jpg"
+    },
+    {
+        "Name": "fillmore mittens - men's",
+        "Price": "$44.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/18f4273d-f05e-41d8-8c76-877cfe3830c5.jpg"
+    },
+    {
+        "Name": "ultimate spade plus mittens",
+        "Price": "$29.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/50f6444c-34f3-4d87-ac95-b4b7474e3c30.jpg"
+    },
+    {
+        "Name": "mountain time radar hat",
+        "Price": "$31.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/2a75cb55-84d4-4e59-9283-aa1569a356fe.jpg"
+    },
+    {
+        "Name": "everyday color block cable crew socks",
+        "Price": "$14.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/a3ea8542-7751-4da0-95a3-01daf5174acf.jpg"
+    },
+    {
+        "Name": "expedition mittens",
+        "Price": "$89.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/9381bd77-aec9-43ba-882a-bdb88bce5faa.jpg"
+    },
+    {
+        "Name": "active fleece wind gloves",
+        "Price": "$36.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/044b64dc-86dd-4625-82f3-87a814d6b015.jpg"
+    },
+    {
+        "Name": "adrenaline multi-tasker pro balaclava",
+        "Price": "$29.73",
+        "Savings": "save 39%",
+        "Image": "https://www.rei.com/media/4d353159-9201-422d-b458-2a4eb5c40b35.jpg"
+    },
+    {
+        "Name": "small bird cap",
+        "Price": "$39.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/1e500f3e-0cab-4a85-8fd9-afa0c590fc02.jpg"
+    },
+    {
+        "Name": "windy peak socks",
+        "Price": "$13.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/62763a6f-dcaa-4612-ab25-baf18980f2b1.jpg"
+    },
+    {
+        "Name": "ripton neck warmer",
+        "Price": "$18.73",
+        "Savings": "save 46%",
+        "Image": "https://www.rei.com/media/c0342254-bf12-4b92-a110-35a2f8846b95.jpg"
+    },
+    {
+        "Name": "ridgeway gloves",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/0efaa4a5-d5dd-476e-9035-c1155b59c4e0.jpg"
+    },
+    {
+        "Name": "core backcountry knit hat",
+        "Price": "$22.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/3ebdc77d-10f6-4e8c-9a45-f779195f0d90.jpg"
+    },
+    {
+        "Name": "plus mittens - men's",
+        "Price": "$20.73",
+        "Savings": "save 49%",
+        "Image": "https://www.rei.com/media/a41d1920-3660-4581-84aa-f847162de60f.jpg"
+    },
+    {
+        "Name": "tempest neck and face protector",
+        "Price": "$19.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/708d3e57-3846-4ec9-bcdc-edd4491c2011.jpg"
+    },
+    {
+        "Name": "blazin' cap",
+        "Price": "$28.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/e899f500-a446-4974-a645-9d7b7a32c175.jpg"
+    },
+    {
+        "Name": "phosphor down mittens",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/4bda60b6-92a1-46f3-8a2a-f04dbc3d34e8.jpg"
+    },
+    {
+        "Name": "pure liner gloves",
+        "Price": "$29.73",
+        "Savings": "save 19%",
+        "Image": "https://www.rei.com/media/87d5935b-79c0-41f1-b7cb-968145c82b9d.jpg"
+    },
+    {
+        "Name": "alpine onset merino ubertube",
+        "Price": "$24.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/e0482162-4b64-4cf9-ac40-d531a6ec4b82.jpg"
+    },
+    {
+        "Name": "compressor gore-tex mittens",
+        "Price": "$89.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ee3bba2e-f590-4b48-b820-33b35bfc9145.jpg"
+    },
+    {
+        "Name": "alyeska lined knit shell half-finger gloves with convertible mitt hoods",
+        "Price": "$29.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/f1e4a9f1-d239-4f87-b9b1-1b80a005e32d.jpg"
+    },
+    {
+        "Name": "sierra fleece gloves",
+        "Price": "$33.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/07bf2921-1948-475b-84c1-79efcd6d80fe.jpg"
+    },
+    {
+        "Name": "hardwear belay gloves",
+        "Price": "$49.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/929ad24f-7dd8-450a-814a-72650c67c3a8.jpg"
+    },
+    {
+        "Name": "everyday robbers roost crew socks",
+        "Price": "$15.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/993e3b39-11bb-4600-8ba4-7c84c5d1ecff.jpg"
+    },
+    {
+        "Name": "everyday solid rib crew socks",
+        "Price": "$17.73",
+        "Savings": "save 22%",
+        "Image": "https://www.rei.com/media/445e422e-8b44-47f9-9302-b64c608a4758.jpg"
+    },
+    {
+        "Name": "active fleece gloves",
+        "Price": "$33.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/214f8a25-cfd6-43fe-84c5-49ec508e632f.jpg"
+    },
+    {
+        "Name": "hypernight reflective bandana",
+        "Price": "$12.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/e2e8a07c-7cd6-4b4a-a41f-b431d0c92c3c.jpg"
+    },
+    {
+        "Name": "alyeska lined full-finger gloves",
+        "Price": "$17.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/a0439d77-7139-4a3e-89d5-8bb4e8078219.jpg"
+    },
+    {
+        "Name": "alyeska lined full-finger gloves",
+        "Price": "$15.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/a4acde42-80a8-4681-983f-78d840ea1bae.jpg"
+    },
+    {
+        "Name": "baron gore-tex mittens - men's",
+        "Price": "$79.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/101109ab-4a78-426e-93cd-8f93f1ea19cc.jpg"
+    },
+    {
+        "Name": "spitsbergen beanie",
+        "Price": "$29.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/ac6ad362-8f13-47e1-8963-fbad6a914d01.jpg"
+    },
+    {
+        "Name": "adrenaline 3-in-1 gloves - men's",
+        "Price": "$49.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/b5302f6a-2641-4c8a-98df-14e060f4f871.jpg"
+    },
+    {
+        "Name": "vigor plus beanie",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/5cedac7e-709a-45a2-8f1b-7d0d71cc9e32.jpg"
+    },
+    {
+        "Name": "pro team cycling socks - men's",
+        "Price": "$18.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d7004d10-777e-41d0-bb61-9ae11f1d16ed.jpg"
+    },
+    {
+        "Name": "everyday blocked stripe crew socks",
+        "Price": "$14.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/4d774dca-5dee-4e6a-9fd0-aec183936ae0.jpg"
+    },
+    {
+        "Name": "odyssey mittens - men's",
+        "Price": "$79.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/8d58b0bc-0c2f-40a5-9b10-2db37110f2d5.jpg"
+    },
+    {
+        "Name": "phantom gore-tex gloves - men's",
+        "Price": "$86.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/ccbadef9-daba-421b-a94a-3302bdb0496a.jpg"
+    },
+    {
+        "Name": "mistral multi-tasker pro balaclava",
+        "Price": "$26.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/672633bb-ddba-421b-884e-56b73eaa7e08.jpg"
+    },
+    {
+        "Name": "mistral neck and face protector",
+        "Price": "$20.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/b0ca4ada-e340-4e83-8b8a-5f3543135eb4.jpg"
+    },
+    {
+        "Name": "yellowstone light cushion crew socks",
+        "Price": "$15.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/e564b589-060d-456a-a399-02fec78874b0.jpg"
+    },
+    {
+        "Name": "run light crew socks",
+        "Price": "$11.73",
+        "Savings": "save 41%",
+        "Image": "https://www.rei.com/media/82d51aa5-d0ac-413a-b3c2-b212d2be7a48.jpg"
+    },
+    {
+        "Name": "everyday joviansphere crew socks",
+        "Price": "$17.73",
+        "Savings": "save 22%",
+        "Image": "https://www.rei.com/media/11f00a57-230c-4376-9d76-ecad637c3e4b.jpg"
+    },
+    {
+        "Name": "ear band",
+        "Price": "$18.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/e1769509-0d85-4cd4-a374-f036dc912b71.jpg"
+    },
+    {
+        "Name": "sun mask",
+        "Price": "$24.73",
+        "Savings": "save 14%",
+        "Image": "https://www.rei.com/media/d5072ea3-d383-427b-8889-a45d758e47d6.jpg"
+    },
+    {
+        "Name": "gothic gloves",
+        "Price": "$35.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/85e0a93e-b46f-45ff-9d3f-664b2c48c2f9.jpg"
+    },
+    {
+        "Name": "trail anklet max socks",
+        "Price": "$18.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/ee903476-6d18-4a22-8eb6-72daafed41bd.jpg"
+    },
+    {
+        "Name": "lavawool hat",
+        "Price": "$13.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/080c0a8c-a27e-4e85-8fe8-d25db87b33c1.jpg"
+    },
+    {
+        "Name": "team excursion gore-tex mittens - men's",
+        "Price": "$98.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/3355161b-090d-45ce-bbda-f52534f06fdd.jpg"
+    },
+    {
+        "Name": "super armadillo gaiters",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/917e041d-ce1d-411a-b8dc-9543cc7ed303.jpg"
+    },
+    {
+        "Name": "athletic pride pattern crew socks",
+        "Price": "$17.73",
+        "Savings": "save 22%",
+        "Image": "https://www.rei.com/media/8bcd7c45-8332-4beb-a2f4-510119050652.jpg"
+    },
+    {
+        "Name": "supreme anklet max socks",
+        "Price": "$16.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/4f249491-1303-42f4-b5e6-9cbca8ccddae.jpg"
+    },
+    {
+        "Name": "dome perignon hat",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/11c7988c-6593-41da-b648-b1bf4047ec93.jpg"
+    },
+    {
+        "Name": "coastal cable beanie",
+        "Price": "$26.73",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/4cdd2432-8332-4dd1-b009-79a6d3125cb2.jpg"
+    },
+    {
+        "Name": "brodeo beanie",
+        "Price": "$23.73",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/d3c34f68-8628-46fc-adea-7eed1758237a.jpg"
+    },
+    {
+        "Name": "ridgeway mittens",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/f5214024-e45e-4869-b0bf-af7c0db5ec8c.jpg"
+    },
+    {
+        "Name": "uvshield cool gaiter",
+        "Price": "$18.73 - $22.73",
+        "Savings": "save 24% - 25%",
+        "Image": "https://www.rei.com/media/993f13e6-55c2-46cf-af5c-d2169935103e.jpg"
+    },
+    {
+        "Name": "cloud bank gore-tex gloves - men's",
+        "Price": "$74.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/b0390669-2c9b-4838-90f8-26f7081e8d2e.jpg"
+    },
+    {
+        "Name": "merino wool trailsmith crew socks",
+        "Price": "$13.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/804ab033-1c7e-4fd4-8d07-0c12ee06c4a1.jpg"
+    },
+    {
+        "Name": "olden polartec beanie",
+        "Price": "$20.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e82431a4-9aa6-4984-9304-f76791fd6a58.jpg"
+    },
+    {
+        "Name": "everyday traditional snowflake full cushion crew socks",
+        "Price": "$19.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/cc6fc171-db14-4382-9a11-fd12b1a8064f.jpg"
+    },
+    {
+        "Name": "campout beanie",
+        "Price": "$23.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/5218df74-27bf-430f-911b-de7dd0e543eb.jpg"
+    },
+    {
+        "Name": "powderbound midweight snow socks",
+        "Price": "$16.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/bfadbe57-27f2-4954-97d2-c2066aeafe2c.jpg"
+    },
+    {
+        "Name": "everyday popcorn snowflake pattern full cushion crew socks",
+        "Price": "$19.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/47f0f168-00bf-45c1-b010-6aadc5ad2e3e.jpg"
+    },
+    {
+        "Name": "high exposure gore-tex gloves - men's",
+        "Price": "$104.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/53f5f16b-4a2e-46a0-9133-da0c95b096e3.jpg"
+    },
+    {
+        "Name": "route setter alpine work gloves",
+        "Price": "$64.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/300a7086-3f42-4d11-8ce8-d4cd32604115.jpg"
+    },
+    {
+        "Name": "trail quarter med socks",
+        "Price": "$17.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2e9b0c5e-8f3e-4b23-9fcd-6e698ccec100.jpg"
+    },
+    {
+        "Name": "overlook merino wool liner beanie",
+        "Price": "$31.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/c0908467-f43e-4736-927c-cea32a527491.jpg"
+    },
+    {
+        "Name": "shoal hat",
+        "Price": "$37.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/61425d55-fdbb-400b-8d38-d3db1d17a118.jpg"
+    },
+    {
+        "Name": "excursion gore-tex gloves - men's",
+        "Price": "$97.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/7bf1a456-9a47-423e-9df1-d87c0909134c.jpg"
+    },
+    {
+        "Name": "run quarter socks",
+        "Price": "$11.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/bd8ab52c-3ef0-4026-a117-3eae771cd54b.jpg"
+    },
+    {
+        "Name": "quilted bucket hat",
+        "Price": "$30.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/37bacfc5-e9de-457c-add2-bf67fc0bef6e.jpg"
+    },
+    {
+        "Name": "nordic ski light socks",
+        "Price": "$16.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/20da0bb0-668f-49a7-a026-d823d0a3f8f8.jpg"
+    },
+    {
+        "Name": "do good 5-panel hat",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/bd8d4f2f-2273-428c-939d-180cdf43ff89.jpg"
+    },
+    {
+        "Name": "crossfire mittens - men's",
+        "Price": "$24.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/7eda0f0d-c27a-4ffe-b9e9-731756126b06.jpg"
+    },
+    {
+        "Name": "waypoint beanie",
+        "Price": "$33.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/1151f6bf-df03-485a-8821-d405c0de9c90.jpg"
+    },
+    {
+        "Name": "cada dia 5-panel hat",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/1ae245d0-266d-4d3d-9e64-1292e74b82ad.jpg"
+    },
+    {
+        "Name": "everyday cozy lodge full cushion crew socks",
+        "Price": "$19.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/eaeb414f-4634-4114-bc94-a1944da183e4.jpg"
+    },
+    {
+        "Name": "boyd crew socks",
+        "Price": "$10.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/1a2409d9-4c38-4c10-8910-941ffb2e8346.jpg"
+    },
+    {
+        "Name": "run crew socks",
+        "Price": "$13.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/6e6480eb-31b0-4ed7-9302-9fcee34a362c.jpg"
+    },
+    {
+        "Name": "snowbelle beanie",
+        "Price": "$26.73",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/36dbc67b-3631-4fb2-830a-df7a1e8e9223.jpg"
+    },
+    {
+        "Name": "trail anklet med socks",
+        "Price": "$17.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/24c3a128-ad7f-45b2-ac9c-624a6ae2d7ec.jpg"
+    },
+    {
+        "Name": "rush neck warmer",
+        "Price": "$13.73",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/67d7ee38-6fdb-44e9-98ea-eed08ecda432.jpg"
+    },
+    {
+        "Name": "everyday snowed in sweater light cushion crew socks",
+        "Price": "$19.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/1095f0c9-0103-45b5-9b46-f534e2910701.jpg"
+    },
+    {
+        "Name": "bandit gloves - men's",
+        "Price": "$25.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/f5b75a78-9939-468c-bc41-c377750e8b1f.jpg"
+    },
+    {
+        "Name": "charter cold front hat - men's",
+        "Price": "$46.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/11db51f5-0213-47c3-97fc-fcb54db4aab5.jpg"
+    },
+    {
+        "Name": "rocklin fleece gloves",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/36d274e5-d7b0-4b16-a0d9-5bcca93c46fe.jpg"
+    },
+    {
+        "Name": "howling wind fleece beanie",
+        "Price": "$25.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/0fad6d42-d0bf-42f8-abf6-c2a2103e344f.jpg"
+    },
+    {
+        "Name": "boyd quarter socks",
+        "Price": "$10.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/9bf75d1f-a139-461c-8026-cba98201df4d.jpg"
+    },
+    {
+        "Name": "hunting light socks - men's",
+        "Price": "$18.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/6ee2808c-ff79-4395-b46d-10d45202c56f.jpg"
+    },
+    {
+        "Name": "thinline socks - men's",
+        "Price": "$20.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/3e03d36e-ebd3-4bff-bbe4-f088d6478584.jpg"
+    },
+    {
+        "Name": "cloud shadow gore-tex gloves",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/934a04a4-e8ba-4bb7-8d9c-b76482807455.jpg"
+    },
+    {
+        "Name": "apex balaclava",
+        "Price": "$33.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/61510c7d-9ab4-4a04-9f1a-eb47ecf638ee.jpg"
+    },
+    {
+        "Name": "sun guide hat - men's",
+        "Price": "$32.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/0e33a724-789f-4a33-8dec-77af77a54033.jpg"
+    },
+    {
+        "Name": "cairngorm gtx gaiters",
+        "Price": "$52.73",
+        "Savings": "save 41%",
+        "Image": "https://www.rei.com/media/ec4c40bf-2239-4abb-94e1-2fa299bf5449.jpg"
+    },
+    {
+        "Name": "everyday top split stripe crew socks",
+        "Price": "$15.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/a7a95b46-a961-4581-8d67-81d2f9988191.jpg"
+    },
+    {
+        "Name": "the step gloves - men's",
+        "Price": "$41.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c0897883-fe1a-42f3-8956-43ddb30530fe.jpg"
+    },
+    {
+        "Name": "dad hat",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/316fa66a-0ae5-47de-8004-b60887646003.jpg"
+    },
+    {
+        "Name": "eiger free gloves",
+        "Price": "$121.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/bd6b87c0-ff13-4594-bcd1-ec8a72154334.jpg"
+    },
+    {
+        "Name": "cast hat",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/96d1fbed-4084-4853-a312-75a59229af55.jpg"
+    },
+    {
+        "Name": "run light tab socks",
+        "Price": "$10.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/31d4bc88-1b31-418b-ad29-022ba6573c9e.jpg"
+    },
+    {
+        "Name": "haselhoff hat",
+        "Price": "$18.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/cb88e071-834d-4007-ab28-10d1dc3a3b78.jpg"
+    },
+    {
+        "Name": "kananaskis gloves - men's",
+        "Price": "$64.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/6040b0b2-7c3b-46b5-9034-a801280c364f.jpg"
+    },
+    {
+        "Name": "summit socks - men's",
+        "Price": "$21.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/cda6fd60-91c5-491a-9d40-7c856dd35789.jpg"
+    },
+    {
+        "Name": "freeride socks - men's",
+        "Price": "$16.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/285690bf-afc9-4096-a919-85516f57b158.jpg"
+    },
+    {
+        "Name": "cozy beanie",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/3a16fc91-0f69-4426-9667-704345d4cfe4.jpg"
+    },
+    {
+        "Name": "athletic far out tie dye print crew socks",
+        "Price": "$17.73",
+        "Savings": "save 22%",
+        "Image": "https://www.rei.com/media/e5752819-88bb-468f-b06d-737daf346b04.jpg"
+    },
+    {
+        "Name": "comfort lush neck warmer",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/90eb6a6f-6735-405b-80fd-50794b82f927.jpg"
+    },
+    {
+        "Name": "jackson no cushion over-the-calf socks",
+        "Price": "$14.73",
+        "Savings": "save 41%",
+        "Image": "https://www.rei.com/media/3029212d-a4cc-4b82-9b2a-fc3c3a66faa3.jpg"
+    },
+    {
+        "Name": "trail mix ubertube",
+        "Price": "$18.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/68e13fb0-59c7-42e0-bbc2-13e7f66372f1.jpg"
+    },
+    {
+        "Name": "lined premium grain pigskin palm gloves with knit wrists",
+        "Price": "$32.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/e20751de-425c-4bbf-8055-ab2c664a9177.jpg"
+    },
+    {
+        "Name": "norval merino knitted beanie",
+        "Price": "$31.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/d7a5e026-2f1e-4df6-b4ac-33811df2169b.jpg"
+    },
+    {
+        "Name": "trion 3-in-1 gtx gloves - men's",
+        "Price": "$96.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/ea6b83ca-420c-4e92-bbda-d9038ac9c1bf.jpg"
+    },
+    {
+        "Name": "ecostretch balaclava",
+        "Price": "$18.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2c5bed0b-6d10-483a-9f8d-e8a966e241cb.jpg"
+    },
+    {
+        "Name": "tuna lifeguard straw hat",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/a35ccb86-0d9d-44d2-bfa1-59c16fd0c34d.jpg"
+    },
+    {
+        "Name": "athletic in a daze print crew socks",
+        "Price": "$17.73",
+        "Savings": "save 22%",
+        "Image": "https://www.rei.com/media/4f7b839d-189d-4938-814f-eaac29518ef1.jpg"
+    },
+    {
+        "Name": "cross neck and head light gaiter",
+        "Price": "$17.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/8269e7f2-17fe-44ae-94e2-10aa78849b8a.jpg"
+    },
+    {
+        "Name": "drirelease top stripe hiking socks",
+        "Price": "$14.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/fba24f24-4e18-40bf-817c-b9730932616d.jpg"
+    },
+    {
+        "Name": "vaporlite stride cap",
+        "Price": "$28.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/122411b0-63ed-4722-b642-1bc8abb118e1.jpg"
+    },
+    {
+        "Name": "max mittens - men's",
+        "Price": "$42.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/7aadac6e-f8e7-4e43-90c0-a861f55aa989.jpg"
+    },
+    {
+        "Name": "lined heavy-duty premium grain and suede pigskin driver gloves with knit wrists",
+        "Price": "$42.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/94ae9240-c7a3-42ca-a3c6-518b3a0872b3.jpg"
+    },
+    {
+        "Name": "cabin to curb beanie",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/00d50b38-c148-484d-ba3b-e797500bbfe3.jpg"
+    },
+    {
+        "Name": "pocket hat",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/0a8cb5c8-cf5f-4883-981d-0957258227bc.jpg"
+    },
+    {
+        "Name": "aberdeen beanie",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ebda7e71-3cf0-4067-854b-8db1075a106a.jpg"
+    },
+    {
+        "Name": "powderbound lightweight snow socks",
+        "Price": "$15.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/23af0c33-99a8-47f6-aec9-dabd2000afbb.jpg"
+    },
+    {
+        "Name": "ultra adventure hat",
+        "Price": "$37.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/05c6c29c-f0f5-49c9-9c80-8777fbdf50de.jpg"
+    },
+    {
+        "Name": "define neck warmer",
+        "Price": "$13.73",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/eb34cb9c-1e85-4d2d-95cb-8903d3b94167.jpg"
+    },
+    {
+        "Name": "ullr d 3 fingers gloves",
+        "Price": "$82.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/074bc5aa-795b-491a-986b-1b95479e5cc7.jpg"
+    },
+    {
+        "Name": "waypoint mittens",
+        "Price": "$33.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/642e7eed-796e-4cec-bbbd-90be4283da35.jpg"
+    },
+    {
+        "Name": "manaslu hat",
+        "Price": "$23.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/04bae02d-8a91-44b4-a9ab-075f73d652e2.jpg"
+    },
+    {
+        "Name": "hacker merino beanie",
+        "Price": "$23.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/c8dcd2e9-6f4d-4f88-82f4-b58226d16d5f.jpg"
+    },
+    {
+        "Name": "polartec neck gaiter",
+        "Price": "$17.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/2f16dd61-78d2-4aea-835f-e23aa76bbc40.jpg"
+    },
+    {
+        "Name": "200 oasis beanie",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/8260c689-c8a3-4d3e-85fd-139b701e41a9.jpg"
+    },
+    {
+        "Name": "afterhours gloves",
+        "Price": "$36.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/16b164d1-e94a-4b04-94fc-50da84165ee2.jpg"
+    },
+    {
+        "Name": "tempo knit-in crew socks",
+        "Price": "$11.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/8bb59f6e-5277-4de8-b794-9e86f0baa568.jpg"
+    },
+    {
+        "Name": "nord beanie",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/f01a0f2d-0c08-4181-acdf-882ce9d085dd.jpg"
+    },
+    {
+        "Name": "aprespro beanie",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/4d0f06e6-ec73-49b3-96f0-29fdf400b22f.jpg"
+    },
+    {
+        "Name": "solar bucket hat",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/748d9e36-b57d-4011-8d7a-e2211f11f105.jpg"
+    },
+    {
+        "Name": "niels knitted & polar headband",
+        "Price": "$19.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/eeb52a7f-5cca-4115-8524-33a2c995ffa1.jpg"
+    },
+    {
+        "Name": "beau 80/20 wool beanie",
+        "Price": "$28.73",
+        "Savings": "save 22%",
+        "Image": "https://www.rei.com/media/bd4ea5af-1741-4814-ba91-466cd55edf88.jpg"
+    },
+    {
+        "Name": "corina hat",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/032fedcc-9b09-4504-8130-b1769d5a5a24.jpg"
+    },
+    {
+        "Name": "halifax 50/50 merino beanie",
+        "Price": "$20.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/603ff21e-045c-4276-b3a5-d3b0bcd4cce8.jpg"
+    },
+    {
+        "Name": "snow beanie",
+        "Price": "$26.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/f9a053bc-f8a3-49b2-b6ae-3a60edc45bfb.jpg"
+    },
+    {
+        "Name": "hillary hat",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/696fc58f-8303-49fa-b3f8-ed403f524249.jpg"
+    },
+    {
+        "Name": "norgay beanie",
+        "Price": "$26.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/f12d75bb-38cb-4c15-a80e-d088d1d239e9.jpg"
+    },
+    {
+        "Name": "aerial cap",
+        "Price": "$25.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/c7739f49-58ee-4dbe-b925-89b7ef265d6d.jpg"
+    },
+    {
+        "Name": "business 2 beanie",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/80516414-d10d-43a0-b791-10ba6630c2f9.jpg"
+    },
+    {
+        "Name": "comfort shell maxclava stria balaclava",
+        "Price": "$24.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/fee92df3-6f3e-45ca-a45c-b4132b258763.jpg"
+    },
+    {
+        "Name": "fog free fleece face mask",
+        "Price": "$24.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/841c07cb-cbdf-40e8-a610-4edec414f551.jpg"
+    },
+    {
+        "Name": "gordy beanie - men's",
+        "Price": "$24.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/a54fa163-2c39-4b21-ae65-d905beba3100.jpg"
+    },
+    {
+        "Name": "niroj beanie",
+        "Price": "$24.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/5932504b-06bf-4792-a1d7-2b039f379c95.jpg"
+    },
+    {
+        "Name": "clava midweight balaclava",
+        "Price": "$12.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/cab8f5df-018e-4a2d-a67e-058cf756c01c.jpg"
+    },
+    {
+        "Name": "foundation mittens - men's",
+        "Price": "$67.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/f39de47d-0b3a-4178-a7e3-a85ec6c83802.jpg"
+    },
+    {
+        "Name": "powder town beanie",
+        "Price": "$23.73",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/db84b155-c3e4-41ce-bfc5-7f821c9df949.jpg"
+    },
+    {
+        "Name": "meridian thermal earband",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/402d9ad8-b06b-43ec-8cfe-3db45f0adfa8.jpg"
+    },
+    {
+        "Name": "thermo neck gaiter",
+        "Price": "$22.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/d9c3f8a8-2769-4ced-8b86-4cededb25855.jpg"
+    },
+    {
+        "Name": "ski full cushion alpine edge socks",
+        "Price": "$21.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/cd549d76-8795-4355-b294-6d66bf4e5097.jpg"
+    },
+    {
+        "Name": "yeti beanie",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/2a6be4ed-9407-479b-b1bc-eb0dbd9f5453.jpg"
+    },
+    {
+        "Name": "journey wool fur hat",
+        "Price": "$39.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/34f3c91b-27f1-43c4-89c9-5ac83bc0a2a4.jpg"
+    },
+    {
+        "Name": "steephollow beanie",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/82b7c0d0-bca4-4fb8-948c-125b6ffc089d.jpg"
+    },
+    {
+        "Name": "run light wool crew socks",
+        "Price": "$17.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/70ae85bd-cd94-4c0c-9a24-449f597bba32.jpg"
+    },
+    {
+        "Name": "board mittens - men's",
+        "Price": "$44.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/406a6020-e1ac-4323-8079-1b21bec40e47.jpg"
+    },
+    {
+        "Name": "adventure hat",
+        "Price": "$34.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/7beddc9f-5684-4f09-80c5-3685b9bd90b8.jpg"
+    },
+    {
+        "Name": "otto beanie - men's",
+        "Price": "$34.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/edd80dc0-a2d9-4def-8f11-8216e613b584.jpg"
+    },
+    {
+        "Name": "suelo pure merino balaclava",
+        "Price": "$34.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/956d3d94-cf57-4a26-97f1-fc1b063e72e5.jpg"
+    },
+    {
+        "Name": "meridian thermal cap",
+        "Price": "$31.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/42bdaed8-3fc5-4d3d-ace3-34a8457a79fd.jpg"
+    },
+    {
+        "Name": "nordwand beanie",
+        "Price": "$31.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/028aa9a9-6ea9-484d-8596-f4e0fb554ed3.jpg"
+    },
+    {
+        "Name": "sport hat",
+        "Price": "$31.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/c03231ff-5089-4eda-8357-25617785f703.jpg"
+    },
+    {
+        "Name": "ventura hat - men's",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/8bc7ad56-fca5-4cd3-8f3f-7f8dd50afec7.jpg"
+    },
+    {
+        "Name": "andy merino beanie",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/214701df-5612-404d-8fb0-bee30bfbec5e.jpg"
+    },
+    {
+        "Name": "camping lifeguard hat",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/f34a22e3-2809-448b-b570-4c6c13917123.jpg"
+    },
+    {
+        "Name": "yukon cap",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/3bd579e4-1b22-4943-a224-788f8946ab97.jpg"
+    },
+    {
+        "Name": "long socks",
+        "Price": "$14.73",
+        "Savings": "save 18%",
+        "Image": "https://www.rei.com/media/125142a6-33e6-4617-b9a7-5749905c8385.jpg"
+    },
+    {
+        "Name": "prowler neck tube - men's",
+        "Price": "$14.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/d0a5de8a-f28e-4ec6-841f-eddeaa01788e.jpg"
+    },
+    {
+        "Name": "plus gloves - men's",
+        "Price": "$27.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/767d8eac-0594-4f82-95cd-29a161cfaac5.jpg"
+    },
+    {
+        "Name": "run otc socks",
+        "Price": "$13.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/2f23807e-24d5-4da3-8683-61a593556a27.jpg"
+    },
+    {
+        "Name": "durante double-layer neckwarmer",
+        "Price": "$13.73",
+        "Savings": "save 21%",
+        "Image": "https://www.rei.com/media/e5c8f813-4563-4eb3-8215-2e23387275c6.jpg"
+    },
+    {
+        "Name": "jolie beanie",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/a791c762-3717-45b7-969e-75fabf4010df.jpg"
+    },
+    {
+        "Name": "comfort shell stria pipe dream neck gaiter",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/1978d23e-b9cb-4092-a890-3b731adb7fa7.jpg"
+    },
+    {
+        "Name": "ninja balaclava",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/122cab5b-1086-4e9f-b518-74b4b2661f5f.jpg"
+    },
+    {
+        "Name": "andover 80/20 wool beanie",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/c66c5fbb-ceca-4806-8971-7eb14cc03ff3.jpg"
+    },
+    {
+        "Name": "ocean trucker hat",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/c8ba9054-8bd6-4c4e-995f-edfc9b9bd833.jpg"
+    },
+    {
+        "Name": "nightfall reflective beanie",
+        "Price": "$25.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/04513a96-ea92-4f93-8e32-95e362430108.jpg"
+    },
+    {
+        "Name": "marin knitted beanie",
+        "Price": "$25.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/e69d282c-e945-4c14-bc8c-4b821216794c.jpg"
+    },
+    {
+        "Name": "tempest multi-tasker balaclava",
+        "Price": "$24.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2f43936d-048a-4f35-8aec-d5262cc3af62.jpg"
+    },
+    {
+        "Name": "verbier beanie",
+        "Price": "$24.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/779c9c70-955a-460e-a26c-7e9dead0f111.jpg"
+    },
+    {
+        "Name": "adrenaline balaclava",
+        "Price": "$24.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2822fff2-5c97-4561-a762-8613de1b212e.jpg"
+    },
+    {
+        "Name": "lightweight merino beanie",
+        "Price": "$23.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/e837a994-e958-4c79-a4dc-e91f0637835b.jpg"
+    },
+    {
+        "Name": "windbloc face shield maskot balaclava",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/26b8ca8c-a5fa-45da-95df-3ed013378213.jpg"
+    },
+    {
+        "Name": "polar reversible multifunctional neckwear",
+        "Price": "$22.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/d01c50c4-4db7-40b7-9b90-fcf11d67d4a0.jpg"
+    },
+    {
+        "Name": "polar multifunctional neckwear",
+        "Price": "$23.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2d3a0164-d558-49c6-969a-9043d48a0119.jpg"
+    },
+    {
+        "Name": "urban cuff beanie",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/08393232-2704-4bc9-a091-0e142ce58d87.jpg"
+    },
+    {
+        "Name": "everyone's favorite beanie",
+        "Price": "$21.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/71a8a019-e3de-4151-bb6a-f92ae8ae874d.jpg"
+    },
+    {
+        "Name": "neptune beanie",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/7a79767b-dca7-4057-b069-e9580889ff6f.jpg"
+    },
+    {
+        "Name": "trail mix beanie",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/b24beffd-dbaf-4c3f-a76a-619a0db6d6ce.jpg"
+    },
+    {
+        "Name": "neck warmer",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/fec6789a-074b-4e2f-a506-a6c91fb1d444.jpg"
+    },
+    {
+        "Name": "chelonia 150 fleece shellaclava",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/9aac2136-eca5-4b1d-bca4-e8e0d0763be3.jpg"
+    },
+    {
+        "Name": "reflector beanie",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/16679fbd-4320-42d3-87e3-34f5b6f8ac43.jpg"
+    },
+    {
+        "Name": "jumla hat",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/cedf687c-ff82-4274-8f21-03b170ad426e.jpg"
+    },
+    {
+        "Name": "tempest balaclava",
+        "Price": "$20.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/bd34da13-8fe6-4830-b087-c6724711a3ff.jpg"
+    },
+    {
+        "Name": "elon knitted beanie",
+        "Price": "$19.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/3cb82a74-ce4c-474f-b322-e1185bd89331.jpg"
+    },
+    {
+        "Name": "comfort shell stria totally tubular neck gaiter",
+        "Price": "$19.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/268badb4-a91e-45b9-8b06-4b057851469c.jpg"
+    },
+    {
+        "Name": "comfort shell totally tubular print neck gaiter",
+        "Price": "$18.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/be494657-7fb7-41b6-895a-3af26e71e74a.jpg"
+    },
+    {
+        "Name": "juneau beanie",
+        "Price": "$18.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/e82e8bdf-b8e5-4098-af3f-8755b554f9a2.jpg"
+    },
+    {
+        "Name": "logo cuff beanie",
+        "Price": "$17.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/b1271fd5-e88f-48db-81bc-f3abe6a92159.jpg"
+    },
+    {
+        "Name": "traverse beanie",
+        "Price": "$17.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/2a075c52-3da2-4632-a86e-42847155d565.jpg"
+    },
+    {
+        "Name": "everyday cable crew socks",
+        "Price": "$15.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ed7a4163-98c4-459e-9250-31dda960f12b.jpg"
+    },
+    {
+        "Name": "trail socks",
+        "Price": "$14.73",
+        "Savings": "save 18%",
+        "Image": "https://www.rei.com/media/ac7485be-3a1a-49ac-a706-bc0e57dba330.jpg"
+    },
+    {
+        "Name": "lifestyle plaid crew socks",
+        "Price": "$14.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/b9bf14d4-f5c9-4bf6-99c5-57f3594a165d.jpg"
+    },
+    {
+        "Name": "rilla fleece earband",
+        "Price": "$10.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/e1a08499-f12b-4374-a567-bf992e4531e8.jpg"
+    },
+    {
+        "Name": "sunward visor",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/63e419b7-f17f-4284-8e55-6d98a63e9594.jpg"
+    },
+    {
+        "Name": "charter escape hat - men's",
+        "Price": "$43.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/3d76ce84-b282-442d-9b0d-f54cdf77226f.jpg"
+    },
+    {
+        "Name": "dream seeker cooling trucker hat",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/3a999aaf-7bc6-48f9-a843-b211bbbcc7ff.jpg"
+    },
+    {
+        "Name": "afterhours headband",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/01e6cb65-5d57-4c2b-b5b7-5f51203e7e9d.jpg"
+    },
+    {
+        "Name": "micro-elite chamois balaclava with chil-block mask",
+        "Price": "$23.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/315ffeda-d6f8-4fb2-a4e2-9d7ad7c7c651.jpg"
+    },
+    {
+        "Name": "chil-block half mask",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/895ccad6-e951-4319-bbd3-db0338d39a7b.jpg"
+    },
+    {
+        "Name": "micro-elite chamois convertible balaclava",
+        "Price": "$25.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/65574fdf-c860-4d54-8781-99d54264a765.jpg"
+    },
+    {
+        "Name": "micro-elite chamois bandana with mask",
+        "Price": "$17.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/8cf1f6a7-77eb-4016-a5d7-c668b29aee90.jpg"
+    },
+    {
+        "Name": "stowe neck warmer",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/f54fe72e-73ae-42d8-841c-fd3ec6daba6e.jpg"
+    },
+    {
+        "Name": "lavawool mask",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/7a012128-e5e5-49c4-81d9-e1198dced1f5.jpg"
+    },
+    {
+        "Name": "incline neck warmer",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/0c4171c2-466c-4f35-9709-7c5da8f5193d.jpg"
+    },
+    {
+        "Name": "overtime beanie",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/1a9c33b7-9d15-4d0a-a467-13f1f9189aa2.jpg"
+    },
+    {
+        "Name": "breezeblocker beanie",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/23496917-9d05-45c2-80a8-56bcbcc41719.jpg"
+    },
+    {
+        "Name": "everyday cable crew slipper socks",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/09ad2280-0ff7-4e65-988a-943574502b92.jpg"
+    },
+    {
+        "Name": "deviator mittens",
+        "Price": "$46.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/739130c6-fa63-4c96-8cae-aa2594cdd110.jpg"
+    },
+    {
+        "Name": "alpine onset balaclava",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/15c525d2-c61c-4d80-bb4e-597462865009.jpg"
+    },
+    {
+        "Name": "brand beanie",
+        "Price": "$17.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/64e3cb8f-982e-4660-8175-15ffe6597146.jpg"
+    },
+    {
+        "Name": "realfleece merino high-pile mittens",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/04b5c483-4e3f-4d38-8440-9860c7af0ec5.jpg"
+    },
+    {
+        "Name": "thermonet hinged balaclava",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/c1f316c7-a2e6-411a-93c4-afcf394c497d.jpg"
+    },
+    {
+        "Name": "niels knitted beanie",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/961ccd54-dd54-4c7a-99db-279f3c33049a.jpg"
+    },
+    {
+        "Name": "explorer knit beanie",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ccc6c3a6-ffca-4211-88ee-9357ca58a125.jpg"
+    },
+    {
+        "Name": "ida beanie",
+        "Price": "$26.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/91d2012f-1d85-446a-9218-7d2bfd861439.jpg"
+    },
+    {
+        "Name": "comfort luxe pipe dream neck gaiter",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/56975106-80f0-4a1f-b2bd-fbebd43e50e0.jpg"
+    },
+    {
+        "Name": "windbloc face shield",
+        "Price": "$22.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/23b4990f-8c9c-4bfc-9f13-3bb3e7ac5a23.jpg"
+    },
+    {
+        "Name": "supreme quarter med socks",
+        "Price": "$17.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/5ca80197-ad76-4c8a-915c-bc4349e62be1.jpg"
+    },
+    {
+        "Name": "jack pine merino beanie",
+        "Price": "$26.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/492e6a7c-c99e-4bbf-877d-c0b8598037bd.jpg"
+    },
+    {
+        "Name": "team phoenix gore-tex gloves - 2023 - men's",
+        "Price": "$149.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/620c482a-51a0-41c4-a997-09f722b001e0.jpg"
+    },
+    {
+        "Name": "fleece neck tube - men's",
+        "Price": "$18.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/6295bd87-171c-4d54-ae14-7ec9c2b1357b.jpg"
+    },
+    {
+        "Name": "baron gore-tex index mittens - men's",
+        "Price": "$97.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/a5cd884b-fdb5-47f0-87fd-53a1ccde3f55.jpg"
+    },
+    {
+        "Name": "jaya beanie",
+        "Price": "$24.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/aa14dda9-50ca-4331-9b0c-510dcf392e61.jpg"
+    },
+    {
+        "Name": "taj mahal beanie",
+        "Price": "$22.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/23941da8-3a55-4f46-82bf-cc4cc9faef59.jpg"
+    },
+    {
+        "Name": "chico beanie - men's",
+        "Price": "$24.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/3b018ad5-705e-433e-8a1d-24df5cee4e53.jpg"
+    },
+    {
+        "Name": "mogul dry gloves - men's",
+        "Price": "$54.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/eace7df6-89f1-4886-8306-eb76d4e24bea.jpg"
+    },
+    {
+        "Name": "brandt striped beanie",
+        "Price": "$14.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/638d7c51-1405-41a6-bb9b-a83e7df10fac.jpg"
+    },
+    {
+        "Name": "conan mixed beanie",
+        "Price": "$14.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/ab5f1d03-dfef-4699-981d-5d54b47e8518.jpg"
+    },
+    {
+        "Name": "feedback flannel cap",
+        "Price": "$27.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/ccbf46b3-37fd-42bc-9d9a-dc6826b961a1.jpg"
+    },
+    {
+        "Name": "everyone's favorite reversible beanie",
+        "Price": "$20.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/31d24654-212b-42f2-9cd3-3426f72b33ae.jpg"
+    },
+    {
+        "Name": "kodiak gore-tex gloves - men's",
+        "Price": "$119.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d3cbaf13-3e33-4314-9496-96cdca136729.jpg"
+    },
+    {
+        "Name": "micro fur fleece totally tubular neck gaiter",
+        "Price": "$20.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/b94ec517-937d-4837-b7d2-293b5e10cf85.jpg"
+    },
+    {
+        "Name": "gas station beanie",
+        "Price": "$21.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/cacda9f3-07ab-4648-aa7b-feb2f6319880.jpg"
+    },
+    {
+        "Name": "liftie vx beanie",
+        "Price": "$23.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/ba23183c-b7dd-4e93-b4d2-297fcfae828b.jpg"
+    },
+    {
+        "Name": "superior down mittens - men's",
+        "Price": "$44.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2f24d016-b89b-4772-a4ae-fdceccce8c6f.jpg"
+    },
+    {
+        "Name": "max gloves - men's",
+        "Price": "$28.73",
+        "Savings": "save 49%",
+        "Image": "https://www.rei.com/media/241789a3-dc8f-4b73-b364-a4cce18dccc7.jpg"
+    },
+    {
+        "Name": "thermonet multifunctional neckwear",
+        "Price": "$20.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/518f651b-b127-476c-8e9b-7354b7f27370.jpg"
+    },
+    {
+        "Name": "howler multi-tasker pro balaclava",
+        "Price": "$37.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/71fd4258-e10b-4ae2-bff1-266debb46e6d.jpg"
+    },
+    {
+        "Name": "adrenaline multi-liner balaclava",
+        "Price": "$28.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/92700c19-f889-44d9-aa76-0a20d7dca237.jpg"
+    },
+    {
+        "Name": "gradient beanie",
+        "Price": "$25.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/34023fc7-13f1-4131-8139-af34adfc552b.jpg"
+    },
+    {
+        "Name": "carbide sensor gloves - men's",
+        "Price": " $56.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/f334462f-8f4e-4e46-b314-b6aa9ccd1f8f.jpg"
+    },
+    {
+        "Name": "merino fleece neckwarmer",
+        "Price": " $23.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/815d055e-31d5-4eaf-9993-1f606fd761ed.jpg"
+    },
+    {
+        "Name": "sunbriolet sun hat",
+        "Price": " $32.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/0c841934-6433-44ed-83f0-a5ac5512c78d.jpg"
+    },
+    {
+        "Name": "coolmesh ii crew socks",
+        "Price": " $10.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/044c88e0-4aa1-47ae-a586-00036fc3709e.jpg"
+    },
+    {
+        "Name": "tech bucket hat",
+        "Price": " $29.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/72bde4f9-f881-43cc-b388-258a5e475d9c.jpg"
+    },
+    {
+        "Name": "xlp pfi 50 surround comfort heat socks",
+        "Price": " $51.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/1f75d974-71c8-47a2-93df-cbe18247c967.jpg"
+    },
+    {
+        "Name": "active fleece gloves",
+        "Price": " $21.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/db075294-cadc-45b7-8f0e-3e96e0d89127.jpg"
+    },
+    {
+        "Name": "alpinite gore-tex gloves",
+        "Price": " $84.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/79f4825d-fc2f-4c02-82d3-c1e7acfb8cd0.jpg"
+    },
+    {
+        "Name": "p-6 logo trucker hat",
+        "Price": " $26.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/b21ba347-aa62-469f-91cb-ae952c73f614.jpg"
+    },
+    {
+        "Name": "vented trailsmith hat",
+        "Price": " $37.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/e04c5fed-8eb7-4fe9-a7bb-0d2dae843730.jpg"
+    },
+    {
+        "Name": "sahara path hat",
+        "Price": " $24.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/a7370ac4-6732-4a27-b0ed-3531e1b01e06.jpg"
+    },
+    {
+        "Name": "polar multifunctional neckwear",
+        "Price": " $21.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/26d39359-d572-42ab-a73f-bf0bee750aff.jpg"
+    },
+    {
+        "Name": "p-6 label trad cap",
+        "Price": " $26.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/732719f5-eb35-4e46-a285-2f9c917f8d7f.jpg"
+    },
+    {
+        "Name": "seattle rain cap",
+        "Price": " $36.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/545dbc63-cff0-42bb-ac49-587ca70439cc.jpg"
+    },
+    {
+        "Name": "classic knit hat",
+        "Price": " $30.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/4e85525c-3d18-4514-b7ca-8674071da990.jpg"
+    },
+    {
+        "Name": "lightweight logo beanie",
+        "Price": " $13.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/d7d75d92-a56d-4017-ad8c-bf096bdaddb8.jpg"
+    },
+    {
+        "Name": "ghost lite no-show socks - 2 pairs",
+        "Price": " $13.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/760d8c12-c560-46e6-a623-066785ebf7ee.jpg"
+    },
+    {
+        "Name": "run calf sleeves 4.0 - men's",
+        "Price": " $30.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/d335a70f-caeb-46c4-84ed-a653d1f1bdad.jpg"
+    },
+    {
+        "Name": "ghost lite crew socks - 2 pairs",
+        "Price": " $15.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/6701f16f-dfa3-4c20-bd5a-6b445cb356a0.jpg"
+    },
+    {
+        "Name": "ribbed watch cap",
+        "Price": " $11.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/69948e61-5590-409b-9839-35b7377ed7ce.jpg"
+    },
+    {
+        "Name": "expedition crocodile gaiters",
+        "Price": " $73.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/0efdb998-8053-497a-9294-27aecb099dd4.jpg"
+    },
+    {
+        "Name": "logo beanie",
+        "Price": " $11.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/c461614b-6756-44c4-8dad-75406b3c80eb.jpg"
+    },
+    {
+        "Name": "mount hood overhood",
+        "Price": " $37.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/f38e3024-8105-4079-9356-bcb91c3b4869.jpg"
+    },
+    {
+        "Name": "active fleece wind mittens",
+        "Price": " $24.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/10a27a9c-2b88-45e6-affd-3661b130baac.jpg"
+    },
+    {
+        "Name": "excursion gore-tex gloves - men's",
+        "Price": " $90.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/2ab89334-1f1b-4f9e-b649-89a80d3bbfae.jpg"
+    },
+    {
+        "Name": "scud crew socks",
+        "Price": "$8.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/f4b7990c-01d0-47a6-9ce4-e5d313a46cb1.jpg"
+    },
+    {
+        "Name": "trailmade cuff beanie",
+        "Price": " $9.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/b4117e3a-6c57-4074-9653-fa13860f5353.jpg"
+    },
+    {
+        "Name": "socks that save dogs",
+        "Price": "$6.83",
+        "Savings": "save 54%",
+        "Image": "https://www.rei.com/media/2660535b-699f-4da8-93d8-3cbb30cbbad5.jpg"
+    },
+    {
+        "Name": "everyday striped cable crew socks",
+        "Price": "$9.83",
+        "Savings": "save 53%",
+        "Image": "https://www.rei.com/media/def41c7b-6c82-4ec4-925d-a3ec874396f4.jpg"
+    },
+    {
+        "Name": "socks that save dogs",
+        "Price": "$7.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/fe4d4ca0-0bb7-4203-ad83-a765c4d2be4e.jpg"
+    },
+    {
+        "Name": "socks that give books",
+        "Price": "$6.83",
+        "Savings": "save 54%",
+        "Image": "https://www.rei.com/media/b0e628a7-490e-4140-9f33-36db99f625f3.jpg"
+    },
+    {
+        "Name": "essential face cover kit",
+        "Price": "$9.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/d052ea95-7fc2-481d-9d20-3f814d81c164.jpg"
+    },
+    {
+        "Name": "socks that protect turtles",
+        "Price": "$8.93",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/d41b7355-78ca-4486-9b75-d984ac4cc60d.jpg"
+    },
+    {
+        "Name": "whirlibird watch cap beanie",
+        "Price": "$9.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/dd4a2298-f28f-4c2a-85ed-04b41cab9447.jpg"
+    },
+    {
+        "Name": "low socks that save lgbtq lives",
+        "Price": "$8.93",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/9ba6fad0-d044-4802-9a16-9d5c53c515be.jpg"
+    },
+    {
+        "Name": "socks that protect toucans",
+        "Price": "$8.93",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/d96cb9e5-7e7f-4af6-b856-c2ca1dc205a4.jpg"
+    },
+    {
+        "Name": "snakin scoobs snow midweight socks",
+        "Price": "$6.83",
+        "Savings": "save 72%",
+        "Image": "https://www.rei.com/media/72c7440c-9948-46c5-b9be-e270d8a4dfc1.jpg"
+    },
+    {
+        "Name": "trailmade reversible beanie",
+        "Price": "$9.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/7e88aac6-7453-4a09-aea8-69d49144b531.jpg"
+    },
+    {
+        "Name": "traditions snow otc socks",
+        "Price": "$9.73",
+        "Savings": "save 55%",
+        "Image": "https://www.rei.com/media/d1a5a01d-c243-4099-b448-adfef26a4a26.jpg"
+    },
+    {
+        "Name": "swiftland run low socks - seconds",
+        "Price": "$9.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/c6d4b1e5-ddda-4ed5-9183-d20554d7a7cb.jpg"
+    },
+    {
+        "Name": "trail mix earband",
+        "Price": "$8.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/842c7295-356a-472e-84e7-7e295b7b6985.jpg"
+    },
+    {
+        "Name": "repreve active low socks",
+        "Price": "$8.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/a132836f-45f8-43ea-8807-462089461c25.jpg"
+    },
+    {
+        "Name": "multisport socks",
+        "Price": "$9.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/a9d8e047-4a63-4f83-8e5a-f71fe1adefdc.jpg"
+    },
+    {
+        "Name": "repreve active quarter socks",
+        "Price": "$8.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/c66d2e8f-4a1e-4f3b-9a64-bdf8b3bab6a3.jpg"
+    },
+    {
+        "Name": "polar neckwarmer",
+        "Price": "$9.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/7dbb9579-e93f-484e-b99a-dfb95b268cc2.jpg"
+    },
+    {
+        "Name": "liner crew socks",
+        "Price": " $7.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/17614921-7861-4857-a056-f89ab2d902a6.jpg"
+    },
+    {
+        "Name": "trailsmith merino wool crew socks",
+        "Price": " $7.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/e86b417e-acd6-4948-97ce-cac6be592fdd.jpg"
+    },
+    {
+        "Name": "ghost lite crew socks",
+        "Price": " $8.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/3fddca55-80c3-42c9-b287-9ed7b615797b.jpg"
+    }
+]

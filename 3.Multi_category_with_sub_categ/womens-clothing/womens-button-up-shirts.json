@@ -1,0 +1,362 @@
+[
+    {
+        "Name": "bugsaway brisa woven long-sleeve shirt - women's",
+        "Price": "$69.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/d79c0d8e-4188-4494-a1c1-0a06b60dbe72.jpg"
+    },
+    {
+        "Name": "first trail upf long-sleeve shirt - women's",
+        "Price": " $62.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/55c4186f-450e-4620-960c-b07e34358bcb.jpg"
+    },
+    {
+        "Name": "dylan gauze tunic - women's",
+        "Price": "$46.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/08ca3026-fe64-4d58-ab77-15e4652ecfe2.jpg"
+    },
+    {
+        "Name": "sahara solid long-sleeve shirt - women's",
+        "Price": "$44.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/b096ba41-71de-4244-aeff-a2d0a1f3c9d7.jpg"
+    },
+    {
+        "Name": "re-form flannel long-sleeve shirt - women's",
+        "Price": "$49.73",
+        "Savings": "save 41%",
+        "Image": "https://www.rei.com/media/48877d66-7101-4fe3-8675-7416eb01dc26.jpg"
+    },
+    {
+        "Name": "long-sleeve guide shirt - women's",
+        "Price": " $41.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/23dcd376-1c4f-44d6-87a5-b42e7c182dc9.jpg"
+    },
+    {
+        "Name": "dream trekker flannel long-sleeve shirt - women's",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/8c623ffc-0f73-41b1-909a-c6c61b2d63a3.jpg"
+    },
+    {
+        "Name": "katya top - women's",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/6848d219-d05a-4bbf-940f-5dab60f1e112.jpg"
+    },
+    {
+        "Name": "tess flannel shirt - women's",
+        "Price": "$61.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/34cdc803-4c9f-49a0-97d9-bf6af15495fe.jpg"
+    },
+    {
+        "Name": "trailmade pullover - women's",
+        "Price": "$34.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/4f6d8b4c-6682-4063-a937-6a9b6cc37aa8.jpg"
+    },
+    {
+        "Name": "kamp long-sleeve shirt - women's",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/e9876573-aa5b-4a5b-a642-c341a0a16d22.jpg"
+    },
+    {
+        "Name": "wallace lake flannel shirt - women's",
+        "Price": " $21.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/c2768d3e-a5ef-45b2-b59d-a6ec5ac8577c.jpg"
+    },
+    {
+        "Name": "railay long-sleeve button-down shirt - women's",
+        "Price": " $68.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/6c8e5a59-9eec-429f-b63c-c0276aff338e.jpg"
+    },
+    {
+        "Name": "kulshan flannel shirt - women's",
+        "Price": "$56.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/5b4fad49-cb73-4289-be23-2d6e32afc605.jpg"
+    },
+    {
+        "Name": "spotless traveler shirt - women's",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/047cc384-9331-42a0-8eea-07c7c2dbfe59.jpg"
+    },
+    {
+        "Name": "kamila flannel shirt - women's",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/dffd3b31-86a7-43b9-a20c-d8a71bdbab7a.jpg"
+    },
+    {
+        "Name": "feedback light flannel shirt - women's",
+        "Price": "$41.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/42411faa-8885-4ddf-a81a-7c93c460ad5c.jpg"
+    },
+    {
+        "Name": "merino hike long-sleeve top - women's",
+        "Price": "$148.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/3f5be9b2-453f-4649-8043-6cd85d4eed5d.jpg"
+    },
+    {
+        "Name": "way station long-sleeve shirt - women's",
+        "Price": "$65.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/590c0d6b-f315-49cd-b7c7-1c49a24cecb8.jpg"
+    },
+    {
+        "Name": "trail sender shirt - women's",
+        "Price": "$51.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/bf4d354d-7850-4cd8-ac05-e017b40f895a.jpg"
+    },
+    {
+        "Name": "spotless evolution shirt - women's",
+        "Price": "$61.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/8fc87aeb-539e-4cc5-9d80-c674970b9558.jpg"
+    },
+    {
+        "Name": "silver ridge utility long-sleeve shirt - women's",
+        "Price": " $41.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/019a0864-79a4-4ab3-9b3f-1070793b2b7d.jpg"
+    },
+    {
+        "Name": "feedback flannel twill shirt - women's",
+        "Price": "$63.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/7f1310a6-d631-4313-8178-2b5428159dae.jpg"
+    },
+    {
+        "Name": "oasis shirt - women's",
+        "Price": "$65.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/bd46a545-cef2-4588-ac49-cac7680eda6d.jpg"
+    },
+    {
+        "Name": "lieback flex tunic long-sleeve shirt - women's",
+        "Price": "$71.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/5d313e49-2166-416e-821d-5f7524dcded7.jpg"
+    },
+    {
+        "Name": "fairfax novelty lightweight flannel shirt - women's",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/583bcb99-fee6-4d14-aba9-6c4ae921c7e9.jpg"
+    },
+    {
+        "Name": "astroman sun shirt - women's",
+        "Price": "$68.73 - $74.73",
+        "Savings": "save 24% - 30%",
+        "Image": "https://www.rei.com/media/425042ef-dde9-4929-9dc3-b4022c0e0730.jpg"
+    },
+    {
+        "Name": "long-sleeve midweight fjord flannel shirt - women's",
+        "Price": "$28.93",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/ff25b7d9-19b5-4619-adaa-5fa122c1ba75.jpg"
+    },
+    {
+        "Name": "may flannel shirt - women's",
+        "Price": "$104.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/08bf6663-5ef1-4597-8e70-49912b0495e8.jpg"
+    },
+    {
+        "Name": "ryan cargo shirt - women's",
+        "Price": "$63.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/7b359be9-0d69-46bd-886e-987036dd248c.jpg"
+    },
+    {
+        "Name": "iguala top - women's",
+        "Price": "$54.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/5754b6ac-15f6-440d-85a7-fdda2721b4d8.jpg"
+    },
+    {
+        "Name": "merino 200 dawnder long-sleeve flannel plaid shirt - women's",
+        "Price": "$149.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/6cbb8f2d-4411-4f06-b07c-9fc66d5a9e6c.jpg"
+    },
+    {
+        "Name": "kamila stripe shirt - women's",
+        "Price": "$54.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/f779adbf-9cf1-44c5-9c34-8af004cf2317.jpg"
+    },
+    {
+        "Name": "granite peak long-sleeve flannel shirt - women's",
+        "Price": "$64.73",
+        "Savings": "save 41%",
+        "Image": "https://www.rei.com/media/f829be62-4317-4f5d-8f24-e0770a9a6821.jpg"
+    },
+    {
+        "Name": "dolores flannel long-sleeve shirt - women's",
+        "Price": "$57.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/25c68d84-a752-49b3-9c1c-259e966a61ec.jpg"
+    },
+    {
+        "Name": "stryder long-sleeve shirt - women's",
+        "Price": "$61.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/673a9cd4-c4ce-48df-9e81-2155d98fe736.jpg"
+    },
+    {
+        "Name": "holly hideaway flannel shirt - women's",
+        "Price": "$39.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/50a503f6-e27a-4373-a878-f74b57587837.jpg"
+    },
+    {
+        "Name": "silver ridge utility patterned long-sleeve shirt - women's",
+        "Price": "$31.83 - $44.93",
+        "Savings": "save 30% - 51%",
+        "Image": "https://www.rei.com/media/92a4f3d9-5116-413f-8071-36aec20cd90e.jpg"
+    },
+    {
+        "Name": "fairfax boyfriend midweight flannel shirt - women's",
+        "Price": "$54.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/58b17c3e-ccc5-4c3a-8074-01278ac498f6.jpg"
+    },
+    {
+        "Name": "thermotech flannel shirt - women's",
+        "Price": "$49.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/c5385055-0160-4ab1-8a77-3220222e57bb.jpg"
+    },
+    {
+        "Name": "heavyweight fjord flannel overshirt - women's",
+        "Price": "$93.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/e2ddcea6-5eb2-44ca-8922-23f4deb76a75.jpg"
+    },
+    {
+        "Name": "lightweight a/c button-down shirt - women's",
+        "Price": "$68.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/0c264597-1519-4e03-a068-c5ef5856947e.jpg"
+    },
+    {
+        "Name": "feedback flannel shirt - women's",
+        "Price": "$56.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/1ebdcb79-a7f7-478b-a48d-a3c421d0ac74.jpg"
+    },
+    {
+        "Name": "lightweight a/c shirt - women's",
+        "Price": "$54.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e903bd95-595b-426c-8856-fcbda8633409.jpg"
+    },
+    {
+        "Name": "calico basin long-sleeve shirt - women's",
+        "Price": "$24.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/3251c0c5-ebcb-43b3-bf47-ab2e31f619da.jpg"
+    },
+    {
+        "Name": "fairfax midweight flannel shirt - women's",
+        "Price": "$22.73",
+        "Savings": "save 67%",
+        "Image": "https://www.rei.com/media/e123226f-785b-4d50-9fb7-dd9683b0ff06.jpg"
+    },
+    {
+        "Name": "camp cove shirt - women's",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/6029a232-7742-45d3-9a9d-f9c9925c292d.jpg"
+    },
+    {
+        "Name": "astroman long-sleeve sun shirt - women's",
+        "Price": "$81.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/17db0086-fd6e-46b9-ade6-9a02c0f9c960.jpg"
+    },
+    {
+        "Name": "elsie shirt - women's",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/1252b813-28cc-4f04-ad71-c9360d442d43.jpg"
+    },
+    {
+        "Name": "in the shade shirt - women's",
+        "Price": "$46.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/7675c409-aaaf-48a5-ab67-f66d047e1018.jpg"
+    },
+    {
+        "Name": "garner top - women's",
+        "Price": "$21.73",
+        "Savings": "save 61%",
+        "Image": "https://www.rei.com/media/7bd39cfa-50fe-4e26-9173-3f1a5eb05bc9.jpg"
+    },
+    {
+        "Name": "long-sleeved organic cotton midweight fjord flannel shirt - women's",
+        "Price": "$48.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/220b4fde-47e2-488b-9ea7-0b8eb0da1f30.jpg"
+    },
+    {
+        "Name": "meadow run flannel shirt - women's",
+        "Price": "$62.73",
+        "Savings": "save 42%",
+        "Image": "https://www.rei.com/media/1c7976fb-e848-4688-b6e0-3d8c54f26dbb.jpg"
+    },
+    {
+        "Name": "incline heavyweight flannel overshirt - women's",
+        "Price": "$75.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/5ee118dc-029f-4807-b7ce-bb44a86ba788.jpg"
+    },
+    {
+        "Name": "katya long-sleeve top - women's",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/bded310c-9e10-4f16-b363-38abf2e3f760.jpg"
+    },
+    {
+        "Name": "expedition pro tunic - women's",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2a8874c7-9eea-45c8-880e-b0c05c01e165.jpg"
+    },
+    {
+        "Name": "lokka flannel long-sleeve shirt - women's",
+        "Price": "$74.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/be1dc4fe-9502-42c6-9fb1-6de8d8e641b9.jpg"
+    },
+    {
+        "Name": "feedback flannel shirt - women's",
+        "Price": "$59.73",
+        "Savings": "save 37%",
+        "Image": "https://www.rei.com/media/f2826000-3016-40ab-83f1-b50862764af4.jpg"
+    },
+    {
+        "Name": "lieback organic cotton flannel shirt - women's",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/1d88497d-78e8-41ff-a315-4549c1924bf1.jpg"
+    },
+    {
+        "Name": "dirt shirt - women's",
+        "Price": " $75.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/268aad7e-866b-4b7f-bfd3-3778f117f664.jpg"
+    }
+]

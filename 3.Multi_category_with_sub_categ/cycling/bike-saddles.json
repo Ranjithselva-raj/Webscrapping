@@ -2,31 +2,37 @@
     {
         "Name": "boulevard bike saddle",
         "Price": "$29.93",
+        "Savings": "save 48%",
         "Image": "https://www.rei.com/media/d2cb9e23-806e-4943-a72f-0a3d3c4867dd.jpg"
     },
     {
         "Name": "sport bike saddle - women's",
         "Price": "$24.93",
+        "Savings": "save 32%",
         "Image": "https://www.rei.com/media/d9c2e2f3-777d-4acb-9630-019411cd8539.jpg"
     },
     {
         "Name": "corta bike saddle - women's",
         "Price": "$139.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/f43d3094-16bc-4ae8-a274-0e9ed78c02bb.jpg"
     },
     {
         "Name": "verse short elite trail bike saddle",
         "Price": " $111.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/1452ba92-d6f7-4e5a-8db7-9fef6023a33e.jpg"
     },
     {
         "Name": "butterfly cromoly saddle - women's",
         "Price": "$55.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/cb858cfc-9f74-4c4c-8b56-b3cee11183d8.jpg"
     },
     {
         "Name": "crusier saddle",
         "Price": "$27.93",
+        "Savings": "save 30%",
         "Image": "https://www.rei.com/media/ba34b4ef-aa18-46a0-a5c1-f5524b30d2a7.jpg"
     }
 ]

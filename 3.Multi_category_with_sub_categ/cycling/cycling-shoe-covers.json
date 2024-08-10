@@ -2,11 +2,13 @@
     {
         "Name": "c3 gore-tex overshoes",
         "Price": " $69.93",
+        "Savings": null,
         "Image": "https://www.rei.com/media/a06ecb5e-c5a5-46fc-ae88-1dd7108fc57d.jpg"
     },
     {
         "Name": "all-weather led overshoes",
         "Price": "$31.83",
+        "Savings": "save 51%",
         "Image": "https://www.rei.com/media/73565dbb-487d-42e2-bab7-c5c7a3c71a8f.jpg"
     }
 ]

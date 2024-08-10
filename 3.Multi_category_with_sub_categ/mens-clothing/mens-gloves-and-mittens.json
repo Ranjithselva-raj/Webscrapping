@@ -1,0 +1,1268 @@
+[
+    {
+        "Name": "fleece gloves - men's",
+        "Price": "$20.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/3f324e31-1343-4a5d-994c-8f1324706cac.jpg"
+    },
+    {
+        "Name": "active fleece insulated gloves",
+        "Price": "$38.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/5c848df0-0584-46d9-9985-5d90193d7c62.jpg"
+    },
+    {
+        "Name": "bandit gloves - men's",
+        "Price": "$25.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/f5b75a78-9939-468c-bc41-c377750e8b1f.jpg"
+    },
+    {
+        "Name": "cascade outdoor gloves - men's",
+        "Price": "$13.73",
+        "Savings": "save 61%",
+        "Image": "https://www.rei.com/media/2249b2f5-1582-4c61-9980-a9e8e8c2ee0a.jpg"
+    },
+    {
+        "Name": "front range gloves - men's",
+        "Price": "$31.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/e9ce04c8-4a86-4aa5-97db-3443b1bbd11f.jpg"
+    },
+    {
+        "Name": "heatwave liner gloves",
+        "Price": "$16.93",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/358ee8a6-a7d2-4aee-be64-71311b429c84.jpg"
+    },
+    {
+        "Name": "xtreme hyperlite gloves - men's",
+        "Price": "$37.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/486c4ff0-681e-4d93-8abe-37b0bed2fe68.jpg"
+    },
+    {
+        "Name": "madson gloves - men's",
+        "Price": "$31.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/cf6d5e1e-5785-49e7-9796-5fce13486606.jpg"
+    },
+    {
+        "Name": "all elements 3.0 touch tip gloves - men's",
+        "Price": "$39.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/6bfd4cbe-7a15-445d-9a4f-2a96ddbace49.jpg"
+    },
+    {
+        "Name": "guide gloves",
+        "Price": "$125.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/27275bc3-8c1c-473c-ae89-1e110d031e8a.jpg"
+    },
+    {
+        "Name": "rocklin fleece gloves",
+        "Price": "$29.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/36d274e5-d7b0-4b16-a0d9-5bcca93c46fe.jpg"
+    },
+    {
+        "Name": "alyeska lined knit shell half-finger gloves with convertible mitt hoods",
+        "Price": "$29.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/f1e4a9f1-d239-4f87-b9b1-1b80a005e32d.jpg"
+    },
+    {
+        "Name": "stormtracker sensor gloves - men's",
+        "Price": "$42.73",
+        "Savings": "save 45%",
+        "Image": "https://www.rei.com/media/4fa5c12f-f6b4-4e82-8c93-a6fe455b71cd.jpg"
+    },
+    {
+        "Name": "montana ski mittens - men's",
+        "Price": "$31.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/16bc4caa-dfbd-4ac9-9f81-399b39e550f9.jpg"
+    },
+    {
+        "Name": "sweater weather fleece gloves - men's",
+        "Price": "$14.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/abc49d08-d0f6-44cf-8b09-4d1e390be78f.jpg"
+    },
+    {
+        "Name": "flurry sensor gloves - men's",
+        "Price": "$29.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/46098be0-5d1e-45a7-a932-16705ec9d8cd.jpg"
+    },
+    {
+        "Name": "methow stride gloves",
+        "Price": "$28.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/5fbb49dd-1431-4bf7-9af2-8d80db571fb5.jpg"
+    },
+    {
+        "Name": "ridgeway gloves",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/0efaa4a5-d5dd-476e-9035-c1155b59c4e0.jpg"
+    },
+    {
+        "Name": "gauntlet gtx split-finger mittens",
+        "Price": "$39.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/48e63c03-4fa1-4e91-a974-ee9cf0c89fad.jpg"
+    },
+    {
+        "Name": "active fleece wind gloves",
+        "Price": "$36.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/044b64dc-86dd-4625-82f3-87a814d6b015.jpg"
+    },
+    {
+        "Name": "kodiak gore-tex gloves - men's",
+        "Price": "$119.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d3cbaf13-3e33-4314-9496-96cdca136729.jpg"
+    },
+    {
+        "Name": "ullr d 3 fingers gloves",
+        "Price": "$82.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/074bc5aa-795b-491a-986b-1b95479e5cc7.jpg"
+    },
+    {
+        "Name": "active fleece gloves",
+        "Price": "$33.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/214f8a25-cfd6-43fe-84c5-49ec508e632f.jpg"
+    },
+    {
+        "Name": "afterhours gloves",
+        "Price": "$36.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/16b164d1-e94a-4b04-94fc-50da84165ee2.jpg"
+    },
+    {
+        "Name": "moraine gloves - men's",
+        "Price": "$37.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/0496d0e9-c1e9-473c-88b9-22a888b4c7f4.jpg"
+    },
+    {
+        "Name": "pure liner gloves",
+        "Price": "$29.73",
+        "Savings": "save 19%",
+        "Image": "https://www.rei.com/media/87d5935b-79c0-41f1-b7cb-968145c82b9d.jpg"
+    },
+    {
+        "Name": "cloud bank gore-tex gloves - men's",
+        "Price": "$74.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/b0390669-2c9b-4838-90f8-26f7081e8d2e.jpg"
+    },
+    {
+        "Name": "gothic gloves",
+        "Price": "$35.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/85e0a93e-b46f-45ff-9d3f-664b2c48c2f9.jpg"
+    },
+    {
+        "Name": "lyng waterproof all-weather gloves with fusion control",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c6694e1c-9c6a-4861-8688-d9cfc8f481cc.jpg"
+    },
+    {
+        "Name": "xtreme all weather gloves",
+        "Price": "$41.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e6790a20-ca1e-4afc-808e-39abf6f03ab9.jpg"
+    },
+    {
+        "Name": "tactility heat liner gloves",
+        "Price": "$255.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/0a317510-8a09-44a3-8568-4c3366de9fc5.jpg"
+    },
+    {
+        "Name": "walcott waterproof cold-weather gloves with fusion control",
+        "Price": "$76.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/bb2adfea-1a85-460e-b9cc-69ffdc8acaf1.jpg"
+    },
+    {
+        "Name": "soundtouch xtreme all weather gloves - men's",
+        "Price": "$44.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/b1698f5f-f67e-41e4-a5f1-4a1a361e33a4.jpg"
+    },
+    {
+        "Name": "waterproof extreme cold weather insulated gauntlet gloves",
+        "Price": "$64.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/8dce7250-3050-48c4-932f-910af09a0ad6.jpg"
+    },
+    {
+        "Name": "fillmore gore-tex gloves - men's",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/72faeb6c-6e31-4080-9707-0bff44a42f8f.jpg"
+    },
+    {
+        "Name": "fillmore gore-tex short mittens - men's",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/1497d71b-dfdb-476b-b3e5-de394d170c11.jpg"
+    },
+    {
+        "Name": "phoenix gore-tex mittens - men's",
+        "Price": "$132.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9da39912-f3a3-414d-950d-cb9a0be34aa8.jpg"
+    },
+    {
+        "Name": "heatwave plus soundtouch ascent gloves - men's",
+        "Price": "$83.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/d140500c-a824-4f32-ae24-d040aef68137.jpg"
+    },
+    {
+        "Name": "twyford waterproof cold-weather work gloves with fusion control",
+        "Price": "$76.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/21ca0ba4-1c1a-47a0-8db4-7306bc8ffbd2.jpg"
+    },
+    {
+        "Name": "fillmore gore-tex short trigger mittens - men's",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/2fa3ce12-91a1-4dcd-8528-ddcbce626321.jpg"
+    },
+    {
+        "Name": "icon universal insulated mittens",
+        "Price": "$48.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/d83e120d-f180-4905-8154-aaf84656eb53.jpg"
+    },
+    {
+        "Name": "swaffham waterproof extreme cold weather insulated gauntlet gloves",
+        "Price": "$90.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/61bd121f-260e-4084-93a1-0889786b7cbb.jpg"
+    },
+    {
+        "Name": "fring waterproof extreme cold weather insulated gloves with fusion control",
+        "Price": "$90.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c4f3549d-a5b9-4993-b159-ad1860d3b85b.jpg"
+    },
+    {
+        "Name": "heattouch atlas mid gloves",
+        "Price": "$174.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/cd873ae2-5803-4787-86c6-9f4edac8e52f.jpg"
+    },
+    {
+        "Name": "powder gauntlet gloves",
+        "Price": "$75.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/957dd682-d766-4569-a806-73c088a8be3f.jpg"
+    },
+    {
+        "Name": "topo 3-finger gloves",
+        "Price": "$123.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/1eba7e5a-7608-4432-804e-dbe436f2cb6b.jpg"
+    },
+    {
+        "Name": "cragmont fleece mittens",
+        "Price": "$31.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/71b8c51d-b7ab-43e1-8357-de5b5522cd83.jpg"
+    },
+    {
+        "Name": "hicamp sherpa fleece gloves",
+        "Price": "$18.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/f88eb489-73f9-47b0-9ea3-d3433ad95f7f.jpg"
+    },
+    {
+        "Name": "waterproof extreme cold insulated finger-mittens with fusion control",
+        "Price": "$64.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/a247e6ca-e7fd-4285-8a37-79e3352632b3.jpg"
+    },
+    {
+        "Name": "army leather patrol insulated gauntlet gloves",
+        "Price": "$131.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/063f8dd4-bf8c-425e-ae8d-22aec9c70491.jpg"
+    },
+    {
+        "Name": "magarac gloves",
+        "Price": "$44.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/fa14b1f1-18af-4ca4-9aa2-ddca598a100c.jpg"
+    },
+    {
+        "Name": "midweight screentap fleece gloves",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/0bfc278d-b767-4db5-a98b-4075e9627b12.jpg"
+    },
+    {
+        "Name": "windweight convertible mittens",
+        "Price": "$29.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/61c31f1e-0981-4260-b5d6-712127bbcbb6.jpg"
+    },
+    {
+        "Name": "copper s gloves",
+        "Price": "$83.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/099ed974-df85-400d-b522-5dbfd3cb18ec.jpg"
+    },
+    {
+        "Name": "hicamp fleece mittens",
+        "Price": "$18.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/6f55af16-0f54-4cec-b136-a6b09524756a.jpg"
+    },
+    {
+        "Name": "spring gloves",
+        "Price": "$44.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/24e3e9ab-1ced-41a3-bf99-e772371ae82d.jpg"
+    },
+    {
+        "Name": "gore-tex 3-in-1 gloves - men's",
+        "Price": "$58.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/cde10df2-f7ac-451e-b3c7-36f44c13415c.jpg"
+    },
+    {
+        "Name": "vigor heavyweight sensor gloves - men's",
+        "Price": "$21.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/688b486e-d9b0-4cc4-b8dc-26786fc11a95.jpg"
+    },
+    {
+        "Name": "switchback gtx gloves 2.0 - men's",
+        "Price": "$44.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/2d092227-77b4-4fd9-85a1-bd63e830f56c.jpg"
+    },
+    {
+        "Name": "sureshot heated soft-shell gloves - men's",
+        "Price": "$128.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/21690290-f1e2-4497-b3ef-7184be014981.jpg"
+    },
+    {
+        "Name": "gauntlet gtx gloves 2.0 - men's",
+        "Price": "$39.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/80ed6698-1208-4876-8059-02489d9a136b.jpg"
+    },
+    {
+        "Name": "titan gore-tex gloves - men's",
+        "Price": "$55.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/bfa60aa8-99c0-43f3-ae71-e31b61dcb2ed.jpg"
+    },
+    {
+        "Name": "extravert gloves - men's",
+        "Price": "$41.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/2d2b5b88-d3ac-48ed-96b1-9f42f2ea8ad1.jpg"
+    },
+    {
+        "Name": "trails gloves - men's",
+        "Price": "$19.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/d3e403e9-a9b7-4640-89c4-a17c31788b87.jpg"
+    },
+    {
+        "Name": "arendal gloves - men's",
+        "Price": "$34.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9dd45656-bdf9-4068-8c5a-5c33a5bb2b2d.jpg"
+    },
+    {
+        "Name": "spring gloves",
+        "Price": "$48.73",
+        "Savings": "save 45%",
+        "Image": "https://www.rei.com/media/31b00526-e549-4e54-b284-a71e7b5b3978.jpg"
+    },
+    {
+        "Name": "infinium windstopper sherpa fleece-lined mittens",
+        "Price": "$38.73",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/898c5b42-6c37-419c-b714-915e10e3fcee.jpg"
+    },
+    {
+        "Name": "sparks lobster mittens - men's",
+        "Price": "$39.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/2fcacc11-676b-4b38-a3f3-4d1b435ea37c.jpg"
+    },
+    {
+        "Name": "guide insulated gloves",
+        "Price": "$24.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/62f47f89-6705-4e50-be96-ec8fc5a9ef99.jpg"
+    },
+    {
+        "Name": "rocklands waterproof extreme cold weather insulated gloves with fusion control",
+        "Price": "$90.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9fee5148-ef9b-4d97-ad47-b2280c94076c.jpg"
+    },
+    {
+        "Name": "geko hot gloves",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/692d70c7-41dd-41b7-9d83-ba27e15e7854.jpg"
+    },
+    {
+        "Name": "panorama leather gloves",
+        "Price": "$84.93",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/e4e9db0e-167a-41d2-a58b-f230f940fb52.jpg"
+    },
+    {
+        "Name": "mercury mittens",
+        "Price": "$83.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/2af50b16-a409-410d-93f1-38b21f5d618d.jpg"
+    },
+    {
+        "Name": "commuter windstopper gloves",
+        "Price": "$31.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/69abb486-8378-43ab-a2ed-1d5b32ffb382.jpg"
+    },
+    {
+        "Name": "unicorn mittens",
+        "Price": "$44.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e1b5e63d-6912-419d-95b8-0f1b56a9ff18.jpg"
+    },
+    {
+        "Name": "alti ii gore-tex insulated mittens - men's",
+        "Price": "$98.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/deb429ba-40a7-4a78-85ef-254542bb51d6.jpg"
+    },
+    {
+        "Name": "teca fleece gloves",
+        "Price": "$14.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/e2395571-775a-4e97-9a39-78bc69bafa51.jpg"
+    },
+    {
+        "Name": "stoney gloves",
+        "Price": "$69.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/addf10f0-0312-4460-96f8-b0b7f4254ff1.jpg"
+    },
+    {
+        "Name": "bronco gore-tex gloves - men's",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ffa483e2-6aeb-4285-a7d0-ed9252ff6f75.jpg"
+    },
+    {
+        "Name": "waterproof liners",
+        "Price": "$40.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/e1b3ec07-f938-45c1-865a-7894ac2d80ed.jpg"
+    },
+    {
+        "Name": "shield gloves - men's",
+        "Price": "$35.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/66405e01-c8b5-4419-b797-005d907b7bc6.jpg"
+    },
+    {
+        "Name": "charger gloves - men's",
+        "Price": "$34.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a80696dd-f127-4846-b8ec-5031ae487383.jpg"
+    },
+    {
+        "Name": "titan gore-tex mittens - men's",
+        "Price": "$54.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/88453adc-5c0e-4fea-a1d1-ca0c996c9e21.jpg"
+    },
+    {
+        "Name": "scout gloves - men's",
+        "Price": "$44.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/92bda3e9-801d-4762-9d20-7cbbf9cf23f6.jpg"
+    },
+    {
+        "Name": "nova mittens - men's",
+        "Price": "$34.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a413f804-77f8-446a-b32c-005dae31777a.jpg"
+    },
+    {
+        "Name": "leather titan gore-tex mittens - men's",
+        "Price": "$69.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c1447da7-c907-450e-8bc6-07178ed55147.jpg"
+    },
+    {
+        "Name": "leather titan gore-tex gloves - men's",
+        "Price": "$74.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ef3aca9b-060b-455a-b3ec-f42ecf1e13b2.jpg"
+    },
+    {
+        "Name": "frontier gore-tex gloves - men's",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/661d5b2d-ea55-4ce2-8c21-a4636ebc2af7.jpg"
+    },
+    {
+        "Name": "excursion gore-tex mittens - men's",
+        "Price": "$97.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/616e2d19-9506-4839-aace-31c5f2ec958f.jpg"
+    },
+    {
+        "Name": "alpine leather primaloft gloves",
+        "Price": "$103.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/75563d3e-82c8-4184-8af6-e225532cb01c.jpg"
+    },
+    {
+        "Name": "fall line 5-finger gloves",
+        "Price": "$131.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/af3ae76f-8c53-437d-ab17-0b937d8a956f.jpg"
+    },
+    {
+        "Name": "ultimate plus gloves",
+        "Price": "$67.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/52b2c49f-c91a-4126-a817-c0d74972f171.jpg"
+    },
+    {
+        "Name": "explorair tech gloves",
+        "Price": "$51.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/38c8dc7a-447b-463a-a747-926bd572cda3.jpg"
+    },
+    {
+        "Name": "merino sport fleece wind mittens",
+        "Price": "$37.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/36373d72-703d-4307-a0cd-da08144a4320.jpg"
+    },
+    {
+        "Name": "merino sport fleece gloves",
+        "Price": "$31.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/8bdb2b52-0416-40c9-9c4e-43960d1fa51b.jpg"
+    },
+    {
+        "Name": "harling waterproof all-weather gloves",
+        "Price": "$48.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/44027adb-0648-433e-9f1d-d10c51f567b1.jpg"
+    },
+    {
+        "Name": "howe waterproof all-weather multi-activity gloves with fusion control",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/5237a8b6-ad95-4994-bc6a-84936dde66cd.jpg"
+    },
+    {
+        "Name": "highcamp gloves - men's",
+        "Price": "$36.73",
+        "Savings": "save 61%",
+        "Image": "https://www.rei.com/media/7ff05647-f972-4051-b49d-42a0b2f02d32.jpg"
+    },
+    {
+        "Name": "illuminator sensor gloves",
+        "Price": "$56.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/82216b9e-f6cb-44e3-a4c9-24f9a1f1d790.jpg"
+    },
+    {
+        "Name": "regulator gloves - dune - men's",
+        "Price": "$44.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/de2a006d-8ff3-4f5a-b80e-2d8965e7e2a4.jpg"
+    },
+    {
+        "Name": "leather mittens - men's",
+        "Price": "$59.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/732075a4-e04f-4bfc-a58f-de866087469e.jpg"
+    },
+    {
+        "Name": "aquabloc down gauntlet mittens - men's",
+        "Price": "$39.73",
+        "Savings": "save 43%",
+        "Image": "https://www.rei.com/media/531426a0-d0eb-46ca-af15-6ddaf35cf249.jpg"
+    },
+    {
+        "Name": "aquabloc mittens - men's",
+        "Price": "$37.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/7eb870ae-f24e-4a1c-86b9-e109ed2a58f8.jpg"
+    },
+    {
+        "Name": "challenge gloves - men's",
+        "Price": "$26.73",
+        "Savings": "save 61%",
+        "Image": "https://www.rei.com/media/8daf9e23-f7f7-44c6-a20d-64e7afc269bb.jpg"
+    },
+    {
+        "Name": "bronco gore-tex gloves - men's",
+        "Price": "$47.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/46873be8-544f-4a31-bf1f-5f9e2e2c5ddc.jpg"
+    },
+    {
+        "Name": "xplore s gloves",
+        "Price": "$97.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e6117785-5d86-436a-9064-885708a9bfcf.jpg"
+    },
+    {
+        "Name": "mission gloves - men's",
+        "Price": "$83.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/b61681de-63c2-4c6a-81b4-328da8450748.jpg"
+    },
+    {
+        "Name": "stormtracker sensor gloves - men's",
+        "Price": "$38.83 - $54.93",
+        "Savings": "save 30% - 50%",
+        "Image": "https://www.rei.com/media/677cd1e9-5f89-4555-90b3-8635024b275d.jpg"
+    },
+    {
+        "Name": "maine line gloves",
+        "Price": "$44.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/0b8fcd11-d809-4a9b-9d1d-f9bdcf21e828.jpg"
+    },
+    {
+        "Name": "shadow insulated mittens",
+        "Price": "$26.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/4eb129b5-3564-439c-8360-90b955ede50e.jpg"
+    },
+    {
+        "Name": "sabre gloves",
+        "Price": "$132.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/770bf5f1-aed4-41ac-b895-207bb66e6fb8.jpg"
+    },
+    {
+        "Name": "firefall/2 gore-tex gloves - men's",
+        "Price": "$55.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ed8e3051-06e4-4bdf-a2d7-2d95588a2660.jpg"
+    },
+    {
+        "Name": "first chair gtx snow mittens",
+        "Price": "$34.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/2aaadef3-2c0a-43cc-8269-7f6ca0860171.jpg"
+    },
+    {
+        "Name": "all-stretch max gloves",
+        "Price": "$26.73",
+        "Savings": "save 18%",
+        "Image": "https://www.rei.com/media/381eb730-ec66-4a1f-b23a-ac0b2f6011b1.jpg"
+    },
+    {
+        "Name": "apex pro gloves",
+        "Price": "$38.73",
+        "Savings": "save 19%",
+        "Image": "https://www.rei.com/media/85dec486-a9ad-4883-8806-e25144bd7b5e.jpg"
+    },
+    {
+        "Name": "radiantx gloves",
+        "Price": "$85.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/d6e71cdb-c40e-425b-af0d-e1c63cc75547.jpg"
+    },
+    {
+        "Name": "waterproof extreme cold weather insulated gloves",
+        "Price": "$64.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/9fee5148-ef9b-4d97-ad47-b2280c94076c.jpg"
+    },
+    {
+        "Name": "team phoenix gore-tex gloves - men's",
+        "Price": "$63.73",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/2f724c90-1967-4e1c-b275-29a45b0c80a8.jpg"
+    },
+    {
+        "Name": "runabout gloves - men's",
+        "Price": "$20.73",
+        "Savings": "save 65%",
+        "Image": "https://www.rei.com/media/fe941f04-9bd2-4b12-95f9-9f769774507a.jpg"
+    },
+    {
+        "Name": "solano mittens",
+        "Price": "$279.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/711c376d-fb01-4741-98aa-358097e7189d.jpg"
+    },
+    {
+        "Name": "ridge fleece mittens",
+        "Price": "$21.93",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/bd5d8db6-91a7-40c6-b5f4-32db40817a53.jpg"
+    },
+    {
+        "Name": "mt. baker ii gore-tex mittens",
+        "Price": "$81.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/ecfa549e-6117-4731-b2a2-04d2f9ed304a.jpg"
+    },
+    {
+        "Name": "coldfront down mittens",
+        "Price": "$36.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/9de19563-7203-4058-9bdb-4ff2d9181135.jpg"
+    },
+    {
+        "Name": "sureshot soft-shell gloves - men's",
+        "Price": "$24.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/05f547ef-95c7-49af-868e-d7557469568c.jpg"
+    },
+    {
+        "Name": "baron gore-tex trigger mittens - men's",
+        "Price": "$77.93",
+        "Savings": "save 40%",
+        "Image": "https://www.rei.com/media/60469510-aeec-46c3-a4ac-917648cb4485.jpg"
+    },
+    {
+        "Name": "gore-tex 3-in-1 mittens - men's",
+        "Price": "$58.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a9f81eb8-6f12-4ae7-bb95-34421d6dd3e0.jpg"
+    },
+    {
+        "Name": "rigg gloves",
+        "Price": "$29.73",
+        "Savings": "save 45%",
+        "Image": "https://www.rei.com/media/ae1a9c1c-4642-4307-a8b4-45c5df3d7d85.jpg"
+    },
+    {
+        "Name": "tarfala gloves",
+        "Price": "$41.83",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/af755b2e-2fe5-4a02-a6d6-d1316f13b5ae.jpg"
+    },
+    {
+        "Name": "ergo grip active wool terry gloves",
+        "Price": "$99.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/d9e7b8d8-c3dc-4023-b6ab-e5f558d347e8.jpg"
+    },
+    {
+        "Name": "switchback gtx mittens 2.0",
+        "Price": "$44.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/75f752ff-b7e8-4b87-93b0-708c29204b0a.jpg"
+    },
+    {
+        "Name": "gauntlet gtx mittens 2.0",
+        "Price": "$39.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/ff1c1ccb-1494-4095-bbbe-b106be793edc.jpg"
+    },
+    {
+        "Name": "first chair gtx snow gloves - men's",
+        "Price": "$34.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/0515cb6d-48d1-43bb-970d-351f93092382.jpg"
+    },
+    {
+        "Name": "minimalist gtx mittens 2.0",
+        "Price": "$24.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/a5b1dc8d-00e6-48cc-90a6-148595b8db70.jpg"
+    },
+    {
+        "Name": "soloist gloves",
+        "Price": "$90.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/ef8326a9-5edd-439c-b44b-c0debfc28600.jpg"
+    },
+    {
+        "Name": "soloist finger gloves",
+        "Price": "$90.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e099d470-1d45-4ef1-b6d3-ea61c0b03642.jpg"
+    },
+    {
+        "Name": "glissade mittens",
+        "Price": "$55.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9c96cc2d-a322-4016-9088-e5ddf2f6f44c.jpg"
+    },
+    {
+        "Name": "cirque gloves",
+        "Price": "$55.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/08dcadef-466b-46fb-951c-2abfb55994c4.jpg"
+    },
+    {
+        "Name": "terminator gloves",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/24ee3644-6065-4760-a227-f500f310f5cb.jpg"
+    },
+    {
+        "Name": "mountain ops gloves",
+        "Price": "$38.93",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/ea3635b4-1134-4488-af2b-2491e836513a.jpg"
+    },
+    {
+        "Name": "board insulated gloves - men's",
+        "Price": "$23.73",
+        "Savings": "save 60%",
+        "Image": "https://www.rei.com/media/649dc3d9-28b1-4e98-bbe1-1040687f7810.jpg"
+    },
+    {
+        "Name": "versatile outdoor insulated gloves - men's",
+        "Price": "$34.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/2b3c019e-f7d2-4c0b-b2ed-cfc8406a5b51.jpg"
+    },
+    {
+        "Name": "waterproof all-weather gloves with fusion control",
+        "Price": "$69.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c6694e1c-9c6a-4861-8688-d9cfc8f481cc.jpg"
+    },
+    {
+        "Name": "guide insulated mittens",
+        "Price": "$24.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/760583df-20e2-4fcb-8f9e-c812365a6b36.jpg"
+    },
+    {
+        "Name": "titan gore-tex mittens - men's",
+        "Price": "$55.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/604ddb29-9143-4853-99fd-8cec1ac9fb24.jpg"
+    },
+    {
+        "Name": "carbide sensor mittens",
+        "Price": " $59.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/a9e3c521-9e81-4c5f-bd23-92edc14b0274.jpg"
+    },
+    {
+        "Name": "tour gloves",
+        "Price": "$58.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c1f6a61f-b9f6-4bae-84dd-f2cf37397cc8.jpg"
+    },
+    {
+        "Name": "mogul ii insulated gloves - men's",
+        "Price": "$26.73",
+        "Savings": "save 23%",
+        "Image": "https://www.rei.com/media/17c65f35-4cdc-4ff8-bd4d-1f43ad2ec5aa.jpg"
+    },
+    {
+        "Name": "absolute mittens",
+        "Price": "$188.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/691309b3-3c42-49fa-99b1-b6dcb716f17b.jpg"
+    },
+    {
+        "Name": "aquabloc down gauntlet ii gloves - men's",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/1ff8f989-51ba-46a1-ac32-b78cf54fad2b.jpg"
+    },
+    {
+        "Name": "fission sv gloves",
+        "Price": " $139.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/70babb40-3e0b-4aff-8913-b8ab8b851829.jpg"
+    },
+    {
+        "Name": "vigor heavyweight sensor gloves - men's",
+        "Price": "$21.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/ca77d9a8-b681-414e-9d6f-1c3abceda16c.jpg"
+    },
+    {
+        "Name": "army leather extreme mittens",
+        "Price": "$139.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/dd2d1724-d734-4dc7-9224-5e02bc4127bb.jpg"
+    },
+    {
+        "Name": "army leather patrol insulated gloves",
+        "Price": "$115.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/9376b395-006a-4aca-8b70-37d19d5f527f.jpg"
+    },
+    {
+        "Name": "ergo grip active gloves",
+        "Price": "$91.93",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/3e3721a8-cee3-4ea1-a0ee-59193d757876.jpg"
+    },
+    {
+        "Name": "rivet gloves",
+        "Price": "$47.73",
+        "Savings": "save 20%",
+        "Image": "https://www.rei.com/media/09980114-ab3d-4541-98d3-4d576e069ad4.jpg"
+    },
+    {
+        "Name": "firefall/2 gore-tex mittens",
+        "Price": "$55.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/942e5f85-f9e9-4372-991e-1a5fb2752b8d.jpg"
+    },
+    {
+        "Name": "aquabloc gloves - men's",
+        "Price": "$37.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/2ac0b2ac-a7da-41a6-ad8b-4a3db52d3d91.jpg"
+    },
+    {
+        "Name": "bitterblaze aerogel gloves - men's",
+        "Price": "$86.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/96ee28d4-d0e7-42ce-9354-43c6a8e15e8c.jpg"
+    },
+    {
+        "Name": "cirque gloves - men's",
+        "Price": "$46.73",
+        "Savings": "save 59%",
+        "Image": "https://www.rei.com/media/ef4d5514-7a04-42fc-bf25-0c08ba46a0ca.jpg"
+    },
+    {
+        "Name": "fall line gloves - men's",
+        "Price": "$47.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/479ba3f7-7edc-4cc0-8228-2eaaae7a0900.jpg"
+    },
+    {
+        "Name": "impreza gore-tex gloves - men's",
+        "Price": "$37.73",
+        "Savings": "save 46%",
+        "Image": "https://www.rei.com/media/6df25af8-5eed-4018-bd07-2231fb8d24e6.jpg"
+    },
+    {
+        "Name": "guide gloves - men's",
+        "Price": "$54.73",
+        "Savings": "save 57%",
+        "Image": "https://www.rei.com/media/d4338cc8-3a00-4e25-8d40-3cc43a3e872a.jpg"
+    },
+    {
+        "Name": "trail ridge gloves",
+        "Price": "$69.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/40bf5f67-43fd-4ad2-b802-3d7308219647.jpg"
+    },
+    {
+        "Name": "superior down clamp gloves",
+        "Price": "$44.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/7ff24cdb-67f8-4054-93e3-2ab8ff7c7cfe.jpg"
+    },
+    {
+        "Name": "minimalist shell mittens - men's",
+        "Price": "$51.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/c9afbfde-b5c9-4f8b-9f1b-fdbc0720ea9b.jpg"
+    },
+    {
+        "Name": "lined heavy-duty premium grain and suede pigskin mittens with knit wrists",
+        "Price": "$44.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/40f98a75-3879-457c-aec9-41b2f40972df.jpg"
+    },
+    {
+        "Name": "voyager mittens - men's",
+        "Price": "$82.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/88701338-76cb-4fc6-be7e-9bc97f48e030.jpg"
+    },
+    {
+        "Name": "fillmore mittens - men's",
+        "Price": "$44.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/18f4273d-f05e-41d8-8c76-877cfe3830c5.jpg"
+    },
+    {
+        "Name": "ultimate spade plus mittens",
+        "Price": "$29.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/50f6444c-34f3-4d87-ac95-b4b7474e3c30.jpg"
+    },
+    {
+        "Name": "expedition mittens",
+        "Price": "$89.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/9381bd77-aec9-43ba-882a-bdb88bce5faa.jpg"
+    },
+    {
+        "Name": "plus mittens - men's",
+        "Price": "$20.73",
+        "Savings": "save 49%",
+        "Image": "https://www.rei.com/media/a41d1920-3660-4581-84aa-f847162de60f.jpg"
+    },
+    {
+        "Name": "phosphor down mittens",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/4bda60b6-92a1-46f3-8a2a-f04dbc3d34e8.jpg"
+    },
+    {
+        "Name": "compressor gore-tex mittens",
+        "Price": "$89.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/ee3bba2e-f590-4b48-b820-33b35bfc9145.jpg"
+    },
+    {
+        "Name": "sierra fleece gloves",
+        "Price": "$33.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/07bf2921-1948-475b-84c1-79efcd6d80fe.jpg"
+    },
+    {
+        "Name": "hardwear belay gloves",
+        "Price": "$49.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/929ad24f-7dd8-450a-814a-72650c67c3a8.jpg"
+    },
+    {
+        "Name": "alyeska lined full-finger gloves",
+        "Price": "$17.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/a0439d77-7139-4a3e-89d5-8bb4e8078219.jpg"
+    },
+    {
+        "Name": "alyeska lined full-finger gloves",
+        "Price": "$15.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/a4acde42-80a8-4681-983f-78d840ea1bae.jpg"
+    },
+    {
+        "Name": "baron gore-tex mittens - men's",
+        "Price": "$79.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/101109ab-4a78-426e-93cd-8f93f1ea19cc.jpg"
+    },
+    {
+        "Name": "adrenaline 3-in-1 gloves - men's",
+        "Price": "$49.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/b5302f6a-2641-4c8a-98df-14e060f4f871.jpg"
+    },
+    {
+        "Name": "odyssey mittens - men's",
+        "Price": "$79.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/8d58b0bc-0c2f-40a5-9b10-2db37110f2d5.jpg"
+    },
+    {
+        "Name": "phantom gore-tex gloves - men's",
+        "Price": "$86.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/ccbadef9-daba-421b-a94a-3302bdb0496a.jpg"
+    },
+    {
+        "Name": "team excursion gore-tex mittens - men's",
+        "Price": "$98.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/3355161b-090d-45ce-bbda-f52534f06fdd.jpg"
+    },
+    {
+        "Name": "ridgeway mittens",
+        "Price": "$66.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/f5214024-e45e-4869-b0bf-af7c0db5ec8c.jpg"
+    },
+    {
+        "Name": "high exposure gore-tex gloves - men's",
+        "Price": "$104.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/53f5f16b-4a2e-46a0-9133-da0c95b096e3.jpg"
+    },
+    {
+        "Name": "route setter alpine work gloves",
+        "Price": "$64.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/300a7086-3f42-4d11-8ce8-d4cd32604115.jpg"
+    },
+    {
+        "Name": "excursion gore-tex gloves - men's",
+        "Price": "$97.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/7bf1a456-9a47-423e-9df1-d87c0909134c.jpg"
+    },
+    {
+        "Name": "crossfire mittens - men's",
+        "Price": "$24.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/7eda0f0d-c27a-4ffe-b9e9-731756126b06.jpg"
+    },
+    {
+        "Name": "cloud shadow gore-tex gloves",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/934a04a4-e8ba-4bb7-8d9c-b76482807455.jpg"
+    },
+    {
+        "Name": "the step gloves - men's",
+        "Price": "$41.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c0897883-fe1a-42f3-8956-43ddb30530fe.jpg"
+    },
+    {
+        "Name": "eiger free gloves",
+        "Price": "$121.73",
+        "Savings": "save 34%",
+        "Image": "https://www.rei.com/media/bd6b87c0-ff13-4594-bcd1-ec8a72154334.jpg"
+    },
+    {
+        "Name": "kananaskis gloves - men's",
+        "Price": "$64.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/6040b0b2-7c3b-46b5-9034-a801280c364f.jpg"
+    },
+    {
+        "Name": "lined premium grain pigskin palm gloves with knit wrists",
+        "Price": "$32.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/e20751de-425c-4bbf-8055-ab2c664a9177.jpg"
+    },
+    {
+        "Name": "trion 3-in-1 gtx gloves - men's",
+        "Price": "$96.73",
+        "Savings": "save 35%",
+        "Image": "https://www.rei.com/media/ea6b83ca-420c-4e92-bbda-d9038ac9c1bf.jpg"
+    },
+    {
+        "Name": "max mittens - men's",
+        "Price": "$42.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/7aadac6e-f8e7-4e43-90c0-a861f55aa989.jpg"
+    },
+    {
+        "Name": "lined heavy-duty premium grain and suede pigskin driver gloves with knit wrists",
+        "Price": "$42.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/94ae9240-c7a3-42ca-a3c6-518b3a0872b3.jpg"
+    },
+    {
+        "Name": "waypoint mittens",
+        "Price": "$33.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/642e7eed-796e-4cec-bbbd-90be4283da35.jpg"
+    },
+    {
+        "Name": "foundation mittens - men's",
+        "Price": "$67.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/f39de47d-0b3a-4178-a7e3-a85ec6c83802.jpg"
+    },
+    {
+        "Name": "board mittens - men's",
+        "Price": "$44.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/406a6020-e1ac-4323-8079-1b21bec40e47.jpg"
+    },
+    {
+        "Name": "plus gloves - men's",
+        "Price": "$27.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/767d8eac-0594-4f82-95cd-29a161cfaac5.jpg"
+    },
+    {
+        "Name": "deviator mittens",
+        "Price": "$46.73",
+        "Savings": "save 32%",
+        "Image": "https://www.rei.com/media/739130c6-fa63-4c96-8cae-aa2594cdd110.jpg"
+    },
+    {
+        "Name": "realfleece merino high-pile mittens",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/04b5c483-4e3f-4d38-8440-9860c7af0ec5.jpg"
+    },
+    {
+        "Name": "team phoenix gore-tex gloves - 2023 - men's",
+        "Price": "$149.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/620c482a-51a0-41c4-a997-09f722b001e0.jpg"
+    },
+    {
+        "Name": "baron gore-tex index mittens - men's",
+        "Price": "$97.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/a5cd884b-fdb5-47f0-87fd-53a1ccde3f55.jpg"
+    },
+    {
+        "Name": "mogul dry gloves - men's",
+        "Price": "$54.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/eace7df6-89f1-4886-8306-eb76d4e24bea.jpg"
+    },
+    {
+        "Name": "superior down mittens - men's",
+        "Price": "$44.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2f24d016-b89b-4772-a4ae-fdceccce8c6f.jpg"
+    },
+    {
+        "Name": "max gloves - men's",
+        "Price": "$28.73",
+        "Savings": "save 49%",
+        "Image": "https://www.rei.com/media/241789a3-dc8f-4b73-b364-a4cce18dccc7.jpg"
+    },
+    {
+        "Name": "carbide sensor gloves - men's",
+        "Price": " $56.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/f334462f-8f4e-4e46-b314-b6aa9ccd1f8f.jpg"
+    },
+    {
+        "Name": "active fleece gloves",
+        "Price": " $21.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/db075294-cadc-45b7-8f0e-3e96e0d89127.jpg"
+    },
+    {
+        "Name": "alpinite gore-tex gloves",
+        "Price": " $84.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/79f4825d-fc2f-4c02-82d3-c1e7acfb8cd0.jpg"
+    },
+    {
+        "Name": "active fleece wind mittens",
+        "Price": " $24.83",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/10a27a9c-2b88-45e6-affd-3661b130baac.jpg"
+    },
+    {
+        "Name": "excursion gore-tex gloves - men's",
+        "Price": " $90.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/2ab89334-1f1b-4f9e-b649-89a80d3bbfae.jpg"
+    }
+]

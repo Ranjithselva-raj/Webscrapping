@@ -1,0 +1,404 @@
+[
+    {
+        "Name": "sahara bermuda shorts - women's",
+        "Price": "$41.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/341c556e-59ba-4468-a01a-ade6427169fd.jpg"
+    },
+    {
+        "Name": "sanne outdoor 8 in. shorts - women's",
+        "Price": "$82.73",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/d942ee35-1c11-4aea-a9f3-b122e5da2ff5.jpg"
+    },
+    {
+        "Name": "mantra shorts - women's",
+        "Price": "$62.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/176e2d60-3130-4398-a49c-3f35273f2fd5.jpg"
+    },
+    {
+        "Name": "trailmade amphib shorts - women's",
+        "Price": "$34.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/b47dc0df-805c-4440-91b5-f09f8a198b8f.jpg"
+    },
+    {
+        "Name": "trailmade skort",
+        "Price": "$26.83",
+        "Savings": "save 51%",
+        "Image": "https://www.rei.com/media/f29a19d5-ffdc-4da1-aae1-f35db44dc51d.jpg"
+    },
+    {
+        "Name": "aphrodite 4\" shorts - women's",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/d57a23e6-5b7f-400c-ad77-b4802dacf3c7.jpg"
+    },
+    {
+        "Name": "elda 4\" shorts - women's",
+        "Price": "$39.73 - $41.73",
+        "Savings": "save 30% - 33%",
+        "Image": "https://www.rei.com/media/19733d51-0c02-4c38-9c06-70a123197a64.jpg"
+    },
+    {
+        "Name": "jammer shorts - women's",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/28a7c54d-83fe-4b82-9a6e-d1a78dae0c20.jpg"
+    },
+    {
+        "Name": "freeflex shorts - women's",
+        "Price": "$43.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/ed34be82-244a-42b6-b843-3e7030a1767e.jpg"
+    },
+    {
+        "Name": "dynama pull-on shorts - women's",
+        "Price": "$51.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/a4d85b29-ea03-43ef-be03-d095a6832d07.jpg"
+    },
+    {
+        "Name": "ferrosi 7\" shorts - women's",
+        "Price": "$63.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/e0225494-43a6-4431-94c2-8d4cc6c116fe.jpg"
+    },
+    {
+        "Name": "pfg tidal light active shorts - women's",
+        "Price": " $27.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/51c44438-2a4a-4d60-8bb8-6b9c829b8b46.jpg"
+    },
+    {
+        "Name": "astro shorts - women's",
+        "Price": "$54.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/455532af-5987-4a78-999f-cc2f6a3a973c.jpg"
+    },
+    {
+        "Name": "halle 5\" shorts ii - women's",
+        "Price": " $47.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/9296023b-3cf3-47a7-b877-821c4caa3679.jpg"
+    },
+    {
+        "Name": "zendo shorts - women's",
+        "Price": "$29.73",
+        "Savings": "save 56%",
+        "Image": "https://www.rei.com/media/2de0f385-cb6b-42e7-9954-827a6eb04c99.jpg"
+    },
+    {
+        "Name": "railay shorts - women's",
+        "Price": "$45.73",
+        "Savings": "save 33%",
+        "Image": "https://www.rei.com/media/c3f4d884-7dca-4d04-94b1-b353c20f6b1c.jpg"
+    },
+    {
+        "Name": "rectrek 4\" shorts - women's",
+        "Price": "$39.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/cd01c5b4-1090-4a25-9769-1851e2a341aa.jpg"
+    },
+    {
+        "Name": "halle e-waist shorts ii - women's",
+        "Price": "$55.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2fb9d09d-13f6-4a83-b5ec-2b2e983f264a.jpg"
+    },
+    {
+        "Name": "discovery iii bermuda shorts - women's",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/96b3e50c-a8e2-4da7-9e9a-7f7c312f6713.jpg"
+    },
+    {
+        "Name": "trailmade shorts - women's",
+        "Price": "$30.93",
+        "Savings": "save 31%",
+        "Image": "https://www.rei.com/media/d97a101b-4468-4cfc-935f-1685d848f7ff.jpg"
+    },
+    {
+        "Name": "tech trail shorts - women's",
+        "Price": "$26.73",
+        "Savings": "save 55%",
+        "Image": "https://www.rei.com/media/0a4c95e9-44f6-4351-a721-f985aaa9638b.jpg"
+    },
+    {
+        "Name": "cypress shorts - women's",
+        "Price": "$61.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/e9828138-a5c8-4eb5-aafc-c770cbc12109.jpg"
+    },
+    {
+        "Name": "bugsaway della skort",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/86da8d9e-18c1-4b25-bfcc-494d1bf073d9.jpg"
+    },
+    {
+        "Name": "dynama/2 bermuda shorts - women's",
+        "Price": "$47.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/575136e3-236d-4583-986e-a0cbfc15c770.jpg"
+    },
+    {
+        "Name": "bugsaway della shorts - women's",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/a9d7b8b8-56d3-437e-a6af-de62c1f02910.jpg"
+    },
+    {
+        "Name": "pfg tidal light lined shorts - women's",
+        "Price": " $34.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/08a20e1d-b299-4aa9-a5e2-adddec385618.jpg"
+    },
+    {
+        "Name": "backcountry pro shorts - women's",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/40ee82c1-f000-4fc7-9efb-7dde654d6bec.jpg"
+    },
+    {
+        "Name": "railay snap-up skort",
+        "Price": "$54.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/edaea984-c82f-4a03-921e-e674dc19b68a.jpg"
+    },
+    {
+        "Name": "printed stryder swim shorts - women's",
+        "Price": "$29.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/248765ed-db09-4c2a-b590-effa3af876e4.jpg"
+    },
+    {
+        "Name": "stryder swim shorts - women's",
+        "Price": "$41.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/728b07f7-1238-4fe3-b142-a7e697ce2a77.jpg"
+    },
+    {
+        "Name": "dynama pull-on shorts - women's",
+        "Price": "$21.73",
+        "Savings": "save 71%",
+        "Image": "https://www.rei.com/media/342cfc0e-c66a-4e79-8cfa-3afc7139bd4b.jpg"
+    },
+    {
+        "Name": "trailsmith short overalls - women's",
+        "Price": "$39.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/c31caaf7-a68a-432a-92c9-0569bcca86ce.jpg"
+    },
+    {
+        "Name": "moonwalk shorts - women's",
+        "Price": "$49.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/082ad30b-4f5e-4da2-9461-a715e1c19382.jpg"
+    },
+    {
+        "Name": "x hike clerb spring peak skort",
+        "Price": "$58.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/70995c4e-3f08-415a-b6b9-f4a7b9baecc6.jpg"
+    },
+    {
+        "Name": "calusa amphi shorts - women's",
+        "Price": "$16.73",
+        "Savings": "save 72%",
+        "Image": "https://www.rei.com/media/db446ade-aaa6-4dfa-bea1-9d29fbd48d07.jpg"
+    },
+    {
+        "Name": "ea dune sky 9\" tight shorts - women's",
+        "Price": "$18.83 - $29.83",
+        "Savings": "save 54% - 71%",
+        "Image": "https://www.rei.com/media/28be950a-f9cc-4205-9ef1-f572c75919d2.jpg"
+    },
+    {
+        "Name": "freeflex cargo shorts - women's",
+        "Price": "$25.83 - $39.83",
+        "Savings": "save 55% - 70%",
+        "Image": "https://www.rei.com/media/2331b1ea-1e05-41c9-9f83-c0bf93b753ca.jpg"
+    },
+    {
+        "Name": "villa shorts - women's",
+        "Price": " $43.93",
+        "Savings": null,
+        "Image": "https://www.rei.com/media/d74ad5ad-c88f-4ecd-b8ed-d6326c9e013c.jpg"
+    },
+    {
+        "Name": "astro skort",
+        "Price": "$42.73",
+        "Savings": "save 38%",
+        "Image": "https://www.rei.com/media/8790d3ee-c0ba-46cc-8c15-ba74f958b3ac.jpg"
+    },
+    {
+        "Name": "adventure perform bike shorts - women's",
+        "Price": "$39.83",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/151b9d8d-1ab9-4c87-a859-2bfd5708ffe5.jpg"
+    },
+    {
+        "Name": "wander shorts - women's",
+        "Price": "$24.73",
+        "Savings": "save 50%",
+        "Image": "https://www.rei.com/media/d19106df-6620-4e75-a2bc-5f715d73db10.jpg"
+    },
+    {
+        "Name": "surf's up 5\" shorts - women's",
+        "Price": "$58.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/11b3822c-1859-401a-84f3-d822b8f3fa38.jpg"
+    },
+    {
+        "Name": "x chaco 5\" cargo shorts - women's",
+        "Price": "$72.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/36ef772b-c3bf-4d36-92b6-6bd8f86e7a18.jpg"
+    },
+    {
+        "Name": "trekkie north shorts - women's",
+        "Price": "$40.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/6e9a53e5-1123-40e0-81ca-9f5c18b45957.jpg"
+    },
+    {
+        "Name": "halle shorts ii - women's",
+        "Price": "$49.73",
+        "Savings": "save 27%",
+        "Image": "https://www.rei.com/media/092aba64-c366-4fb4-9710-07939d2387e0.jpg"
+    },
+    {
+        "Name": "thale hiking shorts - women's",
+        "Price": "$44.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/eb2751f0-2951-45fe-938c-367f5276d728.jpg"
+    },
+    {
+        "Name": "elle 5\" shorts - women's",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/f15ce378-068a-4752-b81d-de70ad1e9315.jpg"
+    },
+    {
+        "Name": "mountain stretch skort",
+        "Price": "$48.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/813e4085-f9d3-4611-8843-63c20fbbe56f.jpg"
+    },
+    {
+        "Name": "mountain stretch high-rise short tights - women's",
+        "Price": "$34.73",
+        "Savings": "save 36%",
+        "Image": "https://www.rei.com/media/2ae08f78-62e3-4c00-adc7-f52335c13a8e.jpg"
+    },
+    {
+        "Name": "wadi shorts - women's",
+        "Price": "$46.73",
+        "Savings": "save 45%",
+        "Image": "https://www.rei.com/media/40de06e0-0c61-4a74-9427-a378ed2a93e2.jpg"
+    },
+    {
+        "Name": "kodachrome 7\" shorts - women's",
+        "Price": "$48.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/5791debc-62e8-4ba8-b89d-546c57ca1481.jpg"
+    },
+    {
+        "Name": "take a hike shorts - women's",
+        "Price": "$30.83",
+        "Savings": "save 70%",
+        "Image": "https://www.rei.com/media/77979e10-cd5e-4428-84bf-64d8e958bddd.jpg"
+    },
+    {
+        "Name": "trailsmith shorts - women's",
+        "Price": "$44.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/69426fcb-f9c5-41ab-9802-49bf52e6fde7.jpg"
+    },
+    {
+        "Name": "bugsaway everyday woven shorts - women's",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/df13c37d-891c-4d26-b293-c9b2465f3b38.jpg"
+    },
+    {
+        "Name": "jammer skort",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/018a0f1f-5235-4732-bac9-1ed3cc12d2bb.jpg"
+    },
+    {
+        "Name": "dynama/2 shorts - women's",
+        "Price": "$45.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/260ef5be-d20e-4e94-a8d4-bdfaad24f2fd.jpg"
+    },
+    {
+        "Name": "billy goat ii shorts - women's",
+        "Price": "$58.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/5703fcae-5aea-4b40-b676-97bc25b5178f.jpg"
+    },
+    {
+        "Name": "double peak shorts - women's",
+        "Price": "$48.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/33ecdb47-466c-4ad9-8c9c-5d19ff4a1fee.jpg"
+    },
+    {
+        "Name": "discovery iii skort",
+        "Price": "$53.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/2e1fd3bd-3b22-4c7a-a13b-a7c23ea90ffe.jpg"
+    },
+    {
+        "Name": "juniper springs 3\" shorts - women's",
+        "Price": "$36.73 - $41.73",
+        "Savings": "save 24% - 33%",
+        "Image": "https://www.rei.com/media/e99e7b7a-f0a7-41b7-a757-7b0388da7700.jpg"
+    },
+    {
+        "Name": "yuba trail shorts - women's",
+        "Price": "$59.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/146f7a12-55ce-45f3-a6cb-31f134092124.jpg"
+    },
+    {
+        "Name": "boundless hike shorts - women's",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/da887d24-b6f2-4324-b490-55605f826f02.jpg"
+    },
+    {
+        "Name": "bugsaway active knit shorts - women's",
+        "Price": "$52.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/3b46f268-2af7-49f3-bed6-49b3183a91a4.jpg"
+    },
+    {
+        "Name": "crossback shorts - women's",
+        "Price": "$52.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/a99937a8-3397-421d-b9b8-f63f80c4dd74.jpg"
+    },
+    {
+        "Name": "runbold shorts - women's",
+        "Price": "$62.73",
+        "Savings": "save 26%",
+        "Image": "https://www.rei.com/media/28648177-a3ea-4355-a537-3f125a41e184.jpg"
+    },
+    {
+        "Name": "spotless evolution shorts - women's",
+        "Price": "$56.73",
+        "Savings": "save 24%",
+        "Image": "https://www.rei.com/media/04721395-fef3-44fb-8b3e-e08ead5e48fe.jpg"
+    },
+    {
+        "Name": "shade lite 3\" shorts - women's",
+        "Price": "$40.73",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/91554ab5-b132-4c70-95c6-70c9d987849d.jpg"
+    }
+]

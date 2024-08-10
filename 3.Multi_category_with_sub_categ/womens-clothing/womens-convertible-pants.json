@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "hybrid convertible pants - women's",
+        "Price": "$59.73",
+        "Savings": "save 29%",
+        "Image": "https://www.rei.com/media/5e232e83-c5f6-489b-8d46-e3b11f43d906.jpg"
+    },
+    {
+        "Name": "sahara convertible pants - women's",
+        "Price": "$55.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/cba82188-e441-4246-9ef4-004469615732.jpg"
+    },
+    {
+        "Name": "rectrek zip-off pants - women's",
+        "Price": "$81.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/c7863b00-20dd-49be-9fbf-af8d30976542.jpg"
+    },
+    {
+        "Name": "rectrek zip-off overalls - women's",
+        "Price": "$102.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/8a944273-af54-4549-ab43-5e10925a75c8.jpg"
+    },
+    {
+        "Name": "kodachrome convertible pants - women's",
+        "Price": "$64.73",
+        "Savings": "save 28%",
+        "Image": "https://www.rei.com/media/d8bbbfab-6fc1-4639-9850-d37309f9e383.jpg"
+    },
+    {
+        "Name": "bug barrier discovery zip n' go pants - women's",
+        "Price": "$78.73",
+        "Savings": "save 25%",
+        "Image": "https://www.rei.com/media/bfb26216-3003-4584-84b4-8a8ae521940b.jpg"
+    },
+    {
+        "Name": "terrex utilitas hiking zip-off pants - women's",
+        "Price": "$90.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/7b6619d4-5c94-4a24-aaa3-46efbeb2b82a.jpg"
+    },
+    {
+        "Name": "sahara guide convertible pants - women's",
+        "Price": "$62.93",
+        "Savings": "save 30%",
+        "Image": "https://www.rei.com/media/9394970e-13dd-4d74-91f4-52e90f1bfc7e.jpg"
+    }
+]

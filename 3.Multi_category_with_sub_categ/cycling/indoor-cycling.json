@@ -2,16 +2,19 @@
     {
         "Name": "trainer accessory kit",
         "Price": "$44.93",
+        "Savings": "save 65%",
         "Image": "https://www.rei.com/media/3143d344-4ef5-4c5f-be40-2c02190aeaa1.jpg"
     },
     {
         "Name": "multi air flex ii cycling shoes - men's",
         "Price": "$79.73",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/4c6a82f0-4a02-4213-9e78-4e5fe6cacb1d.jpg"
     },
     {
         "Name": "multi air flex ii cycling shoes - women's",
         "Price": "$79.73",
+        "Savings": "save 20%",
         "Image": "https://www.rei.com/media/681a07f7-0612-41d5-9a90-e5eeeb0d78fd.jpg"
     }
 ]
