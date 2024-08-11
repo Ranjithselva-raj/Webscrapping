@@ -87,18 +87,13 @@ def html_Parser_get_urllinks(folder):
     fresp = httpx.get(furl, headers=fheaders)
     fhtml = HTMLParser(fresp.text)
     hrefs = fhtml.css("a.EmmdSBUU6nIcU_I7KcX5")
-    #sub_cat_list =[]
-    #hrefs_link=[]
     href_title =[]
     for href in hrefs:
-        #sub_cat_list.append(extract_text(href,"a.EmmdSBUU6nIcU_I7KcX5"))
-        #hrefs_link.append(extract_attribute(href,"a.EmmdSBUU6nIcU_I7KcX5", "href"))
         url= extract_attribute(href,"a.EmmdSBUU6nIcU_I7KcX5", "href")
         if url:
             subcategory = extract_subcategory(url)
             if subcategory:
                 href_title.append(subcategory)
-
     print(f"length of href_title is {len(href_title)}")
     return href_title
 
