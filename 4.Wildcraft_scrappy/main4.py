@@ -10,22 +10,29 @@ options.headless = True  # Run in headless mode (no GUI)
 
 # Initialize WebDriver with Firefox
 driver = webdriver.Firefox(service=Service(), options=options)
-content = []
+
+
 page = 1
+
 while True:
     # Load the webpage
     driver.get(f'https://wildcraft.com/women/clothing/jackets-cheaters?page={page}')
-
+    
     # Wait for the content to load if necessary
-    driver.implicitly_wait(40)
+    driver.implicitly_wait(20)
 
     # Extract product names (example selector)
     products = driver.find_elements(By.CSS_SELECTOR, "div.item-productItem-Pnf")
 
     driver.implicitly_wait(10)
 
-    if len(products) == 0:
+    # Check if there are no products or if the page number is already visited
+    if not products:
+        print(f"No more products. Exiting loop.")
         break
+
+    # Add the current page number to the set of visited pages
+    
 
     for product in products:
         try:
@@ -49,8 +56,6 @@ while True:
             except NoSuchElementException:
 
                 discount = None
-
-
 
             print(f"Product Name: {name}, Price: {price}, Discount: {discount}")
 
