@@ -6,7 +6,7 @@ from selenium.common.exceptions import NoSuchElementException, ElementClickInter
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
-
+import json
 # Setup Firefox options
 options = Options()
 options.headless = True  # Run in headless mode (no GUI)
@@ -14,8 +14,24 @@ options.headless = True  # Run in headless mode (no GUI)
 # Initialize WebDriver with Firefox
 driver = webdriver.Firefox(service=Service(), options=options)
 
+def write_file(filename, content):
+    """
+    Writes the content to a file specified by the filename parameter.
+    Args:
+        filename (str): The name of the file to write the content to.
+        content (list): A list of strings representing the content to be written.
+    Returns:
+        None
+    """
+    try:
+        with open(filename, 'w') as file:
+            json.dump(content, file, indent=4)
+            print(f"File {filename} written successfully.")
+    except Exception as e:
+        print(f"Error writing file {filename}: {str(e)}")  
+
 # Navigate to the website and load the initial page
-driver.get('https://wildcraft.com/men/clothing/sweatshirts-pullovers?page=1')
+driver.get('https://wildcraft.com/clothing?page=1')
 
 seen_urls = []  # List to keep track of seen URLs
 product_data = []  # List to store all products
@@ -32,7 +48,7 @@ while True:
             seen_urls.append(current_url)
 
         # Wait for products to load
-        WebDriverWait(driver, 10).until(
+        WebDriverWait(driver, 20).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, "div.item-productItem-Pnf"))
         )
 
@@ -57,13 +73,23 @@ while True:
                 except NoSuchElementException:
                     discount = None
 
+                
+                try:
+                    # Extract image URL
+                    img_element = product.find_element(By.CSS_SELECTOR, "img.item-imageLoaded-jug")
+                    #the below line to scroll the html page and find the exact image url if the above alone not working properly
+                    driver.execute_script("arguments[0].scrollIntoView(true);", img_element)
+                    img_url = img_element.get_attribute("src") 
+                except NoSuchElementException:
+                    img_url = None
+
                 # Create a unique identifier for the product
-                product_id = (name, price, discount)
+                product_id = (name, price, discount, img_url)
 
                 # Append product details to the list if not already added
                 if product_id not in seen_products:
                     seen_products.add(product_id)
-                    product_data.append((name, price, discount))
+                    product_data.append((name, price, discount, img_url))
 
             except NoSuchElementException as e:
                 print(f"Error extracting product data: {e}")
@@ -85,8 +111,17 @@ while True:
         break
 
 # Print the final product data
-for name, price, discount in product_data:
-    print(f"Product Name: {name}, Price: {price}, Discount: {discount}")
+updated_product_data = []
+for name, price, discount, img_url in product_data:
+    item = {"Product Name": name, 
+            "Price": price, 
+            "Discount": discount, 
+            "Url": img_url
+    }
+    print(item)
+    updated_product_data.append(item)
+write_file('C:\\Users\\ranje\\OneDrive\\D_Folder\\Webscrapping\\4.Wildcraft_scrappy\\product_data.json', updated_product_data)
 print(len(seen_products))
+
 # Close the browser
 driver.quit()
