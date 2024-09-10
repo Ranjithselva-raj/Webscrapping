@@ -85,4 +85,3 @@ for name, price, discount in product_data:
 
 # Close the browser
 driver.quit()
-
